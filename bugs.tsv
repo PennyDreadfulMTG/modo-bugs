@@ -1,14 +1,12 @@
 Card Name	Bug Description	Categorization	Last Confirmed
 Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-05-03 08:17:04
 Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-05-03 04:12:21
-World Queller	World Queller’s triggered ability occasionally causes the game to restart	Unconfirmed	2017-04-03 05:54:58
 Whims of the Fates	Causes client crashes	Game Breaking	2017-05-03 15:54:53
 Villanous Wealth	Sometimes allows for opponent to cast the cards	Unconfirmed	2017-04-03 05:54:58
 Undead Alchemist	Cards are milled as an additional effect, not as a replacement effect.	Advantageous	2017-05-03 04:12:00
 Suffer the Past	Costs {2} more	Disadvantageous	2017-05-04 05:22:35
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-05-03 08:32:24
 Search the City	Removing exiled cards with e.g. Mirror of Fate makes it so Search the City's trigger doesn't fire	Unconfirmed	2017-04-03 05:54:58
-Scythe of the Wretched	Animates extra targets	Unconfirmed	2017-04-03 05:54:58
 Reincarnation	Does nothing	Non-Functional ability	2017-05-04 05:37:03
 Reap	Restarts game.	Game Breaking	2017-05-04 05:14:02
 Ragemonger	Discounts generic mana costs as well as colored	Advantageous	2017-05-04 08:25:32
