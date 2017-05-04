@@ -13,6 +13,6 @@ Where possible, try to provide screenshots.
 
 # Viewing the Data
 
-There is a Tab Separated File available at <https://pennydreadfulmtg.github.io/modo-bugs/bugs.tsv>.
+There is collated data available [in visual form](https://github.com/PennyDreadfulMTG/modo-bugs/blob/master/bugs.tsv) or as a [Tab Separated File](https://pennydreadfulmtg.github.io/modo-bugs/bugs.tsv).
 
 A browser-friendly view will be coming soon.
