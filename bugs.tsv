@@ -6,7 +6,6 @@ Villanous Wealth	Sometimes allows for opponent to cast the cards	Unconfirmed	201
 Undead Alchemist	Cards are milled as an additional effect, not as a replacement effect.	Advantageous	2017-05-03 04:12:00
 Suffer the Past	Costs {2} more	Disadvantageous	2017-05-04 05:22:35
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-05-03 08:32:24
-Search the City	Removing exiled cards with e.g. Mirror of Fate makes it so Search the City's trigger doesn't fire	Unconfirmed	2017-04-03 05:54:58
 Reincarnation	Does nothing	Non-Functional ability	2017-05-04 05:37:03
 Reap	Restarts game.	Game Breaking	2017-05-04 05:14:02
 Ragemonger	Discounts generic mana costs as well as colored	Advantageous	2017-05-04 08:25:32
@@ -20,7 +19,7 @@ Mystifying Maze	Creature reenters the battlefield untapped	Unconfirmed	2017-04-0
 Mass Polymorph	Exile ability does not count exiled tokens	Unconfirmed	2017-04-03 05:54:58
 Mana Bloom	Ability does not generate mana	Disadvantageous	2017-05-04 05:58:14
 Lich	If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-05-03 16:06:30
-Karplusan Minotaur	Cumulative upkeep does not trigger	Unconfirmed	2017-04-03 05:54:57
+Karplusan Minotaur	Cumulative upkeep cannot be paid	Disadvantageous	2017-05-04 09:58:26
 Infinite Reflection	All creatures become copies, not just ones you control.	Unconfirmed	2017-04-03 05:55:10
 High Seas	Text is treated as 'Red and Green creature spells cost {1} more'.  Only affects Multicolour spells, and only adds 1 to the mana cost of them.	Unconfirmed	2017-05-04 06:41:56
 Harness the Storm	Doesn't trigger when casting split cards.	Unconfirmed	2017-04-03 05:55:10
