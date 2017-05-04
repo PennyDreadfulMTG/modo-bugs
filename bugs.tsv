@@ -1,7 +1,7 @@
 Card Name	Bug Description	Categorization	Last Confirmed
 Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-05-03 08:17:04
 Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-05-03 04:12:21
-World Queller	World Queller’s triggered ability occasionally causes the game to restart	Unconfirmed	2017-04-03 05:54:58
+World Queller	World Quellerâ€™s triggered ability occasionally causes the game to restart	Unconfirmed	2017-04-03 05:54:58
 Whims of the Fates	Causes client crashes	Game Breaking	2017-05-03 15:54:53
 Villanous Wealth	Sometimes allows for opponent to cast the cards	Unconfirmed	2017-04-03 05:54:58
 Undead Alchemist	Cards are milled as an additional effect, not as a replacement effect.	Advantageous	2017-05-03 04:12:00
@@ -11,8 +11,8 @@ Search the City	Removing exiled cards with e.g. Mirror of Fate makes it so Searc
 Scythe of the Wretched	Animates extra targets	Unconfirmed	2017-04-03 05:54:58
 Reincarnation	Does nothing	Non-Functional ability	2017-05-04 05:37:03
 Reap	Restarts game.	Game Breaking	2017-05-04 05:14:02
-Ragemonger	Discounts generic mana costs as well as colored	Unconfirmed	2017-05-03 03:27:45
-Edgewalker	Discounts generic mana costs as well as colored	Unconfirmed	2017-05-03 03:27:45
+Ragemonger	Discounts generic mana costs as well as colored	Advantageous	2017-05-04 08:25:32
+Edgewalker	Discounts generic mana costs as well as colored	Advantageous	2017-05-04 08:25:32
 Profane Command	If a player gains shroud in response to Profane Command, the first mode will still resolve	Unconfirmed	2017-04-03 05:54:58
 Power Conduit	Activating its ability restarts the game	Game Breaking	2017-05-04 05:10:46
 Penance	Ability allows you to search your entire library for a card and put it on top of your library instead of only from your hand.	Advantageous	2017-05-03 16:06:55
@@ -24,7 +24,7 @@ Mana Bloom	Ability does not generate mana	Disadvantageous	2017-05-04 05:58:14
 Lich	If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-05-03 16:06:30
 Karplusan Minotaur	Cumulative upkeep does not trigger	Unconfirmed	2017-04-03 05:54:57
 Infinite Reflection	All creatures become copies, not just ones you control.	Unconfirmed	2017-04-03 05:55:10
-High Seas	Text is treated as "Red and Green creature spells cost {1} more".  Only affects Multicolour spells, and only adds 1 to the mana cost of them.	Unconfirmed	2017-04-03 05:55:10
+High Seas	Text is treated as 'Red and Green creature spells cost {1} more'.  Only affects Multicolour spells, and only adds 1 to the mana cost of them.	Unconfirmed	2017-05-04 06:41:56
 Harness the Storm	Doesn't trigger when casting split cards.	Unconfirmed	2017-04-03 05:55:10
 Grinning Ignus	The ability supposed to be sorcery speed, but it can be activated anytime	Unconfirmed	2017-04-03 05:55:10
 Cryptic Gateway	Cannot select a card from your hand	Unconfirmed	2017-04-03 05:55:10
