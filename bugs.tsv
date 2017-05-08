@@ -24,6 +24,6 @@ High Seas	Text is treated as 'Red and Green creature spells cost {1} more'.  Onl
 Harness the Storm	Doesn't trigger when casting split cards.	Unconfirmed	2017-04-03 05:55:10
 Grinning Ignus	The ability supposed to be sorcery speed, but it can be activated anytime	Unconfirmed	2017-04-03 05:55:10
 Cryptic Gateway	Cannot select a card from your hand	Unconfirmed	2017-04-03 05:55:10
-Concerted Effort	Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Unconfirmed	2017-04-03 05:55:10
+Concerted Effort	Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-05-08 22:50:19
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-05-03 04:47:29
 Boros Battleshaper	Requires illegal blocks with menace creatures (soft-locking the game)	Game Breaking	2017-05-08 04:13:23
