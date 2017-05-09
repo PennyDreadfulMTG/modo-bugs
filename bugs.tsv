@@ -1,4 +1,5 @@
 Card Name	Bug Description	Categorization	Last Confirmed
+Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Unconfirmed	2017-05-09 18:18:18
 Vastwood Hydra	allows you to place extra counters when it dies	Unconfirmed	2017-05-09 16:00:16
 Primitive Justice	will either not cast/restart the game with a single target.	Game Breaking	2017-05-08 01:31:04
 Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-05-03 08:17:04
