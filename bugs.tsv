@@ -1,6 +1,6 @@
 Card Name	Bug Description	Categorization	Last Confirmed
 Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-05-12 00:47:41
-Nebuchadnezzar	's ability makes the game start endlessly repeating itself	Unconfirmed	2017-05-11 10:43:19
+Nebuchadnezzar	's ability makes the game start endlessly repeating itself	Game Breaking	2017-05-12 07:10:15
 Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-05-10 01:03:38
 Vastwood Hydra	allows you to place extra counters when it dies	Game Breaking	2017-05-10 02:56:49
 Primitive Justice	will either not cast/restart the game with a single target.	Game Breaking	2017-05-08 01:31:04
