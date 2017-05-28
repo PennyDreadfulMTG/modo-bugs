@@ -46,7 +46,10 @@ def process_issue(issue):
 
     categories = [c.name for c in issue.labels if c.name in CATEGORIES]
     if not categories:
-        cat = "Unconfirmed"
+        if "From Bug Blog" in [i.name for i in issue.labels]:
+            cat = "Unclassified"
+        else:
+            cat = "Unconfirmed"
     else:
         cat = categories.pop()
 
