@@ -6,15 +6,11 @@ import requests
 
 import configuration
 
-LEGAL_CARDS = []
 
 github = Github(configuration.get("github_user"), configuration.get("github_password"))
 repo = github.get_repo("PennyDreadfulMTG/modo-bugs")
 
 def scrape():
-    print('Fetching http://pdmtgo.com/legal_cards.txt')
-    for card in requests.get('http://pdmtgo.com/legal_cards.txt').text.split('\n'):
-        LEGAL_CARDS.append(card)
     print('Fetching http://magic.wizards.com/en/articles/archive/184956')
     soup = BeautifulSoup(requests.get('http://magic.wizards.com/en/articles/archive/184956').text, 'html.parser')
     articles = [parse_article_item_extended(a) for a in soup.find_all('div', class_='article-item-extended')]
@@ -53,9 +49,8 @@ def parse_changelog(b):
         cards = re.findall(r'\[?\[([^\]]*)\]\]?', item.get_text())
         cards = [c for c in cards]
 
-        relevant = ([True for c in cards if c in LEGAL_CARDS] or [False])[0]
-        if not relevant:
-            continue # Temporary measure.
+        if not cards:
+            continue
 
         issue = find_issue(cards)
         if issue is not None:

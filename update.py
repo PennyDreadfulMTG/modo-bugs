@@ -1,17 +1,25 @@
 import codecs
 import re
-import os
 import sys
 
 import configuration
+import requests
 
 from github import Github
 
 CATEGORIES = ["Advantageous", "Disadvantageous", "Game Breaking", "Graphical Issue", "Non-Functional ability"]
 BADCATS = ["Advantageous", "Game Breaking"]
 
+LEGAL_CARDS = []
+
+
 if sys.stdout.encoding != 'utf-8':
-  sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer, 'strict')
+    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer, 'strict')
+
+print('Fetching http://pdmtgo.com/legal_cards.txt')
+for card in requests.get('http://pdmtgo.com/legal_cards.txt').text.split('\n'):
+    LEGAL_CARDS.append(card)
+
 
 def main():
     if configuration.get("github_user") is None or configuration.get("github_password") is None:
@@ -37,16 +45,24 @@ def main():
             process_issue(issue)
 
 def process_issue(issue):
+    labels = [c.name for c in issue.labels]
     cards = re.findall(r'\[?\[([^\]]*)\]\]?', issue.title)
     cards = [c for c in cards]
+
+    pd_legal = ([True for c in cards if c in LEGAL_CARDS] or [False])[0]
+
+    if pd_legal and not "Affects PD" in labels:
+        issue.add_to_labels("Affects PD")
+    elif not pd_legal and "Affects PD" in labels:
+        issue.remove_from_labels("Affects PD")
 
     msg = issue.title
     while msg.startswith('['):
         msg = msg[msg.find(']')+1:].strip()
 
-    categories = [c.name for c in issue.labels if c.name in CATEGORIES]
+    categories = [c for c in labels if c in CATEGORIES]
     if not categories:
-        if "From Bug Blog" in [i.name for i in issue.labels]:
+        if "From Bug Blog" in labels:
             cat = "Unclassified"
         else:
             cat = "Unconfirmed"
