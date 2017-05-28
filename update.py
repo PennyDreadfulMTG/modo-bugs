@@ -16,15 +16,18 @@ LEGAL_CARDS = []
 if sys.stdout.encoding != 'utf-8':
     sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer, 'strict')
 
-print('Fetching http://pdmtgo.com/legal_cards.txt')
-for card in requests.get('http://pdmtgo.com/legal_cards.txt').text.split('\n'):
-    LEGAL_CARDS.append(card)
+def fetch_pd_legal():
+    print('Fetching http://pdmtgo.com/legal_cards.txt')
+    for card in requests.get('http://pdmtgo.com/legal_cards.txt').text.split('\n'):
+        LEGAL_CARDS.append(card)
 
 
 def main():
     if configuration.get("github_user") is None or configuration.get("github_password") is None:
         print('Invalid Config')
         exit(1)
+
+    fetch_pd_legal()
 
     github = Github(configuration.get("github_user"), configuration.get("github_password"))
     repo = github.get_repo("PennyDreadfulMTG/modo-bugs")
@@ -35,7 +38,12 @@ def main():
     csv = open('bugs.tsv', mode='w')
     csv.write("Card Name\tBug Description\tCategorization\tLast Confirmed\n")
     csv.close()
+
     txt = open('bannable.txt', mode='w')
+    txt.write('')
+    txt.close()
+
+    txt = open('pd_bannable.txt', mode='w')
     txt.write('')
     txt.close()
 
@@ -70,16 +78,21 @@ def process_issue(issue):
         cat = categories.pop()
 
     csv = open('bugs.tsv', mode='a')
-    txt = open('bannable.txt', mode='a')
     for card in cards:
         csv.write(card + '\t')
         csv.write(msg + '\t')
         csv.write(cat + '\t')
         csv.write(str(issue.updated_at) + '\n')
         if cat in BADCATS:
+            txt = open('bannable.txt', mode='a')
             txt.write(card + '\n')
+            txt.close()
+            if card in LEGAL_CARDS:
+                txt = open('pd_bannable.txt', mode='a')
+                txt.write(card + '\n')
+                txt.close()
+
     csv.close()
-    txt.close()
 
 if __name__ == "__main__":
     main()

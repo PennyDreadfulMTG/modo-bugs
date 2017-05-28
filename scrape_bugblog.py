@@ -6,7 +6,6 @@ import requests
 
 import configuration
 
-
 github = Github(configuration.get("github_user"), configuration.get("github_password"))
 repo = github.get_repo("PennyDreadfulMTG/modo-bugs")
 
