@@ -1,4 +1,9 @@
 Card Name	Bug Description	Categorization	Last Confirmed
+Synthetic Destiny	and [Mass Polymorph] do not take commanders into account when determining the number of creatures to reveal.	Unclassified	2017-05-28 17:07:12
+Mass Polymorph	and [Mass Polymorph] do not take commanders into account when determining the number of creatures to reveal.	Unclassified	2017-05-28 17:07:12
+Crumbling Vestige	does not give [Reflecting Pool] the ability to add any color of mana to your mana pool.	Unclassified	2017-05-28 17:07:31
+Reflecting Pool	does not give [Reflecting Pool] the ability to add any color of mana to your mana pool.	Unclassified	2017-05-28 17:07:31
+Memory Lapse	moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-05-28 17:02:33
 Wort, the Raidmother	bug restarts the game under unknown conditions	Unconfirmed	2017-05-24 18:58:43
 Runic Repetition	Cannot be cast	Disadvantageous	2017-05-23 08:17:47
 Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-05-12 00:47:41
