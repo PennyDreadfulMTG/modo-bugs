@@ -8,6 +8,7 @@ import configuration
 from github import Github
 
 CATEGORIES = ["Advantageous", "Disadvantageous", "Game Breaking", "Graphical Issue", "Non-Functional ability"]
+BADCATS = ["Advantageous", "Game Breaking"]
 
 if sys.stdout.encoding != 'utf-8':
   sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer, 'strict')
@@ -26,6 +27,10 @@ def main():
     csv = open('bugs.tsv', mode='w')
     csv.write("Card Name\tBug Description\tCategorization\tLast Confirmed\n")
     csv.close()
+    txt = open('bannable.txt', mode='w')
+    txt.write('')
+    txt.close()
+
     for issue in issues:
         print(issue.title)
         if issue.state == "open":
@@ -46,12 +51,16 @@ def process_issue(issue):
         cat = categories.pop()
 
     csv = open('bugs.tsv', mode='a')
+    txt = open('bannable.txt', mode='a')
     for card in cards:
         csv.write(card + '\t')
         csv.write(msg + '\t')
         csv.write(cat + '\t')
         csv.write(str(issue.updated_at) + '\n')
+        if cat in BADCATS:
+            txt.write(card + '\n')
     csv.close()
+    txt.close()
 
 if __name__ == "__main__":
     main()
