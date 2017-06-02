@@ -6,8 +6,7 @@ Custodi Lich	's sacrifice trigger does not occur if the monarch token was alread
 Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Unclassified	2017-06-01 17:37:15
 Oubliette	getting destroyed causes the game to soft lock.	Unclassified	2017-05-28 18:37:28
 Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Unclassified	2017-05-28 18:37:18
-Kalitas, Traitor of Ghet	combined with [Anointed Procession] creates an incorrect number of Zombies.	Unclassified	2017-05-28 18:37:15
-Anointed Procession	combined with [Anointed Procession] creates an incorrect number of Zombies.	Unclassified	2017-05-28 18:37:15
+Kalitas, Traitor of Ghet	combined with Anointed Procession creates an incorrect number of Zombies.	Unclassified	2017-06-02 11:11:03
 Synthetic Destiny	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
 Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
 Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Unclassified	2017-05-28 18:05:57
