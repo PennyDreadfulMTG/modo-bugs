@@ -1,15 +1,15 @@
 Card Name	Bug Description	Categorization	Last Confirmed
-Lost Legacy	cannot exile split cards from libraries.	Unclassified	2017-06-01 17:37:35
-Athreos, God of Passage	does not associate its triggers with specific creatures.	Unclassified	2017-06-01 17:37:31
-Riptide Replicator	's token uses incorrect art.	Unclassified	2017-06-01 17:37:22
-Custodi Lich	's sacrifice trigger does not occur if the monarch token was already present.	Unclassified	2017-06-01 17:37:19
-Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Unclassified	2017-06-01 17:37:15
-Oubliette	getting destroyed causes the game to soft lock.	Unclassified	2017-05-28 18:37:28
-Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Unclassified	2017-05-28 18:37:18
-Kalitas, Traitor of Ghet	combined with Anointed Procession creates an incorrect number of Zombies.	Unclassified	2017-06-02 11:11:03
+Lost Legacy	cannot exile split cards from libraries.	Disadvantageous	2017-06-02 11:41:46
+Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
+Riptide Replicator	's token uses incorrect art.	Graphical	2017-06-02 11:42:15
+Custodi Lich	's sacrifice trigger does not occur if the monarch token was already present.	Disadvantageous	2017-06-02 11:43:51
+Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017-06-02 11:44:23
+Oubliette	getting destroyed causes the game to soft lock.	Game Breaking	2017-06-02 11:44:14
+Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-02 11:44:50
+Kalitas, Traitor of Ghet	combined with Anointed Procession creates an incorrect number of Zombies.	Unclassified	2017-06-02 11:45:11
 Synthetic Destiny	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
 Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
-Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Unclassified	2017-05-28 18:05:57
+Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Unclassified	2017-06-02 11:37:43
 Memory Lapse	moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-05-28 18:18:02
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-05-28 18:18:06
@@ -31,7 +31,7 @@ Null Chamber	Players are asked to name non-basic lands, rather than a card that'
 Mana Bloom	Ability does not generate mana	Disadvantageous	2017-05-28 18:18:20
 Lich	If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-05-03 16:06:30
 Karplusan Minotaur	Cumulative upkeep cannot be paid	Disadvantageous	2017-05-20 05:18:41
-Infinite Reflection	All creatures become copies, not just ones you control.	Unconfirmed	2017-04-03 05:55:10
+Infinite Reflection	All creatures become copies, not just ones you control.	Unconfirmed	2017-06-02 11:37:45
 High Seas	Text is treated as 'Red and Green creature spells cost {1} more'.  Only affects Multicolour spells, and only adds 1 to the mana cost of them.	Disadvantageous	2017-05-04 13:49:50
 Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017-05-28 18:18:21
 Grinning Ignus	The ability supposed to be sorcery speed, but it can be activated anytime	Advantageous	2017-05-28 18:18:22
