@@ -9,7 +9,9 @@ Create an issue with the name `[cardname] bug description`.
 
 For example: `[Power Conduit] Activating its ability will restart the game`
 
-Where possible, try to provide screenshots.
+Where possible, try to provide screenshots or videos.
+
+If you only care about Penny Dreadful legal cards, click [here](https://github.com/PennyDreadfulMTG/modo-bugs/issues?q=is%3Aopen+is%3Aissue+label%3A%22Affects+PD%22)
 
 # Viewing the Data
 
