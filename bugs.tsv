@@ -5,11 +5,10 @@ Riptide Replicator	's token uses incorrect art.	Graphical	2017-06-02 11:42:15
 Custodi Lich	's sacrifice trigger does not occur if the monarch token was already present.	Disadvantageous	2017-06-02 11:43:51
 Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017-06-02 11:44:23
 Oubliette	getting destroyed causes the game to soft lock.	Game Breaking	2017-06-02 11:44:14
-Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-02 11:44:50
 Kalitas, Traitor of Ghet	combined with Anointed Procession creates an incorrect number of Zombies.	Unclassified	2017-06-02 11:45:11
 Synthetic Destiny	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
 Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
-Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Unclassified	2017-06-02 11:37:43
+Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
 Memory Lapse	moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-05-28 18:18:02
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-05-28 18:18:06
