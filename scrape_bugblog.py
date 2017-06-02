@@ -6,6 +6,8 @@ import requests
 
 import configuration
 
+CODE_REGEX = '^Code: (.*)$'
+
 github = Github(configuration.get("github_user"), configuration.get("github_password"))
 repo = github.get_repo("PennyDreadfulMTG/modo-bugs")
 
@@ -34,7 +36,7 @@ def parse_block(b):
     if title == "Change Log":
         parse_changelog(b)
     elif title == "Known Issues List":
-        pass
+        parse_knownbugs(b)
     else:
         print("Unknown block: {0}".format(title))
 
@@ -44,7 +46,7 @@ def parse_changelog(b):
     added = b.find_all('ul')[0]
     for item in added.find_all('li'):
         print(item)
-        code = item.find_all(string=lambda text: isinstance(text, Comment))[0]
+        code = str(item.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
         cards = re.findall(r'\[?\[([^\]]*)\]\]?', item.get_text())
         cards = [c for c in cards]
 
@@ -71,7 +73,36 @@ def parse_changelog(b):
                 issue.add_to_labels("From Bug Blog")
         else:
             print('Creating new issue')
-            repo.create_issue(item.get_text(), body="From Bug Blog:\nCode: {0}".format(code), labels=["From Bug Blog"])
+            text = "From Bug Blog:\nCode: {0}".format(code)
+            repo.create_issue(item.get_text(), body=text, labels=["From Bug Blog"])
+
+def parse_knownbugs(b):
+    # attempt to find all the fixed bugs
+    all_codes = b.find_all(string=lambda text: isinstance(text, Comment))
+    all_codes = [str(code).replace('\t', ' ') for code in all_codes]
+    print(all_codes)
+    for issue in repo.get_issues():
+        if not ("From Bug Blog" in [i.name for i in issue.labels]):
+            continue
+        code = re.search(CODE_REGEX, issue.body, re.MULTILINE)
+        if code is None:
+            for comment in issue.get_comments():
+                code = re.search(CODE_REGEX, comment.body, re.MULTILINE)
+                if code is not None:
+                    break
+            else:
+                print("Issue #{id} has no Bug Blog code!".format(id=issue.number))
+                continue
+
+        code = code.group(1).strip()
+        # print(repr(code))
+        if code in all_codes:
+            # print('{id} is still bugged'.format(id=issue.number))
+            pass
+        else:
+            print('{id} is fixed!'.format(id=issue.number))
+            issue.create_comment('This bug has been removed from the bug blog!')
+            issue.edit(state='closed')
 
 def handle_autocards(soup):
     for link in soup.find_all('a', class_='autocard-link'):
