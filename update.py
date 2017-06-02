@@ -7,7 +7,7 @@ import requests
 
 from github import Github
 
-CATEGORIES = ["Advantageous", "Disadvantageous", "Game Breaking", "Graphical Issue", "Non-Functional ability"]
+CATEGORIES = ["Advantageous", "Disadvantageous", "Game Breaking", "Graphical", "Non-Functional ability"]
 BADCATS = ["Advantageous", "Game Breaking"]
 
 LEGAL_CARDS = []
