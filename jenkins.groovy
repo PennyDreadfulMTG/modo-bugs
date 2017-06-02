@@ -15,9 +15,9 @@ node {
     }
     stage('Update'){
         sh 'python3 update.py'
-        def updated = sh returnStatus: true, script: 'git diff --exit-code'
     }
     stage('Push changes'){
+        def updated = sh returnStatus: true, script: 'git diff --exit-code'
         if (updated){
             sh 'git commit -a -m "Updated Bug List from Issues"'
         }
