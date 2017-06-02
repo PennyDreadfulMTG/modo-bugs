@@ -74,6 +74,8 @@ def process_issue(issue):
             cat = "Unclassified"
         else:
             cat = "Unconfirmed"
+        if not "Unclassified" in labels:
+            issue.add_to_labels("Unclassified")
     else:
         cat = categories.pop()
 
