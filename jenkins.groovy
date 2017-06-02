@@ -5,7 +5,7 @@ node {
     }
     stage('build') {
         sh 'python3 -m pip install --user -r requirements.txt'
-        withCredentials([usernamePassword(credentialsId: '739d1f57-8568-4f0b-9d6c-e00cfcbb0c29', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
+        withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
             sh 'git config user.email "jenkins@katelyngigante.com"'
             sh 'git config user.name "Vorpal Buildbot"'
             sh 'git checkout master'
