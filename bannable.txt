@@ -1,14 +1,14 @@
-Oubliette
-Tawnos's Coffin
-Nebuchadnezzar
-Vastwood Hydra
-Primitive Justice
-Living Lore
-Whims of the Fates
-Shifty Doppelganger
-Reap
-Profane Command
-Penance
-Odds
-Lich
 Grinning Ignus
+Lich
+Living Lore
+Nebuchadnezzar
+Odds
+Oubliette
+Penance
+Primitive Justice
+Profane Command
+Reap
+Shifty Doppelganger
+Tawnos's Coffin
+Vastwood Hydra
+Whims of the Fates

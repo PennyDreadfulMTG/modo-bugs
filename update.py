@@ -12,6 +12,10 @@ BADCATS = ["Advantageous", "Game Breaking"]
 
 LEGAL_CARDS = []
 
+ALL_CSV = []
+PD_CSV = []
+ALL_BANNED = []
+PD_BANNED = []
 
 if sys.stdout.encoding != 'utf-8':
     sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer, 'strict')
@@ -35,27 +39,36 @@ def main():
     issues = repo.get_issues()
     # if os.path.exists('bugs.tsv'):
     #     os.remove('bugs.tsv')
-    csv = open('bugs.tsv', mode='w')
-    csv.write("Card Name\tBug Description\tCategorization\tLast Confirmed\n")
-    csv.close()
-
-    csv = open('pd_bugs.tsv', mode='w')
-    csv.write("Card Name\tBug Description\tCategorization\tLast Confirmed\n")
-    csv.close()
-
-
-    txt = open('bannable.txt', mode='w')
-    txt.write('')
-    txt.close()
-
-    txt = open('pd_bannable.txt', mode='w')
-    txt.write('')
-    txt.close()
-
     for issue in issues:
         print(issue.title)
         if issue.state == "open":
             process_issue(issue)
+    
+    csv = open('bugs.tsv', mode='w')
+    csv.write("Card Name\tBug Description\tCategorization\tLast Confirmed\n")
+    ALL_CSV.sort()
+    for line in ALL_CSV:
+        csv.write(line + '\n')
+    csv.close()
+
+    csv = open('pd_bugs.tsv', mode='w')
+    csv.write("Card Name\tBug Description\tCategorization\tLast Confirmed\n")
+    PD_CSV.sort()
+    for line in PD_CSV:
+        csv.write(line + '\n')
+    csv.close()
+
+    txt = open('bannable.txt', mode='w')
+    ALL_BANNED.sort()
+    for line in ALL_BANNED:
+        txt.write(line + '\n')
+    txt.close()
+
+    txt = open('pd_bannable.txt', mode='w')
+    PD_BANNED.sort()
+    for line in PD_BANNED:
+        txt.write(line + '\n')
+    txt.close()
 
 def process_issue(issue):
     labels = [c.name for c in issue.labels]
@@ -84,30 +97,18 @@ def process_issue(issue):
     else:
         cat = categories.pop()
 
-    csv = open('bugs.tsv', mode='a')
-    pd_csv = open('pd_bugs.tsv', mode='a')
-    #refactor this
     for card in cards:
-        csv.write(card + '\t')
-        csv.write(msg + '\t')
-        csv.write(cat + '\t')
-        csv.write(str(issue.updated_at) + '\n')
+        csv_line = card + '\t'
+        csv_line += msg + '\t'
+        csv_line += cat + '\t'
+        csv_line += str(issue.updated_at)
+        ALL_CSV.append(csv_line)
         if card in LEGAL_CARDS:
-            pd_csv.write(card + '\t')
-            pd_csv.write(msg + '\t')
-            pd_csv.write(cat + '\t')
-            pd_csv.write(str(issue.updated_at) + '\n')
+            PD_CSV.append(csv_line)
         if cat in BADCATS:
-            txt = open('bannable.txt', mode='a')
-            txt.write(card + '\n')
-            txt.close()
+            ALL_BANNED.append(card)
             if card in LEGAL_CARDS:
-                txt = open('pd_bannable.txt', mode='a')
-                txt.write(card + '\n')
-                txt.close()
-
-    csv.close()
-    pd_csv.close()
+                PD_BANNED.append(card)
 
 if __name__ == "__main__":
     main()

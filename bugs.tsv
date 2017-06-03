@@ -1,40 +1,40 @@
 Card Name	Bug Description	Categorization	Last Confirmed
-Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-06-03 03:37:45
-Lost Legacy	cannot exile split cards from libraries.	Disadvantageous	2017-06-02 11:41:46
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
-Riptide Replicator	's token uses incorrect art.	Graphical	2017-06-02 11:42:15
-Custodi Lich	's sacrifice trigger does not occur if the monarch token was already present.	Disadvantageous	2017-06-02 11:43:51
-Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017-06-02 11:44:23
-Oubliette	getting destroyed causes the game to soft lock.	Game Breaking	2017-06-02 11:44:14
-Kalitas, Traitor of Ghet	combined with Anointed Procession creates an incorrect number of Zombies.	Unclassified	2017-06-02 11:45:11
-Synthetic Destiny	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
-Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
-Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
-Memory Lapse	moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-05-28 18:18:02
-Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
-Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-05-28 18:18:06
-Nebuchadnezzar	ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
-Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-05-28 18:18:08
-Vastwood Hydra	allows you to place extra counters when it dies	Game Breaking	2017-05-28 18:18:09
-Primitive Justice	will either not cast/restart the game with a single target.	Game Breaking	2017-05-28 18:18:11
-Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-05-28 18:18:12
-Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-05-04 13:40:58
-Whims of the Fates	Causes client crashes	Game Breaking	2017-05-28 18:18:13
-Suffer the Past	Costs {2} more	Disadvantageous	2017-05-28 18:18:14
-Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-05-28 18:34:35
-Reincarnation	Does nothing	Non-Functional ability	2017-05-28 18:18:15
-Reap	Restarts game.	Game Breaking	2017-05-28 18:18:16
-Profane Command	If a player gains shroud in response to Profane Command, the first mode will still resolve	Advantageous	2017-05-11 09:14:40
-Penance	Ability allows you to search your entire library for a card and put it on top of your library instead of only from your hand.	Advantageous	2017-05-28 18:18:18
-Odds	Odds: Restarts the game in buggy state on heads	Game Breaking	2017-05-04 05:42:41
-Null Chamber	Players are asked to name non-basic lands, rather than a card that's not a basic land.	Disadvantageous	2017-05-04 06:04:47
-Mana Bloom	Ability does not generate mana	Disadvantageous	2017-05-28 18:18:20
-Lich	If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-05-03 16:06:30
-Karplusan Minotaur	Cumulative upkeep cannot be paid	Disadvantageous	2017-05-20 05:18:41
-Infinite Reflection	All creatures become copies, not just ones you control.	Unconfirmed	2017-06-02 11:37:45
-High Seas	Text is treated as 'Red and Green creature spells cost {1} more'.  Only affects Multicolour spells, and only adds 1 to the mana cost of them.	Disadvantageous	2017-05-04 13:49:50
-Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017-05-28 18:18:21
-Grinning Ignus	The ability supposed to be sorcery speed, but it can be activated anytime	Advantageous	2017-05-28 18:18:22
-Cryptic Gateway	Cannot select a card from your hand	Non-Functional ability	2017-05-28 18:39:00
-Concerted Effort	Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-05-28 18:18:24
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
+Concerted Effort	Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-05-28 18:18:24
+Cryptic Gateway	Cannot select a card from your hand	Non-Functional ability	2017-05-28 18:39:00
+Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017-06-02 11:44:23
+Custodi Lich	's sacrifice trigger does not occur if the monarch token was already present.	Disadvantageous	2017-06-02 11:43:51
+Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-05-28 18:18:08
+Grinning Ignus	The ability supposed to be sorcery speed, but it can be activated anytime	Advantageous	2017-05-28 18:18:22
+Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017-05-28 18:18:21
+High Seas	Text is treated as 'Red and Green creature spells cost {1} more'.  Only affects Multicolour spells, and only adds 1 to the mana cost of them.	Disadvantageous	2017-05-04 13:49:50
+Infinite Reflection	All creatures become copies, not just ones you control.	Unconfirmed	2017-06-02 11:37:45
+Kalitas, Traitor of Ghet	combined with Anointed Procession creates an incorrect number of Zombies.	Unclassified	2017-06-02 11:45:11
+Karplusan Minotaur	Cumulative upkeep cannot be paid	Disadvantageous	2017-05-20 05:18:41
+Lich	If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-05-03 16:06:30
+Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-05-28 18:18:12
+Lost Legacy	cannot exile split cards from libraries.	Disadvantageous	2017-06-02 11:41:46
+Mana Bloom	Ability does not generate mana	Disadvantageous	2017-05-28 18:18:20
+Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
+Memory Lapse	moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-05-28 18:18:02
+Nebuchadnezzar	ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
+Null Chamber	Players are asked to name non-basic lands, rather than a card that's not a basic land.	Disadvantageous	2017-05-04 06:04:47
+Odds	Odds: Restarts the game in buggy state on heads	Game Breaking	2017-05-04 05:42:41
+Oubliette	getting destroyed causes the game to soft lock.	Game Breaking	2017-06-02 11:44:14
+Penance	Ability allows you to search your entire library for a card and put it on top of your library instead of only from your hand.	Advantageous	2017-05-28 18:18:18
+Primitive Justice	will either not cast/restart the game with a single target.	Game Breaking	2017-05-28 18:18:11
+Profane Command	If a player gains shroud in response to Profane Command, the first mode will still resolve	Advantageous	2017-05-11 09:14:40
+Reap	Restarts game.	Game Breaking	2017-05-28 18:18:16
+Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
+Reincarnation	Does nothing	Non-Functional ability	2017-05-28 18:18:15
+Riptide Replicator	's token uses incorrect art.	Graphical	2017-06-02 11:42:15
+Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
+Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-06-03 03:37:45
+Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-05-28 18:34:35
+Suffer the Past	Costs {2} more	Disadvantageous	2017-05-28 18:18:14
+Synthetic Destiny	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
+Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-05-28 18:18:06
+Vastwood Hydra	allows you to place extra counters when it dies	Game Breaking	2017-05-28 18:18:09
+Whims of the Fates	Causes client crashes	Game Breaking	2017-05-28 18:18:13
+Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-05-04 13:40:58
