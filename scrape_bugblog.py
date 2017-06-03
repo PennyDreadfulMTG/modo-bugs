@@ -16,7 +16,7 @@ def scrape():
     soup = BeautifulSoup(requests.get('http://magic.wizards.com/en/articles/archive/184956').text, 'html.parser')
     articles = [parse_article_item_extended(a) for a in soup.find_all('div', class_='article-item-extended')]
     bug_blogs = [a for a in articles if str(a[0].string).startswith('Magic Online Bug Blog')]
-    print('scraping {0}'.format(bug_blogs[0][0]))
+    print('scraping {0} ({1}'.format(bug_blogs[0][0], bug_blogs[0][1]))
     scrape_bb(bug_blogs[0][1])
 
 def parse_article_item_extended(a):
@@ -66,14 +66,14 @@ def parse_changelog(b):
 
             if not reported:
                 print("Adding report to existing issue.")
-                issue.create_comment('From Bug Blog:\n{0}\nCode: {1}'.format(item.get_text(), code))
+                issue.create_comment('Added to Bug Blog.\n{0}\nCode: {1}'.format(item.get_text(), code))
 
             if not ("From Bug Blog" in [i.name for i in issue.labels]):
                 print("Adding Bug Blog to labels")
                 issue.add_to_labels("From Bug Blog")
         else:
             print('Creating new issue')
-            text = "From Bug Blog:\nCode: {0}".format(code)
+            text = "From Bug Blog.\nCode: {0}".format(code)
             repo.create_issue(item.get_text(), body=text, labels=["From Bug Blog"])
 
 def parse_knownbugs(b):
