@@ -39,6 +39,11 @@ def main():
     csv.write("Card Name\tBug Description\tCategorization\tLast Confirmed\n")
     csv.close()
 
+    csv = open('pd_bugs.tsv', mode='w')
+    csv.write("Card Name\tBug Description\tCategorization\tLast Confirmed\n")
+    csv.close()
+
+
     txt = open('bannable.txt', mode='w')
     txt.write('')
     txt.close()
@@ -80,11 +85,18 @@ def process_issue(issue):
         cat = categories.pop()
 
     csv = open('bugs.tsv', mode='a')
+    pd_csv = open('pd_bugs.tsv', mode='a')
+    #refactor this
     for card in cards:
         csv.write(card + '\t')
         csv.write(msg + '\t')
         csv.write(cat + '\t')
         csv.write(str(issue.updated_at) + '\n')
+        if card in LEGAL_CARDS:
+            pd_csv.write(card + '\t')
+            pd_csv.write(msg + '\t')
+            pd_csv.write(cat + '\t')
+            pd_csv.write(str(issue.updated_at) + '\n')
         if cat in BADCATS:
             txt = open('bannable.txt', mode='a')
             txt.write(card + '\n')
@@ -95,6 +107,7 @@ def process_issue(issue):
                 txt.close()
 
     csv.close()
+    pd_csv.close()
 
 if __name__ == "__main__":
     main()
