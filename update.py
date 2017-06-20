@@ -94,6 +94,10 @@ def process_issue(issue):
             cat = "Unconfirmed"
         if not "Unclassified" in labels:
             issue.add_to_labels("Unclassified")
+    elif "Unclassified" in labels:
+        print('Removing Unclassified from Issue #{id}'.format(id=issue.number))
+        issue.remove_from_labels("Unclassified")
+        cat = categories.pop()
     else:
         cat = categories.pop()
 
