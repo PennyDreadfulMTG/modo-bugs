@@ -47,8 +47,7 @@ def parse_changelog(b):
     for item in added.find_all('li'):
         print(item)
         code = str(item.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
-        cards = re.findall(r'\[?\[([^\]]*)\]\]?', item.get_text())
-        cards = [c for c in cards]
+        cards = get_cards_from_string(item.get_text())
 
         if not cards:
             continue
@@ -76,11 +75,16 @@ def parse_changelog(b):
             text = "From Bug Blog.\nCode: {0}".format(code)
             repo.create_issue(item.get_text(), body=text, labels=["From Bug Blog"])
 
+def get_cards_from_string(item):
+    cards = re.findall(r'\[?\[([^\]]*)\]\]?', item)
+    cards = [c for c in cards]
+    return cards
+
 def parse_knownbugs(b):
     # attempt to find all the fixed bugs
     all_codes = b.find_all(string=lambda text: isinstance(text, Comment))
     all_codes = [str(code).replace('\t', ' ') for code in all_codes]
-    print(all_codes)
+    # print(all_codes)
     for issue in repo.get_issues():
         if not ("From Bug Blog" in [i.name for i in issue.labels]):
             continue
@@ -91,7 +95,17 @@ def parse_knownbugs(b):
                 if code is not None:
                     break
             else:
-                print("Issue #{id} has no Bug Blog code!".format(id=issue.number))
+                cards = get_cards_from_string(issue.title)
+                print("Issue #{id} {cards} has no Bug Blog code!".format(id=issue.number, cards=cards))
+                lines = b.find_all(string=re.compile(cards[0]))
+                if not lines:
+                    continue
+                parent = lines[0].parent
+                code = str(parent.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
+                print(code)
+                text = ''.join(parent.strings)
+                print(text)
+                issue.create_comment('Found in bug blog.\n{0}\nCode: {1}'.format(text, code))
                 continue
 
         code = code.group(1).strip()
