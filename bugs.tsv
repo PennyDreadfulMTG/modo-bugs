@@ -1,13 +1,13 @@
 Card Name	Bug Description	Categorization	Last Confirmed
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
-Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 16:37:22
+Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
 Concerted Effort	Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-05-28 18:18:24
 Cryptic Gateway	Cannot select a card from your hand	Non-Functional ability	2017-05-28 18:39:00
 Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017-06-02 11:44:23
 Custodi Lich	The sacrifice trigger does not occur if the monarch token was already present.	Disadvantageous	2017-06-20 16:35:29
 Djinn of Infinite Deceits	can only be activated at sorcery speed	Disadvantageous	2017-06-14 05:52:08
-Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-05-28 18:18:08
+Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-06-20 17:37:30
 Genesis Hydra	Triggered ability will not reveal any cards or allow its controller to put a nonland permanent card onto the battlefield	Disadvantageous	2017-06-20 16:06:59
 Grinning Ignus	The ability supposed to be sorcery speed, but it can be activated anytime	Advantageous	2017-05-28 18:18:22
 Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017-05-28 18:18:21
@@ -22,6 +22,8 @@ Lost Legacy	cannot exile split cards from libraries.	Disadvantageous	2017-06-02 
 Mana Bloom	Ability does not generate mana	Disadvantageous	2017-05-28 18:18:20
 Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
 Memory Lapse	moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-05-28 18:18:02
+Mind's Dilation	Cards exiled by [Mind's Dilation] may be incorrectly played at any time, rather than only at the resolution of the trigger.	Advantageous	2017-06-20 17:37:18
+Naga Vitalist	is unable to add mana of any color to its controller's mana pool if they have Cascading Cataracts on the battlefield.	Disadvantageous	2017-06-20 17:37:22
 Nebuchadnezzar	ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
 Null Chamber	Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2017-06-16 23:45:44
 Odds	Odds: Restarts the game in buggy state on heads	Game Breaking	2017-05-04 05:42:41
@@ -40,8 +42,9 @@ Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-0
 Suffer the Past	Costs {2} more	Disadvantageous	2017-05-28 18:18:14
 Synthetic Destiny	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
 Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-05-28 18:18:06
-Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:19
+Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:33
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
 Vastwood Hydra	allows you to place extra counters when it dies	Game Breaking	2017-05-28 18:18:09
-Whims of the Fates	Causes client crashes	Game Breaking	2017-05-28 18:18:13
+Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-06-20 17:37:20
+Whims of the Fates	Causes client crashes	Game Breaking	2017-06-20 17:37:32
 Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-05-04 13:40:58

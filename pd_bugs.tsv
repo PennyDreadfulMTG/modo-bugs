@@ -1,12 +1,13 @@
 Card Name	Bug Description	Categorization	Last Confirmed
 Concerted Effort	Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-05-28 18:18:24
-Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-05-28 18:18:08
+Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-06-20 17:37:30
 Grinning Ignus	The ability supposed to be sorcery speed, but it can be activated anytime	Advantageous	2017-05-28 18:18:22
 Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017-05-28 18:18:21
 Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-05-28 18:18:12
 Mana Bloom	Ability does not generate mana	Disadvantageous	2017-05-28 18:18:20
 Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
 Memory Lapse	moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-05-28 18:18:02
+Naga Vitalist	is unable to add mana of any color to its controller's mana pool if they have Cascading Cataracts on the battlefield.	Disadvantageous	2017-06-20 17:37:22
 Nebuchadnezzar	ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
 Penance	Ability allows you to search your entire library for a card and put it on top of your library instead of only from your hand.	Advantageous	2017-05-28 18:18:18
 Primitive Justice	will either not cast/restart the game with a single target.	Game Breaking	2017-05-28 18:18:11
@@ -17,7 +18,8 @@ Semblance Anvil	imprinting a split card does not reduce costs on instants/sorcer
 Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
 Suffer the Past	Costs {2} more	Disadvantageous	2017-05-28 18:18:14
 Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-05-28 18:18:06
-Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:19
+Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:33
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
 Vastwood Hydra	allows you to place extra counters when it dies	Game Breaking	2017-05-28 18:18:09
-Whims of the Fates	Causes client crashes	Game Breaking	2017-05-28 18:18:13
+Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-06-20 17:37:20
+Whims of the Fates	Causes client crashes	Game Breaking	2017-06-20 17:37:32
