@@ -23,7 +23,7 @@ Mana Bloom	Ability does not generate mana	Disadvantageous	2017-05-28 18:18:20
 Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
 Memory Lapse	moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-05-28 18:18:02
 Mind's Dilation	Cards exiled by [Mind's Dilation] may be incorrectly played at any time, rather than only at the resolution of the trigger.	Advantageous	2017-06-20 17:37:18
-Naga Vitalist	is unable to add mana of any color to its controller's mana pool if they have Cascading Cataracts on the battlefield.	Disadvantageous	2017-06-20 17:37:22
+Naga Vitalist	is unable to add mana of any color to its controller's mana pool if they have Cascading Cataracts on the battlefield.	Disadvantageous	2017-06-20 17:37:46
 Nebuchadnezzar	ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
 Null Chamber	Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2017-06-16 23:45:44
 Odds	Odds: Restarts the game in buggy state on heads	Game Breaking	2017-05-04 05:42:41
@@ -45,6 +45,6 @@ Tawnos's Coffin	crashes the game for everyone when it tries to return a card to 
 Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:33
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
 Vastwood Hydra	allows you to place extra counters when it dies	Game Breaking	2017-05-28 18:18:09
-Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-06-20 17:37:20
+Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-06-20 17:37:45
 Whims of the Fates	Causes client crashes	Game Breaking	2017-06-20 17:37:32
 Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-05-04 13:40:58
