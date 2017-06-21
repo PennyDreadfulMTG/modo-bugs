@@ -46,6 +46,6 @@ Tawnos's Coffin	crashes the game for everyone when it tries to return a card to 
 Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:33
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
 Vastwood Hydra	allows you to place extra counters when it dies	Game Breaking	2017-05-28 18:18:09
-Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-06-20 17:37:45
+Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-06-21 08:42:27
 Whims of the Fates	Causes client crashes	Game Breaking	2017-06-20 17:37:32
 Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-05-04 13:40:58
