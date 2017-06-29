@@ -10,6 +10,7 @@ Djinn of Infinite Deceits	can only be activated at sorcery speed	Disadvantageous
 Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-06-20 17:37:30
 Dream Halls	Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-06-29 09:11:23
 Genesis Hydra	Triggered ability will not reveal any cards or allow its controller to put a nonland permanent card onto the battlefield	Disadvantageous	2017-06-20 16:06:59
+Gideon's Intervention	Casting a second copy causes the first to become non-functional, allowing the named card to be cast and deal damage.	Disadvantageous	2017-06-29 19:37:18
 Grinning Ignus	The ability supposed to be sorcery speed, but it can be activated anytime	Advantageous	2017-05-28 18:18:22
 Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017-05-28 18:18:21
 High Seas	Text is treated as 'Red and Green creature spells cost {1} more'.  Only affects Multicolour spells, and only adds 1 to the mana cost of them.	Disadvantageous	2017-05-04 13:49:50
@@ -25,6 +26,7 @@ Mana Bloom	Ability does not generate mana	Disadvantageous	2017-05-28 18:18:20
 Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
 Memory Lapse	moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-05-28 18:18:02
 Mind's Dilation	Cards exiled by [Mind's Dilation] may be incorrectly played at any time, rather than only at the resolution of the trigger.	Advantageous	2017-06-20 17:37:18
+Mirror Match	Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Unclassified	2017-06-29 19:37:14
 Myriad Landscape	Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.	Advantageous	2017-06-21 07:37:18
 Naga Vitalist	is unable to add mana of any color to its controller's mana pool if they have Cascading Cataracts on the battlefield.	Disadvantageous	2017-06-20 17:37:46
 Nebuchadnezzar	ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
@@ -42,6 +44,7 @@ Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-06-03 03:37:45
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-05-28 18:34:35
 Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
+Storage Matrix	Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2017-06-29 19:29:14
 Suffer the Past	Costs {2} more	Disadvantageous	2017-05-28 18:18:14
 Synthetic Destiny	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
 Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-05-28 18:18:06
