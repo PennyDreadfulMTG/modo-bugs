@@ -8,7 +8,7 @@ import requests
 from github import Github
 
 CATEGORIES = ["Advantageous", "Disadvantageous", "Game Breaking", "Graphical", "Non-Functional ability"]
-BADCATS = ["Advantageous", "Game Breaking"]
+BADCATS = ["Game Breaking"]
 
 LEGAL_CARDS = []
 
@@ -43,7 +43,7 @@ def main():
         print(issue.title)
         if issue.state == "open":
             process_issue(issue)
-    
+
     csv = open('bugs.tsv', mode='w')
     csv.write("Card Name\tBug Description\tCategorization\tLast Confirmed\n")
     ALL_CSV.sort()

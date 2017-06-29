@@ -84,10 +84,7 @@ def parse_knownbugs(b):
     # attempt to find all the fixed bugs
     all_codes = b.find_all(string=lambda text: isinstance(text, Comment))
     all_codes = [str(code).replace('\t', ' ') for code in all_codes]
-    # print(all_codes)
     for issue in repo.get_issues():
-        if not ("From Bug Blog" in [i.name for i in issue.labels]):
-            continue
         code = re.search(CODE_REGEX, issue.body, re.MULTILINE)
         if code is None:
             for comment in issue.get_comments():
@@ -96,7 +93,8 @@ def parse_knownbugs(b):
                     break
             else:
                 cards = get_cards_from_string(issue.title)
-                print("Issue #{id} {cards} has no Bug Blog code!".format(id=issue.number, cards=cards))
+                if "From Bug Blog" in [i.name for i in issue.labels]:
+                    print("Issue #{id} {cards} has no Bug Blog code!".format(id=issue.number, cards=cards))
                 lines = b.find_all(string=re.compile(cards[0]))
                 if not lines:
                     continue
@@ -106,6 +104,8 @@ def parse_knownbugs(b):
                 text = ''.join(parent.strings)
                 print(text)
                 issue.create_comment('Found in bug blog.\n{0}\nCode: {1}'.format(text, code))
+                if not ("From Bug Blog" in [i.name for i in issue.labels]):
+                    issue.add_to_labels("From Bug Blog")
                 continue
 
         code = code.group(1).strip()
