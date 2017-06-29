@@ -95,7 +95,7 @@ def parse_knownbugs(b):
                 cards = get_cards_from_string(issue.title)
                 if "From Bug Blog" in [i.name for i in issue.labels]:
                     print("Issue #{id} {cards} has no Bug Blog code!".format(id=issue.number, cards=cards))
-                lines = b.find_all(string=re.compile(cards[0]))
+                lines = b.find_all(string=re.compile('\[' + cards[0] + '\]'))
                 if not lines:
                     continue
                 parent = lines[0].parent
