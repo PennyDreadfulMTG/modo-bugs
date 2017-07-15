@@ -3,7 +3,7 @@ Athreos, God of Passage	does not associate its triggers with specific creatures.
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
 Concerted Effort	Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-07-14 08:38:21
-Crackling Doom	sometimes makes caster sacrifice their own creature.	Unclassified	2017-07-15 03:37:15
+Crackling Doom	sometimes makes caster sacrifice their own creature.	Unclassified	2017-07-15 03:38:13
 Cryptic Gateway	Cannot select a card from your hand	Non-Functional ability	2017-05-28 18:39:00
 Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017-06-02 11:44:23
 Custodi Lich	The sacrifice trigger does not occur if the monarch token was already present.	Disadvantageous	2017-06-20 16:35:29
