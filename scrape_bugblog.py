@@ -70,6 +70,8 @@ def parse_changelog(b):
                 if not ("From Bug Blog" in [i.name for i in issue.labels]):
                     print("Adding Bug Blog to labels")
                     issue.add_to_labels("From Bug Blog")
+            elif find_closed_issue(code):
+                print('Already closed.')
             else:
                 print('Creating new issue')
                 text = "From Bug Blog.\nCode: {0}".format(code)
@@ -122,6 +124,17 @@ def handle_autocards(soup):
     for link in soup.find_all('a', class_='autocard-link'):
         name = link.get_text()
         link.replace_with('[{0}]'.format(name))
+
+def find_closed_issue(code):
+    all_issues = repo.get_issues(state="all")
+    for issue in all_issues:
+        found = code in issue.body
+        if not found:
+            for comment in issue.get_comments():
+                if code in comment.body:
+                    found = True
+        if found:
+            return issue
 
 def find_issue(cards):
     all_issues = repo.get_issues()
