@@ -43,37 +43,37 @@ def parse_block(b):
 def parse_changelog(b):
     # They never show Fixed bugs in the Bug Blog anymore.  Fixed bugs are now listed on the Build Notes section of MTGO weekly announcements.
     # This is frustrating.
-    added = b.find_all('ul')[0]
-    for item in added.find_all('li'):
-        print(item)
-        code = str(item.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
-        cards = get_cards_from_string(item.get_text())
+    for added in b.find_all('ul'):
+        for item in added.find_all('li'):
+            print(item)
+            code = str(item.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
+            cards = get_cards_from_string(item.get_text())
 
-        if not cards:
-            continue
+            if not cards:
+                continue
 
-        issue = find_issue(cards)
-        if issue is not None:
-            print(issue.body)
-            reported = code in issue.body
+            issue = find_issue(cards)
+            if issue is not None:
+                print(issue.body)
+                reported = code in issue.body
 
-            if not reported:
-                for comment in issue.get_comments():
-                    print(comment.body)
-                    if code in comment.body:
-                        reported = True
+                if not reported:
+                    for comment in issue.get_comments():
+                        print(comment.body)
+                        if code in comment.body:
+                            reported = True
 
-            if not reported:
-                print("Adding report to existing issue.")
-                issue.create_comment('Added to Bug Blog.\n{0}\nCode: {1}'.format(item.get_text(), code))
+                if not reported:
+                    print("Adding report to existing issue.")
+                    issue.create_comment('Added to Bug Blog.\n{0}\nCode: {1}'.format(item.get_text(), code))
 
-            if not ("From Bug Blog" in [i.name for i in issue.labels]):
-                print("Adding Bug Blog to labels")
-                issue.add_to_labels("From Bug Blog")
-        else:
-            print('Creating new issue')
-            text = "From Bug Blog.\nCode: {0}".format(code)
-            repo.create_issue(item.get_text(), body=text, labels=["From Bug Blog"])
+                if not ("From Bug Blog" in [i.name for i in issue.labels]):
+                    print("Adding Bug Blog to labels")
+                    issue.add_to_labels("From Bug Blog")
+            else:
+                print('Creating new issue')
+                text = "From Bug Blog.\nCode: {0}".format(code)
+                repo.create_issue(item.get_text(), body=text, labels=["From Bug Blog"])
 
 def get_cards_from_string(item):
     cards = re.findall(r'\[?\[([^\]]*)\]\]?', item)
