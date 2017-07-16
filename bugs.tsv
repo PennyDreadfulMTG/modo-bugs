@@ -3,10 +3,11 @@ Athreos, God of Passage	does not associate its triggers with specific creatures.
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
 Concerted Effort	Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-07-14 08:38:21
-Crackling Doom	sometimes makes caster sacrifice their own creature.	Unclassified	2017-07-15 03:38:13
+Crackling Doom	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-16 04:53:57
 Cryptic Gateway	Cannot select a card from your hand	Non-Functional ability	2017-05-28 18:39:00
 Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017-06-02 11:44:23
 Custodi Lich	The sacrifice trigger does not occur if the monarch token was already present.	Disadvantageous	2017-06-20 16:35:29
+Dictate of Erebos	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-16 04:53:57
 Djinn of Infinite Deceits	can only be activated at sorcery speed	Disadvantageous	2017-06-14 05:52:08
 Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-06-20 17:37:30
 Dream Halls	Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-07-05 16:48:54
@@ -35,6 +36,7 @@ Null Chamber	Controller is asked to name two non-basic lands, rather than each p
 Odds	Odds: Restarts the game in buggy state on heads	Game Breaking	2017-05-04 05:42:41
 Oubliette	getting destroyed causes the game to soft lock.	Game Breaking	2017-06-02 11:44:14
 Penance	Ability allows you to search your entire library for a card and put it on top of your library instead of only from your hand.	Advantageous	2017-05-28 18:18:18
+Perilous Predicament	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-16 04:53:57
 Primitive Justice	will either not cast/restart the game with a single target.	Game Breaking	2017-07-14 08:38:16
 Profane Command	If a player gains shroud in response to Profane Command, the first mode will still resolve	Advantageous	2017-07-14 08:38:19
 Reap	Restarts game.	Game Breaking	2017-07-14 08:38:18
