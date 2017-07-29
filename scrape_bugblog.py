@@ -80,7 +80,7 @@ def parse_changelog(b):
                 print('Already closed.')
             else:
                 print('Creating new issue')
-                if code is not None
+                if code is not None:
                     text = "From Bug Blog.\nCode: {0}".format(code)
                 else:
                     text = "From Bug Blog."
@@ -106,7 +106,7 @@ def parse_knownbugs(b):
                 cards = get_cards_from_string(issue.title)
                 if "From Bug Blog" in [i.name for i in issue.labels]:
                     print("Issue #{id} {cards} has no Bug Blog code!".format(id=issue.number, cards=cards))
-                lines = b.find_all(string=re.compile('\[' + cards[0] + '\]'))
+                lines = b.find_all(string=re.compile(r'\[' + cards[0] + '\]'))
                 if not lines:
                     continue
                 parent = lines[0].parent
