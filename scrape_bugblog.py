@@ -46,7 +46,11 @@ def parse_changelog(b):
     for added in b.find_all('ul'):
         for item in added.find_all('li'):
             print(item)
-            code = str(item.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
+            try:
+                code = str(item.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
+            except IndexError:
+                print('No code!')
+                code = None
             cards = get_cards_from_string(item.get_text())
 
             if not cards:
@@ -54,6 +58,8 @@ def parse_changelog(b):
 
             issue = find_issue(cards)
             if issue is not None:
+                if code is None:
+                    continue
                 print(issue.body)
                 reported = code in issue.body
 
@@ -74,7 +80,10 @@ def parse_changelog(b):
                 print('Already closed.')
             else:
                 print('Creating new issue')
-                text = "From Bug Blog.\nCode: {0}".format(code)
+                if code is not None
+                    text = "From Bug Blog.\nCode: {0}".format(code)
+                else:
+                    text = "From Bug Blog."
                 repo.create_issue(item.get_text(), body=text, labels=["From Bug Blog"])
 
 def get_cards_from_string(item):
