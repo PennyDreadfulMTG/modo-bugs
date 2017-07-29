@@ -135,6 +135,8 @@ def handle_autocards(soup):
         link.replace_with('[{0}]'.format(name))
 
 def find_closed_issue(code):
+    if code is None:
+        return None
     all_issues = repo.get_issues(state="all")
     for issue in all_issues:
         found = code in issue.body
