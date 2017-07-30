@@ -25,10 +25,10 @@ Ignite Memories	and similar cards can cause a game restart if the target has no 
 Imprisoned in the Moon	does not add mana ability to enchanted creature	Disadvantageous	2017-07-29 17:48:47
 Infinite Reflection	All creatures become copies, not just ones you control.	Advantageous	2017-07-14 08:38:20
 Island Sanctuary	's replacement effect is available if you draw a card during an opponents draw step	Advantageous	2017-06-19 21:55:29
-Karplusan Minotaur	Cumulative upkeep cannot be paid	Disadvantageous	2017-05-20 05:18:41
+Karplusan Minotaur	Cumulative upkeep cannot be paid	Disadvantageous	2017-07-30 14:49:58
 Koth of the Hammer	When controlling the Emblem of [Koth of the Hammer], lands do not display the blue text they have.	Graphical	2017-07-16 19:47:11
 Lich	If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-06-29 19:17:25
-Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-05-28 18:18:12
+Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-07-30 14:53:27
 Lost Legacy	cannot exile split cards from libraries.	Disadvantageous	2017-06-02 11:41:46
 Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
 Memory Lapse	moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-07-14 08:38:13
@@ -46,7 +46,7 @@ Perilous Predicament	sometimes makes caster sacrifice their own creature under r
 Phyrexian Metamorph	costs 4 with Trinisphere in play.	Unclassified	2017-07-29 15:38:39
 Primitive Justice	will either not cast/restart the game with a single target.	Game Breaking	2017-07-14 08:38:16
 Profane Command	If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2017-07-29 10:31:47
-Reap	Restarts game.	Game Breaking	2017-07-14 08:38:18
+Reap	Restarts game.	Game Breaking	2017-07-30 15:01:22
 Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
 Reincarnation	Does nothing	Non-Functional ability	2017-07-14 08:38:18
 Riptide Replicator	token uses incorrect art.	Graphical	2017-06-24 14:06:25
@@ -62,7 +62,6 @@ The Gitrog Monster	Non-land permanents that have become lands due to an enchantm
 The Great Aurora	does not function correctly.	Unclassified	2017-07-29 15:38:36
 Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:33
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
-Vastwood Hydra	allows you to place extra counters when it dies	Game Breaking	2017-07-14 08:38:15
 Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-06-21 08:42:27
 Whims of the Fates	Causes client crashes	Game Breaking	2017-06-20 17:37:32
 Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-07-14 08:38:17
