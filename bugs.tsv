@@ -1,5 +1,5 @@
 Card Name	Bug Description	Categorization	Last Confirmed
-Armor of thorns	The sacrifice ability doesn't triggered at the cleanup step	Advantageous	2017-07-30 13:21:24
+Armor of thorns	The sacrifice ability doesn't triggered at the cleanup step	Advantageous	2017-07-30 13:38:37
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
