@@ -1,5 +1,5 @@
 Card Name	Bug Description	Categorization	Last Confirmed
-Armor of thorns	The sacrifice ability doesn't triggered at the cleanup step	Advantageous	2017-08-01 21:12:35
+Armor of thorns	The sacrifice ability doesn't triggered at the cleanup step	Advantageous	2017-08-01 21:38:37
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
 Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as a planeswalker source of damage, affecting things like Pyromancer's Gauntlet or Chandra's Phoenix.	Disadvantageous	2017-08-01 21:11:23
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
