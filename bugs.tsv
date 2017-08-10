@@ -60,7 +60,7 @@ Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-0
 Storage Matrix	Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2017-06-29 19:29:14
 Structural Collapse	does not cause target to sacrifice a land.	Unconfirmed	2017-07-29 15:38:42
 Synthetic Destiny	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
-Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-05-28 18:18:06
+Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-10 10:15:03
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard 	Disadvantageous	2017-06-24 06:37:21
 The Great Aurora	does not function correctly.	Unclassified	2017-07-29 15:38:36
 Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:33
