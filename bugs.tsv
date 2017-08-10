@@ -11,7 +11,7 @@ Cryptic Gateway	Cannot select a card from your hand	Non-Functional ability	2017-
 Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017-06-02 11:44:23
 Cursed Scroll	does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2017-08-01 21:07:37
 Custodi Lich	The sacrifice trigger does not occur if another player was the monarch.	Disadvantageous	2017-07-21 20:02:21
-Desperate Ritual	Casting an untargeted splice spell (e.g. [Desperate Ritual]) and splicing a targeted spell (e.g. [Psychic Puppetry]) onto it a game server reset can occur.	Game Breaking	2017-08-10 22:33:50
+Desperate Ritual	Casting an untargeted splice spell (e.g. [Desperate Ritual]) and splicing a targeted spell (e.g. [Psychic Puppetry]) onto it a game server reset can occur.	Game Breaking	2017-08-10 22:39:11
 Dictate of Erebos	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
 Diregraf Colossus	with Rooftop Storm may cause a game reset.	Unclassified	2017-08-10 18:46:56
 Djinn of Infinite Deceits	can only be activated at sorcery speed	Disadvantageous	2017-06-14 05:52:08
@@ -20,7 +20,7 @@ Dream Halls	Ability is non-functional. Cannot cast spells with the alternative C
 Freyalise's Winds	Permanents with wind counters remove counters instead of untapping at any time, not only during their controller's untap step.	Disadvantageous	2017-08-05 02:06:13
 Genju of the Fields	does not cause you to gain life upon dealing damage	Disadvantageous	2017-07-29 15:20:35
 Gideon's Intervention	Casting a second copy causes the first to become non-functional, allowing the named card to be cast and deal damage.	Disadvantageous	2017-08-10 22:31:56
-Gideon, Martial Paragon	AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2017-08-10 22:31:35
+Gideon, Martial Paragon	AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2017-08-10 22:39:10
 Grafdigger's Cage	If you manifest a creature with [Grafdigger's Cage] in play, it will be exiled.	Disadvantageous	2017-07-16 19:47:31
 Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017-05-28 18:18:21
 High Seas	Text is treated as 'Red and Green creature spells cost {1} more'.  Only affects Multicolour spells, and only adds 1 to the mana cost of them.	Disadvantageous	2017-05-04 13:49:50
@@ -39,6 +39,7 @@ Mass Polymorph	does not take commanders into account when determining the number
 Memory Lapse	moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-07-14 08:38:13
 Mind's Dilation	Cards exiled by [Mind's Dilation] may be incorrectly played at any time, rather than only at the resolution of the trigger.	Advantageous	2017-06-20 17:37:18
 Mirror Match	Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2017-06-30 16:54:05
+Misdirection	can reset the game in rare cases.	Game Breaking	2017-08-10 22:48:36
 Multani's Presence	incorrectly draws cards off copies of spells that are countered	Advantageous	2017-08-08 16:46:15
 Myriad Landscape	Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.	Advantageous	2017-06-21 07:37:18
 Naga Vitalist	is unable to add mana of any color to its controller's mana pool if they have Cascading Cataracts on the battlefield.	Disadvantageous	2017-06-20 17:37:46
@@ -51,8 +52,8 @@ Perilous Predicament	sometimes makes caster sacrifice their own creature under r
 Phyrexian Metamorph	costs 4 with Trinisphere in play.	Unclassified	2017-07-29 15:38:39
 Primitive Justice	will either not cast/restart the game with a single target.	Game Breaking	2017-07-14 08:38:16
 Profane Command	If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2017-07-29 10:31:47
-Psychic Puppetry	Casting an untargeted splice spell (e.g. [Desperate Ritual]) and splicing a targeted spell (e.g. [Psychic Puppetry]) onto it a game server reset can occur.	Game Breaking	2017-08-10 22:33:50
-Rags // Riches	If a commander is chosen for Riches in [Rags // Riches], no other opponents need to choose a creature.	Disadvantageous	2017-08-10 22:35:24
+Psychic Puppetry	Casting an untargeted splice spell (e.g. [Desperate Ritual]) and splicing a targeted spell (e.g. [Psychic Puppetry]) onto it a game server reset can occur.	Game Breaking	2017-08-10 22:39:11
+Rags // Riches	If a commander is chosen for Riches in [Rags // Riches], no other opponents need to choose a creature.	Disadvantageous	2017-08-10 22:39:12
 Reap	Restarts game.	Game Breaking	2017-07-30 15:01:22
 Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
 Reincarnation	Does nothing	Non-Functional ability	2017-07-14 08:38:18
@@ -61,11 +62,11 @@ Riverfall Mimic	Eventide Mimics such as [Riverfall Mimic] trigger even when a c
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-07-14 08:38:12
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-05-28 18:34:35
-Solemnity	With [Solemnity] in play, you are still prompted to pay one mana for cards with cumulative upkeep that have zero age counters.	Disadvantageous	2017-08-10 22:34:41
+Solemnity	With [Solemnity] in play, you are still prompted to pay one mana for cards with cumulative upkeep that have zero age counters.	Disadvantageous	2017-08-10 22:39:13
 Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
 Storage Matrix	Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2017-06-29 19:29:14
 Structural Collapse	does not cause target to sacrifice a land.	Unconfirmed	2017-07-29 15:38:42
-Sunscourge Champion	will cause you to lose life if it has negative power when its trigger resolves.	Unclassified	2017-08-10 18:50:45
+Sunscourge Champion	will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2017-08-10 22:42:00
 Synthetic Destiny	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
 Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-10 10:15:03
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard 	Disadvantageous	2017-06-24 06:37:21
@@ -74,5 +75,6 @@ Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an El
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-08-10 18:50:44
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
 Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-08-10 18:44:29
+Vizier of Many Faces	keeps its abilities when an opponent controls Overwhelming Splendor.	Advantageous	2017-08-10 22:43:06
 Whims of the Fates	Causes client crashes	Game Breaking	2017-06-20 17:37:32
 Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-07-14 08:38:17

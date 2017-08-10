@@ -16,8 +16,8 @@ Naga Vitalist	is unable to add mana of any color to its controller's mana pool i
 Nebuchadnezzar	ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
 Perilous Predicament	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
 Profane Command	If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2017-07-29 10:31:47
-Psychic Puppetry	Casting an untargeted splice spell (e.g. [Desperate Ritual]) and splicing a targeted spell (e.g. [Psychic Puppetry]) onto it a game server reset can occur.	Game Breaking	2017-08-10 22:33:50
-Rags // Riches	If a commander is chosen for Riches in [Rags // Riches], no other opponents need to choose a creature.	Disadvantageous	2017-08-10 22:35:24
+Psychic Puppetry	Casting an untargeted splice spell (e.g. [Desperate Ritual]) and splicing a targeted spell (e.g. [Psychic Puppetry]) onto it a game server reset can occur.	Game Breaking	2017-08-10 22:39:11
+Rags // Riches	If a commander is chosen for Riches in [Rags // Riches], no other opponents need to choose a creature.	Disadvantageous	2017-08-10 22:39:12
 Riverfall Mimic	Eventide Mimics such as [Riverfall Mimic] trigger even when a card of only one of its colors is cast.	Unclassified	2017-08-10 18:50:39
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
@@ -27,5 +27,6 @@ Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an El
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-08-10 18:50:44
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
 Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-08-10 18:44:29
+Vizier of Many Faces	keeps its abilities when an opponent controls Overwhelming Splendor.	Advantageous	2017-08-10 22:43:06
 Whims of the Fates	Causes client crashes	Game Breaking	2017-06-20 17:37:32
 Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-07-14 08:38:17
