@@ -66,7 +66,7 @@ Solemnity	With [Solemnity] in play, you are still prompted to pay one mana for c
 Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
 Storage Matrix	Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2017-06-29 19:29:14
 Structural Collapse	does not cause target to sacrifice a land.	Unconfirmed	2017-07-29 15:38:42
-Sunscourge Champion	will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2017-08-10 22:42:00
+Sunscourge Champion	will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2017-08-10 23:39:12
 Synthetic Destiny	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
 Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-10 10:15:03
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard 	Disadvantageous	2017-06-24 06:37:21
@@ -75,6 +75,6 @@ Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an El
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-08-10 18:50:44
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
 Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-08-10 18:44:29
-Vizier of Many Faces	keeps its abilities when an opponent controls Overwhelming Splendor.	Advantageous	2017-08-10 22:43:06
+Vizier of Many Faces	keeps its abilities when an opponent controls Overwhelming Splendor.	Advantageous	2017-08-10 23:39:11
 Whims of the Fates	Causes client crashes	Game Breaking	2017-06-20 17:37:32
 Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-07-14 08:38:17
