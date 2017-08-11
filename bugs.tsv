@@ -1,5 +1,4 @@
 Card Name	Bug Description	Categorization	Last Confirmed
-Armor of thorns	The sacrifice ability doesn't triggered at the cleanup step	Advantageous	2017-08-01 21:38:37
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
 Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-08-02 04:22:06
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
@@ -58,7 +57,7 @@ Reap	Restarts game.	Game Breaking	2017-07-30 15:01:22
 Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
 Reincarnation	Does nothing	Non-Functional ability	2017-07-14 08:38:18
 Riptide Replicator	token uses incorrect art.	Graphical	2017-06-24 14:06:25
-Riverfall Mimic	Eventide Mimics such as [Riverfall Mimic] trigger even when a card of only one of its colors is cast.	Unclassified	2017-08-10 18:50:39
+Riverfall Mimic	Eventide Mimics such as [Riverfall Mimic] trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-11 05:38:53
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-07-14 08:38:12
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-05-28 18:34:35
