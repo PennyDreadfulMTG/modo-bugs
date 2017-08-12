@@ -52,10 +52,10 @@ Phyrexian Metamorph	costs 4 with Trinisphere in play.	Unclassified	2017-07-29 15
 Primitive Justice	will either not cast/restart the game with a single target.	Game Breaking	2017-07-14 08:38:16
 Profane Command	If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2017-07-29 10:31:47
 Psychic Puppetry	Casting an untargeted splice spell (e.g. [Desperate Ritual]) and splicing a targeted spell (e.g. [Psychic Puppetry]) onto it a game server reset can occur.	Game Breaking	2017-08-10 22:39:11
-Rags // Riches	If a commander is chosen for Riches in [Rags // Riches], no other opponents need to choose a creature.	Disadvantageous	2017-08-12 05:47:38
 Reap	Restarts game.	Game Breaking	2017-07-30 15:01:22
 Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
 Reincarnation	Does nothing	Non-Functional ability	2017-07-14 08:38:18
+Riches	If a commander is chosen for [Riches] in Rags // Riches, no other opponents need to choose a creature.	Disadvantageous	2017-08-12 18:11:15
 Riptide Replicator	token uses incorrect art.	Graphical	2017-06-24 14:06:25
 Riverfall Mimic	Eventide Mimics such as [Riverfall Mimic] trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-11 05:38:53
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
