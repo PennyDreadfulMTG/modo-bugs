@@ -10,7 +10,6 @@ Cryptic Gateway	Cannot select a card from your hand	Non-Functional ability	2017-
 Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017-06-02 11:44:23
 Cursed Scroll	does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2017-08-01 21:07:37
 Custodi Lich	The sacrifice trigger does not occur if another player was the monarch.	Disadvantageous	2017-07-21 20:02:21
-Desperate Ritual	Casting an untargeted splice spell (e.g. [Desperate Ritual]) and splicing a targeted spell (e.g. [Psychic Puppetry]) onto it a game server reset can occur.	Game Breaking	2017-08-10 22:39:11
 Dictate of Erebos	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
 Diregraf Colossus	with Rooftop Storm may cause a game reset.	Unclassified	2017-08-10 18:46:56
 Djinn of Infinite Deceits	can only be activated at sorcery speed	Disadvantageous	2017-06-14 05:52:08
@@ -52,7 +51,6 @@ Perilous Predicament	sometimes makes caster sacrifice their own creature under r
 Phyrexian Metamorph	costs 4 with Trinisphere in play.	Unclassified	2017-07-29 15:38:39
 Primitive Justice	will either not cast/restart the game with a single target.	Game Breaking	2017-07-14 08:38:16
 Profane Command	If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2017-07-29 10:31:47
-Psychic Puppetry	Casting an untargeted splice spell (e.g. [Desperate Ritual]) and splicing a targeted spell (e.g. [Psychic Puppetry]) onto it a game server reset can occur.	Game Breaking	2017-08-10 22:39:11
 Reap	Restarts game.	Game Breaking	2017-07-30 15:01:22
 Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
 Reincarnation	Does nothing	Non-Functional ability	2017-07-14 08:38:18
@@ -62,7 +60,7 @@ Riverfall Mimic	Eventide Mimics such as [Riverfall Mimic] trigger even when a c
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-07-14 08:38:12
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-05-28 18:34:35
-Smokebraider	Can't use mana to cast Bloodbriar	Disadvantageous	2017-08-13 13:15:58
+Smokebraider	Can't use mana to cast Bloodbriar	Disadvantageous	2017-08-13 14:45:38
 Solemnity	With [Solemnity] in play, you are still prompted to pay one mana for cards with cumulative upkeep that have zero age counters.	Disadvantageous	2017-08-10 22:39:13
 Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
 Storage Matrix	Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2017-06-29 19:29:14
