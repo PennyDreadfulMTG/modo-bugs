@@ -1,6 +1,5 @@
 Card Name	Bug Description	Categorization	Last Confirmed
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
-Bloodbriar	Can't use mana to cast [Bloodbriar]	Disadvantageous	2017-08-13 09:39:02
 Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-08-02 04:22:06
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
@@ -33,6 +32,7 @@ Island Sanctuary	's replacement effect is available if you draw a card during an
 Karplusan Minotaur	Cumulative upkeep cannot be paid	Disadvantageous	2017-07-30 14:49:58
 Koth of the Hammer	When controlling the Emblem of [Koth of the Hammer], lands do not display the blue text they have.	Graphical	2017-07-16 19:47:11
 Lich	If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-06-29 19:17:25
+Liquid Fire	doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2017-08-13 13:34:35
 Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-07-30 14:53:27
 Lost Legacy	cannot exile split cards from libraries.	Disadvantageous	2017-06-02 11:41:46
 Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
@@ -62,7 +62,7 @@ Riverfall Mimic	Eventide Mimics such as [Riverfall Mimic] trigger even when a c
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-07-14 08:38:12
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-05-28 18:34:35
-Smokebraider	Can't use mana to cast [Bloodbriar]	Disadvantageous	2017-08-13 09:39:02
+Smokebraider	Can't use mana to cast Bloodbriar	Disadvantageous	2017-08-13 13:15:58
 Solemnity	With [Solemnity] in play, you are still prompted to pay one mana for cards with cumulative upkeep that have zero age counters.	Disadvantageous	2017-08-10 22:39:13
 Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
 Storage Matrix	Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2017-06-29 19:29:14

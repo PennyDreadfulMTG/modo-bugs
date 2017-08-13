@@ -1,5 +1,4 @@
 Card Name	Bug Description	Categorization	Last Confirmed
-Bloodbriar	Can't use mana to cast [Bloodbriar]	Disadvantageous	2017-08-13 09:39:02
 Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-08-02 04:22:06
 Crackling Doom	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
 Cursed Scroll	does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2017-08-01 21:07:37
@@ -20,7 +19,7 @@ Profane Command	If a player gains shroud in response to Profane Command, the fir
 Psychic Puppetry	Casting an untargeted splice spell (e.g. [Desperate Ritual]) and splicing a targeted spell (e.g. [Psychic Puppetry]) onto it a game server reset can occur.	Game Breaking	2017-08-10 22:39:11
 Riverfall Mimic	Eventide Mimics such as [Riverfall Mimic] trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-11 05:38:53
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
-Smokebraider	Can't use mana to cast [Bloodbriar]	Disadvantageous	2017-08-13 09:39:02
+Smokebraider	Can't use mana to cast Bloodbriar	Disadvantageous	2017-08-13 13:15:58
 Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
 Structural Collapse	does not cause target to sacrifice a land.	Unconfirmed	2017-07-29 15:38:42
 Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-10 10:15:03
