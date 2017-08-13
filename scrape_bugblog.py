@@ -8,6 +8,8 @@ import configuration
 
 CODE_REGEX = '^Code: (.*)$'
 
+ISSUE_CODES = {}
+
 github = Github(configuration.get("github_user"), configuration.get("github_password"))
 repo = github.get_repo("PennyDreadfulMTG/modo-bugs")
 
@@ -53,10 +55,12 @@ def parse_changelog(b):
                 code = None
             cards = get_cards_from_string(item.get_text())
 
-            if not cards:
+            if not cards and not code:
                 continue
 
-            issue = find_issue(cards)
+            issue = find_issue_by_code(code)
+            if issue is None:
+                issue = find_issue(cards)
             if issue is not None:
                 if code is None:
                     continue
@@ -71,12 +75,12 @@ def parse_changelog(b):
 
                 if not reported:
                     print("Adding report to existing issue.")
-                    issue.create_comment('Added to Bug Blog.\n{0}\nCode: {1}'.format(item.get_text(), code))
+                    create_comment(issue, 'Added to Bug Blog.\n{0}\nCode: {1}'.format(item.get_text(), code))
 
                 if not ("From Bug Blog" in [i.name for i in issue.labels]):
                     print("Adding Bug Blog to labels")
                     issue.add_to_labels("From Bug Blog")
-            elif find_closed_issue(code):
+            elif find_issue_by_code(code):
                 print('Already closed.')
             else:
                 print('Creating new issue')
@@ -114,7 +118,7 @@ def parse_knownbugs(b):
                 print(code)
                 text = ''.join(parent.strings)
                 print(text)
-                issue.create_comment('Found in bug blog.\n{0}\nCode: {1}'.format(text, code))
+                create_comment(issue, 'Found in bug blog.\n{0}\nCode: {1}'.format(text, code))
                 if not ("From Bug Blog" in [i.name for i in issue.labels]):
                     issue.add_to_labels("From Bug Blog")
                 continue
@@ -126,25 +130,42 @@ def parse_knownbugs(b):
             pass
         else:
             print('{id} is fixed!'.format(id=issue.number))
-            issue.create_comment('This bug has been removed from the bug blog!')
+            create_comment(issue, 'This bug has been removed from the bug blog!')
             issue.edit(state='closed')
+
+def create_comment(issue, body):
+    ISSUE_CODES[issue.id] = None
+    return issue.create_comment(body)
 
 def handle_autocards(soup):
     for link in soup.find_all('a', class_='autocard-link'):
         name = link.get_text()
         link.replace_with('[{0}]'.format(name))
 
-def find_closed_issue(code):
+def find_issue_by_code(code):
     if code is None:
         return None
     all_issues = repo.get_issues(state="all")
     for issue in all_issues:
+        if issue.id in ISSUE_CODES.keys():
+            if ISSUE_CODES[issue.id] == code:
+                return issue
+            continue
         found = code in issue.body
+        icode = re.search(CODE_REGEX, issue.body, re.MULTILINE)
         if not found:
             for comment in issue.get_comments():
                 if code in comment.body:
                     found = True
+                if icode is None:
+                    icode = re.search(CODE_REGEX, comment.body, re.MULTILINE)
+
+        if icode is not None:
+            ISSUE_CODES[issue.id] = icode.groups()[0]
+        else:
+            ISSUE_CODES[issue.id] = None
         if found:
+            ISSUE_CODES[issue.id] = code
             return issue
 
 def find_issue(cards):
