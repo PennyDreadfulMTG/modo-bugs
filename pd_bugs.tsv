@@ -1,6 +1,6 @@
 Card Name	Bug Description	Categorization	Last Confirmed
 Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-08-02 04:22:06
-Compost	If a player cast a split card that are black on the uncasted side, the draw effect isn't triggered	Disadvantageous	2017-08-16 00:07:35
+Compost	If a player cast a split card that are black on the uncasted side, the draw effect isn't triggered	Disadvantageous	2017-08-16 00:38:53
 Crackling Doom	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
 Cursed Scroll	does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2017-08-01 21:07:37
 Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-06-20 17:37:30
