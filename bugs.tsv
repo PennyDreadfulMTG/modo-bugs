@@ -1,6 +1,6 @@
 Card Name	Bug Description	Categorization	Last Confirmed
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
-Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-08-17 22:48:04
+Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-08-18 03:39:08
 Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-08-02 04:22:06
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
