@@ -163,7 +163,7 @@ def find_issue_by_code(code):
                     icode = re.search(CODE_REGEX, comment.body, re.MULTILINE)
 
         if icode is not None:
-            ISSUE_CODES[issue.id] = icode.groups()[0]
+            ISSUE_CODES[issue.id] = icode.groups()[0].strip()
         else:
             ISSUE_CODES[issue.id] = None
         if found:
