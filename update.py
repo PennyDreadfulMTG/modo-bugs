@@ -17,6 +17,8 @@ PD_CSV = []
 ALL_BANNED = []
 PD_BANNED = []
 
+AFFECTS_REGEX = r'^Affects: (.*)$'
+
 if sys.stdout.encoding != 'utf-8':
     sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer, 'strict')
 
@@ -72,7 +74,13 @@ def main():
 
 def process_issue(issue):
     labels = [c.name for c in issue.labels]
-    cards = re.findall(r'\[?\[([^\]]*)\]\]?', issue.title)
+    affects = re.search(AFFECTS_REGEX, issue.body, re.MULTILINE)
+    if affects:
+        affects = affects.group(1)
+    else:
+        affects = issue.title
+
+    cards = re.findall(r'\[?\[([^\]]*)\]\]?', affects)
     cards = [c for c in cards]
 
     pd_legal = ([True for c in cards if c in LEGAL_CARDS] or [False])[0]
