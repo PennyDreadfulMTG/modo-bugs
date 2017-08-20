@@ -1,5 +1,6 @@
 Card Name	Bug Description	Categorization	Last Confirmed
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
+Battlegate Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-08-18 03:39:08
 Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-08-02 04:22:06
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
@@ -26,7 +27,7 @@ Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017
 High Seas	Text is treated as 'Red and Green creature spells cost {1} more'.  Only affects Multicolour spells, and only adds 1 to the mana cost of them.	Disadvantageous	2017-05-04 13:49:50
 Hollow One	doesn’t count discarded split cards.	Unclassified	2017-07-29 15:38:40
 Identity Thief	Restarts the game when attempting to copy a creature.	Game Breaking	2017-06-28 05:37:36
-Ignite Memories	and similar cards can cause a game restart if the target has no cards in hand.	Unclassified	2017-08-01 21:12:02
+Ignite Memories	and similar cards can cause a game restart if the target has no cards in hand.	Game Breaking	2017-08-20 07:45:56
 Imprisoned in the Moon	does not add mana ability to enchanted creature	Disadvantageous	2017-07-29 17:48:47
 Infinite Reflection	All creatures become copies, not just ones you control.	Advantageous	2017-07-14 08:38:20
 Island Sanctuary	's replacement effect is available if you draw a card during an opponents draw step	Advantageous	2017-06-19 21:55:29
@@ -45,6 +46,7 @@ Multani's Presence	incorrectly draws cards off copies of spells that are counter
 Myriad Landscape	Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.	Advantageous	2017-06-21 07:37:18
 Naga Vitalist	is unable to add mana of any color to its controller's mana pool if they have Cascading Cataracts on the battlefield.	Disadvantageous	2017-06-20 17:37:46
 Nebuchadnezzar	ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
+Nightsky Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Nissa, Genesis Mage	The [Nissa, Genesis Mage] Planeswalker deck contains 2 Sifter Wurm cards instead of 2 Angler Drake cards.	Unclassified	2017-07-29 15:38:35
 Null Chamber	Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2017-06-16 23:45:44
 Odds	Odds: Restarts the game in buggy state on heads	Game Breaking	2017-07-29 15:38:44
@@ -58,10 +60,12 @@ Reflecting Pool	does not get the ability to add any color of mana to your mana p
 Reincarnation	Does nothing	Non-Functional ability	2017-07-14 08:38:18
 Riches	If a commander is chosen for [Riches] in Rags // Riches, no other opponents need to choose a creature.	Disadvantageous	2017-08-12 18:38:51
 Riptide Replicator	token uses incorrect art.	Graphical	2017-06-24 14:06:25
-Riverfall Mimic	Eventide Mimics such as [Riverfall Mimic] trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-11 05:38:53
+Riverfall Mimic	Eventide Mimics such as [Riverfall Mimic] trigger even when a card of only one of its colors is cast.	Unclassified	2017-08-20 10:46:08
+Riverfall Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-07-14 08:38:12
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-05-28 18:34:35
+Shorecrasher Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Smokebraider	Can't use mana to cast Bloodbriar	Disadvantageous	2017-08-14 21:09:49
 Solemnity	With [Solemnity] in play, you are still prompted to pay one mana for cards with cumulative upkeep that have zero age counters.	Disadvantageous	2017-08-10 22:39:13
 Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
@@ -78,4 +82,5 @@ Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageo
 Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-08-10 18:44:29
 Vizier of Many Faces	keeps its abilities when an opponent controls Overwhelming Splendor.	Advantageous	2017-08-10 23:39:11
 Whims of the Fates	Causes client crashes	Game Breaking	2017-06-20 17:37:32
+Woodlurker Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-07-14 08:38:17
