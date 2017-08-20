@@ -175,6 +175,8 @@ def find_issue(cards):
     relevant_issues = []
     for card in cards:
         for issue in all_issues:
+            if issue.id in ISSUE_CODES.keys():
+                continue
             if '[{0}]'.format(card) in issue.title and not issue in relevant_issues:
                 relevant_issues.append(issue)
 
