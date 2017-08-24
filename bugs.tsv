@@ -14,7 +14,7 @@ Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017
 Cursed Scroll	does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2017-08-01 21:07:37
 Custodi Lich	The sacrifice trigger does not occur if another player was the monarch.	Disadvantageous	2017-07-21 20:02:21
 Dictate of Erebos	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
-Diregraf Colossus	with Rooftop Storm may cause a game reset.	Unclassified	2017-08-10 18:46:56
+Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 16:41:07
 Djinn of Infinite Deceits	can only be activated at sorcery speed	Disadvantageous	2017-06-14 05:52:08
 Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-06-20 17:37:30
 Dream Halls	Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-07-05 16:48:54
@@ -36,15 +36,12 @@ Koth of the Hammer	When controlling the Emblem of [Koth of the Hammer], lands do
 Lich	If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-06-29 19:17:25
 Liquid Fire	doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2017-08-13 13:34:35
 Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-07-30 14:53:27
-Lost Legacy	cannot exile split cards from libraries.	Disadvantageous	2017-06-02 11:41:46
 Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
 Memory Lapse	moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-07-14 08:38:13
-Mind's Dilation	Cards exiled by [Mind's Dilation] may be incorrectly played at any time, rather than only at the resolution of the trigger.	Advantageous	2017-06-20 17:37:18
 Mirror Match	Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2017-06-30 16:54:05
 Misdirection	can reset the game in rare cases.	Game Breaking	2017-08-10 22:48:36
 Multani's Presence	incorrectly draws cards off copies of spells that are countered	Advantageous	2017-08-08 16:46:15
 Myriad Landscape	Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.	Advantageous	2017-06-21 07:37:18
-Naga Vitalist	is unable to add mana of any color to its controller's mana pool if they have Cascading Cataracts on the battlefield.	Disadvantageous	2017-06-20 17:37:46
 Nebuchadnezzar	ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
 Nightsky Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Nissa, Genesis Mage	The [Nissa, Genesis Mage] Planeswalker deck contains 2 Sifter Wurm cards instead of 2 Angler Drake cards.	Unclassified	2017-07-29 15:38:35
@@ -54,6 +51,7 @@ Oubliette	getting destroyed causes the game to soft lock.	Game Breaking	2017-06-
 Perilous Predicament	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
 Phyrexian Metamorph	costs 4 with Trinisphere in play.	Unclassified	2017-07-29 15:38:39
 Primitive Justice	will either not cast/restart the game with a single target.	Game Breaking	2017-07-14 08:38:16
+Prince of Thralls	will no longer ask its owner to pay life instead of an opponent.	Unclassified	2017-08-24 16:41:02
 Profane Command	If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2017-07-29 10:31:47
 Reap	Restarts game.	Game Breaking	2017-07-30 15:01:22
 Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
@@ -72,11 +70,13 @@ Storage Matrix	Selecting yes to anything other than artifacts with two Storage M
 Structural Collapse	does not cause target to sacrifice a land.	Unconfirmed	2017-07-29 15:38:42
 Sunscourge Champion	will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2017-08-10 23:39:12
 Synthetic Destiny	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
-Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-10 10:15:03
+Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-24 16:43:46
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard 	Disadvantageous	2017-06-24 06:37:21
 The Great Aurora	does not function correctly.	Unclassified	2017-07-29 15:38:36
 Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:33
 Tomorrow, Azami's Familiar	puts both cards back on top	Disadvantageous	2017-08-22 17:40:43
+Torment of Hailfire	The undo function works incorrectly with [Torment of Hailfire].	Unclassified	2017-08-24 16:40:16
+Trinisphere	interacts incorrectly when 3 or more cost-reduction effects apply to spells being cast.	Unclassified	2017-08-24 16:39:54
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-08-10 18:50:44
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
 Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-08-10 18:44:29

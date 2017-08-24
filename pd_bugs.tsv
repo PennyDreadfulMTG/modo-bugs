@@ -15,7 +15,6 @@ Infinite Reflection	All creatures become copies, not just ones you control.	Adva
 Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-07-30 14:53:27
 Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
 Multani's Presence	incorrectly draws cards off copies of spells that are countered	Advantageous	2017-08-08 16:46:15
-Naga Vitalist	is unable to add mana of any color to its controller's mana pool if they have Cascading Cataracts on the battlefield.	Disadvantageous	2017-06-20 17:37:46
 Nebuchadnezzar	ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
 Perilous Predicament	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
 Profane Command	If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2017-07-29 10:31:47
@@ -25,7 +24,7 @@ Shorecrasher Mimic	Eventide Mimics trigger even when a card of only one of its 
 Smokebraider	Can't use mana to cast Bloodbriar	Disadvantageous	2017-08-14 21:09:49
 Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
 Structural Collapse	does not cause target to sacrifice a land.	Unconfirmed	2017-07-29 15:38:42
-Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-10 10:15:03
+Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-24 16:43:46
 Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:33
 Tomorrow, Azami's Familiar	puts both cards back on top	Disadvantageous	2017-08-22 17:40:43
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-08-10 18:50:44
