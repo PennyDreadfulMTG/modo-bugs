@@ -31,21 +31,21 @@ def scrape_bb(url):
     for b in soup.find_all('div', class_='collapsibleBlock'):
         parse_block(b)
 
-def parse_block(b):
-    title = b.find_all('h2')[0].get_text()
+def parse_block(collapsibleBlock):
+    title = collapsibleBlock.find_all('h2')[0].get_text()
     print(title)
-    handle_autocards(b)
+    handle_autocards(collapsibleBlock)
     if title == "Change Log":
-        parse_changelog(b)
+        parse_changelog(collapsibleBlock)
     elif title == "Known Issues List":
-        parse_knownbugs(b)
+        parse_knownbugs(collapsibleBlock)
     else:
         print("Unknown block: {0}".format(title))
 
-def parse_changelog(b):
+def parse_changelog(collapsibleBlock):
     # They never show Fixed bugs in the Bug Blog anymore.  Fixed bugs are now listed on the Build Notes section of MTGO weekly announcements.
     # This is frustrating.
-    for added in b.find_all('ul'):
+    for added in collapsibleBlock.find_all('ul'):
         for item in added.find_all('li'):
             print(item)
             try:
@@ -82,6 +82,8 @@ def parse_changelog(b):
                     issue.add_to_labels("From Bug Blog")
             elif find_issue_by_code(code):
                 print('Already closed.')
+            elif find_issue_by_name(item.get_text()):
+                print('Already exists.')                
             else:
                 print('Creating new issue')
                 if code is not None:
@@ -170,12 +172,20 @@ def find_issue_by_code(code):
             ISSUE_CODES[issue.id] = code
             return issue
 
+def find_issue_by_name(name):
+    if name is None: #What?
+        return None
+    all_issues = repo.get_issues(state="all")
+    for issue in all_issues:
+        if issue.title == name:
+            return issue
+
 def find_issue(cards):
     all_issues = repo.get_issues()
     relevant_issues = []
     for card in cards:
         for issue in all_issues:
-            if issue.id in ISSUE_CODES.keys():
+            if issue.id in ISSUE_CODES.keys() and ISSUE_CODES[issue.id] is not None:
                 continue
             if '[{0}]'.format(card) in issue.title and not issue in relevant_issues:
                 relevant_issues.append(issue)
