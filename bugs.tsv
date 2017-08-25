@@ -2,9 +2,7 @@ Card Name	Bug Description	Categorization	Last Confirmed
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
 Battlegate Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-08-18 03:39:08
-Cavern of Souls	and other lands that produce mana to cast spells of a creature type only function if the named creature type is the first creature type listed on the creature spell being cast.	Unclassified	2017-08-24 23:40:54
-Cavern of Souls	and other lands that produce mana to cast spells of a creature type only function if the named creature type is the first creature type listed on the creature spell being cast.	Unclassified	2017-08-24 23:40:55
-Cavern of Souls	and other lands that produce mana to cast spells of a creature type only function if the named creature type is the first creature type listed on the creature spell being cast.	Unclassified	2017-08-24 23:43:30
+Cavern of Souls	and other lands that produce mana to cast spells of a creature type only function if the named creature type is the first creature type listed on the creature spell being cast.	Unclassified	2017-08-25 03:35:40
 Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-08-02 04:22:06
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
@@ -17,13 +15,6 @@ Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017
 Cursed Scroll	does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2017-08-01 21:07:37
 Custodi Lich	The sacrifice trigger does not occur if another player was the monarch.	Disadvantageous	2017-07-21 20:02:21
 Dictate of Erebos	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
-Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 16:44:21
-Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 17:40:37
-Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 18:40:36
-Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 19:40:54
-Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 21:40:55
-Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 23:40:53
-Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 23:40:56
 Djinn of Infinite Deceits	can only be activated at sorcery speed	Disadvantageous	2017-06-14 05:52:08
 Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-06-20 17:37:30
 Dream Halls	Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-07-05 16:48:54
@@ -59,7 +50,6 @@ Oubliette	getting destroyed causes the game to soft lock.	Game Breaking	2017-06-
 Perilous Predicament	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
 Phyrexian Metamorph	costs 4 with Trinisphere in play.	Unclassified	2017-07-29 15:38:39
 Primitive Justice	will either not cast/restart the game with a single target.	Game Breaking	2017-07-14 08:38:16
-Prince of Thralls	will no longer ask its owner to pay life instead of an opponent.	Unclassified	2017-08-24 16:44:22
 Profane Command	If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2017-07-29 10:31:47
 Reap	Restarts game.	Game Breaking	2017-07-30 15:01:22
 Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
@@ -83,7 +73,7 @@ The Gitrog Monster	Non-land permanents that have become lands due to an enchantm
 The Great Aurora	does not function correctly.	Unclassified	2017-07-29 15:38:36
 Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:33
 Tomorrow, Azami's Familiar	puts both cards back on top	Disadvantageous	2017-08-22 17:40:43
-Torment of Hailfire	The undo function works incorrectly with [Torment of Hailfire].	Unclassified	2017-08-24 16:44:23
+Torment of Hailfire	The undo function works incorrectly with [Torment of Hailfire].	Disadvantageous	2017-08-25 03:22:38
 Trinisphere	interacts incorrectly when 3 or more cost-reduction effects apply to spells being cast.	Unclassified	2017-08-24 16:44:24
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-08-10 18:50:44
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
