@@ -2,9 +2,9 @@ Card Name	Bug Description	Categorization	Last Confirmed
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
 Battlegate Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-08-18 03:39:08
-Cavern of Souls	and other lands that produce mana to cast spells of a creature type only function if the named creature type is the first creature type listed on the creature spell being cast.	Unclassified	2017-08-24 23:39:44
-Cavern of Souls	and other lands that produce mana to cast spells of a creature type only function if the named creature type is the first creature type listed on the creature spell being cast.	Unclassified	2017-08-24 23:39:46
-Cavern of Souls	and other lands that produce mana to cast spells of a creature type only function if the named creature type is the first creature type listed on the creature spell being cast.	Unclassified	2017-08-24 23:40:49
+Cavern of Souls	and other lands that produce mana to cast spells of a creature type only function if the named creature type is the first creature type listed on the creature spell being cast.	Unclassified	2017-08-24 23:40:54
+Cavern of Souls	and other lands that produce mana to cast spells of a creature type only function if the named creature type is the first creature type listed on the creature spell being cast.	Unclassified	2017-08-24 23:40:55
+Cavern of Souls	and other lands that produce mana to cast spells of a creature type only function if the named creature type is the first creature type listed on the creature spell being cast.	Unclassified	2017-08-24 23:43:30
 Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-08-02 04:22:06
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
@@ -22,8 +22,8 @@ Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 17:40
 Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 18:40:36
 Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 19:40:54
 Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 21:40:55
-Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 22:37:32
-Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 23:37:40
+Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 23:40:53
+Diregraf Colossus	will no longer restart the game.	Unclassified	2017-08-24 23:40:56
 Djinn of Infinite Deceits	can only be activated at sorcery speed	Disadvantageous	2017-06-14 05:52:08
 Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-06-20 17:37:30
 Dream Halls	Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-07-05 16:48:54
