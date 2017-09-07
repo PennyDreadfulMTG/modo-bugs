@@ -1,8 +1,9 @@
 Card Name	Bug Description	Categorization	Last Confirmed
+Abandoned Sarcophagus	incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].	Unclassified	2017-09-07 18:41:07
+As Foretold	incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].	Unclassified	2017-09-07 18:41:07
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
 Battlegate Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-08-18 03:39:08
-Cavern of Souls	and other lands that produce mana to cast spells of a creature type only function if the named creature type is the first creature type listed on the creature spell being cast.	Unclassified	2017-08-25 03:35:40
 Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-08-02 04:22:06
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
@@ -23,6 +24,7 @@ Freyalise's Winds	Permanents with wind counters remove counters instead of untap
 Genju of the Fields	does not cause you to gain life upon dealing damage	Disadvantageous	2017-07-29 15:20:35
 Gideon's Intervention	Casting a second copy causes the first to become non-functional, allowing the named card to be cast and deal damage.	Disadvantageous	2017-08-10 22:31:56
 Gideon, Martial Paragon	AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2017-08-10 22:39:10
+Goblin Game	reveals your chosen number before your opponents choose.	Unclassified	2017-09-07 18:40:34
 Grafdigger's Cage	If you manifest a creature with [Grafdigger's Cage] in play, it will be exiled.	Disadvantageous	2017-07-16 19:47:31
 Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017-05-28 18:18:21
 High Seas	Text is treated as 'Red and Green creature spells cost {1} more'.  Only affects Multicolour spells, and only adds 1 to the mana cost of them.	Disadvantageous	2017-05-04 13:49:50
