@@ -1,6 +1,5 @@
 Card Name	Bug Description	Categorization	Last Confirmed
-Abandoned Sarcophagus	incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].	Unclassified	2017-09-07 18:43:57
-As Foretold	incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].	Unclassified	2017-09-07 18:43:57
+Abandoned Sarcophagus	As Foretold incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].	Unclassified	2017-09-10 04:01:08
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
 Battlegate Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-08-18 03:39:08
