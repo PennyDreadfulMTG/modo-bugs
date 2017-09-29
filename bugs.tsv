@@ -1,28 +1,28 @@
 Card Name	Bug Description	Categorization	Last Confirmed
-Abandoned Sarcophagus	As Foretold incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].	Disadvantageous	2017-09-21 22:09:52
+Abandoned Sarcophagus	As Foretold incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].	Disadvantageous	2017-09-29 07:41:06
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
 Battlegate Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-08-18 03:39:08
-Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-08-02 04:22:06
+Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
-Compost	If a player cast a split card that are black on the uncasted side, the draw effect isn't triggered	Disadvantageous	2017-08-16 00:38:53
-Concerted Effort	Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-07-14 08:38:21
+Compost	If a player cast a split card that are black on the uncasted side, the draw effect isn't triggered	Disadvantageous	2017-09-29 07:41:08
+Concerted Effort	Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-09-29 07:41:28
 Containment Priest	exiles Theros Gods even when their devotion isn't met.	Advantageous	2017-07-16 19:47:21
 Crackling Doom	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
 Cryptic Gateway	Cannot select a card from your hand	Non-Functional ability	2017-05-28 18:39:00
 Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017-06-02 11:44:23
-Cursed Scroll	does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2017-08-01 21:07:37
-Custodi Lich	The sacrifice trigger does not occur if another player was the monarch.	Disadvantageous	2017-07-21 20:02:21
+Cursed Scroll	does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2017-09-29 07:41:15
+Custodi Lich	The sacrifice trigger does not occur if another player was the monarch.	Disadvantageous	2017-09-29 07:41:21
 Dictate of Erebos	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
 Djinn of Infinite Deceits	can only be activated at sorcery speed	Disadvantageous	2017-06-14 05:52:08
 Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-06-20 17:37:30
 Dream Halls	Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-07-05 16:48:54
 Elesh Norn, Grand Cenobite	If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2017-08-25 04:39:46
 Fathom Feeder	If [Fathom Feeder] is activated on an opponent's turn it also exiles the top card of your library.	Disadvantageous	2017-09-21 22:40:52
-Freyalise's Winds	Permanents with wind counters remove counters instead of untapping at any time, not only during their controller's untap step.	Disadvantageous	2017-08-05 02:06:13
+Freyalise's Winds	Permanents with wind counters remove counters instead of untapping at any time, not only during their controller's untap step.	Disadvantageous	2017-09-29 07:41:13
 Genju of the Fields	does not cause you to gain life upon dealing damage	Disadvantageous	2017-07-29 15:20:35
-Gideon's Intervention	Casting a second copy causes the first to become non-functional, allowing the named card to be cast and deal damage.	Disadvantageous	2017-08-10 22:31:56
+Gideon's Intervention	Casting a second copy causes the first to become non-functional, allowing the named card to be cast and deal damage.	Disadvantageous	2017-09-29 07:41:17
 Gideon, Martial Paragon	AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2017-08-10 22:39:10
 Goblin Game	reveals your chosen number before your opponents choose.	Disadvantageous	2017-09-12 08:38:40
 Grafdigger's Cage	If you manifest a creature with [Grafdigger's Cage] in play, it will be exiled.	Disadvantageous	2017-07-16 19:47:31
@@ -32,15 +32,15 @@ Hollow One	's cost reduction doesn't consider split cards that are discarded	Dis
 Hollow One	doesn’t count discarded split cards.	Disadvantageous	2017-09-21 22:11:24
 Identity Thief	Restarts the game when attempting to copy a creature.	Game Breaking	2017-06-28 05:37:36
 Ignite Memories	and similar cards can cause a game restart if the target has no cards in hand.	Game Breaking	2017-08-20 07:45:56
-Imprisoned in the Moon	does not add mana ability to enchanted creature	Disadvantageous	2017-07-29 17:48:47
+Imprisoned in the Moon	does not add mana ability to enchanted creature	Disadvantageous	2017-09-29 07:41:16
 Infinite Reflection	All creatures become copies, not just ones you control.	Advantageous	2017-07-14 08:38:20
 Island Sanctuary	's replacement effect is available if you draw a card during an opponents draw step	Advantageous	2017-06-19 21:55:29
 Karplusan Minotaur	Cumulative upkeep cannot be paid	Disadvantageous	2017-07-30 14:49:58
 Koth of the Hammer	When controlling the Emblem of [Koth of the Hammer], lands do not display the blue text they have.	Graphical	2017-07-16 19:47:11
 Lich	If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-06-29 19:17:25
-Liquid Fire	doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2017-08-13 13:34:35
-Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-07-30 14:53:27
-Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
+Liquid Fire	doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2017-09-29 07:41:09
+Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-09-29 07:41:23
+Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-09-29 07:41:22
 Memory Lapse	moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-07-14 08:38:13
 Mirror Match	Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2017-06-30 16:54:05
 Misdirection	can reset the game in rare cases.	Game Breaking	2017-08-10 22:48:36
@@ -50,7 +50,7 @@ Nebuchadnezzar	ability makes the game start endlessly repeating itself	Game Brea
 Nightsky Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Null Chamber	Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2017-06-16 23:45:44
 Odds	Odds: Restarts the game in buggy state on heads	Game Breaking	2017-07-29 15:38:44
-Oriss, Samite Guardian	Using [Oriss, Samite Guardian]'s Grandeur ability during controller's precombat main phase will not allow controller to attack that turn.	Disadvantageous	2017-08-25 04:54:06
+Oriss, Samite Guardian	Using [Oriss, Samite Guardian]'s Grandeur ability during controller's precombat main phase will not allow controller to attack that turn.	Disadvantageous	2017-09-29 07:41:07
 Oubliette	getting destroyed causes the game to soft lock.	Game Breaking	2017-06-02 11:44:14
 Perilous Predicament	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
 Phyrexian Metamorph	costs 4 with Trinisphere in play.	Unclassified	2017-07-29 15:38:39
@@ -59,20 +59,20 @@ Profane Command	If a player gains shroud in response to Profane Command, the fir
 Puppeteer Clique	Creatures returned with [Puppeteer Clique] are exiled at the end of any turn, not just the controller's	Disadvantageous	2017-08-28 01:41:19
 Reap	Restarts game.	Game Breaking	2017-07-30 15:01:22
 Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
-Reincarnation	Does nothing	Non-Functional ability	2017-07-14 08:38:18
+Reincarnation	Does nothing	Non-Functional ability	2017-09-29 07:41:27
 Riches	If a commander is chosen for [Riches] in Rags // Riches, no other opponents need to choose a creature.	Disadvantageous	2017-08-12 18:38:51
 Riptide Replicator	token uses incorrect art.	Graphical	2017-06-24 14:06:25
 Riverfall Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
-Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-07-14 08:38:12
-Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-05-28 18:34:35
+Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-09-29 07:41:19
+Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
 Shorecrasher Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Solemnity	With [Solemnity] in play, you are still prompted to pay one mana for cards with cumulative upkeep that have zero age counters.	Disadvantageous	2017-08-10 22:39:13
 Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
 Storage Matrix	Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2017-06-29 19:29:14
 Structural Collapse	does not cause target to sacrifice a land.	Unconfirmed	2017-07-29 15:38:42
 Sunscourge Champion	will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2017-08-10 23:39:12
-Synthetic Destiny	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-05-28 18:18:01
+Synthetic Destiny	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-09-29 07:41:22
 Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-24 16:43:46
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard 	Disadvantageous	2017-06-24 06:37:21
 The Great Aurora	does not function correctly.	Unclassified	2017-07-29 15:38:36
@@ -83,8 +83,8 @@ Trinisphere	interacts incorrectly when 3 or more cost-reduction effects apply t
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-08-10 18:50:44
 Unesh, Criosphinx Sovereign	If [Unesh, Criosphinx Sovereign] or similar creatures have their creature type changed, they do not trigger.	Disadvantageous	2017-09-21 22:07:27
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
-Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-08-10 18:44:29
-Vizier of Many Faces	keeps its abilities when an opponent controls Overwhelming Splendor.	Advantageous	2017-08-10 23:39:11
-Whims of the Fates	Causes client crashes	Game Breaking	2017-06-20 17:37:32
+Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-09-29 07:41:18
+Vizier of Many Faces	keeps its abilities when an opponent controls Overwhelming Splendor.	Advantageous	2017-09-29 07:41:10
+Whims of the Fates	Causes client crashes	Game Breaking	2017-09-29 07:41:25
 Woodlurker Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
-Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-07-14 08:38:17
+Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-09-29 07:41:24
