@@ -1,20 +1,22 @@
 Card Name	Bug Description	Categorization	Last Confirmed
 Abandoned Sarcophagus	As Foretold incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].	Disadvantageous	2017-09-29 07:41:06
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
+Axis of Mortality	still fully resolves when a player cannot gain life.	Unclassified	2017-10-05 16:40:48
 Battlegate Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-08-18 03:39:08
 Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
+Collected Company	does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Unclassified	2017-10-05 16:44:01
 Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
+Commandeer	does not gain control of the targeted noncreature spell.	Unclassified	2017-10-05 16:43:22
 Compost	If a player cast a split card that are black on the uncasted side, the draw effect isn't triggered	Disadvantageous	2017-09-29 07:41:08
 Concerted Effort	Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-09-29 07:41:28
+Conqueror's Galleon	will incorrectly return to the battlefield transformed under its owner's control.	Unclassified	2017-10-05 16:41:27
 Containment Priest	exiles Theros Gods even when their devotion isn't met.	Advantageous	2017-07-16 19:47:21
-Crackling Doom	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
 Cryptic Gateway	Cannot select a card from your hand	Non-Functional ability	2017-05-28 18:39:00
 Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017-06-02 11:44:23
 Cursed Scroll	does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2017-09-29 07:41:15
 Custodi Lich	The sacrifice trigger does not occur if another player was the monarch.	Disadvantageous	2017-09-29 07:41:21
-Dictate of Erebos	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
 Djinn of Infinite Deceits	can only be activated at sorcery speed	Disadvantageous	2017-06-14 05:52:08
 Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-06-20 17:37:30
 Dream Halls	Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-07-05 16:48:54
@@ -24,8 +26,10 @@ Freyalise's Winds	Permanents with wind counters remove counters instead of untap
 Genju of the Fields	does not cause you to gain life upon dealing damage	Disadvantageous	2017-07-29 15:20:35
 Gideon's Intervention	Casting a second copy causes the first to become non-functional, allowing the named card to be cast and deal damage.	Disadvantageous	2017-09-29 07:41:17
 Gideon, Martial Paragon	AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2017-08-10 22:39:10
+Gishath, Sun's Avatar	does not allow you to decline to put a Dinosaur creature into play if you have one in your hand.	Unclassified	2017-10-05 16:45:14
 Goblin Game	reveals your chosen number before your opponents choose.	Disadvantageous	2017-09-12 08:38:40
 Grafdigger's Cage	If you manifest a creature with [Grafdigger's Cage] in play, it will be exiled.	Disadvantageous	2017-07-16 19:47:31
+Hada Freeblade	Certain cards, such as [Hada Freeblade], do not display a legality error for the Pauper format in the collection scene.	Unclassified	2017-10-05 17:42:20
 Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017-05-28 18:18:21
 High Seas	Text is treated as 'Red and Green creature spells cost {1} more'.  Only affects Multicolour spells, and only adds 1 to the mana cost of them.	Disadvantageous	2017-05-04 13:49:50
 Hollow One	's cost reduction doesn't consider split cards that are discarded	Disadvantageous	2017-08-28 01:43:53
@@ -52,8 +56,6 @@ Null Chamber	Controller is asked to name two non-basic lands, rather than each p
 Odds	Odds: Restarts the game in buggy state on heads	Game Breaking	2017-07-29 15:38:44
 Oriss, Samite Guardian	Using [Oriss, Samite Guardian]'s Grandeur ability during controller's precombat main phase will not allow controller to attack that turn.	Disadvantageous	2017-09-29 07:41:07
 Oubliette	getting destroyed causes the game to soft lock.	Game Breaking	2017-06-02 11:44:14
-Perilous Predicament	sometimes makes caster sacrifice their own creature under rare circumstances.	Disadvantageous	2017-07-23 21:27:13
-Phyrexian Metamorph	costs 4 with Trinisphere in play.	Unclassified	2017-07-29 15:38:39
 Primitive Justice	will either not cast/restart the game with a single target.	Game Breaking	2017-07-14 08:38:16
 Profane Command	If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2017-08-27 19:47:37
 Puppeteer Clique	Creatures returned with [Puppeteer Clique] are exiled at the end of any turn, not just the controller's	Disadvantageous	2017-08-28 01:41:19
@@ -61,10 +63,12 @@ Reap	Restarts game.	Game Breaking	2017-07-30 15:01:22
 Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
 Reincarnation	Does nothing	Non-Functional ability	2017-09-29 07:41:27
 Riches	If a commander is chosen for [Riches] in Rags // Riches, no other opponents need to choose a creature.	Disadvantageous	2017-08-12 18:38:51
+Rimescale Dragon	does not place an Ice Counter on targeted creatures.	Unclassified	2017-10-05 16:42:44
 Riptide Replicator	token uses incorrect art.	Graphical	2017-06-24 14:06:25
 Riverfall Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-10-01 05:48:59
+Settle the Wreckage	does not give the targeted player the option to not search their library.	Unclassified	2017-10-05 16:42:05
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
 Shorecrasher Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Solemnity	With [Solemnity] in play, you are still prompted to pay one mana for cards with cumulative upkeep that have zero age counters.	Disadvantageous	2017-08-10 22:39:13
