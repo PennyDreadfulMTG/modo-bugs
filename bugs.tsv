@@ -6,7 +6,7 @@ Battlegate Mimic	Eventide Mimics trigger even when a card of only one of its co
 Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-08-18 03:39:08
 Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
-Collected Company	does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Unclassified	2017-10-05 17:43:42
+Collected Company	does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2017-10-06 04:59:08
 Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
 Commandeer	does not gain control of the targeted noncreature spell.	Disadvantageous	2017-10-06 04:15:22
 Compost	If a player cast a split card that are black on the uncasted side, the draw effect isn't triggered	Disadvantageous	2017-09-29 07:41:08
@@ -26,10 +26,10 @@ Freyalise's Winds	Permanents with wind counters remove counters instead of untap
 Genju of the Fields	does not cause you to gain life upon dealing damage	Disadvantageous	2017-07-29 15:20:35
 Gideon's Intervention	Casting a second copy causes the first to become non-functional, allowing the named card to be cast and deal damage.	Disadvantageous	2017-09-29 07:41:17
 Gideon, Martial Paragon	AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2017-08-10 22:39:10
-Gishath, Sun's Avatar	does not allow you to decline to put a Dinosaur creature into play if you have one in your hand.	Unclassified	2017-10-05 17:43:40
+Gishath, Sun's Avatar	does not allow you to decline to put a Dinosaur creature into play if you have one in your hand.	Disadvantageous	2017-10-06 04:59:20
 Goblin Game	reveals your chosen number before your opponents choose.	Disadvantageous	2017-09-12 08:38:40
 Grafdigger's Cage	If you manifest a creature with [Grafdigger's Cage] in play, it will be exiled.	Disadvantageous	2017-07-16 19:47:31
-Hada Freeblade	Certain cards, such as [Hada Freeblade], do not display a legality error for the Pauper format in the collection scene.	Unclassified	2017-10-05 17:43:37
+Hada Freeblade	Certain cards, such as [Hada Freeblade], do not display a legality error for the Pauper format in the collection scene.	Graphical	2017-10-06 04:50:46
 Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017-05-28 18:18:21
 High Seas	Text is treated as 'Red and Green creature spells cost {1} more'.  Only affects Multicolour spells, and only adds 1 to the mana cost of them.	Disadvantageous	2017-05-04 13:49:50
 Hollow One	's cost reduction doesn't consider split cards that are discarded	Disadvantageous	2017-08-28 01:43:53
@@ -63,7 +63,7 @@ Reap	Restarts game.	Game Breaking	2017-07-30 15:01:22
 Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
 Reincarnation	Does nothing	Non-Functional ability	2017-09-29 07:41:27
 Riches	If a commander is chosen for [Riches] in Rags // Riches, no other opponents need to choose a creature.	Disadvantageous	2017-08-12 18:38:51
-Rimescale Dragon	does not place an Ice Counter on targeted creatures.	Unclassified	2017-10-05 17:43:45
+Rimescale Dragon	does not place an Ice Counter on targeted creatures.	Disadvantageous	2017-10-06 05:13:27
 Riptide Replicator	token uses incorrect art.	Graphical	2017-06-24 14:06:25
 Riverfall Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-08-20 07:49:54
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
