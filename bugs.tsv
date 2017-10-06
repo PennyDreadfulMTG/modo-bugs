@@ -11,7 +11,7 @@ Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	D
 Commandeer	does not gain control of the targeted noncreature spell.	Disadvantageous	2017-10-06 04:15:22
 Compost	If a player cast a split card that are black on the uncasted side, the draw effect isn't triggered	Disadvantageous	2017-09-29 07:41:08
 Concerted Effort	Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-09-29 07:41:28
-Conqueror's Galleon	will incorrectly return to the battlefield transformed under its owner's control.	Unclassified	2017-10-05 17:43:47
+Conqueror's Galleon	will incorrectly return to the battlefield transformed under its owner's control instead of it's controller's.	Advantageous	2017-10-06 10:52:47
 Containment Priest	exiles Theros Gods even when their devotion isn't met.	Advantageous	2017-07-16 19:47:21
 Cryptic Gateway	Cannot select a card from your hand	Non-Functional ability	2017-05-28 18:39:00
 Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017-06-02 11:44:23
