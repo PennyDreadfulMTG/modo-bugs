@@ -8,7 +8,7 @@ Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a p
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Collected Company	does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Unclassified	2017-10-05 17:43:42
 Combat Celebrant	does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
-Commandeer	does not gain control of the targeted noncreature spell.	Unclassified	2017-10-05 17:43:43
+Commandeer	does not gain control of the targeted noncreature spell.	Disadvantageous	2017-10-06 04:15:22
 Compost	If a player cast a split card that are black on the uncasted side, the draw effect isn't triggered	Disadvantageous	2017-09-29 07:41:08
 Concerted Effort	Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-09-29 07:41:28
 Conqueror's Galleon	will incorrectly return to the battlefield transformed under its owner's control.	Unclassified	2017-10-05 17:43:47
