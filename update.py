@@ -1,6 +1,7 @@
 import codecs
 import re
 import sys
+import datetime
 
 import configuration
 import requests
@@ -18,6 +19,7 @@ ALL_BANNED = []
 PD_BANNED = []
 
 AFFECTS_REGEX = r'^Affects: (.*)$'
+DISCORD_REGEX = r'^Reported on Discord by (\w+#[0-9]+)$'
 
 if sys.stdout.encoding != 'utf-8':
     sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer, 'strict')
@@ -100,6 +102,14 @@ def process_issue(issue):
             cat = "Unclassified"
         else:
             cat = "Unconfirmed"
+            if re.match(DISCORD_REGEX, issue.body) and not issue.comments:
+                days = (datetime.datetime.now() - issue.updated_at).days
+                print('Issue #{id} was reported {days} ago via Discord, and has had no followup.'.format(id=issue.number, days=days))
+                if days > 1:
+                    issue.create_comment('Closing due to lack of followup.')
+                    issue.edit(state='closed')
+                    return
+
         if not "Unclassified" in labels:
             issue.add_to_labels("Unclassified")
     elif "Unclassified" in labels:
