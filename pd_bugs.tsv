@@ -3,7 +3,7 @@ Abandoned Sarcophagus	As Foretold incorrectly does not apply to cards able to be
 Battlegate Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-10-11 02:23:07
 Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-08-18 03:39:08
 Concerted Effort	Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-09-29 07:41:28
-Conqueror's Galleon	will incorrectly return to the battlefield transformed under its owner's control instead of it's controller's.	Advantageous	2017-10-06 10:52:47
+Conqueror's Galleon	will incorrectly return to the battlefield transformed under its owner's control instead of it's controller's.	Advantageous	2017-10-20 05:38:39
 Custodi Lich	The sacrifice trigger does not occur if another player was the monarch.	Disadvantageous	2017-10-13 01:22:39
 Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-06-20 17:37:30
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-06 09:38:53
@@ -24,7 +24,7 @@ Rimescale Dragon	does not place an Ice Counter on targeted creatures.	Disadvanta
 Riverfall Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-10-11 02:23:07
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-06 09:38:53
-Savage Stomp	If you cast [Savage Stomp] with [Gonti, Lord of Luxury] and your opponent controls a dinosaur, the cost will incorrectly be reduced by 2.	Unclassified	2017-10-19 17:44:37
+Savage Stomp	If you cast [Savage Stomp] with [Gonti, Lord of Luxury] and your opponent controls a dinosaur, the cost will incorrectly be reduced by 2.	Unclassified	2017-10-20 05:38:38
 Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-10-01 05:48:59
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
 Shorecrasher Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-10-11 02:23:07
