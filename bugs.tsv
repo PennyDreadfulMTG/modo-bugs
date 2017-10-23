@@ -16,7 +16,7 @@ Containment Priest	exiles Theros Gods even when their devotion isn't met.	Advant
 Cryptic Gateway	Cannot select a card from your hand	Non-Functional ability	2017-05-28 18:39:00
 Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017-06-02 11:44:23
 Cursed Scroll	does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2017-09-29 07:41:15
-Custodi Lich	The sacrifice trigger does not occur if another player was the monarch.	Disadvantageous	2017-10-13 01:22:39
+Custodi Lich	The sacrifice trigger does not occur if another player was the monarch.	Disadvantageous	2017-10-23 05:16:21
 Djinn of Infinite Deceits	can only be activated at sorcery speed	Disadvantageous	2017-06-14 05:52:08
 Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-06-20 17:37:30
 Doubling Season	incorrectly doubles loyalty counters added from costs of loyalty abilities.	Unclassified	2017-10-19 17:44:38
@@ -29,7 +29,7 @@ Genju of the Fields	does not cause you to gain life upon dealing damage	Disadvan
 Gideon, Martial Paragon	AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2017-08-10 22:39:10
 Gishath, Sun's Avatar	does not allow you to decline to put a Dinosaur creature into play if you have one in your hand.	Disadvantageous	2017-10-06 04:59:20
 Goblin Game	reveals your chosen number before your opponents choose.	Disadvantageous	2017-09-12 08:38:40
-Gonti, Lord of Luxury	If you cast Savage Stomp with [Gonti, Lord of Luxury] and your opponent controls a dinosaur, the cost will incorrectly be reduced by 2.	Unclassified	2017-10-23 04:19:25
+Gonti, Lord of Luxury	If you cast Savage Stomp with [Gonti, Lord of Luxury] and your opponent controls a dinosaur, the cost will incorrectly be reduced by 2.	Unclassified	2017-10-23 04:38:36
 Grafdigger's Cage	If you manifest a creature with [Grafdigger's Cage] in play, it will be exiled.	Disadvantageous	2017-07-16 19:47:31
 Hada Freeblade	Certain cards, such as [Hada Freeblade], do not display a legality error for the Pauper format in the collection scene.	Graphical	2017-10-06 04:50:46
 Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017-05-28 18:18:21
@@ -65,6 +65,7 @@ Reap	Restarts game.	Game Breaking	2017-07-30 15:01:22
 Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
 Reincarnation	Does nothing	Non-Functional ability	2017-09-29 07:41:27
 Riches	If a commander is chosen for [Riches] in Rags // Riches, no other opponents need to choose a creature.	Disadvantageous	2017-08-12 18:38:51
+Ricochet Trap	restarts the game.	Game Breaking	2017-10-23 04:59:03
 Rimescale Dragon	does not place an Ice Counter on targeted creatures.	Disadvantageous	2017-10-06 05:13:27
 Riptide Replicator	token uses incorrect art.	Graphical	2017-06-24 14:06:25
 Riverfall Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-10-11 02:23:07
