@@ -4,6 +4,7 @@ Athreos, God of Passage	does not associate its triggers with specific creatures.
 Axis of Mortality	still fully resolves when a player cannot gain life.	Unclassified	2017-10-09 05:05:45
 Battlegate Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-10-11 02:23:07
 Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-08-18 03:39:08
+Burn	Two [Icefall Regent]s cause [Turn] // [Burn] to cost {4} more, not {2} more	Unconfirmed	2017-10-30 01:41:07
 Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Collected Company	does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2017-10-06 04:59:08
@@ -22,7 +23,7 @@ Dominator Drone	does not trigger with other devoid creatures. No trigger goes on
 Doubling Season	incorrectly doubles loyalty counters added from costs of loyalty abilities.	Advantageous	2017-10-24 13:38:38
 Dream Halls	Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-07-05 16:48:54
 Elesh Norn, Grand Cenobite	If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2017-08-25 04:39:46
-Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-06 09:38:53
+Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-30 02:18:06
 Fathom Feeder	If [Fathom Feeder] is activated on an opponent's turn it also exiles the top card of your library.	Disadvantageous	2017-09-21 22:40:52
 Freyalise's Winds	Permanents with wind counters remove counters instead of untapping at any time, not only during their controller's untap step.	Disadvantageous	2017-09-29 07:41:13
 Genju of the Fields	does not cause you to gain life upon dealing damage	Disadvantageous	2017-07-29 15:20:35
@@ -37,7 +38,7 @@ Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017
 High Seas	Text is treated as 'Red and Green creature spells cost {1} more'.  Only affects Multicolour spells, and only adds 1 to the mana cost of them.	Disadvantageous	2017-05-04 13:49:50
 Hollow One	's cost reduction doesn't consider split cards that are discarded	Disadvantageous	2017-08-28 01:43:53
 Hollow One	doesn’t count discarded split cards.	Disadvantageous	2017-09-21 22:11:24
-Icefall Regent	Two [Icefall Regent]s cause [Turn // Burn] to cost {4} more, not {2} more	Unconfirmed	2017-10-28 21:38:37
+Icefall Regent	Two [Icefall Regent]s cause [Turn] // [Burn] to cost {4} more, not {2} more	Unconfirmed	2017-10-30 01:41:07
 Identity Thief	Restarts the game when attempting to copy a creature.	Game Breaking	2017-06-28 05:37:36
 Ignite Memories	and similar cards can cause a game restart if the target has no cards in hand.	Game Breaking	2017-08-20 07:45:56
 Imprisoned in the Moon	does not add mana ability to enchanted creature	Disadvantageous	2017-09-29 07:41:16
@@ -72,14 +73,14 @@ Rimescale Dragon	does not place an Ice Counter on targeted creatures.	Disadvanta
 Riptide Replicator	token uses incorrect art.	Graphical	2017-06-24 14:06:25
 Riverfall Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-10-11 02:23:07
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
-Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-06 09:38:53
-Season's Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-06 09:38:53
+Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-30 02:18:06
+Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-30 02:18:06
 Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-10-01 05:48:59
 Settle the Wreckage	does not give the targeted player the option to not search their library.	Unclassified	2017-10-05 17:43:46
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
 Shorecrasher Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-10-11 02:23:07
 Solemnity	With [Solemnity] in play, you are still prompted to pay one mana for cards with cumulative upkeep that have zero age counters.	Disadvantageous	2017-08-10 22:39:13
-Spell Crumple	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-06 09:38:53
+Spell Crumple	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-30 02:18:06
 Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
 Storage Matrix	Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2017-06-29 19:29:14
 Structural Collapse	does not cause target to sacrifice a land.	Unconfirmed	2017-07-29 15:38:42
@@ -93,7 +94,7 @@ Tomorrow, Azami's Familiar	puts both cards back on top	Disadvantageous	2017-08-2
 Torment of Hailfire	The undo function works incorrectly with [Torment of Hailfire].	Disadvantageous	2017-08-25 03:22:38
 Trinisphere	interacts incorrectly when 3 or more cost-reduction effects apply to spells being cast.	Unclassified	2017-08-24 16:44:24
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-10-24 13:18:15
-Turn // Burn	Two [Icefall Regent]s cause [Turn // Burn] to cost {4} more, not {2} more	Unconfirmed	2017-10-28 21:38:37
+Turn	Two [Icefall Regent]s cause [Turn] // [Burn] to cost {4} more, not {2} more	Unconfirmed	2017-10-30 01:41:07
 Unesh, Criosphinx Sovereign	If [Unesh, Criosphinx Sovereign] or similar creatures have their creature type changed, they do not trigger.	Disadvantageous	2017-09-21 22:07:27
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
 Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-09-29 07:41:18

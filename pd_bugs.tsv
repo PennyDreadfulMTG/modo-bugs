@@ -6,12 +6,12 @@ Concerted Effort	Specific protections are not shared among all creatures. (examp
 Conqueror's Galleon	will incorrectly return to the battlefield transformed under its owner's control instead of it's controller's.	Advantageous	2017-10-20 05:38:39
 Custodi Lich	The sacrifice trigger does not occur if another player was the monarch.	Disadvantageous	2017-10-23 05:16:21
 Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-06-20 17:37:30
-Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-06 09:38:53
+Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-30 02:18:06
 Fathom Feeder	If [Fathom Feeder] is activated on an opponent's turn it also exiles the top card of your library.	Disadvantageous	2017-09-21 22:40:52
 Genju of the Fields	does not cause you to gain life upon dealing damage	Disadvantageous	2017-07-29 15:20:35
 Gideon's Intervention	does not prevent damage from Syndicate trafficker's +1/+1 counters.	Unclassified	2017-10-25 00:38:37
 Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017-05-28 18:18:21
-Icefall Regent	Two [Icefall Regent]s cause [Turn // Burn] to cost {4} more, not {2} more	Unconfirmed	2017-10-28 21:38:37
+Icefall Regent	Two [Icefall Regent]s cause [Turn] // [Burn] to cost {4} more, not {2} more	Unconfirmed	2017-10-30 01:41:07
 Identity Thief	Restarts the game when attempting to copy a creature.	Game Breaking	2017-06-28 05:37:36
 Ignite Memories	and similar cards can cause a game restart if the target has no cards in hand.	Game Breaking	2017-08-20 07:45:56
 Imprisoned in the Moon	does not add mana ability to enchanted creature	Disadvantageous	2017-09-29 07:41:16
@@ -25,7 +25,7 @@ Reincarnation	Does nothing	Non-Functional ability	2017-09-29 07:41:27
 Rimescale Dragon	does not place an Ice Counter on targeted creatures.	Disadvantageous	2017-10-06 05:13:27
 Riverfall Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-10-11 02:23:07
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
-Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-06 09:38:53
+Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-30 02:18:06
 Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-10-01 05:48:59
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
 Shorecrasher Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-10-11 02:23:07
@@ -35,6 +35,5 @@ Tawnos's Coffin	crashes the game for everyone when it tries to return a card to 
 Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:33
 Tomorrow, Azami's Familiar	puts both cards back on top	Disadvantageous	2017-08-22 17:40:43
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-10-24 13:18:15
-Turn // Burn	Two [Icefall Regent]s cause [Turn // Burn] to cost {4} more, not {2} more	Unconfirmed	2017-10-28 21:38:37
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
 Woodlurker Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-10-11 02:23:07
