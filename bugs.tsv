@@ -80,6 +80,7 @@ Settle the Wreckage	does not give the targeted player the option to not search t
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
 Shorecrasher Mimic	Eventide Mimics trigger even when a card of only one of its colors is cast.	Advantageous	2017-10-11 02:23:07
 Solemnity	With [Solemnity] in play, you are still prompted to pay one mana for cards with cumulative upkeep that have zero age counters.	Disadvantageous	2017-08-10 22:39:13
+Sorcerous Spyglass	crashes MTGO upon reviewing the game	Unconfirmed	2017-10-30 02:45:22
 Spell Crumple	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-30 02:18:06
 Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
 Storage Matrix	Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2017-06-29 19:29:14
