@@ -117,14 +117,18 @@ def parse_knownbugs(b):
                 lines = b.find_all(string=re.compile(r'\[' + cards[0] + '\]'))
                 if not lines:
                     continue
-                parent = lines[0].parent
-                code = str(parent.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
-                print(code)
-                text = ''.join(parent.strings)
-                print(text)
-                create_comment(issue, 'Found in bug blog.\n{0}\nCode: {1}'.format(text, code))
-                if not ("From Bug Blog" in [i.name for i in issue.labels]):
-                    issue.add_to_labels("From Bug Blog")
+                for line in lines:
+                    parent = line.parent
+                    code = str(parent.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
+                    print(code)
+                    if find_issue_by_code(code) is not None:
+                        print("Already assigned.")
+                        continue
+                    text = ''.join(parent.strings)
+                    print(text)
+                    create_comment(issue, 'Found in bug blog.\n{0}\nCode: {1}'.format(text, code))
+                    if not ("From Bug Blog" in [i.name for i in issue.labels]):
+                        issue.add_to_labels("From Bug Blog")
                 continue
 
         code = code.group(1).strip()
