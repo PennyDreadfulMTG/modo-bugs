@@ -83,14 +83,14 @@ def parse_changelog(collapsibleBlock):
             elif find_issue_by_code(code):
                 print('Already closed.')
             elif find_issue_by_name(item.get_text()):
-                print('Already exists.')                
+                print('Already exists.')
             else:
                 print('Creating new issue')
                 if code is not None:
                     text = "From Bug Blog.\nCode: {0}".format(code)
                 else:
                     text = "From Bug Blog."
-                repo.create_issue(item.get_text(), body=text, labels=["From Bug Blog"])
+                repo.create_issue(replace_smartquotes(item.get_text()), body=replace_smartquotes(text), labels=["From Bug Blog"])
 
 def get_cards_from_string(item):
     cards = re.findall(r'\[?\[([^\]]*)\]\]?', item)
@@ -143,7 +143,7 @@ def parse_knownbugs(b):
 
 def create_comment(issue, body):
     ISSUE_CODES[issue.id] = None
-    return issue.create_comment(body)
+    return issue.create_comment(replace_smartquotes(body))
 
 def handle_autocards(soup):
     for link in soup.find_all('a', class_='autocard-link'):
@@ -204,5 +204,8 @@ def find_issue(cards):
     else:
         print("No issue for this card.")
         return None
+
+def remove_smartquotes(name):
+    return name.replace('’', "'").replace('“', '"').replace('”', '"')
 
 scrape()
