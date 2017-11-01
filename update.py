@@ -3,6 +3,8 @@ import re
 import sys
 import datetime
 
+from helpers import remove_smartquotes
+
 import configuration
 import requests
 
@@ -124,6 +126,7 @@ def process_issue(issue):
         csv_line += msg + '\t'
         csv_line += cat + '\t'
         csv_line += str(issue.updated_at)
+        csv_line = remove_smartquotes(csv_line)
         ALL_CSV.append(csv_line)
         if card in LEGAL_CARDS:
             PD_CSV.append(csv_line)

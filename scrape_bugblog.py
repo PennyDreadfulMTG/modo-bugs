@@ -1,5 +1,7 @@
 import re
 
+from helpers import remove_smartquotes
+
 from bs4 import BeautifulSoup, Comment
 from github import Github
 import requests
@@ -204,8 +206,5 @@ def find_issue(cards):
     else:
         print("No issue for this card.")
         return None
-
-def remove_smartquotes(name):
-    return name.replace('’', "'").replace('“', '"').replace('”', '"')
 
 scrape()
