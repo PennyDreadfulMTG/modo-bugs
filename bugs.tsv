@@ -34,7 +34,7 @@ Gonti, Lord of Luxury	If you cast Savage Stomp with [Gonti, Lord of Luxury] and 
 Grafdigger's Cage	If you manifest a creature with [Grafdigger's Cage] in play, it will be exiled.	Disadvantageous	2017-07-16 19:47:31
 Hada Freeblade	Certain cards, such as [Hada Freeblade], do not display a legality error for the Pauper format in the collection scene.	Graphical	2017-10-06 04:50:46
 Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017-05-28 18:18:21
-High Seas	only add cost to Red creature spells (mono and multicolors)	Disadvantageous	2017-11-02 01:26:40
+High Seas	only affects red creature spells, rather than red or green creature spells.	Disadvantageous	2017-11-02 03:21:53
 Hollow One	's cost reduction doesn't consider split cards that are discarded	Disadvantageous	2017-08-28 01:43:53
 Hollow One	doesn't count discarded split cards.	Disadvantageous	2017-09-21 22:11:24
 Icefall Regent	If you target an [Icefall Regent] with a fused split card, you must pay {2} for each side of the split card, for a total of {4}	Unconfirmed	2017-10-31 04:13:09
