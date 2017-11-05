@@ -97,6 +97,7 @@ Trinisphere	interacts incorrectly when 3 or more cost-reduction effects apply t
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-10-24 13:18:15
 Unesh, Criosphinx Sovereign	If [Unesh, Criosphinx Sovereign] or similar creatures have their creature type changed, they do not trigger.	Disadvantageous	2017-09-21 22:07:27
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
+Vesuvan Shapeshifter	If [Vesuvan Shapeshifter] copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.	Advantageous	2017-11-05 18:31:26
 Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-09-29 07:41:18
 Vizier of Many Faces	keeps its abilities when an opponent controls Overwhelming Splendor.	Advantageous	2017-09-29 07:41:10
 Wall of Roots	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2017-11-05 11:57:58
