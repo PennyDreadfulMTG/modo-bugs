@@ -17,6 +17,7 @@ Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017
 Cursed Scroll	does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2017-09-29 07:41:15
 Custodi Lich	The sacrifice trigger does not occur if another player was the monarch.	Disadvantageous	2017-10-23 05:16:21
 Death Pit Offering	sacrifices all of its owner's permanents, not just creatures	Disadvantageous	2017-10-31 21:52:35
+Deceiver of Form	If [Deceiver of Form]'s triggered ability turns creatures into copies of a legendary creature, the legend rule fails to apply to the copies.	Advantageous	2017-11-05 11:56:25
 Djinn of Infinite Deceits	can only be activated at sorcery speed	Disadvantageous	2017-06-14 05:52:08
 Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-06-20 17:37:30
 Doubling Season	incorrectly doubles loyalty counters added from costs of loyalty abilities.	Advantageous	2017-10-24 13:38:38
@@ -26,7 +27,7 @@ Ever After	There are known issues with giving flashback to a spell that is put o
 Fathom Feeder	If [Fathom Feeder] is activated on an opponent's turn it also exiles the top card of your library.	Disadvantageous	2017-09-21 22:40:52
 Freyalise's Winds	Permanents with wind counters remove counters instead of untapping at any time, not only during their controller's untap step.	Disadvantageous	2017-09-29 07:41:13
 Genju of the Fields	does not cause you to gain life upon dealing damage	Disadvantageous	2017-07-29 15:20:35
-Gideon's Intervention	does not prevent damage from Syndicate trafficker's +1/+1 counters.	Unclassified	2017-10-31 05:09:15
+Gideon's Intervention	Casting a second copy causes the first to become partially non-functional, allowing the named card to deal damage.	Disadvantageous	2017-11-05 10:58:10
 Gideon, Martial Paragon	AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2017-08-10 22:39:10
 Gishath, Sun's Avatar	does not allow you to decline to put a Dinosaur creature into play if you have one in your hand.	Disadvantageous	2017-10-06 04:59:20
 Goblin Game	reveals your chosen number before your opponents choose.	Disadvantageous	2017-09-12 08:38:40
@@ -34,7 +35,7 @@ Gonti, Lord of Luxury	If you cast Savage Stomp with [Gonti, Lord of Luxury] and 
 Grafdigger's Cage	If you manifest a creature with [Grafdigger's Cage] in play, it will be exiled.	Disadvantageous	2017-07-16 19:47:31
 Hada Freeblade	Certain cards, such as [Hada Freeblade], do not display a legality error for the Pauper format in the collection scene.	Graphical	2017-10-06 04:50:46
 Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017-05-28 18:18:21
-Harsh Mentor	's triggered ability also affects abilities activated from creatures in the graveyard.	Unclassified	2017-11-05 10:36:34
+Harsh Mentor	's triggered ability also affects abilities activated from creatures in the graveyard.	Advantageous	2017-11-05 11:26:30
 High Seas	only affects red creature spells, rather than red or green creature spells.	Disadvantageous	2017-11-02 03:21:53
 Hollow One	's cost reduction doesn't consider split cards that are discarded	Disadvantageous	2017-08-28 01:43:53
 Hollow One	doesn't count discarded split cards.	Disadvantageous	2017-09-21 22:11:24
@@ -46,6 +47,7 @@ Infinite Reflection	All creatures become copies, not just ones you control.	Adva
 Island Sanctuary	's replacement effect is available if you draw a card during an opponents draw step	Advantageous	2017-06-19 21:55:29
 Karplusan Minotaur	Cumulative upkeep cannot be paid	Disadvantageous	2017-07-30 14:49:58
 Koth of the Hammer	When controlling the Emblem of [Koth of the Hammer], lands do not display the blue text they have.	Graphical	2017-07-16 19:47:11
+Kozilek's Translator	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2017-11-05 11:56:39
 Lich	If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-06-29 19:17:25
 Liquid Fire	doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2017-09-29 07:41:09
 Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-10-31 09:29:05
@@ -83,6 +85,7 @@ Steam Vents	The Keybindings for 'Yes' and 'No' do not function correctly with Sh
 Storage Matrix	Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2017-06-29 19:29:14
 Structural Collapse	does not cause target to sacrifice a land.	Unconfirmed	2017-07-29 15:38:42
 Sunscourge Champion	will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2017-08-10 23:39:12
+Sylvan Primordial	Casting [Sylvan Primordial] causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2017-11-05 11:56:11
 Synthetic Destiny	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-09-29 07:41:22
 Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-24 16:43:46
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard 	Disadvantageous	2017-06-24 06:37:21
@@ -96,5 +99,6 @@ Unesh, Criosphinx Sovereign	If [Unesh, Criosphinx Sovereign] or similar creature
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
 Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-09-29 07:41:18
 Vizier of Many Faces	keeps its abilities when an opponent controls Overwhelming Splendor.	Advantageous	2017-09-29 07:41:10
+Wall of Roots	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2017-11-05 11:56:39
 Whims of the Fates	Causes client crashes	Game Breaking	2017-09-29 07:41:25
 Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-09-29 07:41:24
