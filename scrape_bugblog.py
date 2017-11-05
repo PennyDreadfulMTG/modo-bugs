@@ -145,7 +145,7 @@ def parse_knownbugs(b):
 
 def create_comment(issue, body):
     ISSUE_CODES[issue.id] = None
-    return issue.create_comment(replace_smartquotes(body))
+    return issue.create_comment(remove_smartquotes(body))
 
 def handle_autocards(soup):
     for link in soup.find_all('a', class_='autocard-link'):
