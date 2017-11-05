@@ -47,7 +47,7 @@ Infinite Reflection	All creatures become copies, not just ones you control.	Adva
 Island Sanctuary	's replacement effect is available if you draw a card during an opponents draw step	Advantageous	2017-06-19 21:55:29
 Karplusan Minotaur	Cumulative upkeep cannot be paid	Disadvantageous	2017-07-30 14:49:58
 Koth of the Hammer	When controlling the Emblem of [Koth of the Hammer], lands do not display the blue text they have.	Graphical	2017-07-16 19:47:11
-Kozilek's Translator	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2017-11-05 11:56:39
+Kozilek's Translator	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2017-11-05 11:57:58
 Lich	If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-06-29 19:17:25
 Liquid Fire	doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2017-09-29 07:41:09
 Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-10-31 09:29:05
@@ -85,7 +85,7 @@ Steam Vents	The Keybindings for 'Yes' and 'No' do not function correctly with Sh
 Storage Matrix	Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2017-06-29 19:29:14
 Structural Collapse	does not cause target to sacrifice a land.	Unconfirmed	2017-07-29 15:38:42
 Sunscourge Champion	will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2017-08-10 23:39:12
-Sylvan Primordial	Casting [Sylvan Primordial] causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2017-11-05 11:56:11
+Sylvan Primordial	Casting [Sylvan Primordial] causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2017-11-05 11:57:57
 Synthetic Destiny	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-09-29 07:41:22
 Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-24 16:43:46
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard 	Disadvantageous	2017-06-24 06:37:21
@@ -99,6 +99,6 @@ Unesh, Criosphinx Sovereign	If [Unesh, Criosphinx Sovereign] or similar creature
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
 Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-09-29 07:41:18
 Vizier of Many Faces	keeps its abilities when an opponent controls Overwhelming Splendor.	Advantageous	2017-09-29 07:41:10
-Wall of Roots	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2017-11-05 11:56:39
+Wall of Roots	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2017-11-05 11:57:58
 Whims of the Fates	Causes client crashes	Game Breaking	2017-09-29 07:41:25
 Zur's Weirding	Reveals but doesn't allow you to pay	Disadvantageous	2017-09-29 07:41:24
