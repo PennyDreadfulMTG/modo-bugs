@@ -16,7 +16,7 @@ Cryptic Gateway	Cannot select a card from your hand	Non-Functional ability	2017-
 Curse of Shallow Graves	creates Zombie tokens with incorrect art.	Graphical	2017-06-02 11:44:23
 Cursed Scroll	does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2017-09-29 07:41:15
 Custodi Lich	The sacrifice trigger does not occur if another player was the monarch.	Disadvantageous	2017-10-23 05:16:21
-Death Pit Offering	sacrifices all of its owner’s permanents, not just creatures	Disadvantageous	2017-10-31 21:52:35
+Death Pit Offering	sacrifices all of its owner's permanents, not just creatures	Disadvantageous	2017-10-31 21:52:35
 Djinn of Infinite Deceits	can only be activated at sorcery speed	Disadvantageous	2017-06-14 05:52:08
 Dominator Drone	does not trigger with other devoid creatures. No trigger goes on the stack.	Disadvantageous	2017-06-20 17:37:30
 Doubling Season	incorrectly doubles loyalty counters added from costs of loyalty abilities.	Advantageous	2017-10-24 13:38:38
@@ -34,9 +34,9 @@ Gonti, Lord of Luxury	If you cast Savage Stomp with [Gonti, Lord of Luxury] and 
 Grafdigger's Cage	If you manifest a creature with [Grafdigger's Cage] in play, it will be exiled.	Disadvantageous	2017-07-16 19:47:31
 Hada Freeblade	Certain cards, such as [Hada Freeblade], do not display a legality error for the Pauper format in the collection scene.	Graphical	2017-10-06 04:50:46
 Harness the Storm	Doesn't trigger when casting split cards.	Disadvantageous	2017-05-28 18:18:21
-High Seas	Text is treated as 'Red and Green creature spells cost {1} more'.  Only affects Multicolour spells, and only adds 1 to the mana cost of them.	Disadvantageous	2017-05-04 13:49:50
+High Seas	only affects red creature spells, rather than red or green creature spells.	Disadvantageous	2017-11-02 03:21:53
 Hollow One	's cost reduction doesn't consider split cards that are discarded	Disadvantageous	2017-08-28 01:43:53
-Hollow One	doesn’t count discarded split cards.	Disadvantageous	2017-09-21 22:11:24
+Hollow One	doesn't count discarded split cards.	Disadvantageous	2017-09-21 22:11:24
 Icefall Regent	If you target an [Icefall Regent] with a fused split card, you must pay {2} for each side of the split card, for a total of {4}	Unconfirmed	2017-10-31 04:13:09
 Identity Thief	Restarts the game when attempting to copy a creature.	Game Breaking	2017-06-28 05:37:36
 Ignite Memories	and similar cards can cause a game restart if the target has no cards in hand.	Game Breaking	2017-08-20 07:45:56
