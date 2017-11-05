@@ -92,7 +92,7 @@ def parse_changelog(collapsibleBlock):
                     text = "From Bug Blog.\nCode: {0}".format(code)
                 else:
                     text = "From Bug Blog."
-                repo.create_issue(replace_smartquotes(item.get_text()), body=replace_smartquotes(text), labels=["From Bug Blog"])
+                repo.create_issue(remove_smartquotes(item.get_text()), body=remove_smartquotes(text), labels=["From Bug Blog"])
 
 def get_cards_from_string(item):
     cards = re.findall(r'\[?\[([^\]]*)\]\]?', item)

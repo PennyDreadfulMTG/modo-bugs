@@ -3,13 +3,17 @@ node {
     stage('checkout'){
         checkout([$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: '61235359-4c9e-4d64-b63a-7717e51f3069', url: 'https://github.com/PennyDreadfulMTG/modo-bugs.git']]])
     }
-    stage('Scrape') {
-        sh 'python3 -m pip install --user -r requirements.txt'
+    stage('setup') {
         withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
-            sh 'git config user.email "jenkins@katelyngigante.com"'
-            sh 'git config user.name "Vorpal Buildbot"'
-            sh 'git checkout master'
-            sh 'git pull'
+        sh 'git config user.email "jenkins@katelyngigante.com"'
+        sh 'git config user.name "Vorpal Buildbot"'
+        sh 'git checkout master'
+        sh 'git pull'
+        sh 'python3 -m pip install --user -r requirements.txt'
+        }
+    }
+    stage('Scrape') {
+        withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
             sh 'python3 scrape_bugblog.py'
         }
     }
