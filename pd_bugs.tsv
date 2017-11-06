@@ -27,7 +27,7 @@ Reincarnation	Does nothing	Non-Functional ability	2017-09-29 07:41:27
 Rimescale Dragon	does not place an Ice Counter on targeted creatures.	Disadvantageous	2017-10-06 05:13:27
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
-Scythe of the Wretched	reanimates any creature that dies, regardless of it the equipped creature damages it	Advantageous	2017-11-06 00:40:38
+Scythe of the Wretched	reanimates any creature that dies, regardless of it the equipped creature damages it	Advantageous	2017-11-06 01:58:54
 Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-10-31 09:28:07
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
 Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
@@ -37,5 +37,5 @@ Tawnos's Coffin	crashes the game for everyone when it tries to return a card to 
 Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:33
 Tomorrow, Azami's Familiar	puts both cards back on top	Disadvantageous	2017-08-22 17:40:43
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-10-24 13:18:15
-Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
+Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-11-06 01:58:13
 Vesuvan Shapeshifter	If [Vesuvan Shapeshifter] copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.	Advantageous	2017-11-05 18:31:26

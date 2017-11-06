@@ -74,7 +74,7 @@ Rimescale Dragon	does not place an Ice Counter on targeted creatures.	Disadvanta
 Riptide Replicator	token uses incorrect art.	Graphical	2017-06-24 14:06:25
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
-Scythe of the Wretched	reanimates any creature that dies, regardless of it the equipped creature damages it	Advantageous	2017-11-06 00:40:38
+Scythe of the Wretched	reanimates any creature that dies, regardless of it the equipped creature damages it	Advantageous	2017-11-06 01:58:54
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-10-31 09:28:07
 Settle the Wreckage	does not give the targeted player the option to not search their library.	Unclassified	2017-10-05 17:43:46
@@ -97,7 +97,7 @@ Torment of Hailfire	The undo function works incorrectly with [Torment of Hailfir
 Trinisphere	interacts incorrectly when 3 or more cost-reduction effects apply to spells being cast.	Unclassified	2017-08-24 16:44:24
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-10-24 13:18:15
 Unesh, Criosphinx Sovereign	If [Unesh, Criosphinx Sovereign] or similar creatures have their creature type changed, they do not trigger.	Disadvantageous	2017-09-21 22:07:27
-Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-06-19 21:52:39
+Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-11-06 01:58:13
 Vesuvan Shapeshifter	If [Vesuvan Shapeshifter] copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.	Advantageous	2017-11-05 18:31:26
 Vizier of Many Faces	If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-09-29 07:41:18
 Vizier of Many Faces	keeps its abilities when an opponent controls Overwhelming Splendor.	Advantageous	2017-09-29 07:41:10
