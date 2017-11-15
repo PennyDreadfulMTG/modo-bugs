@@ -2,7 +2,6 @@ Card Name	Bug Description	Categorization	Last Confirmed
 Abandoned Sarcophagus	As Foretold incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].	Disadvantageous	2017-09-29 07:41:06
 Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-08-18 03:39:08
 Concerted Effort	Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-09-29 07:41:28
-Conqueror's Galleon	will incorrectly return to the battlefield transformed under its owner's control instead of it's controller's.	Advantageous	2017-10-20 05:38:39
 Custodi Lich	The sacrifice trigger happens whenever any player becomes the monarch.	Advantageous	2017-11-06 13:31:37
 Death Pit Offering	sacrifices all of its owner's permanents, not just creatures	Disadvantageous	2017-10-31 21:52:35
 Deceiver of Form	If [Deceiver of Form]'s triggered ability turns creatures into copies of a legendary creature, the legend rule fails to apply to the copies.	Advantageous	2017-11-05 11:56:25
