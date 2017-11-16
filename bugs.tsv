@@ -91,11 +91,11 @@ Synthetic Destiny	does not take commanders into account when determining the num
 Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-24 16:43:46
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard 	Disadvantageous	2017-06-24 06:37:21
 The Great Aurora	does not function correctly.	Unclassified	2017-07-29 15:38:36
-The Ur-Dragon	also reduces its own casting cost.	Unclassified	2017-11-16 00:44:22
+The Ur-Dragon	also reduces its own casting cost.	Advantageous	2017-11-16 08:30:26
 Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:33
 Tomorrow, Azami's Familiar	puts both cards back on top	Disadvantageous	2017-08-22 17:40:43
 Torment of Hailfire	The undo function works incorrectly with [Torment of Hailfire].	Disadvantageous	2017-08-25 03:22:38
-Trinisphere	interacts incorrectly when 3 or more cost-reduction effects apply to spells being cast.	Unclassified	2017-08-24 16:44:24
+Trinisphere	interacts incorrectly when 3 or more cost-reduction effects apply to spells being cast.	Unclassified	2017-11-16 08:35:25
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-10-24 13:18:15
 Unesh, Criosphinx Sovereign	If [Unesh, Criosphinx Sovereign] or similar creatures have their creature type changed, they do not trigger.	Disadvantageous	2017-09-21 22:07:27
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-11-06 01:58:13
