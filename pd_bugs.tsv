@@ -6,7 +6,6 @@ Custodi Lich	The sacrifice trigger happens whenever any player becomes the monar
 Death Pit Offering	sacrifices all of its owner's permanents, not just creatures	Disadvantageous	2017-10-31 21:52:35
 Deceiver of Form	If [Deceiver of Form]'s triggered ability turns creatures into copies of a legendary creature, the legend rule fails to apply to the copies.	Advantageous	2017-11-05 11:56:25
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
-Fathom Feeder	If [Fathom Feeder] is activated on an opponent's turn it also exiles the top card of your library.	Disadvantageous	2017-09-21 22:40:52
 Flaying Tendrils	exiles creature cards put into the graveyard from anywhere this turn, rather than just those from the battlefield.	Advantageous	2017-11-07 02:53:45
 Genju of the Fields	does not cause you to gain life upon dealing damage	Disadvantageous	2017-07-29 15:20:35
 Gideon's Intervention	Casting a second copy causes the first to become partially non-functional, allowing the named card to deal damage.	Disadvantageous	2017-11-05 10:58:10
@@ -27,13 +26,13 @@ Rimescale Dragon	does not place an Ice Counter on targeted creatures.	Disadvanta
 Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Scythe of the Wretched	reanimates any creature that dies, regardless of it the equipped creature damages it	Advantageous	2017-11-06 01:58:54
-Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-10-31 09:28:07
+Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-11-22 06:24:01
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
 Spoils of Victory	The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
 Structural Collapse	does not cause target to sacrifice a land.	Unconfirmed	2017-07-29 15:38:42
 Sylvan Primordial	Casting [Sylvan Primordial] causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2017-11-05 11:57:57
 Tawnos's Coffin	crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-24 16:43:46
-Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:33
+Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-11-22 06:15:33
 Tomorrow, Azami's Familiar	puts both cards back on top	Disadvantageous	2017-08-22 17:40:43
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-10-24 13:18:15
 Unscythe, Killer of Kings	Effect procs when creatures aren't equipped	Advantageous	2017-11-06 01:58:13

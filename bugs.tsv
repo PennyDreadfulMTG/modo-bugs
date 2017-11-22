@@ -22,7 +22,6 @@ Doubling Season	incorrectly doubles loyalty counters added from costs of loyalty
 Dream Halls	Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-07-05 16:48:54
 Elesh Norn, Grand Cenobite	If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2017-08-25 04:39:46
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
-Fathom Feeder	If [Fathom Feeder] is activated on an opponent's turn it also exiles the top card of your library.	Disadvantageous	2017-09-21 22:40:52
 Flaying Tendrils	exiles creature cards put into the graveyard from anywhere this turn, rather than just those from the battlefield.	Advantageous	2017-11-07 02:53:45
 Freyalise's Winds	Permanents with wind counters remove counters instead of untapping at any time, not only during their controller's untap step.	Disadvantageous	2017-09-29 07:41:13
 Genju of the Fields	does not cause you to gain life upon dealing damage	Disadvantageous	2017-07-29 15:20:35
@@ -76,7 +75,7 @@ Runic Repetition	Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Scythe of the Wretched	reanimates any creature that dies, regardless of it the equipped creature damages it	Advantageous	2017-11-06 01:58:54
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
-Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-10-31 09:28:07
+Semblance Anvil	imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-11-22 06:24:01
 Settle the Wreckage	does not give the targeted player the option to not search their library.	Unclassified	2017-10-05 17:43:46
 Shifty Doppelganger	Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
 Solemnity	With [Solemnity] in play, you are still prompted to pay one mana for cards with cumulative upkeep that have zero age counters.	Disadvantageous	2017-08-10 22:39:13
@@ -92,7 +91,7 @@ Tawnos's Coffin	crashes the game for everyone when it tries to return a card to 
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard 	Disadvantageous	2017-06-24 06:37:21
 The Great Aurora	does not function correctly.	Unclassified	2017-07-29 15:38:36
 The Ur-Dragon	also reduces its own casting cost.	Advantageous	2017-11-16 08:30:26
-Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-06-20 16:37:33
+Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-11-22 06:15:33
 Tomorrow, Azami's Familiar	puts both cards back on top	Disadvantageous	2017-08-22 17:40:43
 Torment of Hailfire	The undo function works incorrectly with [Torment of Hailfire].	Disadvantageous	2017-08-25 03:22:38
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-10-24 13:18:15
