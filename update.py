@@ -87,6 +87,12 @@ def process_issue(issue):
     cards = re.findall(r'\[?\[([^\]]*)\]\]?', affects)
     cards = [c for c in cards]
 
+    age = (datetime.datetime.now() - issue.updated_at).days
+    if affects == issue.title and age < 5:
+        body = issue.body + '\nAffects: ' + ''.join(['[' + c + ']' for c in cards])
+        issue.edit(body=body)
+
+
     pd_legal = ([True for c in cards if c in LEGAL_CARDS] or [False])[0]
 
     if pd_legal and not "Affects PD" in labels:
@@ -105,9 +111,8 @@ def process_issue(issue):
         else:
             cat = "Unconfirmed"
             if re.match(DISCORD_REGEX, issue.body) and not issue.comments:
-                days = (datetime.datetime.now() - issue.updated_at).days
-                print('Issue #{id} was reported {days} ago via Discord, and has had no followup.'.format(id=issue.number, days=days))
-                if days > 1:
+                print('Issue #{id} was reported {days} ago via Discord, and has had no followup.'.format(id=issue.number, age=age))
+                if age > 1:
                     issue.create_comment('Closing due to lack of followup.')
                     issue.edit(state='closed')
                     return
