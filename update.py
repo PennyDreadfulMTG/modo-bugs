@@ -2,6 +2,7 @@ import codecs
 import re
 import sys
 import datetime
+import urllib.parse
 
 from helpers import remove_smartquotes
 
@@ -22,6 +23,7 @@ PD_BANNED = []
 
 AFFECTS_REGEX = r'^Affects: (.*)$'
 DISCORD_REGEX = r'^Reported on Discord by (\w+#[0-9]+)$'
+IMAGES_REGEX = r'^<!-- Images --> (.*)$'
 
 if sys.stdout.encoding != 'utf-8':
     sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer, 'strict')
@@ -92,6 +94,21 @@ def process_issue(issue):
         body = issue.body + '\nAffects: ' + ''.join(['[' + c + ']' for c in cards])
         issue.edit(body=body)
 
+    images = re.search(IMAGES_REGEX, issue.body, re.MULTILINE)
+    if len(cards) > 1:
+        width = '200px'
+    else:
+        width = '300px'
+    expected = '<!-- Images --> ' + ''.join(['<img src="https://api.scryfall.com/cards/named?exact={0}&format=image" width="{1}">'.format(urllib.parse.quote(c), width) for c in cards])
+    if age < 5:
+        if not images:
+            print('Adding Images...')
+            body = issue.body + '\n' + expected
+            issue.edit(body=body)
+        elif images.group(0) != expected:
+            print('Updating images...')
+            body = issue.body.replace(images.group(0), expected)
+            issue.edit(body=body)
 
     pd_legal = ([True for c in cards if c in LEGAL_CARDS] or [False])[0]
 
