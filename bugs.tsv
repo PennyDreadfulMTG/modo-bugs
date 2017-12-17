@@ -3,7 +3,7 @@ Abandoned Sarcophagus	As Foretold incorrectly does not apply to cards able to be
 Abandoned Sarcophagus	Does not allow you to pick x when casting cycling cards from graveyard	Disadvantageous	2017-12-06 05:37:55
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
 Axis of Mortality	still fully resolves when a player cannot gain life.	Unclassified	2017-10-09 05:05:45
-Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-08-18 03:39:08
+Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-12-12 18:19:18
 Chandra Nalaar	Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Collected Company	does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2017-10-06 04:59:08
@@ -23,12 +23,11 @@ Doubling Season	incorrectly doubles loyalty counters added from costs of loyalty
 Dream Halls	Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-07-05 16:48:54
 Elesh Norn, Grand Cenobite	If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2017-08-25 04:39:46
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
-Flaying Tendrils	exiles creature cards put into the graveyard from anywhere this turn, rather than just those from the battlefield.	Advantageous	2017-11-07 02:53:45
 Freyalise's Winds	Permanents with wind counters remove counters instead of untapping at any time, not only during their controller's untap step.	Disadvantageous	2017-09-29 07:41:13
 Genju of the Fields	does not cause you to gain life upon dealing damage	Disadvantageous	2017-07-29 15:20:35
 Gideon's Intervention	Casting a second copy causes the first to become partially non-functional, allowing the named card to deal damage.	Disadvantageous	2017-11-05 10:58:10
 Gideon, Martial Paragon	AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2017-08-10 22:39:10
-Gifts Ungiven	If a player uses the Undo function when selecting cards for their opponent's [Gifts Ungiven], they will only be able to choose 1 card to go to the graveyard.	Unclassified	2017-11-30 17:46:22
+Gifts Ungiven	If a player uses the Undo function when selecting cards for their opponent's [Gifts Ungiven], they will only be able to choose 1 card to go to the graveyard.	Disadvantageous	2017-12-17 09:23:01
 Gishath, Sun's Avatar	does not allow you to decline to put a Dinosaur creature into play if you have one in your hand.	Disadvantageous	2017-10-06 04:59:20
 Goblin Game	reveals your chosen number before your opponents choose.	Disadvantageous	2017-09-12 08:38:40
 Gonti, Lord of Luxury	If you cast Savage Stomp with [Gonti, Lord of Luxury] and your opponent controls a dinosaur, the cost will incorrectly be reduced by 2.	Advantageous	2017-10-24 13:38:37
@@ -39,7 +38,7 @@ Harsh Mentor	's triggered ability also affects abilities activated from creature
 High Seas	only affects red creature spells, rather than red or green creature spells.	Disadvantageous	2017-11-02 03:21:53
 Hollow One	's cost reduction doesn't consider split cards that are discarded	Disadvantageous	2017-08-28 01:43:53
 Hollow One	doesn't count discarded split cards.	Disadvantageous	2017-09-21 22:11:24
-Icefall Regent	If you target an [Icefall Regent] with a fused split card, you must pay {2} for each side of the split card, for a total of {4}	Unconfirmed	2017-10-31 04:13:09
+Icefall Regent	If you target an [Icefall Regent] with a fused split card, you must pay {2} for each side of the split card, for a total of {4}	Advantageous	2017-12-17 09:23:09
 Identity Thief	Restarts the game when attempting to copy a creature.	Game Breaking	2017-06-28 05:37:36
 Ignite Memories	and similar cards can cause a game restart if the target has no cards in hand.	Game Breaking	2017-08-20 07:45:56
 Infinite Reflection	All creatures become copies, not just ones you control.	Advantageous	2017-07-14 08:38:20
@@ -51,7 +50,9 @@ Kozilek's Translator	The mana abilities of [Wall of Roots] and [Kozilek's Transl
 Lich	If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-06-29 19:17:25
 Liquid Fire	doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2017-09-29 07:41:09
 Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-10-31 09:29:05
+Lurking Evil	makes you pay half your opponent's life total	Advantageous	2017-12-17 09:22:55
 Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-09-29 07:41:22
+Masticore	and [Razormane Masticore] do not require discard to stay in play	Advantageous	2017-12-17 09:22:57
 Memory Lapse	moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-07-14 08:38:13
 Mirror Match	Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2017-06-30 16:54:05
 Misdirection	can reset the game in rare cases.	Game Breaking	2017-08-10 22:48:36
@@ -62,14 +63,15 @@ Null Chamber	Controller is asked to name two non-basic lands, rather than each p
 Odds	Odds: Restarts the game in buggy state on heads	Game Breaking	2017-10-11 02:10:56
 Oriss, Samite Guardian	Using [Oriss, Samite Guardian]'s Grandeur ability during controller's precombat main phase will not allow controller to attack that turn.	Disadvantageous	2017-09-29 07:41:07
 Oubliette	getting destroyed causes the game to soft lock.	Game Breaking	2017-06-02 11:44:14
-Phantom Tiger	If [Phantom Tiger] dies in combat, blue text abilities it had been granted do not apply to that combat's damage.	Unclassified	2017-11-30 17:46:25
+Pack's Disdain	does not work	Non-Functional ability	2017-12-17 09:22:59
+Phantom Tiger	If [Phantom Tiger] dies in combat, blue text abilities it had been granted do not apply to that combat's damage.	Disadvantageous	2017-12-17 09:23:06
 Primitive Justice	will either not cast/restart the game with a single target.	Game Breaking	2017-07-14 08:38:16
 Profane Command	If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2017-08-27 19:47:37
 Puppeteer Clique	Creatures returned with [Puppeteer Clique] are exiled at the end of any turn, not just the controller's	Disadvantageous	2017-11-09 08:04:30
+Razormane Masticore	and [Razormane Masticore] do not require discard to stay in play	Advantageous	2017-12-17 09:22:57
 Reap	Restarts game.	Game Breaking	2017-07-30 15:01:22
 Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
-Reflector Mage	If a player casts [Reflector Mage] targeting a creature they own, and then in the following turn their opponent casts [Reflector Mage], they are able to immediately recast that creature.	Unclassified	2017-11-30 17:46:26
-Reflector Mage	If a player casts [Reflector Mage] targeting a creature they own, and then in the following turn their opponent casts [Reflector Mage], they are able to immediately recast that creature.	Unclassified	2017-11-30 17:46:26
+Reflector Mage	If a player casts [Reflector Mage] targeting a creature they own, and then in the following turn their opponent casts Reflector Mage, they are able to immediately recast that creature.	Unclassified	2017-12-17 09:23:08
 Reincarnation	Does nothing	Non-Functional ability	2017-09-29 07:41:27
 Riches	If a commander is chosen for [Riches] in Rags // Riches, no other opponents need to choose a creature.	Disadvantageous	2017-08-12 18:38:51
 Ricochet Trap	restarts the game when cast for its alternate cost.	Game Breaking	2017-10-24 13:14:40
@@ -97,7 +99,7 @@ The Gitrog Monster	Non-land permanents that have become lands due to an enchantm
 The Great Aurora	does not function correctly.	Unclassified	2017-07-29 15:38:36
 The Ur-Dragon	also reduces its own casting cost.	Advantageous	2017-11-16 08:30:26
 Thornbow Archer	Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-11-22 06:15:33
-Tomorrow, Azami's Familiar	puts both cards back on top	Disadvantageous	2017-08-22 17:40:43
+Tomorrow, Azami's Familiar	puts both cards back on top	Disadvantageous	2017-12-13 01:58:21
 Torment of Hailfire	The undo function works incorrectly with [Torment of Hailfire].	Disadvantageous	2017-08-25 03:22:38
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-10-24 13:18:15
 Unesh, Criosphinx Sovereign	If [Unesh, Criosphinx Sovereign] or similar creatures have their creature type changed, they do not trigger.	Disadvantageous	2017-09-21 22:07:27
