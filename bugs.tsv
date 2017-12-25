@@ -53,10 +53,11 @@ Liquid Fire	doesn't let you choose how to deal damage - it all goes to player	Di
 Living Lore	If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-10-31 09:29:05
 Lurking Evil	makes you pay half your opponent's life total	Advantageous	2017-12-17 10:54:12
 Mass Polymorph	does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-09-29 07:41:22
-Masticore	and [Razormane Masticore] do not require discard to stay in play	Advantageous	2017-12-17 10:54:13
+Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46
 Memory Lapse	moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-07-14 08:38:13
 Mirror Match	Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2017-06-30 16:54:05
 Misdirection	can reset the game in rare cases.	Game Breaking	2017-08-10 22:48:36
+Molten-Tail Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46
 Multani's Presence	incorrectly draws cards off copies of spells that are countered	Advantageous	2017-08-08 16:46:15
 Myriad Landscape	Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.	Advantageous	2017-06-21 07:37:18
 Nebuchadnezzar	ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
@@ -69,7 +70,7 @@ Phantom Tiger	If [Phantom Tiger] dies in combat, blue text abilities it had been
 Primitive Justice	will either not cast/restart the game with a single target.	Game Breaking	2017-07-14 08:38:16
 Profane Command	If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2017-08-27 19:47:37
 Puppeteer Clique	Creatures returned with [Puppeteer Clique] are exiled at the end of any turn, not just the controller's	Disadvantageous	2017-11-09 08:04:30
-Razormane Masticore	and [Razormane Masticore] do not require discard to stay in play	Advantageous	2017-12-17 10:54:13
+Razormane Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46
 Reap	Restarts game.	Game Breaking	2017-07-30 15:01:22
 Reflecting Pool	does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
 Reflector Mage	If a player casts [Reflector Mage] targeting a creature they own, and then in the following turn their opponent casts Reflector Mage, they are able to immediately recast that creature.	Unclassified	2017-12-17 10:54:19
