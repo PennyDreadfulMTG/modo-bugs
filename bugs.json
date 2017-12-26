@@ -1,0 +1,1028 @@
+[
+  {
+    "card": "Jodah's Avenger",
+    "description": "Activated ability continues activating infinitely.",
+    "category": "Game Breaking",
+    "last_updated": "2017-12-18 03:40:20",
+    "pd_legal": true,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/238"
+  },
+  {
+    "card": "Lurking Evil",
+    "description": "makes you pay half your opponent's life total",
+    "category": "Advantageous",
+    "last_updated": "2017-12-17 10:54:12",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/237"
+  },
+  {
+    "card": "Masticore",
+    "description": "Masticores do not require discard to stay in play",
+    "category": "Advantageous",
+    "last_updated": "2017-12-25 04:37:46",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/236"
+  },
+  {
+    "card": "Razormane Masticore",
+    "description": "Masticores do not require discard to stay in play",
+    "category": "Advantageous",
+    "last_updated": "2017-12-25 04:37:46",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/236"
+  },
+  {
+    "card": "Molten-Tail Masticore",
+    "description": "Masticores do not require discard to stay in play",
+    "category": "Advantageous",
+    "last_updated": "2017-12-25 04:37:46",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/236"
+  },
+  {
+    "card": "Pack's Disdain",
+    "description": "does not work",
+    "category": "Non-Functional ability",
+    "last_updated": "2017-12-17 10:54:14",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/235"
+  },
+  {
+    "card": "Screams from Within",
+    "description": "'s second ability (Return ~ to your hand) does not function.",
+    "category": "Non-Functional ability",
+    "last_updated": "2017-12-06 05:46:17",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/234"
+  },
+  {
+    "card": "Abandoned Sarcophagus",
+    "description": "Does not allow you to pick x when casting cycling cards from graveyard",
+    "category": "Disadvantageous",
+    "last_updated": "2017-12-06 05:37:55",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/233"
+  },
+  {
+    "card": "Gifts Ungiven",
+    "description": "If a player uses the Undo function when selecting cards for their opponent's [Gifts Ungiven], they will only be able to choose 1 card to go to the graveyard.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-12-17 10:54:15",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/232"
+  },
+  {
+    "card": "Phantom Tiger",
+    "description": "If [Phantom Tiger] dies in combat, blue text abilities it had been granted do not apply to that combat's damage.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-12-17 10:54:18",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/230"
+  },
+  {
+    "card": "Reflector Mage",
+    "description": "If a player casts [Reflector Mage] targeting a creature they own, and then in the following turn their opponent casts Reflector Mage, they are able to immediately recast that creature.",
+    "category": "Unclassified",
+    "last_updated": "2017-12-17 10:54:19",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/229"
+  },
+  {
+    "card": "Words of Waste",
+    "description": "does not function.",
+    "category": "Non-Functional ability",
+    "last_updated": "2017-12-03 04:45:09",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/228"
+  },
+  {
+    "card": "The Ur-Dragon",
+    "description": "also reduces its own casting cost.",
+    "category": "Advantageous",
+    "last_updated": "2017-11-16 08:30:26",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/225"
+  },
+  {
+    "card": "Kess, Dissident Mage",
+    "description": "has issues with casting spells through alternative methods.",
+    "category": "Advantageous",
+    "last_updated": "2017-12-08 04:45:51",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/224"
+  },
+  {
+    "card": "Scythe of the Wretched",
+    "description": "reanimates any creature that dies, regardless of it the equipped creature damages it",
+    "category": "Advantageous",
+    "last_updated": "2017-11-06 01:58:54",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/221"
+  },
+  {
+    "card": "Vesuvan Shapeshifter",
+    "description": "If [Vesuvan Shapeshifter] copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.",
+    "category": "Advantageous",
+    "last_updated": "2017-11-05 18:31:26",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/220"
+  },
+  {
+    "card": "Sylvan Primordial",
+    "description": "Casting [Sylvan Primordial] causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.",
+    "category": "Game Breaking",
+    "last_updated": "2017-11-05 11:57:57",
+    "pd_legal": true,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/219"
+  },
+  {
+    "card": "Deceiver of Form",
+    "description": "If [Deceiver of Form]'s triggered ability turns creatures into copies of a legendary creature, the legend rule fails to apply to the copies.",
+    "category": "Advantageous",
+    "last_updated": "2017-11-05 11:56:25",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/218"
+  },
+  {
+    "card": "Wall of Roots",
+    "description": "The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-11-05 11:57:58",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217"
+  },
+  {
+    "card": "Kozilek's Translator",
+    "description": "The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-11-05 11:57:58",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217"
+  },
+  {
+    "card": "Harsh Mentor",
+    "description": "'s triggered ability also affects abilities activated from creatures in the graveyard.",
+    "category": "Advantageous",
+    "last_updated": "2017-11-05 11:26:30",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/216"
+  },
+  {
+    "card": "Steam Vents",
+    "description": "The Keybindings for 'Yes' and 'No' do not function correctly with Shocklands such as [Steam Vents].",
+    "category": "Unclassified",
+    "last_updated": "2017-11-05 10:36:35",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/215"
+  },
+  {
+    "card": "Death Pit Offering",
+    "description": "sacrifices all of its owner\u2019s permanents, not just creatures",
+    "category": "Disadvantageous",
+    "last_updated": "2017-10-31 21:52:35",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/213"
+  },
+  {
+    "card": "Icefall Regent",
+    "description": "If you target an [Icefall Regent] with a fused split card, you must pay {2} for each side of the split card, for a total of {4}",
+    "category": "Advantageous",
+    "last_updated": "2017-12-17 10:54:20",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/208"
+  },
+  {
+    "card": "Ricochet Trap",
+    "description": "restarts the game when cast for its alternate cost.",
+    "category": "Game Breaking",
+    "last_updated": "2017-10-24 13:14:40",
+    "pd_legal": false,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/206"
+  },
+  {
+    "card": "Gonti, Lord of Luxury",
+    "description": "If you cast Savage Stomp with [Gonti, Lord of Luxury] and your opponent controls a dinosaur, the cost will incorrectly be reduced by 2.",
+    "category": "Advantageous",
+    "last_updated": "2017-10-24 13:38:37",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/203"
+  },
+  {
+    "card": "Doubling Season",
+    "description": "incorrectly doubles loyalty counters added from costs of loyalty abilities.",
+    "category": "Advantageous",
+    "last_updated": "2017-10-24 13:38:38",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/202"
+  },
+  {
+    "card": "Hada Freeblade",
+    "description": "Certain cards, such as [Hada Freeblade], do not display a legality error for the Pauper format in the collection scene.",
+    "category": "Graphical",
+    "last_updated": "2017-10-06 04:50:46",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/198"
+  },
+  {
+    "card": "Ever After",
+    "description": "There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.",
+    "category": "Unclassified",
+    "last_updated": "2017-10-31 04:05:19",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
+  },
+  {
+    "card": "Sanguine Sacrament",
+    "description": "There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.",
+    "category": "Unclassified",
+    "last_updated": "2017-10-31 04:05:19",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
+  },
+  {
+    "card": "Seasons Past",
+    "description": "There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.",
+    "category": "Unclassified",
+    "last_updated": "2017-10-31 04:05:19",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
+  },
+  {
+    "card": "Spell Crumple",
+    "description": "There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.",
+    "category": "Unclassified",
+    "last_updated": "2017-10-31 04:05:19",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
+  },
+  {
+    "card": "Gishath, Sun's Avatar",
+    "description": "does not allow you to decline to put a Dinosaur creature into play if you have one in your hand.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-10-06 04:59:20",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/195"
+  },
+  {
+    "card": "Collected Company",
+    "description": "does not allow you to put fewer than the maximum number of creatures onto the battlefield.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-10-06 04:59:08",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/193"
+  },
+  {
+    "card": "Commandeer",
+    "description": "does not gain control of the targeted noncreature spell.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-10-06 04:15:22",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/192"
+  },
+  {
+    "card": "Rimescale Dragon",
+    "description": "does not place an Ice Counter on targeted creatures.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-10-06 05:13:27",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/191"
+  },
+  {
+    "card": "Settle the Wreckage",
+    "description": "does not give the targeted player the option to not search their library.",
+    "category": "Unclassified",
+    "last_updated": "2017-10-05 17:43:46",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/190"
+  },
+  {
+    "card": "Axis of Mortality",
+    "description": "still fully resolves when a player cannot gain life.",
+    "category": "Unclassified",
+    "last_updated": "2017-10-09 05:05:45",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/188"
+  },
+  {
+    "card": "Unesh, Criosphinx Sovereign",
+    "description": "If [Unesh, Criosphinx Sovereign] or similar creatures have their creature type changed, they do not trigger.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-09-21 22:07:27",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/185"
+  },
+  {
+    "card": "Abandoned Sarcophagus",
+    "description": "As Foretold incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].",
+    "category": "Disadvantageous",
+    "last_updated": "2017-09-29 07:41:06",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/181"
+  },
+  {
+    "card": "Goblin Game",
+    "description": "reveals your chosen number before your opponents choose.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-09-12 08:38:40",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/180"
+  },
+  {
+    "card": "Hollow One",
+    "description": "Hollow One's cost reduction doesn't consider split cards that are discarded",
+    "category": "Disadvantageous",
+    "last_updated": "2017-12-22 00:37:45",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/179"
+  },
+  {
+    "card": "Puppeteer Clique",
+    "description": "Creatures returned with [Puppeteer Clique] are exiled at the end of any turn, not just the controller's",
+    "category": "Disadvantageous",
+    "last_updated": "2017-11-09 08:04:30",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/178"
+  },
+  {
+    "card": "Oriss, Samite Guardian",
+    "description": "Using [Oriss, Samite Guardian]'s Grandeur ability during controller's precombat main phase will not allow controller to attack that turn.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-09-29 07:41:07",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/177"
+  },
+  {
+    "card": "Elesh Norn, Grand Cenobite",
+    "description": "If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.",
+    "category": "Advantageous",
+    "last_updated": "2017-08-25 04:39:46",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/176"
+  },
+  {
+    "card": "Torment of Hailfire",
+    "description": "The undo function works incorrectly with [Torment of Hailfire].",
+    "category": "Disadvantageous",
+    "last_updated": "2017-08-25 03:22:38",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/158"
+  },
+  {
+    "card": "Tomorrow, Azami's Familiar",
+    "description": "puts both cards back on top",
+    "category": "Disadvantageous",
+    "last_updated": "2017-12-17 10:54:22",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/155"
+  },
+  {
+    "card": "Booby Trap",
+    "description": "does not let you name anything other than non-basic lands.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-12-12 18:19:18",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/153"
+  },
+  {
+    "card": "Compost",
+    "description": "If a player cast a split card that are black on the uncasted side, the draw effect isn't triggered",
+    "category": "Disadvantageous",
+    "last_updated": "2017-10-31 09:18:15",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/151"
+  },
+  {
+    "card": "Liquid Fire",
+    "description": "doesn't let you choose how to deal damage - it all goes to player",
+    "category": "Disadvantageous",
+    "last_updated": "2017-09-29 07:41:09",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/148"
+  },
+  {
+    "card": "Misdirection",
+    "description": "can reset the game in rare cases.",
+    "category": "Game Breaking",
+    "last_updated": "2017-08-10 22:48:36",
+    "pd_legal": false,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/146"
+  },
+  {
+    "card": "Vizier of Many Faces",
+    "description": "keeps its abilities when an opponent controls Overwhelming Splendor.",
+    "category": "Advantageous",
+    "last_updated": "2017-09-29 07:41:10",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/145"
+  },
+  {
+    "card": "Gideon, Martial Paragon",
+    "description": "AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.",
+    "category": "Unclassified",
+    "last_updated": "2017-08-10 22:39:10",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/144"
+  },
+  {
+    "card": "Riches",
+    "description": "If a commander is chosen for [Riches] in Rags // Riches, no other opponents need to choose a creature.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-08-12 18:38:51",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/141"
+  },
+  {
+    "card": "Trueheart Duelist",
+    "description": "If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.",
+    "category": "Unclassified",
+    "last_updated": "2017-10-24 13:18:15",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/140"
+  },
+  {
+    "card": "Sunscourge Champion",
+    "description": "will cause you to lose life if it has negative power when its trigger resolves.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-08-10 23:39:12",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/139"
+  },
+  {
+    "card": "Solemnity",
+    "description": "With [Solemnity] in play, you are still prompted to pay one mana for cards with cumulative upkeep that have zero age counters.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-08-10 22:39:13",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/138"
+  },
+  {
+    "card": "Multani's Presence",
+    "description": "incorrectly draws cards off copies of spells that are countered",
+    "category": "Advantageous",
+    "last_updated": "2017-08-08 16:46:15",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/137"
+  },
+  {
+    "card": "Freyalise's Winds",
+    "description": "Permanents with wind counters remove counters instead of untapping at any time, not only during their controller's untap step.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-09-29 07:41:13",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/135"
+  },
+  {
+    "card": "Chandra Nalaar",
+    "description": "Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-09-29 07:41:14",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/132"
+  },
+  {
+    "card": "Cursed Scroll",
+    "description": "does not deal damage if choosing to click the card in your hand, rather than typing the name.",
+    "category": "Graphical",
+    "last_updated": "2017-12-18 15:39:45",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/131"
+  },
+  {
+    "card": "The Great Aurora",
+    "description": "does not function correctly.",
+    "category": "Unclassified",
+    "last_updated": "2017-07-29 15:38:36",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/128"
+  },
+  {
+    "card": "Ignite Memories",
+    "description": "and similar cards can cause a game restart if the target has no cards in hand.",
+    "category": "Game Breaking",
+    "last_updated": "2017-08-20 07:45:56",
+    "pd_legal": true,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
+  },
+  {
+    "card": "Hollow One",
+    "description": "doesn\u2019t count discarded split cards.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-09-21 22:11:24",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/125"
+  },
+  {
+    "card": "Structural Collapse",
+    "description": "does not cause target to sacrifice a land.",
+    "category": "Unconfirmed",
+    "last_updated": "2017-07-29 15:38:42",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/123"
+  },
+  {
+    "card": "Genju of the Fields",
+    "description": "does not cause you to gain life upon dealing damage",
+    "category": "Disadvantageous",
+    "last_updated": "2017-07-29 15:20:35",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/122"
+  },
+  {
+    "card": "Grafdigger's Cage",
+    "description": "If you manifest a creature with [Grafdigger's Cage] in play, it will be exiled.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-07-16 19:47:31",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/79"
+  },
+  {
+    "card": "Containment Priest",
+    "description": "exiles Theros Gods even when their devotion isn't met.",
+    "category": "Advantageous",
+    "last_updated": "2017-07-16 19:47:21",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/78"
+  },
+  {
+    "card": "Koth of the Hammer",
+    "description": "When controlling the Emblem of [Koth of the Hammer], lands do not display the blue text they have.",
+    "category": "Graphical",
+    "last_updated": "2017-07-16 19:47:11",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/77"
+  },
+  {
+    "card": "Mirror Match",
+    "description": "Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies",
+    "category": "Advantageous",
+    "last_updated": "2017-06-30 16:54:05",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/74"
+  },
+  {
+    "card": "Storage Matrix",
+    "description": "Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-06-29 19:29:14",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/73"
+  },
+  {
+    "card": "Gideon's Intervention",
+    "description": "Casting a second copy causes the first to become partially non-functional, allowing the named card to deal damage.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-11-05 10:58:10",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/72"
+  },
+  {
+    "card": "Dream Halls",
+    "description": "Ability is non-functional. Cannot cast spells with the alternative Casting Cost.",
+    "category": "Non-Functional ability",
+    "last_updated": "2017-07-05 16:48:54",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/71"
+  },
+  {
+    "card": "Identity Thief",
+    "description": "Restarts the game when attempting to copy a creature.",
+    "category": "Game Breaking",
+    "last_updated": "2017-06-28 05:37:36",
+    "pd_legal": true,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/70"
+  },
+  {
+    "card": "The Gitrog Monster",
+    "description": "Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard ",
+    "category": "Disadvantageous",
+    "last_updated": "2017-06-24 06:37:21",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/69"
+  },
+  {
+    "card": "Myriad Landscape",
+    "description": "Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.",
+    "category": "Advantageous",
+    "last_updated": "2017-06-21 07:37:18",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/68"
+  },
+  {
+    "card": "Vizier of Many Faces",
+    "description": "If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.",
+    "category": "Graphical",
+    "last_updated": "2017-09-29 07:41:18",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/66"
+  },
+  {
+    "card": "Combat Celebrant",
+    "description": "does not allow you to exert it when attacking a planeswalker.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-06-20 17:37:24",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/64"
+  },
+  {
+    "card": "Thornbow Archer",
+    "description": "Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-11-22 06:15:33",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/63"
+  },
+  {
+    "card": "Unscythe, Killer of Kings",
+    "description": "Effect procs when creatures aren't equipped",
+    "category": "Advantageous",
+    "last_updated": "2017-11-06 01:58:13",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/62"
+  },
+  {
+    "card": "Djinn of Infinite Deceits",
+    "description": "can only be activated at sorcery speed",
+    "category": "Disadvantageous",
+    "last_updated": "2017-06-14 05:52:08",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/59"
+  },
+  {
+    "card": "Island Sanctuary",
+    "description": "'s replacement effect is available if you draw a card during an opponents draw step",
+    "category": "Advantageous",
+    "last_updated": "2017-06-19 21:55:29",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/58"
+  },
+  {
+    "card": "Spoils of Victory",
+    "description": "The land comes into play tapped instead",
+    "category": "Disadvantageous",
+    "last_updated": "2017-06-19 22:04:16",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/57"
+  },
+  {
+    "card": "Semblance Anvil",
+    "description": "imprinting a split card does not reduce costs on instants/sorceries.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-11-22 06:24:01",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/55"
+  },
+  {
+    "card": "Athreos, God of Passage",
+    "description": "does not associate its triggers with specific creatures.",
+    "category": "Graphical",
+    "last_updated": "2017-06-02 11:41:58",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/52"
+  },
+  {
+    "card": "Riptide Replicator",
+    "description": "token uses incorrect art.",
+    "category": "Graphical",
+    "last_updated": "2017-06-24 14:06:25",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/51"
+  },
+  {
+    "card": "Custodi Lich",
+    "description": "The sacrifice trigger happens whenever any player becomes the monarch.",
+    "category": "Advantageous",
+    "last_updated": "2017-11-06 13:31:37",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/50"
+  },
+  {
+    "card": "Curse of Shallow Graves",
+    "description": "creates Zombie tokens with incorrect art.",
+    "category": "Graphical",
+    "last_updated": "2017-06-02 11:44:23",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/49"
+  },
+  {
+    "card": "Oubliette",
+    "description": "When [Oubliette] is destroyed, the game goes into a soft lock.",
+    "category": "Game Breaking",
+    "last_updated": "2017-12-22 00:37:46",
+    "pd_legal": false,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/48"
+  },
+  {
+    "card": "Synthetic Destiny",
+    "description": "does not take commanders into account when determining the number of creatures to reveal.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-09-29 07:41:22",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/45"
+  },
+  {
+    "card": "Mass Polymorph",
+    "description": "does not take commanders into account when determining the number of creatures to reveal.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-09-29 07:41:22",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/45"
+  },
+  {
+    "card": "Reflecting Pool",
+    "description": "does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-06-02 14:00:45",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/44"
+  },
+  {
+    "card": "Memory Lapse",
+    "description": "moves aftermath cards back on top of the library instead of to the exile zone.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-07-14 08:38:13",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/43"
+  },
+  {
+    "card": "Runic Repetition",
+    "description": "Cannot be cast",
+    "category": "Disadvantageous",
+    "last_updated": "2017-06-01 17:37:27",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/41"
+  },
+  {
+    "card": "Tawnos's Coffin",
+    "description": "crashes the game for everyone when it tries to return a card to the battlefield.",
+    "category": "Game Breaking",
+    "last_updated": "2017-08-24 16:43:46",
+    "pd_legal": true,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/40"
+  },
+  {
+    "card": "Nebuchadnezzar",
+    "description": "ability makes the game start endlessly repeating itself",
+    "category": "Game Breaking",
+    "last_updated": "2017-05-28 18:18:07",
+    "pd_legal": true,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/39"
+  },
+  {
+    "card": "Primitive Justice",
+    "description": "will either not cast/restart the game with a single target.",
+    "category": "Game Breaking",
+    "last_updated": "2017-07-14 08:38:16",
+    "pd_legal": false,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/36"
+  },
+  {
+    "card": "Living Lore",
+    "description": "If Living Lore imprints a Split Card, it has twice the expected CMC.",
+    "category": "Advantageous",
+    "last_updated": "2017-10-31 09:29:05",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/35"
+  },
+  {
+    "card": "Zur's Weirding",
+    "description": "Reveals but doesn't allow you to pay",
+    "category": "Disadvantageous",
+    "last_updated": "2017-09-29 07:41:24",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/34"
+  },
+  {
+    "card": "Whims of the Fates",
+    "description": "Causes client crashes",
+    "category": "Game Breaking",
+    "last_updated": "2017-09-29 07:41:25",
+    "pd_legal": false,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/32"
+  },
+  {
+    "card": "Shifty Doppelganger",
+    "description": "Restarts the game at end of turn",
+    "category": "Game Breaking",
+    "last_updated": "2017-09-29 07:41:26",
+    "pd_legal": true,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/27"
+  },
+  {
+    "card": "Reincarnation",
+    "description": "Does nothing",
+    "category": "Non-Functional ability",
+    "last_updated": "2017-09-29 07:41:27",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/24"
+  },
+  {
+    "card": "Reap",
+    "description": "Restarts game.",
+    "category": "Game Breaking",
+    "last_updated": "2017-07-30 15:01:22",
+    "pd_legal": false,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/23"
+  },
+  {
+    "card": "Profane Command",
+    "description": "If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.",
+    "category": "Advantageous",
+    "last_updated": "2017-08-27 19:47:37",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/20"
+  },
+  {
+    "card": "Odds",
+    "description": "Odds: Restarts the game in buggy state on heads",
+    "category": "Game Breaking",
+    "last_updated": "2017-10-11 02:10:56",
+    "pd_legal": false,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17"
+  },
+  {
+    "card": "Null Chamber",
+    "description": "Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.",
+    "category": "Advantageous",
+    "last_updated": "2017-06-16 23:45:44",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/16"
+  },
+  {
+    "card": "Lich",
+    "description": "If you cannot sacrifice enough permanents, the game restarts",
+    "category": "Game Breaking",
+    "last_updated": "2017-06-29 19:17:25",
+    "pd_legal": false,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/11"
+  },
+  {
+    "card": "Karplusan Minotaur",
+    "description": "Cumulative upkeep cannot be paid",
+    "category": "Disadvantageous",
+    "last_updated": "2017-07-30 14:49:58",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/10"
+  },
+  {
+    "card": "Infinite Reflection",
+    "description": "All creatures become copies, not just ones you control.",
+    "category": "Advantageous",
+    "last_updated": "2017-07-14 08:38:20",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/9"
+  },
+  {
+    "card": "High Seas",
+    "description": "only affects red creature spells, rather than red or green creature spells.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-11-02 03:21:53",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/8"
+  },
+  {
+    "card": "Harness the Storm",
+    "description": "Doesn't trigger when casting split cards.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-05-28 18:18:21",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/7"
+  },
+  {
+    "card": "Cryptic Gateway",
+    "description": "Cannot select a card from your hand",
+    "category": "Non-Functional ability",
+    "last_updated": "2017-05-28 18:39:00",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/5"
+  },
+  {
+    "card": "Concerted Effort",
+    "description": "Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)",
+    "category": "Disadvantageous",
+    "last_updated": "2017-09-29 07:41:28",
+    "pd_legal": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/4"
+  },
+  {
+    "card": "Cloud Key",
+    "description": "Players are unable to correctly select a card type",
+    "category": "Non-Functional ability",
+    "last_updated": "2017-06-02 13:33:47",
+    "pd_legal": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/3"
+  }
+]

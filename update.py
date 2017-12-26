@@ -3,6 +3,7 @@ import re
 import sys
 import datetime
 import urllib.parse
+import json
 
 from helpers import remove_smartquotes
 
@@ -15,6 +16,8 @@ CATEGORIES = ["Advantageous", "Disadvantageous", "Game Breaking", "Graphical", "
 BADCATS = ["Game Breaking"]
 
 LEGAL_CARDS = []
+
+ALL_BUGS = []
 
 ALL_CSV = []
 PD_CSV = []
@@ -77,6 +80,11 @@ def main():
     for line in PD_BANNED:
         txt.write(line + '\n')
     txt.close()
+    
+    bugsjson = open('bugs.json', mode='w')
+    json.dump(ALL_BUGS, bugsjson, indent=2)
+    bugsjson.close()
+    
 
 def process_issue(issue):
     labels = [c.name for c in issue.labels]
@@ -156,6 +164,16 @@ def process_issue(issue):
             ALL_BANNED.append(card)
             if card in LEGAL_CARDS:
                 PD_BANNED.append(card)
+        bug = {
+                'card': card,
+                'description': msg,
+                'category': cat,
+                'last_updated': str(issue.updated_at),
+                'pd_legal': card in LEGAL_CARDS,
+                'breaking': cat in BADCATS,
+                'url': issue.html_url,
+            }
+        ALL_BUGS.append(bug)
 
 if __name__ == "__main__":
     main()
