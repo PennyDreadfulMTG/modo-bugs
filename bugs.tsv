@@ -1,6 +1,7 @@
 Card Name	Bug Description	Categorization	Last Confirmed
 Abandoned Sarcophagus	As Foretold incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].	Disadvantageous	2017-09-29 07:41:06
 Abandoned Sarcophagus	Does not allow you to pick x when casting cycling cards from graveyard	Disadvantageous	2017-12-06 05:37:55
+Archangel of Strife	War or Peace choice repeats indefinitely.	Game Breaking	2017-12-26 14:38:05
 Athreos, God of Passage	does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
 Axis of Mortality	still fully resolves when a player cannot gain life.	Unclassified	2017-10-09 05:05:45
 Booby Trap	does not let you name anything other than non-basic lands.	Disadvantageous	2017-12-12 18:19:18
