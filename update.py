@@ -20,7 +20,6 @@ LEGAL_CARDS = []
 ALL_BUGS = []
 
 ALL_CSV = []
-PD_CSV = []
 ALL_BANNED = []
 PD_BANNED = []
 
@@ -59,13 +58,6 @@ def main():
     csv.write("Card Name\tBug Description\tCategorization\tLast Confirmed\n")
     ALL_CSV.sort()
     for line in ALL_CSV:
-        csv.write(line + '\n')
-    csv.close()
-
-    csv = open('pd_bugs.tsv', mode='w')
-    csv.write("Card Name\tBug Description\tCategorization\tLast Confirmed\n")
-    PD_CSV.sort()
-    for line in PD_CSV:
         csv.write(line + '\n')
     csv.close()
 
@@ -126,8 +118,8 @@ def process_issue(issue):
         issue.remove_from_labels("Affects PD")
 
     msg = issue.title
-    while msg.startswith('['):
-        msg = msg[msg.find(']')+1:].strip()
+    #while msg.startswith('['):
+    #    msg = msg[msg.find(']')+1:].strip()
 
     categories = [c for c in labels if c in CATEGORIES]
     if not categories:
@@ -158,8 +150,6 @@ def process_issue(issue):
         csv_line += str(issue.updated_at)
         csv_line = remove_smartquotes(csv_line)
         ALL_CSV.append(csv_line)
-        if card in LEGAL_CARDS:
-            PD_CSV.append(csv_line)
         if cat in BADCATS:
             ALL_BANNED.append(card)
             if card in LEGAL_CARDS:
