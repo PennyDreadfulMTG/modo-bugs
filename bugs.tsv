@@ -62,7 +62,7 @@ Molten-Tail Masticore	Masticores do not require discard to stay in play	Advantag
 Multani's Presence	[Multani's Presence] incorrectly draws cards off copies of spells that are countered	Advantageous	2017-08-08 16:46:15
 Myriad Landscape	[Myriad Landscape] Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.	Advantageous	2017-06-21 07:37:18
 Nebuchadnezzar	[Nebuchadnezzar] ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
-Null Chamber	[Null Chamber] Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2017-06-16 23:45:44
+Null Chamber	[Null Chamber] Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2017-12-26 17:37:59
 Odds	[Odds] Odds: Restarts the game in buggy state on heads	Game Breaking	2017-10-11 02:10:56
 Oriss, Samite Guardian	Using [Oriss, Samite Guardian]'s Grandeur ability during controller's precombat main phase will not allow controller to attack that turn.	Disadvantageous	2017-09-29 07:41:07
 Oubliette	When [Oubliette] is destroyed, the game goes into a soft lock.	Game Breaking	2017-12-22 00:37:46
@@ -72,10 +72,10 @@ Primitive Justice	[Primitive Justice] will either not cast/restart the game with
 Profane Command	[Profane Command] If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2017-08-27 19:47:37
 Puppeteer Clique	Creatures returned with [Puppeteer Clique] are exiled at the end of any turn, not just the controller's	Disadvantageous	2017-11-09 08:04:30
 Razormane Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46
-Reap	[Reap] Restarts game.	Game Breaking	2017-07-30 15:01:22
+Reap	[Reap] puts a "face down ability" into hand instead of the targetted cards	Game Breaking	2017-12-26 17:37:58
 Reflecting Pool	[Reflecting Pool] does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
-Reflector Mage	If a player casts [Reflector Mage] targeting a creature they own, and then in the following turn their opponent casts Reflector Mage, they are able to immediately recast that creature.	Unclassified	2017-12-17 10:54:19
-Reincarnation	[Reincarnation] Does nothing	Non-Functional ability	2017-09-29 07:41:27
+Reflector Mage	If a player casts [Reflector Mage] targeting a creature they own, and then in the following turn their opponent casts Reflector Mage, they are able to immediately recast that creature.	Advantageous	2017-12-26 16:46:59
+Reincarnation	[Reincarnation] Does nothing	Non-Functional ability	2017-12-26 17:37:57
 Riches	If a commander is chosen for [Riches] in Rags // Riches, no other opponents need to choose a creature.	Disadvantageous	2017-08-12 18:38:51
 Ricochet Trap	[Ricochet Trap] restarts the game when cast for its alternate cost.	Game Breaking	2017-10-24 13:14:40
 Rimescale Dragon	[Rimescale Dragon] does not place an Ice Counter on targeted creatures.	Disadvantageous	2017-10-06 05:13:27
@@ -88,12 +88,11 @@ Seasons Past	There are known issues with giving flashback to a spell that is put
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-11-22 06:24:01
 Settle the Wreckage	[Settle the Wreckage] does not give the targeted player the option to not search their library.	Unclassified	2017-10-05 17:43:46
 Shifty Doppelganger	[Shifty Doppelganger] Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
-Solemnity	With [Solemnity] in play, you are still prompted to pay one mana for cards with cumulative upkeep that have zero age counters.	Disadvantageous	2017-08-10 22:39:13
 Spell Crumple	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Spoils of Victory	[Spoils of Victory] The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
 Steam Vents	The Keybindings for 'Yes' and 'No' do not function correctly with Shocklands such as [Steam Vents].	Unclassified	2017-11-05 10:36:35
 Storage Matrix	[Storage Matrix] Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2017-06-29 19:29:14
-Structural Collapse	[Structural Collapse] does not cause target to sacrifice a land.	Unconfirmed	2017-07-29 15:38:42
+Structural Collapse	[Structural Collapse] does not cause target to sacrifice a land.	Non-Functional ability	2017-12-26 17:37:56
 Sunscourge Champion	[Sunscourge Champion] will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2017-08-10 23:39:12
 Sylvan Primordial	Casting [Sylvan Primordial] causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2017-11-05 11:57:57
 Synthetic Destiny	[Synthetic Destiny][Mass Polymorph] does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-09-29 07:41:22
