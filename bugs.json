@@ -946,9 +946,9 @@
   },
   {
     "card": "Null Chamber",
-    "description": "[Null Chamber] Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.",
+    "description": "[Null Chamber]'s Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.",
     "category": "Advantageous",
-    "last_updated": "2017-12-26 17:37:59",
+    "last_updated": "2017-12-26 17:42:22",
     "pd_legal": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/16"
@@ -1002,7 +1002,7 @@
     "card": "Cryptic Gateway",
     "description": "[Cryptic Gateway] Cannot select a card from your hand",
     "category": "Non-Functional ability",
-    "last_updated": "2017-05-28 18:39:00",
+    "last_updated": "2017-12-26 18:37:58",
     "pd_legal": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/5"

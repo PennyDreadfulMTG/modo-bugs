@@ -13,7 +13,7 @@ Commandeer	[Commandeer] does not gain control of the targeted noncreature spell.
 Compost	[Compost] If a player cast a split card that are black on the uncasted side, the draw effect isn't triggered	Disadvantageous	2017-10-31 09:18:15
 Concerted Effort	[Concerted Effort] Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-09-29 07:41:28
 Containment Priest	[Containment Priest] exiles Theros Gods even when their devotion isn't met.	Advantageous	2017-07-16 19:47:21
-Cryptic Gateway	[Cryptic Gateway] Cannot select a card from your hand	Non-Functional ability	2017-05-28 18:39:00
+Cryptic Gateway	[Cryptic Gateway] Cannot select a card from your hand	Non-Functional ability	2017-12-26 18:37:58
 Curse of Shallow Graves	[Curse of Shallow Graves] creates Zombie tokens with incorrect art.	Graphical	2017-06-02 11:44:23
 Cursed Scroll	[Cursed Scroll] does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2017-12-18 15:39:45
 Custodi Lich	[Custodi Lich] The sacrifice trigger happens whenever any player becomes the monarch.	Advantageous	2017-11-06 13:31:37
@@ -62,7 +62,7 @@ Molten-Tail Masticore	Masticores do not require discard to stay in play	Advantag
 Multani's Presence	[Multani's Presence] incorrectly draws cards off copies of spells that are countered	Advantageous	2017-08-08 16:46:15
 Myriad Landscape	[Myriad Landscape] Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.	Advantageous	2017-06-21 07:37:18
 Nebuchadnezzar	[Nebuchadnezzar] ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
-Null Chamber	[Null Chamber] Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2017-12-26 17:37:59
+Null Chamber	[Null Chamber]'s Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2017-12-26 17:42:22
 Odds	[Odds] Odds: Restarts the game in buggy state on heads	Game Breaking	2017-10-11 02:10:56
 Oriss, Samite Guardian	Using [Oriss, Samite Guardian]'s Grandeur ability during controller's precombat main phase will not allow controller to attack that turn.	Disadvantageous	2017-09-29 07:41:07
 Oubliette	When [Oubliette] is destroyed, the game goes into a soft lock.	Game Breaking	2017-12-22 00:37:46
