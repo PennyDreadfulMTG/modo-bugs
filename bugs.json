@@ -5,6 +5,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-12-26 14:38:22",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/239"
   },
@@ -14,6 +15,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-12-18 03:40:20",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/238"
   },
@@ -23,6 +25,7 @@
     "category": "Advantageous",
     "last_updated": "2017-12-17 10:54:12",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/237"
   },
@@ -32,6 +35,7 @@
     "category": "Advantageous",
     "last_updated": "2017-12-25 04:37:46",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/236"
   },
@@ -41,6 +45,7 @@
     "category": "Advantageous",
     "last_updated": "2017-12-25 04:37:46",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/236"
   },
@@ -50,6 +55,7 @@
     "category": "Advantageous",
     "last_updated": "2017-12-25 04:37:46",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/236"
   },
@@ -59,6 +65,7 @@
     "category": "Non-Functional ability",
     "last_updated": "2017-12-17 10:54:14",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/235"
   },
@@ -68,6 +75,7 @@
     "category": "Non-Functional ability",
     "last_updated": "2017-12-06 05:46:17",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/234"
   },
@@ -77,6 +85,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-12-06 05:37:55",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/233"
   },
@@ -86,6 +95,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-12-17 10:54:15",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/232"
   },
@@ -95,6 +105,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-12-17 10:54:18",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/230"
   },
@@ -104,6 +115,7 @@
     "category": "Advantageous",
     "last_updated": "2017-12-26 16:46:59",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/229"
   },
@@ -113,6 +125,7 @@
     "category": "Non-Functional ability",
     "last_updated": "2017-12-03 04:45:09",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/228"
   },
@@ -122,6 +135,7 @@
     "category": "Advantageous",
     "last_updated": "2017-11-16 08:30:26",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/225"
   },
@@ -131,6 +145,7 @@
     "category": "Advantageous",
     "last_updated": "2017-12-08 04:45:51",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/224"
   },
@@ -140,6 +155,7 @@
     "category": "Advantageous",
     "last_updated": "2017-11-06 01:58:54",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/221"
   },
@@ -149,6 +165,7 @@
     "category": "Advantageous",
     "last_updated": "2017-11-05 18:31:26",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/220"
   },
@@ -158,6 +175,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-11-05 11:57:57",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/219"
   },
@@ -167,6 +185,7 @@
     "category": "Advantageous",
     "last_updated": "2017-11-05 11:56:25",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/218"
   },
@@ -176,6 +195,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-11-05 11:57:58",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217"
   },
@@ -185,6 +205,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-11-05 11:57:58",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217"
   },
@@ -194,6 +215,7 @@
     "category": "Advantageous",
     "last_updated": "2017-11-05 11:26:30",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/216"
   },
@@ -203,6 +225,7 @@
     "category": "Unclassified",
     "last_updated": "2017-11-05 10:36:35",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/215"
   },
@@ -212,6 +235,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-10-31 21:52:35",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/213"
   },
@@ -221,6 +245,7 @@
     "category": "Advantageous",
     "last_updated": "2017-12-17 10:54:20",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/208"
   },
@@ -230,6 +255,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-10-24 13:14:40",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/206"
   },
@@ -239,6 +265,7 @@
     "category": "Advantageous",
     "last_updated": "2017-10-24 13:38:37",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/203"
   },
@@ -248,6 +275,7 @@
     "category": "Advantageous",
     "last_updated": "2017-10-24 13:38:38",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/202"
   },
@@ -257,6 +285,7 @@
     "category": "Graphical",
     "last_updated": "2017-10-06 04:50:46",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/198"
   },
@@ -266,6 +295,7 @@
     "category": "Unclassified",
     "last_updated": "2017-10-31 04:05:19",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
   },
@@ -275,6 +305,7 @@
     "category": "Unclassified",
     "last_updated": "2017-10-31 04:05:19",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
   },
@@ -284,6 +315,7 @@
     "category": "Unclassified",
     "last_updated": "2017-10-31 04:05:19",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
   },
@@ -293,6 +325,7 @@
     "category": "Unclassified",
     "last_updated": "2017-10-31 04:05:19",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
   },
@@ -302,6 +335,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-10-06 04:59:20",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/195"
   },
@@ -311,6 +345,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-10-06 04:59:08",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/193"
   },
@@ -320,6 +355,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-10-06 04:15:22",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/192"
   },
@@ -329,6 +365,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-10-06 05:13:27",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/191"
   },
@@ -338,6 +375,7 @@
     "category": "Unclassified",
     "last_updated": "2017-10-05 17:43:46",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/190"
   },
@@ -347,6 +385,7 @@
     "category": "Unclassified",
     "last_updated": "2017-10-09 05:05:45",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/188"
   },
@@ -356,6 +395,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-09-21 22:07:27",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/185"
   },
@@ -365,6 +405,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-09-29 07:41:06",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/181"
   },
@@ -374,6 +415,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-09-12 08:38:40",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/180"
   },
@@ -383,6 +425,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-12-22 00:37:45",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/179"
   },
@@ -392,6 +435,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-11-09 08:04:30",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/178"
   },
@@ -401,6 +445,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-09-29 07:41:07",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/177"
   },
@@ -410,6 +455,7 @@
     "category": "Advantageous",
     "last_updated": "2017-08-25 04:39:46",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/176"
   },
@@ -419,6 +465,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-08-25 03:22:38",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/158"
   },
@@ -428,6 +475,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-12-17 10:54:22",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/155"
   },
@@ -437,6 +485,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-12-12 18:19:18",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/153"
   },
@@ -446,6 +495,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-10-31 09:18:15",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/151"
   },
@@ -455,6 +505,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-09-29 07:41:09",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/148"
   },
@@ -464,6 +515,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-08-10 22:48:36",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/146"
   },
@@ -473,6 +525,7 @@
     "category": "Advantageous",
     "last_updated": "2017-09-29 07:41:10",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/145"
   },
@@ -482,6 +535,7 @@
     "category": "Unclassified",
     "last_updated": "2017-08-10 22:39:10",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/144"
   },
@@ -491,6 +545,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-08-12 18:38:51",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/141"
   },
@@ -500,6 +555,7 @@
     "category": "Unclassified",
     "last_updated": "2017-10-24 13:18:15",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/140"
   },
@@ -509,6 +565,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-08-10 23:39:12",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/139"
   },
@@ -518,6 +575,7 @@
     "category": "Advantageous",
     "last_updated": "2017-08-08 16:46:15",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/137"
   },
@@ -527,6 +585,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-09-29 07:41:13",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/135"
   },
@@ -536,6 +595,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-09-29 07:41:14",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/132"
   },
@@ -545,6 +605,7 @@
     "category": "Graphical",
     "last_updated": "2017-12-18 15:39:45",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/131"
   },
@@ -554,6 +615,7 @@
     "category": "Unclassified",
     "last_updated": "2017-07-29 15:38:36",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/128"
   },
@@ -563,6 +625,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-08-20 07:45:56",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
   },
@@ -572,6 +635,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-09-21 22:11:24",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/125"
   },
@@ -581,6 +645,7 @@
     "category": "Non-Functional ability",
     "last_updated": "2017-12-26 17:37:56",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/123"
   },
@@ -590,6 +655,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-07-29 15:20:35",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/122"
   },
@@ -599,6 +665,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-07-16 19:47:31",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/79"
   },
@@ -608,6 +675,7 @@
     "category": "Advantageous",
     "last_updated": "2017-07-16 19:47:21",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/78"
   },
@@ -617,6 +685,7 @@
     "category": "Graphical",
     "last_updated": "2017-07-16 19:47:11",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/77"
   },
@@ -626,6 +695,7 @@
     "category": "Advantageous",
     "last_updated": "2017-06-30 16:54:05",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/74"
   },
@@ -635,6 +705,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-06-29 19:29:14",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/73"
   },
@@ -644,6 +715,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-11-05 10:58:10",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/72"
   },
@@ -653,6 +725,7 @@
     "category": "Non-Functional ability",
     "last_updated": "2017-07-05 16:48:54",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/71"
   },
@@ -662,6 +735,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-06-28 05:37:36",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/70"
   },
@@ -671,6 +745,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-06-24 06:37:21",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/69"
   },
@@ -680,6 +755,7 @@
     "category": "Advantageous",
     "last_updated": "2017-06-21 07:37:18",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/68"
   },
@@ -689,6 +765,7 @@
     "category": "Graphical",
     "last_updated": "2017-09-29 07:41:18",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/66"
   },
@@ -698,6 +775,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-06-20 17:37:24",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/64"
   },
@@ -707,6 +785,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-11-22 06:15:33",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/63"
   },
@@ -716,6 +795,7 @@
     "category": "Advantageous",
     "last_updated": "2017-11-06 01:58:13",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/62"
   },
@@ -725,6 +805,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-06-14 05:52:08",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/59"
   },
@@ -734,6 +815,7 @@
     "category": "Advantageous",
     "last_updated": "2017-06-19 21:55:29",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/58"
   },
@@ -743,6 +825,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-06-19 22:04:16",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/57"
   },
@@ -752,6 +835,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-11-22 06:24:01",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/55"
   },
@@ -761,6 +845,7 @@
     "category": "Graphical",
     "last_updated": "2017-06-02 11:41:58",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/52"
   },
@@ -770,6 +855,7 @@
     "category": "Graphical",
     "last_updated": "2017-06-24 14:06:25",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/51"
   },
@@ -779,6 +865,7 @@
     "category": "Advantageous",
     "last_updated": "2017-11-06 13:31:37",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/50"
   },
@@ -788,6 +875,7 @@
     "category": "Graphical",
     "last_updated": "2017-06-02 11:44:23",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/49"
   },
@@ -797,6 +885,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-12-22 00:37:46",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/48"
   },
@@ -806,6 +895,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-09-29 07:41:22",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/45"
   },
@@ -815,6 +905,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-09-29 07:41:22",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/45"
   },
@@ -824,6 +915,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-06-02 14:00:45",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/44"
   },
@@ -833,6 +925,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-07-14 08:38:13",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/43"
   },
@@ -842,6 +935,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-06-01 17:37:27",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/41"
   },
@@ -851,6 +945,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-08-24 16:43:46",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/40"
   },
@@ -860,6 +955,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-05-28 18:18:07",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/39"
   },
@@ -869,6 +965,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-07-14 08:38:16",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/36"
   },
@@ -878,6 +975,7 @@
     "category": "Advantageous",
     "last_updated": "2017-10-31 09:29:05",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/35"
   },
@@ -887,6 +985,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-09-29 07:41:24",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/34"
   },
@@ -896,6 +995,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-09-29 07:41:25",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/32"
   },
@@ -905,6 +1005,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-09-29 07:41:26",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/27"
   },
@@ -914,6 +1015,7 @@
     "category": "Non-Functional ability",
     "last_updated": "2017-12-26 17:37:57",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/24"
   },
@@ -923,6 +1025,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-12-26 17:37:58",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/23"
   },
@@ -932,6 +1035,7 @@
     "category": "Advantageous",
     "last_updated": "2017-08-27 19:47:37",
     "pd_legal": true,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/20"
   },
@@ -941,6 +1045,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-10-11 02:10:56",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17"
   },
@@ -950,6 +1055,7 @@
     "category": "Advantageous",
     "last_updated": "2017-12-26 17:42:22",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/16"
   },
@@ -959,6 +1065,7 @@
     "category": "Game Breaking",
     "last_updated": "2017-06-29 19:17:25",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/11"
   },
@@ -968,6 +1075,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-07-30 14:49:58",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/10"
   },
@@ -977,6 +1085,7 @@
     "category": "Advantageous",
     "last_updated": "2017-07-14 08:38:20",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/9"
   },
@@ -986,6 +1095,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-11-02 03:21:53",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/8"
   },
@@ -995,6 +1105,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-05-28 18:18:21",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/7"
   },
@@ -1004,6 +1115,7 @@
     "category": "Non-Functional ability",
     "last_updated": "2017-12-26 18:37:58",
     "pd_legal": false,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/5"
   },
@@ -1013,6 +1125,7 @@
     "category": "Disadvantageous",
     "last_updated": "2017-09-29 07:41:28",
     "pd_legal": true,
+    "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/4"
   },
@@ -1022,6 +1135,7 @@
     "category": "Non-Functional ability",
     "last_updated": "2017-06-02 13:33:47",
     "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/3"
   }
