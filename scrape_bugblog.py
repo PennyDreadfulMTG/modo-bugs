@@ -20,8 +20,15 @@ def scrape():
     soup = BeautifulSoup(requests.get('http://magic.wizards.com/en/articles/archive/184956').text, 'html.parser')
     articles = [parse_article_item_extended(a) for a in soup.find_all('div', class_='article-item-extended')]
     bug_blogs = [a for a in articles if str(a[0].string).startswith('Magic Online Bug Blog')]
-    print('scraping {0} ({1}'.format(bug_blogs[0][0], bug_blogs[0][1]))
+    print('scraping {0} ({1})'.format(bug_blogs[0][0], bug_blogs[0][1]))
+    update_redirect(bug_blogs[0][0].text, bug_blogs[0][1])
     scrape_bb(bug_blogs[0][1])
+
+def update_redirect(title, redirect):
+    str = "---\ntitle: {title}\nredirect_to:\n - {url}\n---\n".format(title=title, url=redirect)
+    bb_jekyl = open('bug_blog.md', mode='w')
+    bb_jekyl.write(str)
+    bb_jekyl.close()
 
 def parse_article_item_extended(a):
     title = a.find_all('h3')[0]
