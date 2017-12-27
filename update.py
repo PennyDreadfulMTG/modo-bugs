@@ -160,6 +160,7 @@ def process_issue(issue):
                 'category': cat,
                 'last_updated': str(issue.updated_at),
                 'pd_legal': card in LEGAL_CARDS,
+                'bug_blog': "From Bug Blog" in labels,
                 'breaking': cat in BADCATS,
                 'url': issue.html_url,
             }
