@@ -1,5 +1,25 @@
 [
   {
+    "card": "Sheltering Ancient",
+    "description": "[Sheltering Ancient]'s Cumulative Upkeep Stops Working After One Age Counter",
+    "category": "Unconfirmed",
+    "last_updated": "2017-12-28 13:38:12",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/241"
+  },
+  {
+    "card": "Vexing Sphinx",
+    "description": "[Vexing Sphinx]'s Cumulative Upkeep Doesn't Make You Discard",
+    "category": "Unconfirmed",
+    "last_updated": "2017-12-28 13:38:13",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/240"
+  },
+  {
     "card": "Archangel of Strife",
     "description": "[Archangel of Strife] War or Peace choice repeats indefinitely.",
     "category": "Game Breaking",
