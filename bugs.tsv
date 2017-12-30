@@ -5,7 +5,7 @@ Archangel of Strife	[Archangel of Strife] War or Peace choice repeats indefinite
 Athreos, God of Passage	[Athreos, God of Passage] does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
 Axis of Mortality	[Axis of Mortality] still fully resolves when a player cannot gain life.	Unclassified	2017-10-09 05:05:45
 Booby Trap	[Booby Trap] does not let you name anything other than non-basic lands.	Disadvantageous	2017-12-12 18:19:18
-Card Name	Clash fails for Broken Ambitions	Unconfirmed	2017-12-30 06:37:55
+Broken Ambitions	Clash fails for Broken Ambitions	Unconfirmed	2017-12-30 09:05:07
 Chandra Nalaar	[Chandra Nalaar] Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
 Cloud Key	[Cloud Key] Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Collected Company	[Collected Company] does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2017-10-06 04:59:08
@@ -87,7 +87,6 @@ Sanguine Sacrament	There are known issues with giving flashback to a spell that 
 Screams from Within	[Screams from Within]'s second ability (Return ~ to your hand) does not function. 	Non-Functional ability	2017-12-06 05:46:17
 Scythe of the Wretched	[Scythe of the Wretched]  reanimates any creature that dies, regardless of it the equipped creature damages it	Advantageous	2017-11-06 01:58:54
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
-Second Card name	Clash fails for Broken Ambitions	Unconfirmed	2017-12-30 06:37:55
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-11-22 06:24:01
 Settle the Wreckage	[Settle the Wreckage] does not give the targeted player the option to not search their library.	Unclassified	2017-10-05 17:43:46
 Sheltering Ancient	[Sheltering Ancient]'s Cumulative Upkeep Stops Working After One Age Counter	Unconfirmed	2017-12-28 13:38:12

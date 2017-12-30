@@ -1,20 +1,10 @@
 [
   {
-    "card": "Card Name",
+    "card": "Broken Ambitions",
     "description": "Clash fails for Broken Ambitions",
     "category": "Unconfirmed",
-    "last_updated": "2017-12-30 06:37:55",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/243"
-  },
-  {
-    "card": "Second Card name",
-    "description": "Clash fails for Broken Ambitions",
-    "category": "Unconfirmed",
-    "last_updated": "2017-12-30 06:37:55",
-    "pd_legal": false,
+    "last_updated": "2017-12-30 09:05:07",
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/243"
