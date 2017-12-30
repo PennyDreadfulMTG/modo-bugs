@@ -1,5 +1,25 @@
 [
   {
+    "card": "Card Name",
+    "description": "Clash fails for Broken Ambitions",
+    "category": "Unconfirmed",
+    "last_updated": "2017-12-30 06:37:55",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/243"
+  },
+  {
+    "card": "Second Card name",
+    "description": "Clash fails for Broken Ambitions",
+    "category": "Unconfirmed",
+    "last_updated": "2017-12-30 06:37:55",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/243"
+  },
+  {
     "card": "Hanweir Garrison",
     "description": "While on the stack, the triggered ability of Hanweir Garrison contains a text error that indicates an incorrect number of tokens to be added. This is a display issue only.",
     "category": "Graphical",
