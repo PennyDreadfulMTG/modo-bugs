@@ -1,9 +1,9 @@
 [
   {
     "card": "Broken Ambitions",
-    "description": "Clash fails for Broken Ambitions",
+    "description": "Player is not given an option to scry card to the bottom when clashing",
     "category": "Unconfirmed",
-    "last_updated": "2017-12-30 09:05:07",
+    "last_updated": "2017-12-30 09:09:23",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -1123,7 +1123,7 @@
     "card": "Infinite Reflection",
     "description": "[Infinite Reflection] All creatures become copies, not just ones you control.",
     "category": "Advantageous",
-    "last_updated": "2017-07-14 08:38:20",
+    "last_updated": "2017-12-30 10:20:02",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
