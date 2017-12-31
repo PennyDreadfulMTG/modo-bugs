@@ -2,8 +2,8 @@
   {
     "card": "Broken Ambitions",
     "description": "Player is not given an option to scry card to the bottom when clashing",
-    "category": "Unconfirmed",
-    "last_updated": "2017-12-30 09:09:23",
+    "category": "Disadvantageous",
+    "last_updated": "2017-12-31 02:38:32",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
