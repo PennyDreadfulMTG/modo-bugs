@@ -27,6 +27,8 @@ AFFECTS_REGEX = r'^Affects: (.*)$'
 DISCORD_REGEX = r'^Reported on Discord by (\w+#[0-9]+)$'
 IMAGES_REGEX = r'^<!-- Images --> (.*)$'
 
+BAD_AFFECTS_REGEX = r'Affects: (\[Card Name\]\(, \[Second Card name\], etc\)\r?\n)\['
+
 if sys.stdout.encoding != 'utf-8':
     sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer, 'strict')
 
@@ -79,6 +81,9 @@ def main():
     
 
 def process_issue(issue):
+    age = (datetime.datetime.now() - issue.updated_at).days
+    if age < 5:
+        fix_user_errors(issue)
     labels = [c.name for c in issue.labels]
     affects = re.search(AFFECTS_REGEX, issue.body, re.MULTILINE)
     if affects:
@@ -89,7 +94,6 @@ def process_issue(issue):
     cards = re.findall(r'\[?\[([^\]]*)\]\]?', affects)
     cards = [c for c in cards]
 
-    age = (datetime.datetime.now() - issue.updated_at).days
     if affects == issue.title and age < 5:
         body = issue.body + '\nAffects: ' + ''.join(['[' + c + ']' for c in cards])
         issue.edit(body=body)
@@ -165,6 +169,12 @@ def process_issue(issue):
                 'url': issue.html_url,
             }
         ALL_BUGS.append(bug)
+
+def fix_user_errors(issue):
+    affects = re.search(BAD_AFFECTS_REGEX, issue.body)
+    badtext = affects.groups(1)
+    newbody = re.sub(BAD_AFFECTS_REGEX, 'Affects: [', issue.body)
+    issue.edit(body=newbody)
 
 if __name__ == "__main__":
     main()
