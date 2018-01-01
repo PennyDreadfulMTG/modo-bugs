@@ -4,24 +4,26 @@ import sys
 import datetime
 import urllib.parse
 import json
+from typing import Any, Dict, List
 
-from helpers import remove_smartquotes
+import requests
+from github import Github
 
 import configuration
-import requests
+from helpers import remove_smartquotes
 
-from github import Github
+
 
 CATEGORIES = ["Advantageous", "Disadvantageous", "Game Breaking", "Graphical", "Non-Functional ability"]
 BADCATS = ["Game Breaking"]
 
-LEGAL_CARDS = []
+LEGAL_CARDS: List[str] = []
 
-ALL_BUGS = []
+ALL_BUGS: List[Dict] = []
 
-ALL_CSV = []
-ALL_BANNED = []
-PD_BANNED = []
+ALL_CSV: List[str] = []
+ALL_BANNED: List[str] = []
+PD_BANNED: List[str] = []
 
 AFFECTS_REGEX = r'^Affects: (.*)$'
 DISCORD_REGEX = r'^Reported on Discord by (\w+#[0-9]+)$'
@@ -32,13 +34,13 @@ BAD_AFFECTS_REGEX = r'Affects: (\[Card Name\]\(, \[Second Card name\], etc\)\r?\
 if sys.stdout.encoding != 'utf-8':
     sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer, 'strict')
 
-def fetch_pd_legal():
+def fetch_pd_legal() -> None:
     print('Fetching http://pdmtgo.com/legal_cards.txt')
     for card in requests.get('http://pdmtgo.com/legal_cards.txt').text.split('\n'):
         LEGAL_CARDS.append(card)
 
 
-def main():
+def main() -> None:
     if configuration.get("github_user") is None or configuration.get("github_password") is None:
         print('Invalid Config')
         exit(1)
@@ -132,7 +134,7 @@ def process_issue(issue):
         else:
             cat = "Unconfirmed"
             if re.match(DISCORD_REGEX, issue.body) and not issue.comments:
-                print('Issue #{id} was reported {days} ago via Discord, and has had no followup.'.format(id=issue.number, age=age))
+                print('Issue #{id} was reported {days} ago via Discord, and has had no followup.'.format(id=issue.number, days=age))
                 if age > 1:
                     issue.create_comment('Closing due to lack of followup.')
                     issue.edit(state='closed')
@@ -159,14 +161,14 @@ def process_issue(issue):
             if card in LEGAL_CARDS:
                 PD_BANNED.append(card)
         bug = {
-                'card': card,
-                'description': msg,
-                'category': cat,
-                'last_updated': str(issue.updated_at),
-                'pd_legal': card in LEGAL_CARDS,
-                'bug_blog': "From Bug Blog" in labels,
-                'breaking': cat in BADCATS,
-                'url': issue.html_url,
+            'card': card,
+            'description': msg,
+            'category': cat,
+            'last_updated': str(issue.updated_at),
+            'pd_legal': card in LEGAL_CARDS,
+            'bug_blog': "From Bug Blog" in labels,
+            'breaking': cat in BADCATS,
+            'url': issue.html_url,
             }
         ALL_BUGS.append(bug)
 
