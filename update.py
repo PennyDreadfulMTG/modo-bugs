@@ -87,7 +87,10 @@ def process_issue(issue):
         fix_user_errors(issue)
     labels = [c.name for c in issue.labels]
     affects = re.search(AFFECTS_REGEX, issue.body, re.MULTILINE)
-    affects = affects.group(1)
+    if affects is None:
+        affects = issue.title
+    else:
+        affects = affects.group(1)
 
     cards = re.findall(r'\[?\[([^\]]*)\]\]?', affects)
     cards = [c for c in cards]
