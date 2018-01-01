@@ -1,5 +1,25 @@
 [
   {
+    "card": "Card Name",
+    "description": "Painful Quandary does not work",
+    "category": "Unconfirmed",
+    "last_updated": "2018-01-01 00:37:54",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/244"
+  },
+  {
+    "card": "Second Card name",
+    "description": "Painful Quandary does not work",
+    "category": "Unconfirmed",
+    "last_updated": "2018-01-01 00:37:54",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/244"
+  },
+  {
     "card": "Broken Ambitions",
     "description": "Player is not given an option to scry card to the bottom when clashing",
     "category": "Disadvantageous",
