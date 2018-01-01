@@ -76,11 +76,10 @@ def main() -> None:
     for line in PD_BANNED:
         txt.write(line + '\n')
     txt.close()
-    
+
     bugsjson = open('bugs.json', mode='w')
     json.dump(ALL_BUGS, bugsjson, indent=2)
     bugsjson.close()
-    
 
 def process_issue(issue):
     age = (datetime.datetime.now() - issue.updated_at).days
@@ -88,17 +87,10 @@ def process_issue(issue):
         fix_user_errors(issue)
     labels = [c.name for c in issue.labels]
     affects = re.search(AFFECTS_REGEX, issue.body, re.MULTILINE)
-    if affects:
-        affects = affects.group(1)
-    else:
-        affects = issue.title
+    affects = affects.group(1)
 
     cards = re.findall(r'\[?\[([^\]]*)\]\]?', affects)
     cards = [c for c in cards]
-
-    if affects == issue.title and age < 5:
-        body = issue.body + '\nAffects: ' + ''.join(['[' + c + ']' for c in cards])
-        issue.edit(body=body)
 
     images = re.search(IMAGES_REGEX, issue.body, re.MULTILINE)
     if len(cards) > 1:
@@ -173,10 +165,11 @@ def process_issue(issue):
         ALL_BUGS.append(bug)
 
 def fix_user_errors(issue):
-    affects = re.search(BAD_AFFECTS_REGEX, issue.body)
-    badtext = affects.groups(1)
-    newbody = re.sub(BAD_AFFECTS_REGEX, 'Affects: [', issue.body)
-    issue.edit(body=newbody)
+    body = issue.body
+    body = re.sub(BAD_AFFECTS_REGEX, 'Affects: [', body)
+    if not re.match(AFFECTS_REGEX, body):
+        body = body + '\nAffects: ' + ''.join(['[' + c + ']' for c in cards])
+    issue.edit(body=body)
 
 if __name__ == "__main__":
     main()
