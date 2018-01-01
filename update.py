@@ -168,6 +168,8 @@ def fix_user_errors(issue):
     body = issue.body
     body = re.sub(BAD_AFFECTS_REGEX, 'Affects: [', body)
     if not re.match(AFFECTS_REGEX, body):
+        cards = re.findall(r'\[?\[([^\]]*)\]\]?', issue.title)
+        cards = [c for c in cards]
         body = body + '\nAffects: ' + ''.join(['[' + c + ']' for c in cards])
     issue.edit(body=body)
 
