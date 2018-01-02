@@ -183,6 +183,8 @@ def fix_user_errors(issue):
         lines = body.split('\n')
         if re.match(AFFECTS_REGEX, lines[-1]):
             body = '\n'.join(lines[:-1])
+    # People are missing the bullet points, and putting info on the following line instead.
+    body = re.sub(r' - \r?\n', '', body)
     # Push changes.
     if body != issue.body:
         issue.edit(body=body)
