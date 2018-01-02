@@ -25,9 +25,9 @@ def scrape():
     scrape_bb(bug_blogs[0][1])
 
 def update_redirect(title, redirect):
-    str = "---\ntitle: {title}\nredirect_to:\n - {url}\n---\n".format(title=title, url=redirect)
+    text = "---\ntitle: {title}\nredirect_to:\n - {url}\n---\n".format(title=title, url=redirect)
     bb_jekyl = open('bug_blog.md', mode='w')
-    bb_jekyl.write(str)
+    bb_jekyl.write(text)
     bb_jekyl.close()
 
 def parse_article_item_extended(a):
