@@ -4,7 +4,7 @@ import sys
 import datetime
 import urllib.parse
 import json
-from typing import Any, Dict, List
+from typing import Dict, List
 
 import requests
 from github import Github
@@ -169,13 +169,23 @@ def process_issue(issue):
 
 def fix_user_errors(issue):
     body = issue.body
+    # People sometimes put the affected cards on the following line. Account for that.
     body = re.sub(BAD_AFFECTS_REGEX, 'Affects: [', body)
+    # People sometimes neglect Affects all-together, and only put cards in the title.
     affects = re.search(AFFECTS_REGEX, body, re.MULTILINE)
     if affects is None:
         cards = re.findall(r'\[?\[([^\]]*)\]\]?', issue.title)
         cards = [c for c in cards]
         body = body + '\nAffects: ' + ''.join(['[' + c + ']' for c in cards])
-    issue.edit(body=body)
+    # We had a bug where the above triggered infinitely.  Clean it up.
+    extra_affects = re.findall(AFFECTS_REGEX, body, re.MULTILINE)
+    if len(extra_affects) > 1:
+        lines = body.split('\n')
+        if re.match(AFFECTS_REGEX, lines[-1]):
+            body = '\n'.join(lines[:-1])
+    # Push changes.
+    if body != issue.body:
+        issue.edit(body=body)
 
 if __name__ == "__main__":
     main()
