@@ -1,10 +1,30 @@
 [
   {
+    "card": "orchish spy",
+    "description": "[orchish spy] change the order of the top 3 cards shown",
+    "category": "Unconfirmed",
+    "last_updated": "2018-01-04 07:37:55",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/251"
+  },
+  {
     "card": "Compulsive Research",
-    "description": "[Compulsive Research] dredging rather than drawing can let you avoid discarding",
+    "description": "Dredging rather than drawing can let you avoid discarding",
     "category": "Advantageous",
-    "last_updated": "2018-01-03 12:38:04",
+    "last_updated": "2018-01-04 07:37:56",
     "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/249"
+  },
+  {
+    "card": "Fa\u2019adiyah seer",
+    "description": "Dredging rather than drawing can let you avoid discarding",
+    "category": "Advantageous",
+    "last_updated": "2018-01-04 07:37:56",
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/249"
