@@ -46,7 +46,7 @@ Hollow One	[Hollow One] doesn't count discarded split cards.	Disadvantageous	201
 Icefall Regent	If you target an [Icefall Regent] with a fused split card, you must pay {2} for each side of the split card, for a total of {4}	Advantageous	2017-12-17 10:54:20
 Identity Thief	[Identity Thief] Restarts the game when attempting to copy a creature.	Game Breaking	2017-06-28 05:37:36
 Ignite Memories	[Ignite Memories] and similar cards can cause a game restart if the target has no cards in hand.	Game Breaking	2017-08-20 07:45:56
-Imp's Mischief	[Imp's Mischief] restarts the game in a buggy state	Game Breaking	2018-01-02 08:44:41
+Imp's Mischief	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-05 03:37:55
 Infinite Reflection	[Infinite Reflection] All creatures become copies, not just ones you control.	Advantageous	2018-01-03 11:38:22
 Island Sanctuary	[Island Sanctuary]'s replacement effect is available if you draw a card during an opponents draw step	Advantageous	2017-06-19 21:55:29
 Jodah's Avenger	[Jodah's Avenger] Activated ability continues activating infinitely.	Game Breaking	2017-12-18 03:40:20
@@ -63,6 +63,7 @@ Mass Polymorph	[Synthetic Destiny][Mass Polymorph] does not take commanders into
 Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46
 Memory Lapse	[Memory Lapse] moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-07-14 08:38:13
 Mirror Match	[Mirror Match] Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2017-06-30 16:54:05
+Misdirection	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-05 03:37:55
 Misdirection	[Misdirection] can reset the game in rare cases.	Game Breaking	2017-08-10 22:48:36
 Mishra's Workshop	When there is [Mishra's Workshop] mana in your mana pool which is trying to be used on an X spell, non-Mishra mana is used first, even when you click on the Mishra mana	Unconfirmed	2018-01-02 17:37:55
 Molten-Tail Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46
