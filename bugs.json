@@ -10,10 +10,10 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/252"
   },
   {
-    "card": "orchish spy",
+    "card": "orcish spy",
     "description": "[Orcish Spy] change the order of the top 3 cards shown",
     "category": "Unconfirmed",
-    "last_updated": "2018-01-04 23:49:55",
+    "last_updated": "2018-01-07 07:37:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
