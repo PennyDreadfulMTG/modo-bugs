@@ -1,5 +1,15 @@
 [
   {
+    "card": "Glacial Ray",
+    "description": "Splicing [Glacial Ray] onto another Arcane spell restarts the game",
+    "category": "Unconfirmed",
+    "last_updated": "2018-01-08 15:38:08",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/253"
+  },
+  {
     "card": "Knowledge Pool",
     "description": "[Knowledge Pool] With multiple Knowledge Pools in play, casting a spell from hand lets you cast a spell from each Pool.",
     "category": "Advantageous",
