@@ -1,5 +1,15 @@
 [
   {
+    "card": "Ninja of the Deep Hours",
+    "description": "[Ninja of the Deep Hours] and other cards with Ninjutsu don't allow you to return an attacking creature during the declare blockers step",
+    "category": "Unconfirmed",
+    "last_updated": "2018-01-10 21:38:24",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/254"
+  },
+  {
     "card": "Glacial Ray",
     "description": "Splicing [Glacial Ray] onto another Arcane spell restarts the game",
     "category": "Unconfirmed",
