@@ -20,6 +20,16 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/252"
   },
   {
+    "card": "orcish spy",
+    "description": "[Orcish Spy] and cards with similar ability shows the cards in alphabetical order, not the actual order",
+    "category": "Disadvantageous",
+    "last_updated": "2018-01-11 06:20:52",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/251"
+  },
+  {
     "card": "Compulsive Research",
     "description": "Dredging rather than drawing can let you avoid discarding",
     "category": "Advantageous",
@@ -70,30 +80,10 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/246"
   },
   {
-    "card": "Mishra's Workshop",
-    "description": "When there is [Mishra's Workshop] mana in your mana pool which is trying to be used on an X spell, non-Mishra mana is used first, even when you click on the Mishra mana",
-    "category": "Unconfirmed",
-    "last_updated": "2018-01-02 17:37:55",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/245"
-  },
-  {
-    "card": "Painful Quandary",
-    "description": "Painful Quandary does not work",
-    "category": "Unconfirmed",
-    "last_updated": "2018-01-03 12:38:04",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/244"
-  },
-  {
     "card": "Broken Ambitions",
-    "description": "Player is not given an option to scry card to the bottom when clashing",
-    "category": "Disadvantageous",
-    "last_updated": "2018-01-03 14:37:54",
+    "description": "Opponent is not given the option to scry card to the bottom when clashing",
+    "category": "Advantageous",
+    "last_updated": "2018-01-11 05:52:25",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -318,26 +308,6 @@
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/218"
-  },
-  {
-    "card": "Wall of Roots",
-    "description": "The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.",
-    "category": "Disadvantageous",
-    "last_updated": "2017-11-05 11:57:58",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217"
-  },
-  {
-    "card": "Kozilek's Translator",
-    "description": "The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.",
-    "category": "Disadvantageous",
-    "last_updated": "2017-11-05 11:57:58",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217"
   },
   {
     "card": "Harsh Mentor",
