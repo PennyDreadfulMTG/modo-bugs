@@ -310,6 +310,26 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/218"
   },
   {
+    "card": "Wall of Roots",
+    "description": "The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-11-05 11:57:58",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217"
+  },
+  {
+    "card": "Kozilek's Translator",
+    "description": "The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.",
+    "category": "Disadvantageous",
+    "last_updated": "2017-11-05 11:57:58",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217"
+  },
+  {
     "card": "Harsh Mentor",
     "description": "[Harsh Mentor]'s triggered ability also affects abilities activated from creatures in the graveyard.",
     "category": "Advantageous",

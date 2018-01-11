@@ -54,6 +54,7 @@ Karplusan Minotaur	[Karplusan Minotaur] Cumulative upkeep cannot be paid	Disadva
 Kess, Dissident Mage	[Kess, Dissident Mage] has issues with casting spells through alternative methods.	Advantageous	2017-12-08 04:45:51
 Knowledge Pool	[Knowledge Pool] With multiple Knowledge Pools in play, casting a spell from hand lets you cast a spell from each Pool.	Advantageous	2018-01-06 11:37:55
 Koth of the Hammer	When controlling the Emblem of [Koth of the Hammer], lands do not display the blue text they have.	Graphical	2017-07-16 19:47:11
+Kozilek's Translator	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2017-11-05 11:57:58
 Lich	[Lich] If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-06-29 19:17:25
 Liquid Fire	[Liquid Fire] doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2017-09-29 07:41:09
 Living Lore	[Living Lore] If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-10-31 09:29:05
@@ -119,6 +120,7 @@ Vexing Sphinx	[Vexing Sphinx]'s Cumulative Upkeep Doesn't Make You Discard	Uncon
 Vizier of Many Faces	[Vizier of Many Faces] If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-09-29 07:41:18
 Vizier of Many Faces	[Vizier of Many Faces] keeps its abilities when an opponent controls Overwhelming Splendor.	Advantageous	2017-09-29 07:41:10
 Volcano Hellion	[Volcano Hellion] Damage is capped at 255	Disadvantageous	2018-01-02 17:37:55
+Wall of Roots	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2017-11-05 11:57:58
 Whims of the Fates	[Whims of the Fates] Causes client crashes	Game Breaking	2017-09-29 07:41:25
 Words of Waste	[Words of Waste] does not function.	Non-Functional ability	2017-12-03 04:45:09
 Zur's Weirding	[Zur's Weirding] Reveals but doesn't allow you to pay	Disadvantageous	2017-09-29 07:41:24
