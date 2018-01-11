@@ -1,5 +1,4 @@
 Archangel of Strife
-Glacial Ray
 Identity Thief
 Ignite Memories
 Imp's Mischief
@@ -9,9 +8,7 @@ Misdirection
 Misdirection
 Nebuchadnezzar
 Odds
-Oubliette
 Primitive Justice
-Psychic Puppetry
 Reap
 Ricochet Trap
 Shifty Doppelganger

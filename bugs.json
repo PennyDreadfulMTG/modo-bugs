@@ -10,16 +10,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/254"
   },
   {
-    "card": "Glacial Ray",
-    "description": "Splicing [Glacial Ray] onto another Arcane spell restarts the game",
-    "category": "Unconfirmed",
-    "last_updated": "2018-01-08 15:40:18",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/253"
-  },
-  {
     "card": "Knowledge Pool",
     "description": "[Knowledge Pool] With multiple Knowledge Pools in play, casting a spell from hand lets you cast a spell from each Pool.",
     "category": "Advantageous",
@@ -690,26 +680,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/144"
   },
   {
-    "card": "Glacial Ray",
-    "description": "Casting an untargeted splice spell and splicing a targeted spell onto it a game server reset can occur.",
-    "category": "Game Breaking",
-    "last_updated": "2018-01-08 16:38:41",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/142"
-  },
-  {
-    "card": "Psychic Puppetry",
-    "description": "Casting an untargeted splice spell and splicing a targeted spell onto it a game server reset can occur.",
-    "category": "Game Breaking",
-    "last_updated": "2018-01-08 16:38:41",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/142"
-  },
-  {
     "card": "Riches",
     "description": "If a commander is chosen for [Riches] in Rags // Riches, no other opponents need to choose a creature.",
     "category": "Disadvantageous",
@@ -1048,16 +1018,6 @@
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/49"
-  },
-  {
-    "card": "Oubliette",
-    "description": "When [Oubliette] is destroyed, the game goes into a soft lock.",
-    "category": "Game Breaking",
-    "last_updated": "2017-12-22 00:37:46",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/48"
   },
   {
     "card": "Synthetic Destiny",
