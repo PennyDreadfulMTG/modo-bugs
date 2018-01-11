@@ -2,8 +2,8 @@
   {
     "card": "Ninja of the Deep Hours",
     "description": "[Ninja of the Deep Hours] and other cards with Ninjutsu don't allow you to return an attacking creature during the declare blockers step",
-    "category": "Unconfirmed",
-    "last_updated": "2018-01-10 21:38:24",
+    "category": "Disadvantageous",
+    "last_updated": "2018-01-11 04:59:47",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -18,16 +18,6 @@
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/252"
-  },
-  {
-    "card": "orcish spy",
-    "description": "[Orcish Spy] change the order of the top 3 cards shown",
-    "category": "Unconfirmed",
-    "last_updated": "2018-01-07 07:37:55",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/251"
   },
   {
     "card": "Compulsive Research",
