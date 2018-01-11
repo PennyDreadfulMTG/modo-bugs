@@ -1,5 +1,15 @@
 [
   {
+    "card": "Borderland Explorer",
+    "description": "All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded",
+    "category": "Unconfirmed",
+    "last_updated": "2018-01-11 10:38:11",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255"
+  },
+  {
     "card": "Ninja of the Deep Hours",
     "description": "[Ninja of the Deep Hours] and other cards with Ninjutsu don't allow you to return an attacking creature during the declare blockers step",
     "category": "Disadvantageous",
