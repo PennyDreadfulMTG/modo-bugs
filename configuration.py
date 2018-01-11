@@ -6,7 +6,8 @@ DEFAULTS = {
     'github_password': '',
 }
 
-def get(key):
+def get(key: str) -> str:
+    "Retrieves values from config.json"
     try:
         cfg = json.load(open('config.json'))
     except FileNotFoundError:
@@ -19,6 +20,6 @@ def get(key):
         # Lock in the default value if we use it.
         cfg[key] = DEFAULTS[key]
     print("CONFIG: {0}={1}".format(key, cfg[key]))
-    fh = open('config.json', 'w')
-    fh.write(json.dumps(cfg, indent=4))
+    config_file = open('config.json', 'w')
+    config_file.write(json.dumps(cfg, indent=4))
     return cfg[key]

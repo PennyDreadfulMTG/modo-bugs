@@ -128,7 +128,7 @@ def process_issue(issue):
             cat = "Unclassified"
         else:
             cat = "Unconfirmed"
-            if re.match(DISCORD_REGEX, issue.body) and not issue.comments:
+            if re.match(DISCORD_REGEX, issue.body, re.MULTILINE) and not issue.comments:
                 print('Issue #{id} was reported {days} ago via Discord, and has had no followup.'.format(id=issue.number, days=age))
                 if age > 1:
                     issue.create_comment('Closing due to lack of followup.')
