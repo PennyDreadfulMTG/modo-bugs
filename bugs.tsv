@@ -2,7 +2,9 @@ Card Name	Bug Description	Categorization	Last Confirmed
 Abandoned Sarcophagus	As Foretold incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].	Disadvantageous	2017-09-29 07:41:06
 Abandoned Sarcophagus	[Abandoned Sarcophagus] Does not allow you to pick x when casting cycling cards from graveyard	Disadvantageous	2017-12-06 05:37:55
 Archangel of Strife	[Archangel of Strife] War or Peace choice repeats indefinitely.	Game Breaking	2017-12-26 14:38:22
+Ashiok, Nightmare Weaver	[Ashiok, Nightmare Weaver] is unable to put a creature with converted mana cost equal to its current loyalty onto the battlefield.	Unclassified	2018-01-13 09:13:47
 Athreos, God of Passage	[Athreos, God of Passage] does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
+Austere Command	[Austere Command] does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.	Unclassified	2018-01-13 09:13:57
 Axis of Mortality	[Axis of Mortality] still fully resolves when a player cannot gain life.	Unclassified	2017-10-09 05:05:45
 Booby Trap	[Booby Trap] does not let you name anything other than non-basic lands.	Disadvantageous	2017-12-12 18:19:18
 Borderland Explorer	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Unconfirmed	2018-01-11 10:38:11
@@ -21,14 +23,15 @@ Curse of Shallow Graves	[Curse of Shallow Graves] creates Zombie tokens with inc
 Cursed Scroll	[Cursed Scroll] does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2017-12-18 15:39:45
 Custodi Lich	[Custodi Lich] The sacrifice trigger happens whenever any player becomes the monarch.	Advantageous	2017-11-06 13:31:37
 Death Pit Offering	[Death Pit Offering] sacrifices all of its owner's permanents, not just creatures	Disadvantageous	2017-10-31 21:52:35
+Death's Shadow	[Death's Shadow] can become larger than 13/13 and does not respect the recent rules change to 107.1b	Unclassified	2018-01-13 09:14:01
 Deceiver of Form	If [Deceiver of Form]'s triggered ability turns creatures into copies of a legendary creature, the legend rule fails to apply to the copies.	Advantageous	2017-11-05 11:56:25
-Djinn of Infinite Deceits	[Djinn of Infinite Deceits] can only be activated at sorcery speed	Disadvantageous	2017-06-14 05:52:08
 Doubling Season	[Doubling Season] incorrectly doubles loyalty counters added from costs of loyalty abilities.	Advantageous	2017-10-24 13:38:38
 Dream Halls	[Dream Halls] Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-07-05 16:48:54
 Elesh Norn, Grand Cenobite	If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2017-08-25 04:39:46
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Fa'adiyah seer	Dredging rather than drawing can let you avoid discarding	Advantageous	2018-01-05 00:38:31
 Freyalise's Winds	[Freyalise's Winds] Permanents with wind counters remove counters instead of untapping at any time, not only during their controller's untap step.	Disadvantageous	2017-09-29 07:41:13
+Garruk, the Veil-Cursed	The art for the wolf token created by [Garruk, the Veil-Cursed] is incorrect.	Graphical	2018-01-14 22:52:37
 Genju of the Fields	[Genju of the Fields] does not cause you to gain life upon dealing damage	Disadvantageous	2017-07-29 15:20:35
 Gideon's Intervention	[Gideon's Intervention] Casting a second copy causes the first to become partially non-functional, allowing the named card to deal damage.	Disadvantageous	2017-11-05 10:58:10
 Gideon, Martial Paragon	[Gideon, Martial Paragon] AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2017-08-10 22:39:10
@@ -52,7 +55,7 @@ Infinite Reflection	[Infinite Reflection] All creatures become copies, not just 
 Island Sanctuary	[Island Sanctuary]'s replacement effect is available if you draw a card during an opponents draw step	Advantageous	2017-06-19 21:55:29
 Jodah's Avenger	[Jodah's Avenger] Activated ability continues activating infinitely.	Game Breaking	2017-12-18 03:40:20
 Karplusan Minotaur	[Karplusan Minotaur] Cumulative upkeep cannot be paid	Disadvantageous	2017-07-30 14:49:58
-Kess, Dissident Mage	[Kess, Dissident Mage] has issues with casting spells through alternative methods.	Advantageous	2017-12-08 04:45:51
+Kess Dissident Mage	[Kess Dissident Mage]'s ability allows you to cast spells during other players' turns and to cast spells with no mana costs	Advantageous	2018-01-14 22:54:23
 Knowledge Pool	[Knowledge Pool] With multiple Knowledge Pools in play, casting a spell from hand lets you cast a spell from each Pool.	Advantageous	2018-01-06 11:37:55
 Koth of the Hammer	When controlling the Emblem of [Koth of the Hammer], lands do not display the blue text they have.	Graphical	2017-07-16 19:47:11
 Kozilek's Translator	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2017-11-05 11:57:58
@@ -67,6 +70,7 @@ Memory Lapse	[Memory Lapse] moves aftermath cards back on top of the library ins
 Mirror Match	[Mirror Match] Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2017-06-30 16:54:05
 Misdirection	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-05 03:37:55
 Misdirection	[Misdirection] can reset the game in rare cases.	Game Breaking	2017-08-10 22:48:36
+Mishra's Workshop	When there are floating generic mana and restricted mana (such as [Mishra's Workshop] mana) that are same color (or same colorless), MTGO will always use generic mana first before using the restricted mana. Workaround: don't float the generic mana if you want to use the restricted mana first	Unconfirmed	2018-01-14 03:22:59
 Molten-Tail Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46
 Multani's Presence	[Multani's Presence] incorrectly draws cards off copies of spells that are countered	Advantageous	2017-08-08 16:46:15
 Myriad Landscape	[Myriad Landscape] Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.	Advantageous	2017-06-21 07:37:18
@@ -90,32 +94,37 @@ Ricochet Trap	[Ricochet Trap] restarts the game when cast for its alternate cost
 Rimescale Dragon	[Rimescale Dragon] does not place an Ice Counter on targeted creatures.	Disadvantageous	2017-10-06 05:13:27
 Riptide Replicator	[Riptide Replicator] token uses incorrect art.	Graphical	2017-06-24 14:06:25
 Runic Repetition	[Runic Repetition] Cannot be cast	Disadvantageous	2017-06-01 17:37:27
+Samurai of the Pale Curtain	[Samurai of the Pale Curtain] does not exile tokens.	Advantageous	2018-01-13 09:16:36
 Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Screams from Within	[Screams from Within]'s second ability (Return ~ to your hand) does not function. 	Non-Functional ability	2017-12-06 05:46:17
-Scythe of the Wretched	[Scythe of the Wretched]  reanimates any creature that dies, regardless of it the equipped creature damages it	Advantageous	2017-11-06 01:58:54
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-11-22 06:24:01
 Settle the Wreckage	[Settle the Wreckage] does not give the targeted player the option to not search their library.	Unclassified	2017-10-05 17:43:46
+Shelldock Isle	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-01-13 09:13:44
 Sheltering Ancient	[Sheltering Ancient]'s Cumulative Upkeep Stops Working After One Age Counter	Unconfirmed	2018-01-03 14:37:55
 Shifty Doppelganger	[Shifty Doppelganger] Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
+Sound the Call	The art for the token created by [Sound the Call] is incorrect. 	Graphical	2018-01-14 23:11:28
 Spell Crumple	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Spoils of Victory	[Spoils of Victory] The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
-Steam Vents	The Keybindings for 'Yes' and 'No' do not function correctly with Shocklands such as [Steam Vents].	Unclassified	2017-11-05 10:36:35
+Stabwhisker the Odious	Kamigawa Flip cards such as [Stabwhisker the Odious] are displayed as enchantments and do not respect the Attack With All function or changes to power and toughness. Workaround: Click the creature separately to attack with it, and right click the creature to display its correct power and toughness.	Unclassified	2018-01-13 09:13:54
+Steam Vents	The Keybindings for 'Yes' and 'No' do not function correctly with Shocklands such as [Steam Vents].	Graphical	2018-01-13 09:14:11
 Storage Matrix	[Storage Matrix] Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2017-06-29 19:29:14
 Structural Collapse	[Structural Collapse] does not cause target to sacrifice a land.	Non-Functional ability	2017-12-26 17:37:56
 Sunscourge Champion	[Sunscourge Champion] will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2017-08-10 23:39:12
 Sylvan Primordial	Casting [Sylvan Primordial] causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2017-11-05 11:57:57
 Synthetic Destiny	[Synthetic Destiny][Mass Polymorph] does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-09-29 07:41:22
 Tawnos's Coffin	[Tawnos's Coffin] crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-24 16:43:46
+Terastodon	If some (not all) of [Terastodon]'s targets are indestructible permanent(s), it will incorrectly create elephant token(s) for the owner of those permanents.	Unclassified	2018-01-13 09:13:51
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard 	Disadvantageous	2017-06-24 06:37:21
 The Great Aurora	[The Great Aurora] does not function correctly.	Unclassified	2017-07-29 15:38:36
 The Ur-Dragon	[The Ur-Dragon] also reduces its own casting cost.	Advantageous	2017-11-16 08:30:26
+Thornbite Staff	[Thornbite Staff] doesn't display the equip cost line when zoomed in upon.	Graphical	2018-01-14 22:54:04
 Thornbow Archer	[Thornbow Archer] Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-11-22 06:15:33
 Tomorrow, Azami's Familiar	[Tomorrow, Azami's Familiar] puts both cards back on top	Disadvantageous	2017-12-17 10:54:22
 Torment of Hailfire	The undo function works incorrectly with [Torment of Hailfire].	Disadvantageous	2017-08-25 03:22:38
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-10-24 13:18:15
 Unesh, Criosphinx Sovereign	If [Unesh, Criosphinx Sovereign] or similar creatures have their creature type changed, they do not trigger.	Disadvantageous	2017-09-21 22:07:27
-Unscythe, Killer of Kings	[Unscythe, Killer of Kings] Effect procs when creatures aren't equipped	Advantageous	2017-11-06 01:58:13
+Unscythe, Killer of Kings	[Unscythe, Killer of Kings] Effect procs when creatures aren't equipped	Advantageous	2018-01-14 23:38:02
 Vesuvan Shapeshifter	If [Vesuvan Shapeshifter] copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.	Advantageous	2017-11-05 18:31:26
 Vexing Sphinx	[Vexing Sphinx]'s Cumulative Upkeep Doesn't Make You Discard	Unconfirmed	2018-01-03 14:37:55
 Vizier of Many Faces	[Vizier of Many Faces] If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-09-29 07:41:18
@@ -124,5 +133,6 @@ Volcano Hellion	[Volcano Hellion] Damage is capped at 255	Disadvantageous	2018-0
 Wall of Roots	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2017-11-05 11:57:58
 Whims of the Fates	[Whims of the Fates] Causes client crashes	Game Breaking	2017-09-29 07:41:25
 Words of Waste	[Words of Waste] does not function.	Non-Functional ability	2017-12-03 04:45:09
+Yisan, the Wanderer Bard	If [Yisan, the Wanderer Bard]'s verse counters are removed in response to its ability, you are still able to search your library for a creature with converted mana cost equal to the initial number of counters.	Unclassified	2018-01-13 09:14:06
 Zur's Weirding	[Zur's Weirding] Reveals but doesn't allow you to pay	Disadvantageous	2017-09-29 07:41:24
 orcish spy	[Orcish Spy] and cards with similar ability shows the cards in alphabetical order, not the actual order	Disadvantageous	2018-01-11 06:20:52
