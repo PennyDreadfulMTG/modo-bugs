@@ -28,11 +28,12 @@ PD_BANNED: List[str] = []
 AFFECTS_REGEX = r'^Affects: (.*)$'
 DISCORD_REGEX = r'^Reported on Discord by (\w+#[0-9]+)$'
 IMAGES_REGEX = r'^<!-- Images --> (.*)$'
+REGEX_CARDREF = r'\[?\[([^\]]*)\]\]?'
 
 BAD_AFFECTS_REGEX = r'Affects: (\[Card Name\]\(, \[Second Card name\], etc\)\r?\n)\['
 
 if sys.stdout.encoding != 'utf-8':
-    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer, 'strict')
+    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer)
 
 def fetch_pd_legal() -> None:
     print('Fetching http://pdmtgo.com/legal_cards.txt')
@@ -92,7 +93,7 @@ def process_issue(issue):
     else:
         affects = affects.group(1)
 
-    cards = re.findall(r'\[?\[([^\]]*)\]\]?', affects)
+    cards = re.findall(REGEX_CARDREF, affects)
     cards = [c for c in cards]
 
     images = re.search(IMAGES_REGEX, issue.body, re.MULTILINE)
@@ -174,7 +175,7 @@ def fix_user_errors(issue):
     # People sometimes neglect Affects all-together, and only put cards in the title.
     affects = re.search(AFFECTS_REGEX, body, re.MULTILINE)
     if affects is None:
-        cards = re.findall(r'\[?\[([^\]]*)\]\]?', issue.title)
+        cards = re.findall(REGEX_CARDREF, issue.title)
         cards = [c for c in cards]
         body = body + '\nAffects: ' + ''.join(['[' + c + ']' for c in cards])
     # We had a bug where the above triggered infinitely.  Clean it up.

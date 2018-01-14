@@ -14,7 +14,7 @@ node('linux') {
     }
     stage('Scrape') {
         withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
-            sh 'python3 scrape_bugblog.py'
+            sh returnStatus: true, script: 'python3 scrape_bugblog.py'
         }
     }
     stage('Update'){
