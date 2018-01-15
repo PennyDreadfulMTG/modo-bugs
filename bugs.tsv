@@ -6,7 +6,8 @@ Ashiok, Nightmare Weaver	[Ashiok, Nightmare Weaver] is unable to put a creature 
 Athreos, God of Passage	[Athreos, God of Passage] does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
 Austere Command	[Austere Command] does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.	Unclassified	2018-01-13 09:13:57
 Axis of Mortality	[Axis of Mortality] still fully resolves when a player cannot gain life.	Unclassified	2017-10-09 05:05:45
-Blood Moon	When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.	Unconfirmed	2018-01-15 01:42:44
+Blood Moon	When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.	Unclassified	2018-01-15 02:39:17
+Bloodline Keeper	Vampire tokens created by Bloodline Keeper have incorrect art and incorrectly display that they have lifelink (Bug Blog, Graphical)	Unconfirmed	2018-01-15 02:39:35
 Booby Trap	[Booby Trap] does not let you name anything other than non-basic lands.	Disadvantageous	2017-12-12 18:19:18
 Borderland Explorer	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Unconfirmed	2018-01-11 10:38:11
 Broken Ambitions	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-01-11 05:52:25
@@ -39,7 +40,7 @@ Gideon, Martial Paragon	[Gideon, Martial Paragon] AKH Planeswalker deck has 1 Gi
 Gifts Ungiven	If a player uses the Undo function when selecting cards for their opponent's [Gifts Ungiven], they will only be able to choose 1 card to go to the graveyard.	Disadvantageous	2017-12-17 10:54:15
 Gishath, Sun's Avatar	[Gishath, Sun's Avatar] does not allow you to decline to put a Dinosaur creature into play if you have one in your hand.	Disadvantageous	2017-10-06 04:59:20
 Goblin Game	[Goblin Game] reveals your chosen number before your opponents choose.	Disadvantageous	2017-09-12 08:38:40
-God-Pharoh's Gift	The Scarab God and God-Pharoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.	Unclassified	2018-01-15 01:42:45
+God-Pharoh's Gift	The Scarab God and God-Pharoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.	Unclassified	2018-01-15 02:39:36
 Gonti, Lord of Luxury	If you cast Savage Stomp with [Gonti, Lord of Luxury] and your opponent controls a dinosaur, the cost will incorrectly be reduced by 2.	Advantageous	2017-10-24 13:38:37
 Grafdigger's Cage	If you manifest a creature with [Grafdigger's Cage] in play, it will be exiled.	Disadvantageous	2017-07-16 19:47:31
 Hada Freeblade	Certain cards, such as [Hada Freeblade], do not display a legality error for the Pauper format in the collection scene.	Graphical	2017-10-06 04:50:46
@@ -65,7 +66,7 @@ Lich	[Lich] If you cannot sacrifice enough permanents, the game restarts	Game Br
 Liquid Fire	[Liquid Fire] doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2017-09-29 07:41:09
 Living Lore	[Living Lore] If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2017-10-31 09:29:05
 Lurking Evil	[Lurking Evil] makes you pay half your opponent's life total	Advantageous	2017-12-17 10:54:12
-Magus of the Moon	When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.	Unconfirmed	2018-01-15 01:42:44
+Magus of the Moon	When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.	Unclassified	2018-01-15 02:39:17
 Mana Bloom	[Mana Bloom] Ability does not generate mana on opponents' turns.	Disadvantageous	2018-01-03 03:38:18
 Mass Polymorph	[Synthetic Destiny][Mass Polymorph] does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-09-29 07:41:22
 Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46
@@ -121,7 +122,7 @@ Tawnos's Coffin	[Tawnos's Coffin] crashes the game for everyone when it tries to
 Terastodon	If some (not all) of [Terastodon]'s targets are indestructible permanent(s), it will incorrectly create elephant token(s) for the owner of those permanents.	Unclassified	2018-01-13 09:13:51
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard 	Disadvantageous	2017-06-24 06:37:21
 The Great Aurora	[The Great Aurora] does not function correctly.	Unclassified	2017-07-29 15:38:36
-The Scarab God	The Scarab God and God-Pharoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.	Unclassified	2018-01-15 01:42:45
+The Scarab God	The Scarab God and God-Pharoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.	Unclassified	2018-01-15 02:39:36
 The Ur-Dragon	[The Ur-Dragon] also reduces its own casting cost.	Advantageous	2017-11-16 08:30:26
 Thornbite Staff	[Thornbite Staff] doesn't display the equip cost line when zoomed in upon.	Graphical	2018-01-14 22:54:04
 Thornbow Archer	[Thornbow Archer] Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-11-22 06:15:33
