@@ -8,7 +8,7 @@ Austere Command	[Austere Command] does not respect 711.4b and treats the convert
 Axis of Mortality	[Axis of Mortality] still fully resolves when a player cannot gain life.	Unclassified	2017-10-09 05:05:45
 Blood Moon	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-01-15 03:38:00
 Blood Moon	When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.	Unclassified	2018-01-15 02:58:01
-Bloodline Keeper	Vampire tokens created by Bloodline Keeper have incorrect art and incorrectly display that they have lifelink (Bug Blog, Graphical)	Graphical	2018-01-15 03:34:51
+Bloodline Keeper	Vampire tokens created by [Bloodline Keeper] have incorrect art and incorrectly display that they have lifelink.	Graphical	2018-01-15 05:16:54
 Booby Trap	[Booby Trap] does not let you name anything other than non-basic lands.	Disadvantageous	2017-12-12 18:19:18
 Borderland Explorer	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Unconfirmed	2018-01-11 10:38:11
 Broken Ambitions	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-01-11 05:52:25
@@ -41,7 +41,7 @@ Gideon, Martial Paragon	[Gideon, Martial Paragon] AKH Planeswalker deck has 1 Gi
 Gifts Ungiven	If a player uses the Undo function when selecting cards for their opponent's [Gifts Ungiven], they will only be able to choose 1 card to go to the graveyard.	Disadvantageous	2017-12-17 10:54:15
 Gishath, Sun's Avatar	[Gishath, Sun's Avatar] does not allow you to decline to put a Dinosaur creature into play if you have one in your hand.	Disadvantageous	2017-10-06 04:59:20
 Goblin Game	[Goblin Game] reveals your chosen number before your opponents choose.	Disadvantageous	2017-09-12 08:38:40
-God-Pharoh's Gift	The Scarab God and God-Pharoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.	Unclassified	2018-01-15 02:39:36
+God-Pharoh's Gift	The Scarab God and God-Pharoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.	Unclassified	2018-01-15 05:38:06
 Gonti, Lord of Luxury	If you cast Savage Stomp with [Gonti, Lord of Luxury] and your opponent controls a dinosaur, the cost will incorrectly be reduced by 2.	Advantageous	2017-10-24 13:38:37
 Grafdigger's Cage	If you manifest a creature with [Grafdigger's Cage] in play, it will be exiled.	Disadvantageous	2017-07-16 19:47:31
 Hada Freeblade	Certain cards, such as [Hada Freeblade], do not display a legality error for the Pauper format in the collection scene.	Graphical	2017-10-06 04:50:46
@@ -98,7 +98,7 @@ Riches	If a commander is chosen for [Riches] in Rags // Riches, no other opponen
 Ricochet Trap	[Ricochet Trap] restarts the game when cast for its alternate cost.	Game Breaking	2017-10-24 13:14:40
 Rimescale Dragon	[Rimescale Dragon] does not place an Ice Counter on targeted creatures.	Disadvantageous	2017-10-06 05:13:27
 Riptide Replicator	[Riptide Replicator] token uses incorrect art.	Graphical	2017-06-24 14:06:25
-Rosheen Meanderer	[Rosheen Meanderer] is unable to contribute mana to spells that ask an opponent to pay X, such as [Condescend].	Unconfirmed	2018-01-15 03:37:57
+Rosheen Meanderer	[Rosheen Meanderer] is unable to contribute mana to spells that ask an opponent to pay X, such as [Condescend].	Disadvantageous	2018-01-15 05:00:11
 Runic Repetition	[Runic Repetition] Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Samurai of the Pale Curtain	[Samurai of the Pale Curtain] does not exile tokens.	Advantageous	2018-01-13 09:16:36
 Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
@@ -106,8 +106,8 @@ Screams from Within	[Screams from Within]'s second ability (Return ~ to your han
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-11-22 06:24:01
 Settle the Wreckage	[Settle the Wreckage] does not give the targeted player the option to not search their library.	Unclassified	2017-10-05 17:43:46
-Shelldock Isle	Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]	Unconfirmed	2018-01-15 03:37:59
-Shelldock Isle	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-01-13 09:13:44
+Shelldock Isle	Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]	Disadvantageous	2018-01-15 05:10:57
+Shelldock Isle	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-01-15 05:19:35
 Sheltering Ancient	[Sheltering Ancient]'s Cumulative Upkeep Stops Working After One Age Counter	Unconfirmed	2018-01-03 14:37:55
 Shifty Doppelganger	[Shifty Doppelganger] Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
 Sound the Call	The art for the token created by [Sound the Call] is incorrect. 	Graphical	2018-01-14 23:11:28
@@ -126,7 +126,7 @@ Tawnos's Coffin	[Tawnos's Coffin] crashes the game for everyone when it tries to
 Terastodon	If some (not all) of [Terastodon]'s targets are indestructible permanent(s), it will incorrectly create elephant token(s) for the owner of those permanents.	Unclassified	2018-01-13 09:13:51
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard 	Disadvantageous	2017-06-24 06:37:21
 The Great Aurora	[The Great Aurora] does not function correctly.	Unclassified	2017-07-29 15:38:36
-The Scarab God	The Scarab God and God-Pharoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.	Unclassified	2018-01-15 02:39:36
+The Scarab God	The Scarab God and God-Pharoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.	Unclassified	2018-01-15 05:38:06
 The Ur-Dragon	[The Ur-Dragon] also reduces its own casting cost.	Advantageous	2017-11-16 08:30:26
 Thornbite Staff	[Thornbite Staff] doesn't display the equip cost line when zoomed in upon.	Graphical	2018-01-14 22:54:04
 Thornbow Archer	[Thornbow Archer] Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-11-22 06:15:33
@@ -144,6 +144,6 @@ Volcano Hellion	[Volcano Hellion] Damage is capped at 255	Disadvantageous	2018-0
 Wall of Roots	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2017-11-05 11:57:58
 Whims of the Fates	[Whims of the Fates] Causes client crashes	Game Breaking	2017-09-29 07:41:25
 Words of Waste	[Words of Waste] does not function.	Non-Functional ability	2017-12-03 04:45:09
-Yisan, the Wanderer Bard	If [Yisan, the Wanderer Bard]'s verse counters are removed in response to its ability, you are still able to search your library for a creature with converted mana cost equal to the initial number of counters.	Unclassified	2018-01-13 09:14:06
+Yisan, the Wanderer Bard	If all of [Yisan, the Wanderer Bard]'s verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.	Advantageous	2018-01-15 04:49:04
 Zur's Weirding	[Zur's Weirding] Reveals but doesn't allow you to pay	Disadvantageous	2017-09-29 07:41:24
 orcish spy	[Orcish Spy] and cards with similar ability shows the cards in alphabetical order, not the actual order	Disadvantageous	2018-01-11 06:20:52
