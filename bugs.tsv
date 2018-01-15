@@ -6,7 +6,7 @@ Ashiok, Nightmare Weaver	[Ashiok, Nightmare Weaver] is unable to put a creature 
 Athreos, God of Passage	[Athreos, God of Passage] does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
 Austere Command	[Austere Command] does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.	Unclassified	2018-01-13 09:13:57
 Axis of Mortality	[Axis of Mortality] still fully resolves when a player cannot gain life.	Unclassified	2017-10-09 05:05:45
-Blood Moon	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-01-15 03:37:59
+Blood Moon	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-01-15 03:38:00
 Blood Moon	When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.	Unclassified	2018-01-15 02:58:01
 Bloodline Keeper	Vampire tokens created by Bloodline Keeper have incorrect art and incorrectly display that they have lifelink (Bug Blog, Graphical)	Graphical	2018-01-15 03:34:51
 Booby Trap	[Booby Trap] does not let you name anything other than non-basic lands.	Disadvantageous	2017-12-12 18:19:18
@@ -106,14 +106,14 @@ Screams from Within	[Screams from Within]'s second ability (Return ~ to your han
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2017-11-22 06:24:01
 Settle the Wreckage	[Settle the Wreckage] does not give the targeted player the option to not search their library.	Unclassified	2017-10-05 17:43:46
-Shelldock Isle	Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]	Unconfirmed	2018-01-15 03:37:58
+Shelldock Isle	Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]	Unconfirmed	2018-01-15 03:37:59
 Shelldock Isle	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-01-13 09:13:44
 Sheltering Ancient	[Sheltering Ancient]'s Cumulative Upkeep Stops Working After One Age Counter	Unconfirmed	2018-01-03 14:37:55
 Shifty Doppelganger	[Shifty Doppelganger] Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
 Sound the Call	The art for the token created by [Sound the Call] is incorrect. 	Graphical	2018-01-14 23:11:28
 Spell Crumple	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Spoils of Victory	[Spoils of Victory] The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
-Spreading Seas	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-01-15 03:37:59
+Spreading Seas	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-01-15 03:38:00
 Stabwhisker the Odious	Kamigawa Flip cards such as [Stabwhisker the Odious] are displayed as enchantments and do not respect the Attack With All function or changes to power and toughness. Workaround: Click the creature separately to attack with it, and right click the creature to display its correct power and toughness.	Unclassified	2018-01-13 09:13:54
 Steam Vents	The Keybindings for 'Yes' and 'No' do not function correctly with Shocklands such as [Steam Vents].	Graphical	2018-01-13 09:14:11
 Storage Matrix	[Storage Matrix] Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2017-06-29 19:29:14
@@ -135,7 +135,7 @@ Torment of Hailfire	The undo function works incorrectly with [Torment of Hailfir
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-10-24 13:18:15
 Unesh, Criosphinx Sovereign	If [Unesh, Criosphinx Sovereign] or similar creatures have their creature type changed, they do not trigger.	Disadvantageous	2017-09-21 22:07:27
 Unscythe, Killer of Kings	[Unscythe, Killer of Kings] Effect procs when creatures aren't equipped	Advantageous	2018-01-14 23:38:02
-Vesuva	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-01-15 03:37:59
+Vesuva	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-01-15 03:38:00
 Vesuvan Shapeshifter	If [Vesuvan Shapeshifter] copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.	Advantageous	2017-11-05 18:31:26
 Vexing Sphinx	[Vexing Sphinx]'s Cumulative Upkeep Doesn't Make You Discard	Unconfirmed	2018-01-03 14:37:55
 Vizier of Many Faces	[Vizier of Many Faces] If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-09-29 07:41:18
