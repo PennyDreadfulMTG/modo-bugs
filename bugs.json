@@ -1,11 +1,61 @@
 [
   {
-    "card": "Bloodline Keeper",
-    "description": "Vampire tokens created by Bloodline Keeper have incorrect art and incorrectly display that they have lifelink (Bug Blog, Graphical)",
+    "card": "Rosheen Meanderer",
+    "description": "[Rosheen Meanderer] is unable to contribute mana to spells that ask an opponent to pay X, such as [Condescend].",
     "category": "Unconfirmed",
-    "last_updated": "2018-01-15 02:39:35",
+    "last_updated": "2018-01-15 03:37:57",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/274"
+  },
+  {
+    "card": "Shelldock Isle",
+    "description": "Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]",
+    "category": "Unconfirmed",
+    "last_updated": "2018-01-15 03:37:58",
     "pd_legal": false,
     "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/273"
+  },
+  {
+    "card": "Vesuva",
+    "description": "If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.",
+    "category": "Unclassified",
+    "last_updated": "2018-01-15 03:37:59",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/272"
+  },
+  {
+    "card": "Blood Moon",
+    "description": "If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.",
+    "category": "Unclassified",
+    "last_updated": "2018-01-15 03:37:59",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/272"
+  },
+  {
+    "card": "Spreading Seas",
+    "description": "If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.",
+    "category": "Unclassified",
+    "last_updated": "2018-01-15 03:37:59",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/272"
+  },
+  {
+    "card": "Bloodline Keeper",
+    "description": "Vampire tokens created by Bloodline Keeper have incorrect art and incorrectly display that they have lifelink (Bug Blog, Graphical)",
+    "category": "Graphical",
+    "last_updated": "2018-01-15 03:34:51",
+    "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/271"
   },
@@ -13,7 +63,7 @@
     "card": "Blood Moon",
     "description": "When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.",
     "category": "Unclassified",
-    "last_updated": "2018-01-15 02:39:17",
+    "last_updated": "2018-01-15 02:58:01",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -23,7 +73,7 @@
     "card": "Magus of the Moon",
     "description": "When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.",
     "category": "Unclassified",
-    "last_updated": "2018-01-15 02:39:17",
+    "last_updated": "2018-01-15 02:58:01",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
