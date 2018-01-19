@@ -54,7 +54,7 @@ Hollow One	[Hollow One] doesn't count discarded split cards.	Disadvantageous	201
 Icefall Regent	If you target an [Icefall Regent] with a fused split card, you must pay {2} for each side of the split card, for a total of {4}	Advantageous	2017-12-17 10:54:20
 Identity Thief	[Identity Thief] Restarts the game when attempting to copy a creature.	Game Breaking	2017-06-28 05:37:36
 Ignite Memories	[Ignite Memories] and similar cards can cause a game restart if the target has no cards in hand.	Game Breaking	2017-08-20 07:45:56
-Imp's Mischief	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-15 00:38:02
+Imp's Mischief	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-19 08:40:26
 Infinite Reflection	[Infinite Reflection] All creatures become copies, not just ones you control.	Advantageous	2018-01-03 11:38:22
 Island Sanctuary	[Island Sanctuary]'s replacement effect is available if you draw a card during an opponents draw step	Advantageous	2017-06-19 21:55:29
 Jodah's Avenger	[Jodah's Avenger] Activated ability continues activating infinitely.	Game Breaking	2017-12-18 03:40:20
@@ -73,14 +73,13 @@ Mass Polymorph	[Synthetic Destiny][Mass Polymorph] does not take commanders into
 Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46
 Memory Lapse	[Memory Lapse] moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-07-14 08:38:13
 Mirror Match	[Mirror Match] Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2017-06-30 16:54:05
-Misdirection	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-15 00:38:02
+Misdirection	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-19 08:40:26
 Misdirection	[Misdirection] can reset the game in rare cases.	Game Breaking	2017-08-10 22:48:36
 Mishra's Workshop	When there are floating generic mana and restricted mana (such as [Mishra's Workshop] mana) that are same color (or same colorless), MTGO will always use generic mana first before using the restricted mana. Workaround: don't float the generic mana if you want to use the restricted mana first	Unconfirmed	2018-01-14 03:22:59
 Molten-Tail Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46
 Multani's Presence	[Multani's Presence] incorrectly draws cards off copies of spells that are countered	Advantageous	2017-08-08 16:46:15
 Myriad Landscape	[Myriad Landscape] Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.	Advantageous	2017-06-21 07:37:18
 Nebuchadnezzar	[Nebuchadnezzar] ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
-Ninja of the Deep Hours	[Ninja of the Deep Hours] and other cards with Ninjutsu don't allow you to return an attacking creature during the declare blockers step	Disadvantageous	2018-01-11 04:59:47
 Null Chamber	[Null Chamber]'s Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2017-12-26 17:42:22
 Odds	[Odds] Odds: Restarts the game in buggy state on heads	Game Breaking	2017-10-11 02:10:56
 Oriss, Samite Guardian	Using [Oriss, Samite Guardian]'s Grandeur ability during controller's precombat main phase will not allow controller to attack that turn.	Disadvantageous	2017-09-29 07:41:07
@@ -119,7 +118,7 @@ Steam Vents	The Keybindings for 'Yes' and 'No' do not function correctly with Sh
 Storage Matrix	[Storage Matrix] Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2017-06-29 19:29:14
 Structural Collapse	[Structural Collapse] does not cause target to sacrifice a land.	Non-Functional ability	2017-12-26 17:37:56
 Sunscourge Champion	[Sunscourge Champion] will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2017-08-10 23:39:12
-Swerve	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-15 00:38:02
+Swerve	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-19 08:40:26
 Sylvan Primordial	Casting [Sylvan Primordial] causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2017-11-05 11:57:57
 Synthetic Destiny	[Synthetic Destiny][Mass Polymorph] does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2017-09-29 07:41:22
 Tawnos's Coffin	[Tawnos's Coffin] crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-24 16:43:46
@@ -147,3 +146,4 @@ Words of Waste	[Words of Waste] does not function.	Non-Functional ability	2017-1
 Yisan, the Wanderer Bard	If all of [Yisan, the Wanderer Bard]'s verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.	Advantageous	2018-01-15 04:49:04
 Zur's Weirding	[Zur's Weirding] Reveals but doesn't allow you to pay	Disadvantageous	2017-09-29 07:41:24
 orcish spy	[Orcish Spy] and cards with similar ability shows the cards in alphabetical order, not the actual order	Disadvantageous	2018-01-11 06:20:52
+wild ricochet	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-19 08:40:26

@@ -104,7 +104,7 @@
     "description": "The art for the token created by [Sound the Call] is incorrect. ",
     "category": "Graphical",
     "last_updated": "2018-01-14 23:11:28",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/268"
@@ -114,7 +114,7 @@
     "description": "[Thornbite Staff] doesn't display the equip cost line when zoomed in upon.",
     "category": "Graphical",
     "last_updated": "2018-01-14 22:54:04",
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/265"
@@ -204,7 +204,7 @@
     "description": "If all of [Yisan, the Wanderer Bard]'s verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.",
     "category": "Advantageous",
     "last_updated": "2018-01-15 04:49:04",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/256"
@@ -218,16 +218,6 @@
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255"
-  },
-  {
-    "card": "Ninja of the Deep Hours",
-    "description": "[Ninja of the Deep Hours] and other cards with Ninjutsu don't allow you to return an attacking creature during the declare blockers step",
-    "category": "Disadvantageous",
-    "last_updated": "2018-01-11 04:59:47",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/254"
   },
   {
     "card": "Knowledge Pool",
@@ -254,7 +244,7 @@
     "description": "Dredging rather than drawing can let you avoid discarding",
     "category": "Advantageous",
     "last_updated": "2018-01-05 00:38:31",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/249"
@@ -283,8 +273,8 @@
     "card": "Imp's Mischief",
     "description": "Redirecting spells sometimes restarts the game in a buggy state",
     "category": "Game Breaking",
-    "last_updated": "2018-01-15 00:38:02",
-    "pd_legal": true,
+    "last_updated": "2018-01-19 08:40:26",
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/246"
@@ -293,7 +283,7 @@
     "card": "Misdirection",
     "description": "Redirecting spells sometimes restarts the game in a buggy state",
     "category": "Game Breaking",
-    "last_updated": "2018-01-15 00:38:02",
+    "last_updated": "2018-01-19 08:40:26",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
@@ -303,8 +293,18 @@
     "card": "Swerve",
     "description": "Redirecting spells sometimes restarts the game in a buggy state",
     "category": "Game Breaking",
-    "last_updated": "2018-01-15 00:38:02",
+    "last_updated": "2018-01-19 08:40:26",
     "pd_legal": true,
+    "bug_blog": false,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/246"
+  },
+  {
+    "card": "wild ricochet",
+    "description": "Redirecting spells sometimes restarts the game in a buggy state",
+    "category": "Game Breaking",
+    "last_updated": "2018-01-19 08:40:26",
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/246"
@@ -334,7 +334,7 @@
     "description": "While on the stack, the triggered ability of Hanweir Garrison contains a text error that indicates an incorrect number of tokens to be added. This is a display issue only.",
     "category": "Graphical",
     "last_updated": "2018-01-02 20:37:58",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/242"
@@ -374,7 +374,7 @@
     "description": "[Jodah's Avenger] Activated ability continues activating infinitely.",
     "category": "Game Breaking",
     "last_updated": "2017-12-18 03:40:20",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/238"
@@ -414,7 +414,7 @@
     "description": "Masticores do not require discard to stay in play",
     "category": "Advantageous",
     "last_updated": "2017-12-25 04:37:46",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/236"
@@ -434,7 +434,7 @@
     "description": "[Screams from Within]'s second ability (Return ~ to your hand) does not function. ",
     "category": "Non-Functional ability",
     "last_updated": "2017-12-06 05:46:17",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/234"
@@ -444,7 +444,7 @@
     "description": "[Abandoned Sarcophagus] Does not allow you to pick x when casting cycling cards from graveyard",
     "category": "Disadvantageous",
     "last_updated": "2017-12-06 05:37:55",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/233"
@@ -464,7 +464,7 @@
     "description": "If [Phantom Tiger] dies in combat, blue text abilities it had been granted do not apply to that combat's damage.",
     "category": "Disadvantageous",
     "last_updated": "2017-12-17 10:54:18",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/230"
@@ -514,7 +514,7 @@
     "description": "If [Vesuvan Shapeshifter] copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.",
     "category": "Advantageous",
     "last_updated": "2017-11-05 18:31:26",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/220"
@@ -584,7 +584,7 @@
     "description": "[Death Pit Offering] sacrifices all of its owner\u2019s permanents, not just creatures",
     "category": "Disadvantageous",
     "last_updated": "2017-10-31 21:52:35",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/213"
@@ -594,7 +594,7 @@
     "description": "If you target an [Icefall Regent] with a fused split card, you must pay {2} for each side of the split card, for a total of {4}",
     "category": "Advantageous",
     "last_updated": "2017-12-17 10:54:20",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/208"
@@ -714,7 +714,7 @@
     "description": "[Rimescale Dragon] does not place an Ice Counter on targeted creatures.",
     "category": "Disadvantageous",
     "last_updated": "2017-10-06 05:13:27",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/191"
@@ -754,7 +754,7 @@
     "description": "As Foretold incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].",
     "category": "Disadvantageous",
     "last_updated": "2017-09-29 07:41:06",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/181"
@@ -844,7 +844,7 @@
     "description": "[Compost] If a player cast a split card that are black on the uncasted side, the draw effect isn't triggered",
     "category": "Disadvantageous",
     "last_updated": "2017-10-31 09:18:15",
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/151"
@@ -854,7 +854,7 @@
     "description": "[Liquid Fire] doesn't let you choose how to deal damage - it all goes to player",
     "category": "Disadvantageous",
     "last_updated": "2017-09-29 07:41:09",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/148"
@@ -954,7 +954,7 @@
     "description": "[Cursed Scroll] does not deal damage if choosing to click the card in your hand, rather than typing the name.",
     "category": "Graphical",
     "last_updated": "2017-12-18 15:39:45",
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/131"
@@ -1004,7 +1004,7 @@
     "description": "[Genju of the Fields] does not cause you to gain life upon dealing damage",
     "category": "Disadvantageous",
     "last_updated": "2017-07-29 15:20:35",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/122"
@@ -1054,7 +1054,7 @@
     "description": "[Storage Matrix] Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.",
     "category": "Disadvantageous",
     "last_updated": "2017-06-29 19:29:14",
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/73"
@@ -1064,7 +1064,7 @@
     "description": "[Gideon's Intervention] Casting a second copy causes the first to become partially non-functional, allowing the named card to deal damage.",
     "category": "Disadvantageous",
     "last_updated": "2017-11-05 10:58:10",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/72"
@@ -1174,7 +1174,7 @@
     "description": "[Semblance Anvil] imprinting a split card does not reduce costs on instants/sorceries.",
     "category": "Disadvantageous",
     "last_updated": "2017-11-22 06:24:01",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/55"
@@ -1204,7 +1204,7 @@
     "description": "[Custodi Lich] The sacrifice trigger happens whenever any player becomes the monarch.",
     "category": "Advantageous",
     "last_updated": "2017-11-06 13:31:37",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/50"
@@ -1234,7 +1234,7 @@
     "description": "[Synthetic Destiny][Mass Polymorph] does not take commanders into account when determining the number of creatures to reveal.",
     "category": "Disadvantageous",
     "last_updated": "2017-09-29 07:41:22",
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/45"
@@ -1294,7 +1294,7 @@
     "description": "[Primitive Justice] will either not cast/restart the game with a single target.",
     "category": "Game Breaking",
     "last_updated": "2017-07-14 08:38:16",
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/36"
@@ -1304,7 +1304,7 @@
     "description": "[Living Lore] If Living Lore imprints a Split Card, it has twice the expected CMC.",
     "category": "Advantageous",
     "last_updated": "2017-10-31 09:29:05",
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/35"
@@ -1314,7 +1314,7 @@
     "description": "[Zur's Weirding] Reveals but doesn't allow you to pay",
     "category": "Disadvantageous",
     "last_updated": "2017-09-29 07:41:24",
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/34"
@@ -1324,7 +1324,7 @@
     "description": "[Whims of the Fates] Causes client crashes",
     "category": "Game Breaking",
     "last_updated": "2017-09-29 07:41:25",
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": true,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/32"
@@ -1354,7 +1354,7 @@
     "description": "[Reap] puts a \"face down ability\" into hand instead of the targetted cards",
     "category": "Game Breaking",
     "last_updated": "2017-12-26 17:37:58",
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/23"
@@ -1364,7 +1364,7 @@
     "description": "[Profane Command] If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.",
     "category": "Advantageous",
     "last_updated": "2017-08-27 19:47:37",
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/20"
