@@ -9,10 +9,10 @@ from typing import Dict, List
 import requests
 from github import Github
 
-import configuration
+import configuration, fetcher
 from helpers import remove_smartquotes
 
-
+CARDNAMES: List[str] = fetcher.catalog_cardnames()
 
 CATEGORIES = ["Advantageous", "Disadvantageous", "Game Breaking", "Graphical", "Non-Functional ability"]
 BADCATS = ["Game Breaking"]
@@ -95,6 +95,17 @@ def process_issue(issue):
 
     cards = re.findall(REGEX_CARDREF, affects)
     cards = [c for c in cards]
+
+    fail = False
+    for c in cards:
+        if '//' in c:
+            pass
+        elif not c in CARDNAMES:
+            fail = True
+    if fail and not 'Invalid Card Name' in labels:
+        issue.add_to_labels('Invalid Card Name')
+    elif not fail and 'Invalid Card Name' in labels:
+        issue.remove_from_labels('Invalid Card Name')
 
     images = re.search(IMAGES_REGEX, issue.body, re.MULTILINE)
     if len(cards) > 1:
