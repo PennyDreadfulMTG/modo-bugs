@@ -1,6 +1,7 @@
 Identity Thief
 Ignite Memories
 Nebuchadnezzar
+Precursor Golem
 Primitive Justice
 Reap
 Shifty Doppelganger
@@ -9,3 +10,4 @@ Sylvan Primordial
 Tawnos's Coffin
 Whims of the Fates
 Wild Ricochet
+Zada, Hedron Grinder

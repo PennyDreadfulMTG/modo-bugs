@@ -8,6 +8,7 @@ Misdirection
 Misdirection
 Nebuchadnezzar
 Odds
+Precursor Golem
 Primitive Justice
 Reap
 Ricochet Trap
@@ -17,3 +18,4 @@ Sylvan Primordial
 Tawnos's Coffin
 Whims of the Fates
 Wild Ricochet
+Zada, Hedron Grinder
