@@ -1,5 +1,15 @@
 [
   {
+    "card": "Apathy",
+    "description": "The triggered ability of [Apathy] causes a soft-lock.",
+    "category": "Game Breaking",
+    "last_updated": "2018-01-23 18:39:04",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/277"
+  },
+  {
     "card": "Entreat the Angels",
     "description": "When [Entreat the Angels] is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.",
     "category": "Graphical",

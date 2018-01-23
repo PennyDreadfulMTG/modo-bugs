@@ -1,6 +1,7 @@
 Card Name	Bug Description	Categorization	Last Confirmed
 Abandoned Sarcophagus	As Foretold incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].	Disadvantageous	2018-01-19 09:46:54
 Abandoned Sarcophagus	[Abandoned Sarcophagus] Does not allow you to pick x when casting cycling cards from graveyard	Disadvantageous	2018-01-19 09:46:50
+Apathy	The triggered ability of [Apathy] causes a soft-lock.	Game Breaking	2018-01-23 18:39:04
 Archangel of Strife	[Archangel of Strife] War or Peace choice repeats indefinitely.	Game Breaking	2017-12-26 14:38:22
 Ashiok, Nightmare Weaver	[Ashiok, Nightmare Weaver] is unable to put a creature with converted mana cost equal to its current loyalty onto the battlefield.	Unclassified	2018-01-13 09:13:47
 Athreos, God of Passage	[Athreos, God of Passage] does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
