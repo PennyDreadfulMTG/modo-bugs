@@ -53,6 +53,8 @@ Harsh Mentor	[Harsh Mentor]'s triggered ability also affects abilities activated
 High Seas	[High Seas] only affects red creature spells, rather than red or green creature spells.	Disadvantageous	2017-11-02 03:21:53
 Hollow One	Hollow One's cost reduction doesn't consider split cards that are discarded	Disadvantageous	2017-12-22 00:37:45
 Hollow One	[Hollow One] doesn't count discarded split cards.	Disadvantageous	2017-09-21 22:11:24
+Howltooth Hollow	Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]	Disadvantageous	2018-01-24 00:38:48
+Howltooth Hollow	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-01-24 00:38:49
 Icefall Regent	If you target an [Icefall Regent] with a fused split card, you must pay {2} for each side of the split card, for a total of {4}	Advantageous	2018-01-19 08:40:29
 Identity Thief	[Identity Thief] Restarts the game when attempting to copy a creature.	Game Breaking	2017-06-28 05:37:36
 Ignite Memories	[Ignite Memories] and similar cards can cause a game restart if the target has no cards in hand.	Game Breaking	2017-08-20 07:45:56
@@ -79,6 +81,8 @@ Misdirection	Redirecting spells sometimes restarts the game in a buggy state	Gam
 Misdirection	[Misdirection] can reset the game in rare cases.	Game Breaking	2017-08-10 22:48:36
 Mishra's Workshop	When there are floating generic mana and restricted mana (such as [Mishra's Workshop] mana) that are same color (or same colorless), MTGO will always use generic mana first before using the restricted mana. Workaround: don't float the generic mana if you want to use the restricted mana first	Unconfirmed	2018-01-14 03:22:59
 Molten-Tail Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46
+Mosswort Bridge	Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]	Disadvantageous	2018-01-24 00:38:48
+Mosswort Bridge	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-01-24 00:38:49
 Multani's Presence	[Multani's Presence] incorrectly draws cards off copies of spells that are countered	Advantageous	2017-08-08 16:46:15
 Myriad Landscape	[Myriad Landscape] Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.	Advantageous	2017-06-21 07:37:18
 Nebuchadnezzar	[Nebuchadnezzar] ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
@@ -109,12 +113,14 @@ Screams from Within	[Screams from Within]'s second ability (Return ~ to your han
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2018-01-19 09:47:00
 Settle the Wreckage	[Settle the Wreckage] does not give the targeted player the option to not search their library.	Unclassified	2017-10-05 17:43:46
-Shelldock Isle	Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]	Disadvantageous	2018-01-15 05:38:05
-Shelldock Isle	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-01-15 05:38:06
+Shelldock Isle	Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]	Disadvantageous	2018-01-24 00:38:48
+Shelldock Isle	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-01-24 00:38:49
 Sheltering Ancient	[Sheltering Ancient]'s Cumulative Upkeep Stops Working After One Age Counter	Unconfirmed	2018-01-03 14:37:55
 Shifty Doppelganger	[Shifty Doppelganger] Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
 Sound the Call	The art for the token created by [Sound the Call] is incorrect. 	Graphical	2018-01-19 08:40:25
 Spell Crumple	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
+Spinerock Knoll	Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]	Disadvantageous	2018-01-24 00:38:48
+Spinerock Knoll	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-01-24 00:38:49
 Spoils of Victory	[Spoils of Victory] The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
 Spreading Seas	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-01-15 03:38:00
 Stabwhisker the Odious	Kamigawa Flip cards such as [Stabwhisker the Odious] are displayed as enchantments and do not respect the Attack With All function or changes to power and toughness. Workaround: Click the creature separately to attack with it, and right click the creature to display its correct power and toughness.	Unclassified	2018-01-13 09:13:54
@@ -147,6 +153,8 @@ Volcano Hellion	[Volcano Hellion] Damage is capped at 255	Disadvantageous	2018-0
 Wall of Roots	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2017-11-05 11:57:58
 Whims of the Fates	[Whims of the Fates] Causes client crashes	Game Breaking	2018-01-19 09:47:07
 Wild Ricochet	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-20 10:39:41
+Windbrisk Heights	Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]	Disadvantageous	2018-01-24 00:38:48
+Windbrisk Heights	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-01-24 00:38:49
 Words of Waste	[Words of Waste] does not function.	Non-Functional ability	2017-12-03 04:45:09
 Yisan, the Wanderer Bard	If all of [Yisan, the Wanderer Bard]'s verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.	Advantageous	2018-01-19 08:40:26
 Zada, Hedron Grinder	Creatures that, when they've become the target of a spell of a spell or ability andcopy it for each other creature can sometime cause the game to restart after resolution of the spell and its copies. 	Game Breaking	2018-01-23 05:22:06
