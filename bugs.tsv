@@ -11,7 +11,7 @@ Blood Moon	If [Vesuva] copies a land with a static ability and then is later tur
 Blood Moon	When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.	Unclassified	2018-01-15 02:58:01
 Bloodline Keeper	Vampire tokens created by [Bloodline Keeper] have incorrect art and incorrectly display that they have lifelink.	Graphical	2018-01-15 05:16:54
 Booby Trap	[Booby Trap] does not let you name anything other than non-basic lands.	Disadvantageous	2017-12-12 18:19:18
-Borderland Explorer	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Unconfirmed	2018-01-11 10:38:11
+Borderland Explorer	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-01-24 04:26:42
 Broken Ambitions	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-01-11 05:52:25
 Chandra Nalaar	[Chandra Nalaar] Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
 Cloud Key	[Cloud Key] Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
@@ -80,7 +80,7 @@ Memory Lapse	[Memory Lapse] moves aftermath cards back on top of the library ins
 Mirror Match	[Mirror Match] Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2017-06-30 16:54:05
 Misdirection	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-20 10:39:41
 Misdirection	[Misdirection] can reset the game in rare cases.	Game Breaking	2017-08-10 22:48:36
-Mishra's Workshop	When there are floating generic mana and restricted mana (such as [Mishra's Workshop] mana) that are same color (or same colorless), MTGO will always use generic mana first before using the restricted mana. Workaround: don't float the generic mana if you want to use the restricted mana first	Unconfirmed	2018-01-14 03:22:59
+Mishra's Workshop	When there are floating generic mana and restricted mana (such as [Mishra's Workshop] mana) that are same color (or same colorless), MTGO will always use generic mana first before using the restricted mana. Workaround: don't float the generic mana if you want to use the restricted mana first	Disadvantageous	2018-01-24 04:25:40
 Molten-Tail Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46
 Mosswort Bridge	Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]	Disadvantageous	2018-01-24 00:38:48
 Mosswort Bridge	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-01-24 00:38:49
@@ -116,7 +116,7 @@ Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce costs 
 Settle the Wreckage	[Settle the Wreckage] does not give the targeted player the option to not search their library.	Unclassified	2017-10-05 17:43:46
 Shelldock Isle	Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]	Disadvantageous	2018-01-24 00:38:48
 Shelldock Isle	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-01-24 00:38:49
-Sheltering Ancient	[Sheltering Ancient]'s Cumulative Upkeep Stops Working After One Age Counter	Unconfirmed	2018-01-03 14:37:55
+Sheltering Ancient	[Sheltering Ancient]'s Cumulative Upkeep Stops Working After One Age Counter	Advantageous	2018-01-24 04:24:55
 Shifty Doppelganger	[Shifty Doppelganger] Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
 Sound the Call	The art for the token created by [Sound the Call] is incorrect. 	Graphical	2018-01-19 08:40:25
 Spell Crumple	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
@@ -126,7 +126,7 @@ Spoils of Victory	[Spoils of Victory] The land comes into play tapped instead	Di
 Spreading Seas	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-01-15 03:38:00
 Stabwhisker the Odious	Kamigawa Flip cards such as [Stabwhisker the Odious] are displayed as enchantments and do not respect the Attack With All function or changes to power and toughness. Workaround: Click the creature separately to attack with it, and right click the creature to display its correct power and toughness.	Unclassified	2018-01-13 09:13:54
 Steam Vents	The Keybindings for 'Yes' and 'No' do not function correctly with Shocklands such as [Steam Vents].	Graphical	2018-01-13 09:14:11
-Storage Matrix	[Storage Matrix] Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2018-01-19 09:46:58
+Storage Matrix	[Storage Matrix] Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2018-01-24 04:38:59
 Structural Collapse	[Structural Collapse] does not cause target to sacrifice a land.	Non-Functional ability	2017-12-26 17:37:56
 Sunscourge Champion	[Sunscourge Champion] will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2017-08-10 23:39:12
 Swerve	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-20 10:39:41
@@ -140,6 +140,7 @@ The Scarab God	The Scarab God and God-Pharaoh's Gift do not respect 706.9d and r
 The Ur-Dragon	[The Ur-Dragon] also reduces its own casting cost.	Advantageous	2017-11-16 08:30:26
 Thornbite Staff	[Thornbite Staff] doesn't display the equip cost line when zoomed in upon.	Graphical	2018-01-19 08:40:26
 Thornbow Archer	[Thornbow Archer] Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-11-22 06:15:33
+Thran Turbine	[Thran Turbine] mana is able to be used to cast spells	Unconfirmed	2018-01-24 04:38:57
 Tomorrow, Azami's Familiar	[Tomorrow, Azami's Familiar] puts both cards back on top	Disadvantageous	2017-12-17 10:54:22
 Torment of Hailfire	The undo function works incorrectly with [Torment of Hailfire].	Disadvantageous	2017-08-25 03:22:38
 Trueheart Duelist	If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.	Unclassified	2017-10-24 13:18:15

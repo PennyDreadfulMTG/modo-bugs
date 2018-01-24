@@ -1,5 +1,15 @@
 [
   {
+    "card": "Thran Turbine",
+    "description": "[Thran Turbine] mana is able to be used to cast spells",
+    "category": "Unconfirmed",
+    "last_updated": "2018-01-24 04:38:57",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/279"
+  },
+  {
     "card": "Khalni Garden",
     "description": "The art for the Plant token created by Khalni Garden is incorrect",
     "category": "Graphical",
@@ -322,8 +332,8 @@
   {
     "card": "Borderland Explorer",
     "description": "All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded",
-    "category": "Unconfirmed",
-    "last_updated": "2018-01-11 10:38:11",
+    "category": "Advantageous",
+    "last_updated": "2018-01-24 04:26:42",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -422,8 +432,8 @@
   {
     "card": "Mishra's Workshop",
     "description": "When there are floating generic mana and restricted mana (such as [Mishra's Workshop] mana) that are same color (or same colorless), MTGO will always use generic mana first before using the restricted mana. Workaround: don't float the generic mana if you want to use the restricted mana first",
-    "category": "Unconfirmed",
-    "last_updated": "2018-01-14 03:22:59",
+    "category": "Disadvantageous",
+    "last_updated": "2018-01-24 04:25:40",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -452,8 +462,8 @@
   {
     "card": "Sheltering Ancient",
     "description": "[Sheltering Ancient]'s Cumulative Upkeep Stops Working After One Age Counter",
-    "category": "Unconfirmed",
-    "last_updated": "2018-01-03 14:37:55",
+    "category": "Advantageous",
+    "last_updated": "2018-01-24 04:24:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -1183,9 +1193,9 @@
     "card": "Storage Matrix",
     "description": "[Storage Matrix] Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.",
     "category": "Disadvantageous",
-    "last_updated": "2018-01-19 09:46:58",
+    "last_updated": "2018-01-24 04:38:59",
     "pd_legal": true,
-    "bug_blog": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/73"
   },
