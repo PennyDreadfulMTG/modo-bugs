@@ -58,7 +58,7 @@ Howltooth Hollow	[Shelldock Isle] and other hideaway lands from Lorwyn do not al
 Icefall Regent	If you target an [Icefall Regent] with a fused split card, you must pay {2} for each side of the split card, for a total of {4}	Advantageous	2018-01-19 08:40:29
 Identity Thief	[Identity Thief] Restarts the game when attempting to copy a creature.	Game Breaking	2017-06-28 05:37:36
 Ignite Memories	[Ignite Memories] and similar cards can cause a game restart if the target has no cards in hand.	Game Breaking	2017-08-20 07:45:56
-Imp's Mischief	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-20 10:39:41
+Imp's Mischief	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-24 17:56:31
 Infinite Reflection	[Infinite Reflection] All creatures become copies, not just ones you control.	Advantageous	2018-01-03 11:38:22
 Island Sanctuary	[Island Sanctuary]'s replacement effect is available if you draw a card during an opponents draw step	Advantageous	2017-06-19 21:55:29
 Jodah's Avenger	[Jodah's Avenger] Activated ability continues activating infinitely.	Game Breaking	2018-01-19 08:40:27
@@ -78,7 +78,7 @@ Mass Polymorph	[Synthetic Destiny][Mass Polymorph] does not take commanders into
 Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46
 Memory Lapse	[Memory Lapse] moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-07-14 08:38:13
 Mirror Match	[Mirror Match] Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2017-06-30 16:54:05
-Misdirection	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-20 10:39:41
+Misdirection	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-24 17:56:31
 Misdirection	[Misdirection] can reset the game in rare cases.	Game Breaking	2017-08-10 22:48:36
 Mishra's Workshop	When there are floating generic mana and restricted mana (such as [Mishra's Workshop] mana) that are same color (or same colorless), MTGO will always use generic mana first before using the restricted mana. Workaround: don't float the generic mana if you want to use the restricted mana first	Disadvantageous	2018-01-24 04:25:40
 Molten-Tail Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46
@@ -129,7 +129,7 @@ Steam Vents	The Keybindings for 'Yes' and 'No' do not function correctly with Sh
 Storage Matrix	[Storage Matrix] Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2018-01-24 04:38:59
 Structural Collapse	[Structural Collapse] does not cause target to sacrifice a land.	Non-Functional ability	2017-12-26 17:37:56
 Sunscourge Champion	[Sunscourge Champion] will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2017-08-10 23:39:12
-Swerve	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-20 10:39:41
+Swerve	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-24 17:56:31
 Sylvan Primordial	Casting [Sylvan Primordial] causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2017-11-05 11:57:57
 Synthetic Destiny	[Synthetic Destiny][Mass Polymorph] does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-01-19 09:47:03
 Tawnos's Coffin	[Tawnos's Coffin] crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-24 16:43:46
@@ -154,7 +154,7 @@ Vizier of Many Faces	[Vizier of Many Faces] keeps its abilities when an opponent
 Volcano Hellion	[Volcano Hellion] Damage is capped at 255	Disadvantageous	2018-01-02 17:37:55
 Wall of Roots	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2017-11-05 11:57:58
 Whims of the Fates	[Whims of the Fates] Causes client crashes	Game Breaking	2018-01-19 09:47:07
-Wild Ricochet	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-20 10:39:41
+Wild Ricochet	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-24 17:56:31
 Windbrisk Heights	Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]	Disadvantageous	2018-01-24 00:38:48
 Windbrisk Heights	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-01-24 00:38:49
 Words of Waste	[Words of Waste] does not function.	Non-Functional ability	2017-12-03 04:45:09
