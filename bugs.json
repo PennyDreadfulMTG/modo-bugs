@@ -1,5 +1,15 @@
 [
   {
+    "card": "Khalni Garden",
+    "description": "The art for the Plant token created by [Khalni Garden] is incorrect",
+    "category": "Graphical",
+    "last_updated": "2018-01-24 02:38:38",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/278"
+  },
+  {
     "card": "Apathy",
     "description": "The triggered ability of [Apathy] causes a soft-lock.",
     "category": "Game Breaking",
