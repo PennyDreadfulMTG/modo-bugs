@@ -1,5 +1,6 @@
 Apathy
 Archangel of Strife
+Deflection
 Identity Thief
 Ignite Memories
 Imp's Mischief
@@ -14,6 +15,7 @@ Primitive Justice
 Reap
 Ricochet Trap
 Shifty Doppelganger
+Shunt
 Swerve
 Sylvan Primordial
 Tawnos's Coffin

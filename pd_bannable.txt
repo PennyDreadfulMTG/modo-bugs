@@ -1,4 +1,5 @@
 Apathy
+Deflection
 Identity Thief
 Ignite Memories
 Nebuchadnezzar
@@ -6,6 +7,7 @@ Precursor Golem
 Primitive Justice
 Reap
 Shifty Doppelganger
+Shunt
 Swerve
 Sylvan Primordial
 Tawnos's Coffin
