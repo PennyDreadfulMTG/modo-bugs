@@ -14,6 +14,7 @@ Booby Trap	[Booby Trap] does not let you name anything other than non-basic land
 Borderland Explorer	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-01-24 04:26:42
 Broken Ambitions	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-01-11 05:52:25
 Chandra Nalaar	[Chandra Nalaar] Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
+Charging Tuskodon	[Charging Tuskodon] deals double damage to a player when targeted by [Form of the Dinosaur].	Unclassified	2018-01-25 15:38:50
 Cloud Key	[Cloud Key] Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Collected Company	[Collected Company] does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2017-10-06 04:59:08
 Combat Celebrant	[Combat Celebrant] does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
@@ -34,8 +35,11 @@ Doubling Season	[Doubling Season] incorrectly doubles loyalty counters added fro
 Dream Halls	[Dream Halls] Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-07-05 16:48:54
 Elesh Norn, Grand Cenobite	If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2017-08-25 04:39:46
 Entreat the Angels	When [Entreat the Angels] is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.	Graphical	2018-01-23 02:40:58
+Etali, Primal Storm	[Etali, Primal Storm] is unable to cast split cards or multiple cards with additional costs.	Unclassified	2018-01-25 15:38:57
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
+Exhaustion	[Exhaustion] fails to prevent permanents from untapping during the next untap step.	Unclassified	2018-01-25 15:38:58
 Fa'adiyah Seer	Dredging rather than drawing can let you avoid discarding	Advantageous	2018-01-20 10:39:40
+Form of the Dinosaur	[Charging Tuskodon] deals double damage to a player when targeted by [Form of the Dinosaur].	Unclassified	2018-01-25 15:38:50
 Freyalise's Winds	[Freyalise's Winds] Permanents with wind counters remove counters instead of untapping at any time, not only during their controller's untap step.	Disadvantageous	2017-09-29 07:41:13
 Garruk, the Veil-Cursed	The art for the wolf token created by [Garruk, the Veil-Cursed] is incorrect.	Graphical	2018-01-14 22:52:37
 Genju of the Fields	[Genju of the Fields] does not cause you to gain life upon dealing damage	Disadvantageous	2018-01-19 09:46:57
@@ -78,6 +82,7 @@ Mana Bloom	[Mana Bloom] Ability does not generate mana on opponents' turns.	Disa
 Mass Polymorph	[Synthetic Destiny][Mass Polymorph] does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-01-19 09:47:03
 Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46
 Memory Lapse	[Memory Lapse] moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-07-14 08:38:13
+Midnight Oil	Casting a second [Midnight Oil] can cause a game restart under rare circumstances.	Unclassified	2018-01-25 15:38:53
 Mirror Match	[Mirror Match] Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2017-06-30 16:54:05
 Misdirection	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-25 13:38:52
 Misdirection	[Misdirection] can reset the game in rare cases.	Game Breaking	2017-08-10 22:48:36
@@ -86,6 +91,7 @@ Molten-Tail Masticore	Masticores do not require discard to stay in play	Advantag
 Mosswort Bridge	Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]	Disadvantageous	2018-01-24 00:38:48
 Mosswort Bridge	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-01-24 00:38:49
 Multani's Presence	[Multani's Presence] incorrectly draws cards off copies of spells that are countered	Advantageous	2017-08-08 16:46:15
+Mutiny	[Mutiny] doesn't have clear targeting information. Workaround: The game log displays targets matching the order written on the card, and will highlight the appropriate creature when its name is hovered over with the mouse.	Unclassified	2018-01-25 15:38:51
 Myriad Landscape	[Myriad Landscape] Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.	Advantageous	2017-06-21 07:37:18
 Nebuchadnezzar	[Nebuchadnezzar] ability makes the game start endlessly repeating itself	Game Breaking	2017-05-28 18:18:07
 Null Chamber	[Null Chamber]'s Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2017-12-26 17:42:22
@@ -113,6 +119,7 @@ Runic Repetition	[Runic Repetition] Cannot be cast	Disadvantageous	2017-06-01 17
 Samurai of the Pale Curtain	[Samurai of the Pale Curtain] does not exile tokens.	Advantageous	2018-01-13 09:16:36
 Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Screams from Within	[Screams from Within]'s second ability (Return ~ to your hand) does not function. 	Non-Functional ability	2018-01-19 09:46:49
+Scroll Rack	The "OK" button of [Scroll Rack] has a display issue that displays it as a "cancel" button.	Unclassified	2018-01-25 15:38:56
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2018-01-19 09:47:00
 Settle the Wreckage	[Settle the Wreckage] does not give the targeted player the option to not search their library.	Unclassified	2017-10-05 17:43:46
@@ -121,6 +128,7 @@ Shelldock Isle	[Shelldock Isle] and other hideaway lands from Lorwyn do not allo
 Sheltering Ancient	[Sheltering Ancient]'s Cumulative Upkeep Stops Working After One Age Counter	Advantageous	2018-01-24 04:24:55
 Shifty Doppelganger	[Shifty Doppelganger] Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
 Shunt	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-25 13:38:52
+Sneak Attack	The delayed trigger ability of [Sneak Attack] causes the opponent to sacrifice the creature if they gain control it.	Unclassified	2018-01-25 15:38:54
 Sound the Call	The art for the token created by [Sound the Call] is incorrect. 	Graphical	2018-01-19 08:40:25
 Spell Crumple	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Spinerock Knoll	Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]	Disadvantageous	2018-01-24 00:38:48
