@@ -8,7 +8,7 @@ Athreos, God of Passage	[Athreos, God of Passage] does not associate its trigger
 Austere Command	[Austere Command] does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.	Disadvantageous	2018-01-23 03:06:22
 Axis of Mortality	[Axis of Mortality] still fully resolves when a player cannot gain life.	Unclassified	2017-10-09 05:05:45
 Blood Moon	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-01-15 03:38:00
-Blood Moon	When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.	Unclassified	2018-01-15 02:58:01
+Blood Moon	When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.	Advantageous	2018-01-25 06:12:35
 Bloodline Keeper	Vampire tokens created by [Bloodline Keeper] have incorrect art and incorrectly display that they have lifelink.	Graphical	2018-01-15 05:16:54
 Booby Trap	[Booby Trap] does not let you name anything other than non-basic lands.	Disadvantageous	2017-12-12 18:19:18
 Borderland Explorer	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-01-24 04:26:42
@@ -72,7 +72,7 @@ Lich	[Lich] If you cannot sacrifice enough permanents, the game restarts	Game Br
 Liquid Fire	[Liquid Fire] doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2018-01-19 09:46:56
 Living Lore	[Living Lore] If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2018-01-19 09:47:05
 Lurking Evil	[Lurking Evil] makes you pay half your opponent's life total	Advantageous	2017-12-17 10:54:12
-Magus of the Moon	When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.	Unclassified	2018-01-15 02:58:01
+Magus of the Moon	When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.	Advantageous	2018-01-25 06:12:35
 Mana Bloom	[Mana Bloom] Ability does not generate mana on opponents' turns.	Disadvantageous	2018-01-03 03:38:18
 Mass Polymorph	[Synthetic Destiny][Mass Polymorph] does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-01-19 09:47:03
 Masticore	Masticores do not require discard to stay in play	Advantageous	2017-12-25 04:37:46

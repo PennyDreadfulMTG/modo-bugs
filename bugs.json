@@ -142,8 +142,8 @@
   {
     "card": "Blood Moon",
     "description": "When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.",
-    "category": "Unclassified",
-    "last_updated": "2018-01-15 02:58:01",
+    "category": "Advantageous",
+    "last_updated": "2018-01-25 06:12:35",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -152,8 +152,8 @@
   {
     "card": "Magus of the Moon",
     "description": "When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.",
-    "category": "Unclassified",
-    "last_updated": "2018-01-15 02:58:01",
+    "category": "Advantageous",
+    "last_updated": "2018-01-25 06:12:35",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
