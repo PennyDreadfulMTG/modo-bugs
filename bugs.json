@@ -541,9 +541,9 @@
   },
   {
     "card": "Painful Quandary",
-    "description": "[Painful Quandary] does not work",
+    "description": "If opponent choose to discard a card due to [Painful Quandary], he/she can't choose a card to discard, and the spell will resolves as normal",
     "category": "Disadvantageous",
-    "last_updated": "2018-01-25 07:16:24",
+    "last_updated": "2018-01-26 07:05:30",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
