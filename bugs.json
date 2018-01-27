@@ -1,5 +1,15 @@
 [
   {
+    "card": "Sages of the Anima",
+    "description": "[Sages of the Anima] puts the non-creature cards on top instead of bottom of library",
+    "category": "Unconfirmed",
+    "last_updated": "2018-01-27 23:39:00",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/288"
+  },
+  {
     "card": "Charging Tuskodon",
     "description": "[Charging Tuskodon]\u00a0deals double damage to a player when targeted by [Form of the Dinosaur].",
     "category": "Unclassified",
