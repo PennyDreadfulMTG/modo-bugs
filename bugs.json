@@ -1111,9 +1111,9 @@
   },
   {
     "card": "Compost",
-    "description": "[Compost] If a player cast a split card that are black on the uncasted side, the draw effect isn't triggered",
+    "description": "[Compost] Split cards that are black on the side not cast do not trigger the draw effect",
     "category": "Disadvantageous",
-    "last_updated": "2018-01-19 09:46:55",
+    "last_updated": "2018-01-28 03:16:57",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
