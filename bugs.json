@@ -1,5 +1,15 @@
 [
   {
+    "card": "Lavamancer's Skill",
+    "description": "[Lavamancer's Skill] the \"T: deal 1 damage\" ability does not let you choose a target",
+    "category": "Graphical",
+    "last_updated": "2018-01-29 06:37:53",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/289"
+  },
+  {
     "card": "Sages of the Anima",
     "description": "[Sages of the Anima] puts the non-creature cards on top instead of bottom of library",
     "category": "Disadvantageous",
