@@ -2,8 +2,8 @@
   {
     "card": "Lavamancer's Skill",
     "description": "[Lavamancer's Skill] the \"T: deal 1 damage\" ability does not let you choose a target",
-    "category": "Graphical",
-    "last_updated": "2018-01-29 06:37:53",
+    "category": "Disadvantageous",
+    "last_updated": "2018-01-29 08:36:16",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
