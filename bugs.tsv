@@ -14,8 +14,7 @@ Booby Trap	[Booby Trap] does not let you name anything other than non-basic land
 Borderland Explorer	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-01-24 04:26:42
 Broken Ambitions	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-01-11 05:52:25
 Chandra Nalaar	[Chandra Nalaar] Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
-Charging Tuskodon	Charging Tuskodon deals double damage to a player when targeted by Form of the Dinosaur.	Advantageous	2018-01-26 14:38:05
-Charging Tuskodon	[Charging Tuskodon] deals double damage to a player when targeted by [Form of the Dinosaur].	Unclassified	2018-01-26 11:38:03
+Charging Tuskodon	Charging Tuskodon deals double damage to a player even for non-combat damage	Advantageous	2018-01-29 01:57:22
 Cloud Key	[Cloud Key] Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Collected Company	[Collected Company] does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2017-10-06 04:59:08
 Combat Celebrant	[Combat Celebrant] does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
@@ -40,7 +39,6 @@ Etali, Primal Storm	[Etali, Primal Storm] is unable to cast split cards or multi
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Exhaustion	[Exhaustion] fails to prevent permanents from untapping during the next untap step.	Non-Functional ability	2018-01-26 10:39:03
 Fa'adiyah Seer	Dredging rather than drawing can let you avoid discarding	Advantageous	2018-01-20 10:39:40
-Form of the Dinosaur	[Charging Tuskodon] deals double damage to a player when targeted by [Form of the Dinosaur].	Unclassified	2018-01-26 11:38:03
 Freyalise's Winds	[Freyalise's Winds] Permanents with wind counters remove counters instead of untapping at any time, not only during their controller's untap step.	Disadvantageous	2017-09-29 07:41:13
 Garruk, the Veil-Cursed	The art for the wolf token created by [Garruk, the Veil-Cursed] is incorrect.	Graphical	2018-01-14 22:52:37
 Genju of the Fields	[Genju of the Fields] does not cause you to gain life upon dealing damage	Disadvantageous	2018-01-19 09:46:57

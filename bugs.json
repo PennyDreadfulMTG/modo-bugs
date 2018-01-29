@@ -11,29 +11,9 @@
   },
   {
     "card": "Charging Tuskodon",
-    "description": "[Charging Tuskodon]\u00a0deals double damage to a player when targeted by [Form of the Dinosaur].",
-    "category": "Unclassified",
-    "last_updated": "2018-01-26 11:38:03",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/287"
-  },
-  {
-    "card": "Form of the Dinosaur",
-    "description": "[Charging Tuskodon]\u00a0deals double damage to a player when targeted by [Form of the Dinosaur].",
-    "category": "Unclassified",
-    "last_updated": "2018-01-26 11:38:03",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/287"
-  },
-  {
-    "card": "Charging Tuskodon",
-    "description": "Charging Tuskodon\u00a0deals double damage to a player when targeted by Form of the Dinosaur.",
+    "description": "Charging Tuskodon\u00a0deals double damage to a player even for non-combat damage",
     "category": "Advantageous",
-    "last_updated": "2018-01-26 14:38:05",
+    "last_updated": "2018-01-29 01:57:22",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
