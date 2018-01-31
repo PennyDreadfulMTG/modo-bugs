@@ -140,56 +140,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/274"
   },
   {
-    "card": "Shelldock Isle",
-    "description": "Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]",
-    "category": "Disadvantageous",
-    "last_updated": "2018-01-24 00:38:48",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/273"
-  },
-  {
-    "card": "Howltooth Hollow",
-    "description": "Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]",
-    "category": "Disadvantageous",
-    "last_updated": "2018-01-24 00:38:48",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/273"
-  },
-  {
-    "card": "Mosswort Bridge",
-    "description": "Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]",
-    "category": "Disadvantageous",
-    "last_updated": "2018-01-24 00:38:48",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/273"
-  },
-  {
-    "card": "Spinerock Knoll",
-    "description": "Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]",
-    "category": "Disadvantageous",
-    "last_updated": "2018-01-24 00:38:48",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/273"
-  },
-  {
-    "card": "Windbrisk Heights",
-    "description": "Split cards are unable to be cast through the Hideaway Lands from Lorwyn such as [Shelldock Isle]",
-    "category": "Disadvantageous",
-    "last_updated": "2018-01-24 00:38:48",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/273"
-  },
-  {
     "card": "Vesuva",
     "description": "If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.",
     "category": "Unclassified",
@@ -228,26 +178,6 @@
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/271"
-  },
-  {
-    "card": "Blood Moon",
-    "description": "When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.",
-    "category": "Advantageous",
-    "last_updated": "2018-01-25 06:12:35",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/270"
-  },
-  {
-    "card": "Magus of the Moon",
-    "description": "When [Blood Moon] or [Magus of the Moon] is in play, you are incorrectly prompted to name creature types for lands that require you to name one as they enter the battlefield.",
-    "category": "Advantageous",
-    "last_updated": "2018-01-25 06:12:35",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/270"
   },
   {
     "card": "The Scarab God",
@@ -398,16 +328,6 @@
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/258"
-  },
-  {
-    "card": "Death's Shadow",
-    "description": "[Death's Shadow] can become larger than 13/13 and does not respect the recent rules change to 107.1b",
-    "category": "Advantageous",
-    "last_updated": "2018-01-23 03:11:24",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/257"
   },
   {
     "card": "Yisan, the Wanderer Bard",
@@ -600,16 +520,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/240"
   },
   {
-    "card": "Archangel of Strife",
-    "description": "[Archangel of Strife] War or Peace choice repeats indefinitely.",
-    "category": "Game Breaking",
-    "last_updated": "2017-12-26 14:38:22",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/239"
-  },
-  {
     "card": "Jodah's Avenger",
     "description": "[Jodah's Avenger] Activated ability continues activating infinitely.",
     "category": "Game Breaking",
@@ -658,16 +568,6 @@
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/236"
-  },
-  {
-    "card": "Pack's Disdain",
-    "description": "[Pack's Disdain] does not work",
-    "category": "Non-Functional ability",
-    "last_updated": "2017-12-17 10:54:14",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/235"
   },
   {
     "card": "Screams from Within",
@@ -808,16 +708,6 @@
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/216"
-  },
-  {
-    "card": "Steam Vents",
-    "description": "The Keybindings for 'Yes' and 'No' do not function correctly with Shocklands such as [Steam Vents].",
-    "category": "Graphical",
-    "last_updated": "2018-01-13 09:14:11",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/215"
   },
   {
     "card": "Death Pit Offering",
@@ -1160,16 +1050,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/141"
   },
   {
-    "card": "Trueheart Duelist",
-    "description": "If [Trueheart Duelist] blocks multiple attackers, as well as another creature as part of a group, damage assignment errors can arise.",
-    "category": "Unclassified",
-    "last_updated": "2017-10-24 13:18:15",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/140"
-  },
-  {
     "card": "Sunscourge Champion",
     "description": "[Sunscourge Champion] will cause you to lose life if it has negative power when its trigger resolves.",
     "category": "Disadvantageous",
@@ -1218,16 +1098,6 @@
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/131"
-  },
-  {
-    "card": "The Great Aurora",
-    "description": "[The Great Aurora] does not function correctly.",
-    "category": "Unclassified",
-    "last_updated": "2017-07-29 15:38:36",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/128"
   },
   {
     "card": "Ignite Memories",
