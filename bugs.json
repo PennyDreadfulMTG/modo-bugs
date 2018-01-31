@@ -310,16 +310,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/260"
   },
   {
-    "card": "Stabwhisker the Odious",
-    "description": "Kamigawa Flip cards such as [Stabwhisker the Odious] are displayed as enchantments and do not respect the Attack With All function or changes to power and toughness. Workaround: Click the creature separately to attack with it, and right click the creature to display its correct power and toughness.",
-    "category": "Unclassified",
-    "last_updated": "2018-01-13 09:13:54",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/259"
-  },
-  {
     "card": "Austere Command",
     "description": "[Austere Command] does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.",
     "category": "Disadvantageous",
@@ -538,36 +528,6 @@
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/237"
-  },
-  {
-    "card": "Masticore",
-    "description": "Masticores do not require discard to stay in play",
-    "category": "Advantageous",
-    "last_updated": "2017-12-25 04:37:46",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/236"
-  },
-  {
-    "card": "Razormane Masticore",
-    "description": "Masticores do not require discard to stay in play",
-    "category": "Advantageous",
-    "last_updated": "2017-12-25 04:37:46",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/236"
-  },
-  {
-    "card": "Molten-Tail Masticore",
-    "description": "Masticores do not require discard to stay in play",
-    "category": "Advantageous",
-    "last_updated": "2017-12-25 04:37:46",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/236"
   },
   {
     "card": "Screams from Within",
@@ -868,16 +828,6 @@
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/190"
-  },
-  {
-    "card": "Axis of Mortality",
-    "description": "[Axis of Mortality] still fully resolves when a player cannot gain life.",
-    "category": "Unclassified",
-    "last_updated": "2017-10-09 05:05:45",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/188"
   },
   {
     "card": "Unesh, Criosphinx Sovereign",
