@@ -114,7 +114,7 @@ Samurai of the Pale Curtain	[Samurai of the Pale Curtain] does not exile tokens.
 Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Screams from Within	[Screams from Within]'s second ability (Return ~ to your hand) does not function. 	Non-Functional ability	2018-01-19 09:46:49
 Scroll Rack	The "OK" button of [Scroll Rack] has a display issue that displays it as a "cancel" button.	Graphical	2018-01-26 10:39:47
-Scythe of the Wretched	[Scythe of the Wretched]  reanimates any creature that dies, regardless of it the equipped creature damages it	Advantageous	2018-01-31 19:37:57
+Scythe of the Wretched	When [Scythe of the Wretched] is unequipped, it reanimates any creature an opponent controls that dies.	Advantageous	2018-01-31 19:47:33
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2018-01-19 09:47:00
 Settle the Wreckage	[Settle the Wreckage] does not give the targeted player the option to not search their library.	Unclassified	2017-10-05 17:43:46
@@ -143,7 +143,7 @@ The Ur-Dragon	[The Ur-Dragon] also reduces its own casting cost.	Advantageous	20
 Thornbite Staff	[Thornbite Staff] doesn't display the equip cost line when zoomed in upon.	Graphical	2018-01-19 08:40:26
 Thornbow Archer	[Thornbow Archer] Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-11-22 06:15:33
 Thran Turbine	[Thran Turbine] mana is able to be used to cast spells	Advantageous	2018-01-24 04:50:00
-Tomorrow, Azami's Familiar	[Tomorrow, Azami's Familiar] puts both cards back on top	Disadvantageous	2017-12-17 10:54:22
+Tomorrow, Azami's Familiar	[Tomorrow, Azami's Familiar] puts both cards not chosen back on top of the library.	Disadvantageous	2018-01-31 20:14:41
 Torment of Hailfire	The undo function works incorrectly with [Torment of Hailfire].	Disadvantageous	2017-08-25 03:22:38
 Unesh, Criosphinx Sovereign	If [Unesh, Criosphinx Sovereign] or similar creatures have their creature type changed, they do not trigger.	Disadvantageous	2017-09-21 22:07:27
 Unscythe, Killer of Kings	[Unscythe, Killer of Kings] Effect procs when creatures aren't equipped	Advantageous	2018-01-14 23:38:02

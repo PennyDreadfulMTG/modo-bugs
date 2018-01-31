@@ -651,9 +651,9 @@
   },
   {
     "card": "Scythe of the Wretched",
-    "description": "[Scythe of the Wretched]  reanimates any creature that dies, regardless of it the equipped creature damages it",
+    "description": "When [Scythe of the Wretched] is unequipped, it reanimates any creature an opponent controls that dies.",
     "category": "Advantageous",
-    "last_updated": "2018-01-31 19:37:57",
+    "last_updated": "2018-01-31 19:47:33",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -961,9 +961,9 @@
   },
   {
     "card": "Tomorrow, Azami's Familiar",
-    "description": "[Tomorrow, Azami's Familiar] puts both cards back on top",
+    "description": "[Tomorrow, Azami's Familiar] puts both cards not chosen back on top of the library.",
     "category": "Disadvantageous",
-    "last_updated": "2017-12-17 10:54:22",
+    "last_updated": "2018-01-31 20:14:41",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
