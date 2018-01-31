@@ -651,9 +651,9 @@
   },
   {
     "card": "Scythe of the Wretched",
-    "description": "When [Scythe of the Wretched] is unequipped, it reanimates any creature an opponent controls that dies.",
+    "description": "When [Scythe of the Wretched] is unequipped, it reanimates any creature that happens to die.",
     "category": "Advantageous",
-    "last_updated": "2018-01-31 19:47:33",
+    "last_updated": "2018-01-31 20:59:35",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
