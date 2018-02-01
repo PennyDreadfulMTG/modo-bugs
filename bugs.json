@@ -11,9 +11,9 @@
   },
   {
     "card": "Dosan the Falling Leaf",
-    "description": "[Dosan the Falling Leaf] You can't cast anything, ever.",
-    "category": "Unconfirmed",
-    "last_updated": "2018-02-01 03:38:13",
+    "description": "[Dosan the Falling Leaf] only allows players to cast spells during his/her opponent's turn",
+    "category": "Disadvantageous",
+    "last_updated": "2018-02-01 05:34:41",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
