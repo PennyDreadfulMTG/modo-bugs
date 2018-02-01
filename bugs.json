@@ -1,9 +1,19 @@
 [
   {
+    "card": "Godsire",
+    "description": "The art for the tokens created by [Godsire] is incorrect.",
+    "category": "Graphical",
+    "last_updated": "2018-02-01 04:37:54",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/291"
+  },
+  {
     "card": "Dosan the Falling Leaf",
     "description": "[Dosan the Falling Leaf] You can't cast anything, ever.",
     "category": "Unconfirmed",
-    "last_updated": "2018-02-01 03:38:12",
+    "last_updated": "2018-02-01 03:38:13",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
