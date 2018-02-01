@@ -1,5 +1,15 @@
 [
   {
+    "card": "Dosan the Falling Leaf",
+    "description": "[Dosan the Falling Leaf] You can't cast anything, ever.",
+    "category": "Unconfirmed",
+    "last_updated": "2018-02-01 03:38:12",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/290"
+  },
+  {
     "card": "Lavamancer's Skill",
     "description": "[Lavamancer's Skill] the \"T: deal 1 damage\" ability does not let you choose a target",
     "category": "Disadvantageous",
@@ -953,7 +963,7 @@
     "card": "Icefall Regent",
     "description": "If you target an [Icefall Regent] with a fused split card, you must pay {2} for each side of the split card, for a total of {4}",
     "category": "Advantageous",
-    "last_updated": "2018-01-19 08:40:29",
+    "last_updated": "2018-02-01 03:11:05",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -1088,16 +1098,6 @@
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/190"
-  },
-  {
-    "card": "Unesh, Criosphinx Sovereign",
-    "description": "If [Unesh, Criosphinx Sovereign] or similar creatures have their creature type changed, they do not trigger.",
-    "category": "Disadvantageous",
-    "last_updated": "2017-09-21 22:07:27",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/185"
   },
   {
     "card": "Abandoned Sarcophagus",
@@ -1333,7 +1333,7 @@
     "card": "Hollow One",
     "description": "[Hollow One] doesn\u2019t count discarded split cards.",
     "category": "Disadvantageous",
-    "last_updated": "2017-09-21 22:11:24",
+    "last_updated": "2018-02-01 03:38:15",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -1563,7 +1563,7 @@
     "card": "Curse of Shallow Graves",
     "description": "[Curse of Shallow Graves] creates Zombie tokens with incorrect art.",
     "category": "Graphical",
-    "last_updated": "2017-06-02 11:44:23",
+    "last_updated": "2018-02-01 03:38:16",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -1793,7 +1793,7 @@
     "card": "Harness the Storm",
     "description": "[Harness the Storm] Doesn't trigger when casting split cards.",
     "category": "Disadvantageous",
-    "last_updated": "2017-05-28 18:18:21",
+    "last_updated": "2018-02-01 03:38:17",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
