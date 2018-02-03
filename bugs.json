@@ -1170,16 +1170,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/180"
   },
   {
-    "card": "Hollow One",
-    "description": "Hollow One's cost reduction doesn't consider split cards that are discarded",
-    "category": "Disadvantageous",
-    "last_updated": "2018-02-03 05:17:46",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/179"
-  },
-  {
     "card": "Puppeteer Clique",
     "description": "Creatures returned with [Puppeteer Clique] are exiled at the end of any turn, not just the controller's",
     "category": "Disadvantageous",
@@ -1341,9 +1331,9 @@
   },
   {
     "card": "Freyalise's Winds",
-    "description": "[Freyalise's Winds] Permanents with wind counters remove counters instead of untapping at any time, not only during their controller's untap step.",
+    "description": "[Freyalise's Winds] Anytime a permanent with a wind counter would be untapped outside of the untap step,  a wind counter is removed rather than it becoming untapped.",
     "category": "Disadvantageous",
-    "last_updated": "2017-09-29 07:41:13",
+    "last_updated": "2018-02-03 06:38:06",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -1381,9 +1371,9 @@
   },
   {
     "card": "Hollow One",
-    "description": "[Hollow One] doesn\u2019t count discarded split cards.",
+    "description": "[Hollow One]'s cost reduction doesn't consider split cards that are discarded",
     "category": "Disadvantageous",
-    "last_updated": "2018-02-01 03:38:15",
+    "last_updated": "2018-02-03 06:01:49",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -1392,8 +1382,8 @@
   {
     "card": "Structural Collapse",
     "description": "[Structural Collapse] does not cause target to sacrifice a land.",
-    "category": "Non-Functional ability",
-    "last_updated": "2017-12-26 17:37:56",
+    "category": "Disadvantageous",
+    "last_updated": "2018-02-03 06:30:30",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -1571,9 +1561,9 @@
   },
   {
     "card": "Semblance Anvil",
-    "description": "[Semblance Anvil] imprinting a split card does not reduce costs on instants/sorceries.",
+    "description": "[Semblance Anvil] imprinting a split card does not reduce any casting costs. ",
     "category": "Disadvantageous",
-    "last_updated": "2018-01-19 09:47:00",
+    "last_updated": "2018-02-03 06:09:02",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
