@@ -60,7 +60,7 @@ Harness the Storm	[Harness the Storm] Doesn't trigger when casting split cards.	
 Harsh Mentor	[Harsh Mentor]'s triggered ability also affects abilities activated from creatures in the graveyard.	Advantageous	2017-11-05 11:26:30
 High Seas	[High Seas] only affects red creature spells, rather than red or green creature spells.	Disadvantageous	2017-11-02 03:21:53
 Hoarder's greed	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-01 02:37:50
-Hollow One	Hollow One's cost reduction doesn't consider split cards that are discarded	Disadvantageous	2017-12-22 00:37:45
+Hollow One	Hollow One's cost reduction doesn't consider split cards that are discarded	Disadvantageous	2018-02-03 05:17:46
 Hollow One	[Hollow One] doesn't count discarded split cards.	Disadvantageous	2018-02-01 03:38:15
 Howltooth Hollow	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-03 03:37:56
 Icefall Regent	If you target an [Icefall Regent] with a fused split card, you must pay {2} for each side of the split card, for a total of {4}	Advantageous	2018-02-01 03:11:05
@@ -126,7 +126,7 @@ Scroll Rack	The "OK" button of [Scroll Rack] has a display issue that displays i
 Scythe of the Wretched	While [Scythe of the Wretched] is unequipped, it reanimates any creature that happens to die.	Advantageous	2018-01-31 23:55:42
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2018-01-19 09:47:00
-Settle the Wreckage	[Settle the Wreckage] does not give the targeted player the option to not search their library.	Disadvantageous	2018-02-03 02:37:57
+Settle the Wreckage	[Settle the Wreckage] does not give the targeted player the option to not search their library.	Advantageous	2018-02-03 05:15:29
 Shelldock Isle	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-03 03:37:56
 Sheltering Ancient	[Sheltering Ancient]'s Cumulative Upkeep Stops Working After One Age Counter	Advantageous	2018-01-24 04:24:55
 Shifty Doppelganger	[Shifty Doppelganger] Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
