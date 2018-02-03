@@ -3,7 +3,7 @@ Abandoned Sarcophagus	As Foretold incorrectly does not apply to cards able to be
 Abandoned Sarcophagus	[Abandoned Sarcophagus] Does not allow you to pick x when casting cycling cards from graveyard	Disadvantageous	2018-01-19 09:46:50
 Adder-Staff Boggart	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-01 02:37:50
 Apathy	The triggered ability of [Apathy] causes a soft-lock.	Game Breaking	2018-01-23 18:39:04
-Ashiok, Nightmare Weaver	[Ashiok, Nightmare Weaver] is unable to put a creature with converted mana cost equal to its current loyalty onto the battlefield.	Unclassified	2018-01-13 09:13:47
+Ashiok, Nightmare Weaver	[Ashiok, Nightmare Weaver] is unable to put a creature with converted mana cost equal to its current loyalty onto the battlefield.	Disadvantageous	2018-02-03 03:24:40
 Athreos, God of Passage	[Athreos, God of Passage] does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
 Austere Command	[Austere Command] does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.	Disadvantageous	2018-01-23 03:06:22
 Blood Moon	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-01-15 03:38:00
@@ -20,7 +20,7 @@ Collected Company	[Collected Company] does not allow you to put fewer than the m
 Combat Celebrant	[Combat Celebrant] does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
 Commandeer	[Commandeer] does not gain control of the targeted noncreature spell.	Disadvantageous	2017-10-06 04:15:22
 Compost	[Compost] Split cards that are black on the side not cast do not trigger the draw effect	Disadvantageous	2018-01-28 03:16:57
-Compulsive Research	Dredging rather than drawing can let you avoid discarding	Advantageous	2018-02-03 02:17:35
+Compulsive Research	Dredging rather than drawing can let you avoid discarding	Advantageous	2018-02-03 03:37:57
 Concerted Effort	[Concerted Effort] Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-09-29 07:41:28
 Containment Priest	[Containment Priest] exiles Theros Gods even when their devotion isn't met.	Advantageous	2017-07-16 19:47:21
 Cryptic Gateway	[Cryptic Gateway] Cannot select a card from your hand	Non-Functional ability	2017-12-26 18:37:58
@@ -38,7 +38,7 @@ Entreat the Angels	When [Entreat the Angels] is on the stack with 0 chosen for X
 Etali, Primal Storm	[Etali, Primal Storm] is unable to cast split cards or multiple cards with additional costs.	Disadvantageous	2018-01-26 10:39:25
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Exhaustion	[Exhaustion] fails to prevent permanents from untapping during the next untap step.	Non-Functional ability	2018-01-26 10:39:03
-Fa'adiyah Seer	Dredging rather than drawing can let you avoid discarding	Advantageous	2018-02-03 02:17:35
+Fa'adiyah Seer	{Fa'adiyah Seer] and [Sindbad]'s ability won't discard non-land card drawn if there is any dredge card in your graveyard	Advantageous	2018-02-03 03:37:56
 Fire Juggler	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-01 02:37:50
 Fistful of Force	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-01 02:37:50
 Floodtide Serpent	Attacking with Floodtide Serpent doesn't bounce an enchantment, and shows you all zones instead.	Advantageous	2018-02-03 00:37:33
@@ -62,7 +62,7 @@ High Seas	[High Seas] only affects red creature spells, rather than red or green
 Hoarder's greed	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-01 02:37:50
 Hollow One	Hollow One's cost reduction doesn't consider split cards that are discarded	Disadvantageous	2017-12-22 00:37:45
 Hollow One	[Hollow One] doesn't count discarded split cards.	Disadvantageous	2018-02-01 03:38:15
-Howltooth Hollow	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-02 19:37:58
+Howltooth Hollow	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-03 03:37:56
 Icefall Regent	If you target an [Icefall Regent] with a fused split card, you must pay {2} for each side of the split card, for a total of {4}	Advantageous	2018-02-01 03:11:05
 Identity Thief	[Identity Thief] Restarts the game when attempting to copy a creature.	Game Breaking	2017-06-28 05:37:36
 Ignite Memories	[Ignite Memories] and similar cards can cause a game restart if the target has no cards in hand.	Game Breaking	2017-08-20 07:45:56
@@ -89,7 +89,7 @@ Mirror Match	[Mirror Match] Non-creature permanents that become creatures tempor
 Misdirection	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-25 13:38:52
 Misdirection	[Misdirection] can reset the game in rare cases.	Game Breaking	2017-08-10 22:48:36
 Mishra's Workshop	When there are floating generic mana and restricted mana (such as [Mishra's Workshop] mana) that are same color (or same colorless), MTGO will always use generic mana first before using the restricted mana. Workaround: don't float the generic mana if you want to use the restricted mana first	Disadvantageous	2018-01-24 04:25:40
-Mosswort Bridge	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-02 19:37:58
+Mosswort Bridge	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-03 03:37:56
 Multani's Presence	[Multani's Presence] incorrectly draws cards off copies of spells that are countered	Advantageous	2017-08-08 16:46:15
 Mutiny	[Mutiny] doesn't have clear targeting information. Workaround: The game log displays targets matching the order written on the card, and will highlight the appropriate creature when its name is hovered over with the mouse.	Graphical	2018-01-26 14:27:27
 Myriad Landscape	[Myriad Landscape] Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.	Advantageous	2017-06-21 07:37:18
@@ -118,7 +118,7 @@ Riptide Replicator	[Riptide Replicator] tokens use incorrect art and incorrectly
 Rosheen Meanderer	[Rosheen Meanderer] is unable to contribute mana to spells that ask an opponent to pay X, such as [Condescend].	Disadvantageous	2018-01-15 05:00:11
 Runic Repetition	[Runic Repetition] Cannot be cast	Disadvantageous	2017-06-01 17:37:27
 Sages of the Anima	[Sages of the Anima] puts the non-creature cards on top instead of bottom of library	Disadvantageous	2018-01-29 01:01:24
-Samurai of the Pale Curtain	[Samurai of the Pale Curtain] does not exile tokens.	Advantageous	2018-01-13 09:16:36
+Samurai of the Pale Curtain	[Samurai of the Pale Curtain] does not exile tokens.	Disadvantageous	2018-02-03 03:19:31
 Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Screams from Within	[Screams from Within]'s second ability (Return ~ to your hand) does not function. 	Non-Functional ability	2018-01-19 09:46:49
 Scroll Rack	The "OK" button of [Scroll Rack] has a display issue that displays it as a "cancel" button.	Graphical	2018-01-26 10:39:47
@@ -126,14 +126,15 @@ Scythe of the Wretched	While [Scythe of the Wretched] is unequipped, it reanimat
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce costs on instants/sorceries.	Disadvantageous	2018-01-19 09:47:00
 Settle the Wreckage	[Settle the Wreckage] does not give the targeted player the option to not search their library.	Disadvantageous	2018-02-03 02:37:57
-Shelldock Isle	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-02 19:37:58
+Shelldock Isle	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-03 03:37:56
 Sheltering Ancient	[Sheltering Ancient]'s Cumulative Upkeep Stops Working After One Age Counter	Advantageous	2018-01-24 04:24:55
 Shifty Doppelganger	[Shifty Doppelganger] Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
 Shunt	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-25 13:38:52
+Sindbad	{Fa'adiyah Seer] and [Sindbad]'s ability won't discard non-land card drawn if there is any dredge card in your graveyard	Advantageous	2018-02-03 03:37:56
 Sneak Attack	The delayed trigger ability of [Sneak Attack] causes the opponent to sacrifice the creature if they gain control it.	Advantageous	2018-01-26 10:41:18
 Sound the Call	The art for the token created by [Sound the Call] is incorrect. 	Graphical	2018-01-19 08:40:25
 Spell Crumple	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
-Spinerock Knoll	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-02 19:37:58
+Spinerock Knoll	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-03 03:37:56
 Spoils of Victory	[Spoils of Victory] The land comes into play tapped instead	Disadvantageous	2017-06-19 22:04:16
 Spreading Seas	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-01-15 03:38:00
 Storage Matrix	[Storage Matrix] Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2018-01-24 04:38:59
@@ -162,7 +163,7 @@ Volcano Hellion	[Volcano Hellion] Damage is capped at 255	Disadvantageous	2018-0
 Wall of Roots	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2017-11-05 11:57:58
 Whims of the Fates	[Whims of the Fates] Causes client crashes	Game Breaking	2018-01-25 01:39:19
 Wild Ricochet	Redirecting spells sometimes restarts the game in a buggy state	Game Breaking	2018-01-25 13:38:52
-Windbrisk Heights	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-02 19:37:58
+Windbrisk Heights	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-03 03:37:56
 Words of Waste	[Words of Waste] does not function.	Non-Functional ability	2017-12-03 04:45:09
 Yisan, the Wanderer Bard	If all of [Yisan, the Wanderer Bard]'s verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.	Advantageous	2018-01-19 08:40:26
 Zada, Hedron Grinder	Creatures that, when they've become the target of a spell and copy it for each other creature can sometime cause the game to restart after resolution of the spell and its copies. 	Game Breaking	2018-02-02 17:02:06
