@@ -1,5 +1,15 @@
 [
   {
+    "card": "Nazahn, Revered Bladesmith",
+    "description": "Searching for any equipment other than Nazahn's Hammer causes it to be put in an opponent's hand",
+    "category": "Disadvantageous",
+    "last_updated": "2018-02-03 02:37:56",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/293"
+  },
+  {
     "card": "Floodtide Serpent",
     "description": "Attacking with Floodtide Serpent doesn't bounce an enchantment, and shows you all zones instead.",
     "category": "Advantageous",
@@ -393,7 +403,7 @@
     "card": "Compulsive Research",
     "description": "Dredging rather than drawing can let you avoid discarding",
     "category": "Advantageous",
-    "last_updated": "2018-01-20 10:39:40",
+    "last_updated": "2018-02-03 02:17:35",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -403,7 +413,7 @@
     "card": "Fa'adiyah Seer",
     "description": "Dredging rather than drawing can let you avoid discarding",
     "category": "Advantageous",
-    "last_updated": "2018-01-20 10:39:40",
+    "last_updated": "2018-02-03 02:17:35",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -1112,8 +1122,8 @@
   {
     "card": "Settle the Wreckage",
     "description": "[Settle the Wreckage] does not give the targeted player the option to not search their library.",
-    "category": "Unclassified",
-    "last_updated": "2017-10-05 17:43:46",
+    "category": "Disadvantageous",
+    "last_updated": "2018-02-03 02:37:57",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
