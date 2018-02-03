@@ -19,13 +19,13 @@ Advantageous bugs allow the controller of the bugged card to get additional valu
 
 Disadvantageous bugs make the card strictly worse than the printed card.
 
-# Non-functional
+## Non-functional
 
 Non-functional cards do nothing.  Treat the text box as blank.
 
 We generally don't apply this to creatures, as they're still useful for combat.
 
-# Graphical
+## Graphical
 
 Graphical bugs affect the artwork or blue text of a card.  
 
