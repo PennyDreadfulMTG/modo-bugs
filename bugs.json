@@ -31,9 +31,9 @@
   },
   {
     "card": "Floodtide Serpent",
-    "description": "Attacking with Floodtide Serpent doesn't bounce an enchantment, and shows you all zones instead.",
+    "description": "Insteading of bouncing an enchantment, attacking with Floodtide Serpent shows you all zones.",
     "category": "Advantageous",
-    "last_updated": "2018-02-03 00:37:33",
+    "last_updated": "2018-02-06 03:13:44",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
