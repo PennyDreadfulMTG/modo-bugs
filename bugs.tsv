@@ -117,7 +117,7 @@ Rimescale Dragon	[Rimescale Dragon] does not place an Ice Counter on targeted cr
 Riptide Replicator	[Riptide Replicator] tokens use incorrect art and incorrectly display they have the changeling ability.	Graphical	2018-02-01 02:37:54
 Rosheen Meanderer	[Rosheen Meanderer] is unable to contribute mana to spells that ask an opponent to pay X, such as [Condescend].	Disadvantageous	2018-01-15 05:00:11
 Runic Repetition	[Runic Repetition] Cannot be cast	Disadvantageous	2017-06-01 17:37:27
-Sages of the Anima	[Sages of the Anima] puts the non-creature cards on top instead of bottom of library	Disadvantageous	2018-01-29 01:01:24
+Sages of the Anima	[Sages of the Anima] puts the non-creature cards on top of the library instead of the bottom.	Disadvantageous	2018-02-06 04:35:59
 Samurai of the Pale Curtain	[Samurai of the Pale Curtain] does not exile tokens.	Disadvantageous	2018-02-03 03:19:31
 Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Screams from Within	[Screams from Within]'s second ability (Return ~ to your hand) does not function. 	Disadvantageous	2018-02-03 03:38:45
