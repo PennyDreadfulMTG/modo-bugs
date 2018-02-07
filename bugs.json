@@ -1,5 +1,25 @@
 [
   {
+    "card": "mind bend",
+    "description": "Crystal Spray and Mind Bend Bugged",
+    "category": "Unconfirmed",
+    "last_updated": "2018-02-07 02:38:07",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/295"
+  },
+  {
+    "card": "crystal spray",
+    "description": "Crystal Spray and Mind Bend Bugged",
+    "category": "Unconfirmed",
+    "last_updated": "2018-02-07 02:38:07",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/295"
+  },
+  {
     "card": "Fa'adiyah Seer",
     "description": "[Fa'adiyah Seer] and [Sindbad]'s ability won't discard non-land card drawn if there is any dredge card in your graveyard",
     "category": "Advantageous",
