@@ -1,9 +1,9 @@
 [
   {
     "card": "mind bend",
-    "description": "Crystal Spray and Mind Bend Bugged",
-    "category": "Unconfirmed",
-    "last_updated": "2018-02-07 02:38:07",
+    "description": "Cards that ask you to choose \"a basic land type or a color word\" only let you choose a basic land type.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-02-07 02:55:26",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -11,9 +11,9 @@
   },
   {
     "card": "crystal spray",
-    "description": "Crystal Spray and Mind Bend Bugged",
-    "category": "Unconfirmed",
-    "last_updated": "2018-02-07 02:38:07",
+    "description": "Cards that ask you to choose \"a basic land type or a color word\" only let you choose a basic land type.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-02-07 02:55:26",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
