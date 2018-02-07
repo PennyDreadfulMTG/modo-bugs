@@ -1,20 +1,20 @@
 [
   {
-    "card": "mind bend",
+    "card": "Mind Bend",
     "description": "Cards that ask you to choose \"a basic land type or a color word\" only let you choose a basic land type.",
     "category": "Disadvantageous",
-    "last_updated": "2018-02-07 02:55:26",
-    "pd_legal": false,
+    "last_updated": "2018-02-07 05:37:57",
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/295"
   },
   {
-    "card": "crystal spray",
+    "card": "Crystal Spray",
     "description": "Cards that ask you to choose \"a basic land type or a color word\" only let you choose a basic land type.",
     "category": "Disadvantageous",
-    "last_updated": "2018-02-07 02:55:26",
-    "pd_legal": false,
+    "last_updated": "2018-02-07 05:37:57",
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/295"
