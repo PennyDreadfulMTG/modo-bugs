@@ -1,5 +1,45 @@
 [
   {
+    "card": "Angelic Field Marshal",
+    "description": "[Angelic Field Marshal] still grants a bonus to your commander when an opponent gains control of it.",
+    "category": "Unclassified",
+    "last_updated": "2018-02-08 15:38:08",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/299"
+  },
+  {
+    "card": "Withdraw",
+    "description": "[Withdraw] is able to target the same creature twice.",
+    "category": "Unclassified",
+    "last_updated": "2018-02-08 15:38:09",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/298"
+  },
+  {
+    "card": "Overwhelming Splendor",
+    "description": "Creatures with ascend can still grant the City's Blessing with [Overwhelming Splendor] on the battlefield.",
+    "category": "Unclassified",
+    "last_updated": "2018-02-08 15:38:11",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/297"
+  },
+  {
+    "card": "Greater Realm of Preservation",
+    "description": "Greater Realm of Preservation does not prevent Sin Prodder's upkeep trigger damage",
+    "category": "Disadvantageous",
+    "last_updated": "2018-02-08 15:38:12",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/296"
+  },
+  {
     "card": "Mind Bend",
     "description": "Cards that ask you to choose \"a basic land type or a color word\" only let you choose a basic land type.",
     "category": "Disadvantageous",
