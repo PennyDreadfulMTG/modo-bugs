@@ -2,8 +2,8 @@
   {
     "card": "Angelic Field Marshal",
     "description": "[Angelic Field Marshal] still grants a bonus to your commander when an opponent gains control of it.",
-    "category": "Unclassified",
-    "last_updated": "2018-02-08 15:38:08",
+    "category": "Advantageous",
+    "last_updated": "2018-02-08 16:34:45",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -12,8 +12,8 @@
   {
     "card": "Withdraw",
     "description": "[Withdraw] is able to target the same creature twice.",
-    "category": "Unclassified",
-    "last_updated": "2018-02-08 15:38:09",
+    "category": "Advantageous",
+    "last_updated": "2018-02-08 16:33:56",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -22,8 +22,8 @@
   {
     "card": "Overwhelming Splendor",
     "description": "Creatures with ascend can still grant the City's Blessing with [Overwhelming Splendor] on the battlefield.",
-    "category": "Unclassified",
-    "last_updated": "2018-02-08 15:38:11",
+    "category": "Disadvantageous",
+    "last_updated": "2018-02-08 16:37:04",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,

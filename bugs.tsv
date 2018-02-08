@@ -2,7 +2,7 @@ Card Name	Bug Description	Categorization	Last Confirmed
 Abandoned Sarcophagus	As Foretold incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].	Disadvantageous	2018-01-19 09:46:54
 Abandoned Sarcophagus	[Abandoned Sarcophagus] Does not allow you to pick x when casting cycling cards from graveyard	Disadvantageous	2018-01-19 09:46:50
 Adder-Staff Boggart	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-08 03:37:50
-Angelic Field Marshal	[Angelic Field Marshal] still grants a bonus to your commander when an opponent gains control of it.	Unclassified	2018-02-08 15:38:08
+Angelic Field Marshal	[Angelic Field Marshal] still grants a bonus to your commander when an opponent gains control of it.	Advantageous	2018-02-08 16:34:45
 Apathy	The triggered ability of [Apathy] causes a soft-lock.	Game Breaking	2018-01-23 18:39:04
 Ashiok, Nightmare Weaver	[Ashiok, Nightmare Weaver] is unable to put a creature with converted mana cost equal to its current loyalty onto the battlefield.	Disadvantageous	2018-02-03 03:24:40
 Athreos, God of Passage	[Athreos, God of Passage] does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
@@ -103,7 +103,7 @@ Oaken brawler	Opponent is not given the option to scry card to the bottom when c
 Odds	[Odds] Odds: Restarts the game in buggy state on heads	Game Breaking	2017-10-11 02:10:56
 Orcish Spy	[Orcish Spy] and cards with similar ability shows the cards in alphabetical order, not the actual order	Disadvantageous	2018-01-20 10:39:39
 Oriss, Samite Guardian	Using [Oriss, Samite Guardian]'s Grandeur ability during controller's precombat main phase will not allow controller to attack that turn.	Disadvantageous	2017-09-29 07:41:07
-Overwhelming Splendor	Creatures with ascend can still grant the City's Blessing with [Overwhelming Splendor] on the battlefield.	Unclassified	2018-02-08 15:38:11
+Overwhelming Splendor	Creatures with ascend can still grant the City's Blessing with [Overwhelming Splendor] on the battlefield.	Disadvantageous	2018-02-08 16:37:04
 Painful Quandary	If opponent choose to discard a card due to [Painful Quandary], he/she can't choose a card to discard, and the spell will resolves as normal	Disadvantageous	2018-01-26 07:05:30
 Phantom Tiger	If [Phantom Tiger] dies in combat, blue text abilities it had been granted do not apply to that combat's damage.	Disadvantageous	2018-01-19 08:40:28
 Precursor Golem	After copying a spell for each other object it could target, the game often resets in a buggy state	Game Breaking	2018-02-06 00:01:34
@@ -169,7 +169,7 @@ Wall of Roots	The mana abilities of [Wall of Roots] and [Kozilek's Translator] c
 Whims of the Fates	[Whims of the Fates] Causes client crashes	Game Breaking	2018-01-25 01:39:19
 Wild Ricochet	Redirecting spells and abilities sometimes restarts the game in a buggy state	Game Breaking	2018-02-03 10:52:55
 Windbrisk Heights	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-03 03:37:56
-Withdraw	[Withdraw] is able to target the same creature twice.	Unclassified	2018-02-08 15:38:09
+Withdraw	[Withdraw] is able to target the same creature twice.	Advantageous	2018-02-08 16:33:56
 Words of Waste	[Words of Waste] does not function.	Non-Functional ability	2017-12-03 04:45:09
 Yisan, the Wanderer Bard	If all of [Yisan, the Wanderer Bard]'s verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.	Advantageous	2018-01-19 08:40:26
 Zada, Hedron Grinder	After copying a spell for each other object it could target, the game often resets in a buggy state	Game Breaking	2018-02-06 00:01:34
