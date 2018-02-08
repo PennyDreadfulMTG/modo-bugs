@@ -1,5 +1,15 @@
 [
   {
+    "card": "Reflector Mage",
+    "description": "The second Reflector Mage played in the same turn will let the first one\u2019s target able to be cast.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-02-08 17:38:09",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/300"
+  },
+  {
     "card": "Angelic Field Marshal",
     "description": "[Angelic Field Marshal] still grants a bonus to your commander when an opponent gains control of it.",
     "category": "Advantageous",
@@ -1843,9 +1853,9 @@
     "card": "Mana Bloom",
     "description": "[Mana Bloom] Ability does not generate mana on opponents' turns.",
     "category": "Disadvantageous",
-    "last_updated": "2018-01-03 03:38:18",
+    "last_updated": "2018-02-08 17:31:21",
     "pd_legal": true,
-    "bug_blog": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/12"
   },

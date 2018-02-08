@@ -83,7 +83,7 @@ Lich	[Lich] If you cannot sacrifice enough permanents, the game restarts	Game Br
 Liquid Fire	[Liquid Fire] doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2018-01-19 09:46:56
 Living Lore	[Living Lore] If Living Lore imprints a Split Card, it has twice the expected CMC.	Advantageous	2018-02-01 02:36:04
 Lurking Evil	[Lurking Evil] makes you pay half your opponent's life total	Advantageous	2017-12-17 10:54:12
-Mana Bloom	[Mana Bloom] Ability does not generate mana on opponents' turns.	Disadvantageous	2018-01-03 03:38:18
+Mana Bloom	[Mana Bloom] Ability does not generate mana on opponents' turns.	Disadvantageous	2018-02-08 17:31:21
 Mass Polymorph	[Synthetic Destiny][Mass Polymorph] does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-01-19 09:47:03
 Memory Lapse	[Memory Lapse] moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-07-14 08:38:13
 Midnight Oil	Casting a second [Midnight Oil] can cause a game restart under rare circumstances.	Game Breaking	2018-01-26 10:41:49
@@ -113,6 +113,7 @@ Puppeteer Clique	Creatures returned with [Puppeteer Clique] are exiled at the en
 Reap	[Reap] puts a "face down ability" into hand instead of the targetted cards	Game Breaking	2018-01-19 08:40:35
 Reflecting Pool	[Reflecting Pool] does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
 Reflector Mage	If a player casts [Reflector Mage] targeting a creature they own, and then in the following turn their opponent casts Reflector Mage, they are able to immediately recast that creature.	Advantageous	2017-12-26 16:46:59
+Reflector Mage	The second Reflector Mage played in the same turn will let the first one's target able to be cast.	Disadvantageous	2018-02-08 17:38:09
 Reincarnation	[Reincarnation] Does nothing	Non-Functional ability	2017-12-26 17:37:57
 Release the Ants	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-08 03:37:50
 Reroute	Redirecting spells and abilities sometimes restarts the game in a buggy state	Game Breaking	2018-02-03 10:52:55
