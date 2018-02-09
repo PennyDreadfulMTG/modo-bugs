@@ -164,7 +164,7 @@
     "description": "Charging Tuskodon\u00a0deals double damage to a player even for non-combat damage",
     "category": "Advantageous",
     "last_updated": "2018-01-29 01:57:22",
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/286"
@@ -174,7 +174,7 @@
     "description": "[Mutiny] doesn't have clear targeting information. Workaround: The game log displays targets matching the order written on the card, and will highlight the appropriate creature when its name is hovered over with the mouse.",
     "category": "Graphical",
     "last_updated": "2018-01-26 14:27:27",
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/285"
@@ -214,7 +214,7 @@
     "description": "[Etali, Primal Storm] is unable to cast split cards or multiple cards with additional costs.",
     "category": "Disadvantageous",
     "last_updated": "2018-01-26 10:39:25",
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/281"
