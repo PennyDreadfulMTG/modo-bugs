@@ -15,7 +15,7 @@ Borderland Explorer	All lands fetched using [Borderland Explorer]'s ETB ability,
 Broken Ambitions	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-08 03:37:50
 Captivating Glance	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-08 03:37:50
 Chandra Nalaar	[Chandra Nalaar] Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
-Charging Tuskodon	Charging Tuskodon deals double damage to a player even for non-combat damage	Advantageous	2018-01-29 01:57:22
+Charging Tuskodon	Charging Tuskodon deals double damage to a player even for non-combat damage	Advantageous	2018-02-09 12:37:45
 Cloud Key	[Cloud Key] Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Collected Company	[Collected Company] does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2017-10-06 04:59:08
 Combat Celebrant	[Combat Celebrant] does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
@@ -37,7 +37,7 @@ Doubling Season	[Doubling Season] incorrectly doubles loyalty counters added fro
 Dream Halls	[Dream Halls] Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-07-05 16:48:54
 Elesh Norn, Grand Cenobite	If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2017-08-25 04:39:46
 Entreat the Angels	When [Entreat the Angels] is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.	Graphical	2018-01-23 02:40:58
-Etali, Primal Storm	[Etali, Primal Storm] is unable to cast split cards or multiple cards with additional costs.	Disadvantageous	2018-01-26 10:39:25
+Etali, Primal Storm	[Etali, Primal Storm] is unable to cast split cards or multiple cards with additional costs.	Disadvantageous	2018-02-09 12:37:46
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Exhaustion	[Exhaustion] fails to prevent permanents from untapping during the next untap step.	Non-Functional ability	2018-01-26 10:39:03
 Fa'adiyah Seer	[Fa'adiyah Seer] and [Sindbad]'s ability won't discard non-land card drawn if there is any dredge card in your graveyard	Advantageous	2018-02-03 07:52:02
@@ -95,7 +95,7 @@ Misdirection	[Misdirection] can reset the game in rare cases.	Game Breaking	2017
 Mishra's Workshop	When there are floating generic mana and restricted mana (such as [Mishra's Workshop] mana) that are same color (or same colorless), MTGO will always use generic mana first before using the restricted mana. Workaround: don't float the generic mana if you want to use the restricted mana first	Disadvantageous	2018-01-24 04:25:40
 Mosswort Bridge	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-03 03:37:56
 Multani's Presence	[Multani's Presence] incorrectly draws cards off copies of spells that are countered	Advantageous	2017-08-08 16:46:15
-Mutiny	[Mutiny] doesn't have clear targeting information. Workaround: The game log displays targets matching the order written on the card, and will highlight the appropriate creature when its name is hovered over with the mouse.	Graphical	2018-01-26 14:27:27
+Mutiny	[Mutiny] doesn't have clear targeting information. Workaround: The game log displays targets matching the order written on the card, and will highlight the appropriate creature when its name is hovered over with the mouse.	Graphical	2018-02-09 12:37:46
 Myriad Landscape	[Myriad Landscape] Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.	Advantageous	2017-06-21 07:37:18
 Nazahn, Revered Bladesmith	Searching for any equipment other than Nazahn's Hammer causes it to be put in an opponent's hand	Disadvantageous	2018-02-03 02:37:56
 Nebuchadnezzar	[Nebuchadnezzar] ability makes the game start endlessly repeating itself	Game Breaking	2018-02-02 21:38:03
