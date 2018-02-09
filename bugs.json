@@ -3,7 +3,7 @@
     "card": "Glamerdye",
     "description": "When you change the color in a card's text, the card won't show the new chosen color in the cards itself, in the tooltip, and not in the zoomed version",
     "category": "Graphical",
-    "last_updated": "2018-02-09 03:38:11",
+    "last_updated": "2018-02-09 07:28:10",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
