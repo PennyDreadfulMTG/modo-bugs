@@ -137,14 +137,21 @@ def parse_knownbugs(b):
                     try:
                         code = str(parent.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
                     except IndexError:
-                        code = parent.get_text()
+                        code = None
+                    bb_text = parent.get_text()
                     print(code)
                     if find_issue_by_code(code) is not None:
                         print("Already assigned.")
                         continue
+                    if find_issue_by_code(bb_text) is not None:
+                        print("Already assigned.")
+                        continue
                     text = ''.join(parent.strings)
                     print(text)
-                    create_comment(issue, 'Found in bug blog.\n{0}\nCode: {1}'.format(text, code))
+                    if code is not None:
+                        create_comment(issue, 'Found in bug blog.\n{0}\nCode: {1}'.format(text, code))
+                    else:
+                        create_comment(issue, 'Found in bug blog.\nBug Blog Text: {0}'.format(text))
                     if not ("From Bug Blog" in [i.name for i in issue.labels]):
                         issue.add_to_labels("From Bug Blog")
                 continue
