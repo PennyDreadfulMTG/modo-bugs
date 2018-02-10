@@ -114,7 +114,7 @@ Puppeteer Clique	Creatures returned with [Puppeteer Clique] are exiled at the en
 Reap	[Reap] puts a "face down ability" into hand instead of the targetted cards	Game Breaking	2018-01-19 08:40:35
 Reflecting Pool	[Reflecting Pool] does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
 Reflector Mage	If a player casts [Reflector Mage] targeting a creature they own, and then in the following turn their opponent casts Reflector Mage, they are able to immediately recast that creature.	Advantageous	2017-12-26 16:46:59
-Reflector Mage	The second Reflector Mage played in the same turn will let the first one's target able to be cast.	Disadvantageous	2018-02-08 17:38:09
+Reflector Mage	The second Reflector Mage played in the same turn will let the first one's target able to be cast.	Disadvantageous	2018-02-10 01:09:27
 Reincarnation	[Reincarnation] Does nothing	Non-Functional ability	2017-12-26 17:37:57
 Release the Ants	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-08 03:37:50
 Reroute	Redirecting spells and abilities sometimes restarts the game in a buggy state	Game Breaking	2018-02-03 10:52:55
