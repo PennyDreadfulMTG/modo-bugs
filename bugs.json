@@ -473,9 +473,19 @@
     "card": "Borderland Explorer",
     "description": "All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded",
     "category": "Advantageous",
-    "last_updated": "2018-01-24 04:26:42",
+    "last_updated": "2018-02-10 13:38:32",
     "pd_legal": false,
-    "bug_blog": false,
+    "bug_blog": true,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255"
+  },
+  {
+    "card": "Noble Benefactor",
+    "description": "All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded",
+    "category": "Advantageous",
+    "last_updated": "2018-02-10 13:38:32",
+    "pd_legal": false,
+    "bug_blog": true,
     "breaking": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255"
   },
