@@ -8,7 +8,8 @@ import requests
 
 import configuration
 
-CODE_REGEX = '^Code: (.*)$'
+CODE_REGEX = r'^Code: (.*)$'
+BBT_REGEX = r'^Bug Blog Text: (.*)$'
 
 ISSUE_CODES = {}
 
@@ -84,7 +85,10 @@ def parse_changelog(collapsibleBlock):
 
                 if not reported:
                     print("Adding report to existing issue.")
-                    create_comment(issue, 'Added to Bug Blog.\n{0}\nCode: {1}'.format(item.get_text(), code))
+                    if code is not None:
+                        create_comment(issue, 'Added to Bug Blog.\n{0}\nCode: {1}'.format(item.get_text(), code))
+                    else:
+                        create_comment(issue, 'Added to Bug Blog.\nBug Blog Text: {0}'.format(remove_smartquotes(item.get_text())))
 
                 if not ("From Bug Blog" in [i.name for i in issue.labels]):
                     print("Adding Bug Blog to labels")
@@ -98,7 +102,7 @@ def parse_changelog(collapsibleBlock):
                 if code is not None:
                     text = "From Bug Blog.\nCode: {0}".format(code)
                 else:
-                    text = "From Bug Blog."
+                    text = "From Bug Blog.\nBug Blog Text: {0}".format(remove_smartquotes(item.get_text()))
                 repo.create_issue(remove_smartquotes(item.get_text()), body=remove_smartquotes(text), labels=["From Bug Blog"])
 
 def get_cards_from_string(item):
@@ -130,7 +134,10 @@ def parse_knownbugs(b):
                     continue
                 for line in lines:
                     parent = line.parent
-                    code = str(parent.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
+                    try:
+                        code = str(parent.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
+                    except IndexError:
+                        code = parent.get_text()
                     print(code)
                     if find_issue_by_code(code) is not None:
                         print("Already assigned.")
@@ -172,12 +179,16 @@ def find_issue_by_code(code):
             continue
         found = code in issue.body
         icode = re.search(CODE_REGEX, issue.body, re.MULTILINE)
+        if icode is None:
+            icode = re.search(BBT_REGEX, issue.body, re.MULTILINE)
         if not found:
             for comment in issue.get_comments():
                 if code in comment.body:
                     found = True
                 if icode is None:
                     icode = re.search(CODE_REGEX, comment.body, re.MULTILINE)
+                if icode is None:
+                    icode = re.search(BBT_REGEX, issue.body, re.MULTILINE)
 
         if icode is not None:
             ISSUE_CODES[issue.id] = icode.groups()[0].strip()
