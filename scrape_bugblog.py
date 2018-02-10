@@ -116,7 +116,8 @@ def parse_knownbugs(b):
     all_codes = [str(code).replace('\t', ' ') for code in all_codes]
     for issue in repo.get_issues():
         code = re.search(CODE_REGEX, issue.body, re.MULTILINE)
-        if code is None:
+        bbt = re.search(BBT_REGEX, issue.body, re.MULTILINE)
+        if code is None and bbt is None:
             for comment in issue.get_comments():
                 code = re.search(CODE_REGEX, comment.body, re.MULTILINE)
                 if code is not None:
@@ -129,7 +130,7 @@ def parse_knownbugs(b):
                     continue
                 if not cards:
                     continue
-                lines = b.find_all(string=re.compile(r'\[' + cards[0] + '\]'))
+                lines = b.find_all(string=re.compile(r'\[' + cards[0] + r'\]'))
                 if not lines:
                     continue
                 for line in lines:
@@ -156,15 +157,18 @@ def parse_knownbugs(b):
                         issue.add_to_labels("From Bug Blog")
                 continue
 
-        code = code.group(1).strip()
-        # print(repr(code))
-        if code in all_codes:
-            # print('{id} is still bugged'.format(id=issue.number))
+        if code is not None:
+            code = code.group(1).strip()
+            # print(repr(code))
+            if code in all_codes:
+                # print('{id} is still bugged'.format(id=issue.number))
+                pass
+            else:
+                print('{id} is fixed!'.format(id=issue.number))
+                create_comment(issue, 'This bug has been removed from the bug blog!')
+                issue.edit(state='closed')
+        elif bbt is not None:
             pass
-        else:
-            print('{id} is fixed!'.format(id=issue.number))
-            create_comment(issue, 'This bug has been removed from the bug blog!')
-            issue.edit(state='closed')
 
 def create_comment(issue, body):
     ISSUE_CODES[issue.id] = None
