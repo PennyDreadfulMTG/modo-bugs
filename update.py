@@ -163,7 +163,7 @@ def process_issue(issue):
         csv_line += str(issue.updated_at)
         csv_line = remove_smartquotes(csv_line)
         ALL_CSV.append(csv_line)
-        if cat in BADCATS:
+        if cat in BADCATS and "Multiplayer" not in labels:
             ALL_BANNED.append(card)
             if card in LEGAL_CARDS:
                 PD_BANNED.append(card)
