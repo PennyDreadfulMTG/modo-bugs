@@ -114,6 +114,7 @@ def parse_knownbugs(b):
     # attempt to find all the fixed bugs
     all_codes = b.find_all(string=lambda text: isinstance(text, Comment))
     all_codes = [str(code).replace('\t', ' ') for code in all_codes]
+    all_rows = b.find_all('tr')
     for issue in repo.get_issues():
         code = re.search(CODE_REGEX, issue.body, re.MULTILINE)
         bbt = re.search(BBT_REGEX, issue.body, re.MULTILINE)
@@ -188,6 +189,7 @@ def find_issue_by_code(code):
             if ISSUE_CODES[issue.id] == code:
                 return issue
             continue
+        body = issue.body
         found = code in issue.body
         icode = re.search(CODE_REGEX, issue.body, re.MULTILINE)
         if icode is None:
@@ -198,13 +200,19 @@ def find_issue_by_code(code):
                     found = True
                 if icode is None:
                     icode = re.search(CODE_REGEX, comment.body, re.MULTILINE)
+                    if icode is not None:
+                        body += '\nCode: {0}'.format(icode.groups()[0].strip())
                 if icode is None:
                     icode = re.search(BBT_REGEX, issue.body, re.MULTILINE)
+                    if icode is not None:
+                        body += '\nBug Blog Text: {0}'.format(icode.groups()[0].strip())
 
         if icode is not None:
             ISSUE_CODES[issue.id] = icode.groups()[0].strip()
         else:
             ISSUE_CODES[issue.id] = None
+        if body != issue.body:
+            issue.edit(body=body)
         if found:
             ISSUE_CODES[issue.id] = code
             return issue
