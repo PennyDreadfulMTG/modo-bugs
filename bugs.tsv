@@ -41,6 +41,7 @@ Etali, Primal Storm	[Etali, Primal Storm] is unable to cast split cards or multi
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Exhaustion	[Exhaustion] fails to prevent permanents from untapping during the next untap step.	Non-Functional ability	2018-01-26 10:39:03
 Fa'adiyah Seer	[Fa'adiyah Seer] and [Sindbad]'s ability won't discard non-land card drawn if there is any dredge card in your graveyard	Advantageous	2018-02-03 07:52:02
+Fire Covenant	If [Fire Covenant] is cast for no life, and you pay the {1} extra that MTGO asks you to, the game restarts	Unconfirmed	2018-02-12 01:38:42
 Fire Juggler	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-08 03:37:50
 Fistful of Force	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-08 03:37:50
 Floodtide Serpent	Insteading of bouncing an enchantment, attacking with Floodtide Serpent shows you all zones.	Advantageous	2018-02-06 03:13:44

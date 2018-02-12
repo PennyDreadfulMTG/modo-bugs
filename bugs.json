@@ -1,5 +1,15 @@
 [
   {
+    "card": "Fire Covenant",
+    "description": "If [Fire Covenant] is cast for no life, and you pay the {1} extra that MTGO asks you to, the game restarts",
+    "category": "Unconfirmed",
+    "last_updated": "2018-02-12 01:38:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/305"
+  },
+  {
     "card": "Glamerdye",
     "description": "When you change the color in a card's text, the card won't show the new chosen color in the cards itself, in the tooltip, and not in the zoomed version",
     "category": "Graphical",
