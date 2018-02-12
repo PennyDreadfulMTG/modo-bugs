@@ -1,5 +1,15 @@
 [
   {
+    "card": "Mindclaw Shaman",
+    "description": "You are unable to cast split cards with [Mindclaw Shaman]'s ability.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-02-12 02:38:56",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/306"
+  },
+  {
     "card": "Fire Covenant",
     "description": "If [Fire Covenant] is cast for no life, and you pay the {1} extra that MTGO asks you to, the game restarts",
     "category": "Unconfirmed",
@@ -1351,9 +1361,9 @@
   },
   {
     "card": "Compost",
-    "description": "[Compost] Split cards that are black on the side not cast do not trigger the draw effect",
+    "description": "[Compost] The effect isn't triggered when an opponent only casts the nonblack half of a split card. ",
     "category": "Disadvantageous",
-    "last_updated": "2018-01-28 03:16:57",
+    "last_updated": "2018-02-12 02:20:27",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
