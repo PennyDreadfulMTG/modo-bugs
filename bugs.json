@@ -11,12 +11,12 @@
   },
   {
     "card": "Fire Covenant",
-    "description": "If [Fire Covenant] is cast for no life, and you pay the {1} extra that MTGO asks you to, the game restarts",
-    "category": "Unconfirmed",
-    "last_updated": "2018-02-12 01:38:42",
+    "description": "If [Fire Covenant] is cast for x=0 and you pay the 1 extra mana that MTGO asks you to (which is the bug), the game will restarts. Workaround: Undo the process if you encounter this bug, and never cast it for x=0",
+    "category": "Game Breaking",
+    "last_updated": "2018-02-12 02:52:37",
     "pd_legal": false,
     "bug_blog": false,
-    "breaking": false,
+    "breaking": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/305"
   },
   {
