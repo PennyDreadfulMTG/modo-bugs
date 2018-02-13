@@ -1,9 +1,9 @@
 [
   {
     "card": "Taigam's Scheming",
-    "description": "Spells that make you discard multiple cards one-by-one will have the visual order of the cards in the graveyard different than what you choose",
+    "description": "Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.",
     "category": "Graphical",
-    "last_updated": "2018-02-13 03:39:04",
+    "last_updated": "2018-02-13 19:07:25",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -11,9 +11,9 @@
   },
   {
     "card": "Contingency Plan",
-    "description": "Spells that make you discard multiple cards one-by-one will have the visual order of the cards in the graveyard different than what you choose",
+    "description": "Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.",
     "category": "Graphical",
-    "last_updated": "2018-02-13 03:39:04",
+    "last_updated": "2018-02-13 19:07:25",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -21,9 +21,9 @@
   },
   {
     "card": "Naga Oracle",
-    "description": "Spells that make you discard multiple cards one-by-one will have the visual order of the cards in the graveyard different than what you choose",
+    "description": "Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.",
     "category": "Graphical",
-    "last_updated": "2018-02-13 03:39:04",
+    "last_updated": "2018-02-13 19:07:25",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
