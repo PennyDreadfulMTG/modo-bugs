@@ -153,6 +153,7 @@ Sunscourge Champion	[Sunscourge Champion] will cause you to lose life if it has 
 Swerve	Redirecting spells and abilities sometimes restarts the game in a buggy state	Game Breaking	2018-02-03 10:52:55
 Sylvan Primordial	Casting [Sylvan Primordial] causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2018-02-11 02:52:19
 Synthetic Destiny	[Synthetic Destiny][Mass Polymorph] does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-01-19 09:47:03
+Taigam's Scheming	The order of cards discarded by [Taigam's Scheming] is different than what you choose	Unconfirmed	2018-02-13 01:38:56
 Tawnos's Coffin	[Tawnos's Coffin] crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-24 16:43:46
 Terastodon	If some (not all) of [Terastodon]'s targets are indestructible permanent(s), it will incorrectly create elephant token(s) for the owner of those permanents.	Advantageous	2018-01-23 02:41:06
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard 	Disadvantageous	2017-06-24 06:37:21

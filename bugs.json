@@ -1,5 +1,15 @@
 [
   {
+    "card": "Taigam's Scheming",
+    "description": "The order of cards discarded by [Taigam's Scheming] is different than what you choose",
+    "category": "Unconfirmed",
+    "last_updated": "2018-02-13 01:38:56",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/307"
+  },
+  {
     "card": "Mindclaw Shaman",
     "description": "You are unable to cast split cards with [Mindclaw Shaman]'s ability.",
     "category": "Disadvantageous",
