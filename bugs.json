@@ -1671,9 +1671,9 @@
   },
   {
     "card": "Unscythe, Killer of Kings",
-    "description": "[Unscythe, Killer of Kings] Effect procs when creatures aren't equipped",
+    "description": "[Unscythe, Killer of Kings]'s effect procs when unequipped.",
     "category": "Advantageous",
-    "last_updated": "2018-01-14 23:38:02",
+    "last_updated": "2018-02-13 06:49:12",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
