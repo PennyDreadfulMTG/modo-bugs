@@ -1,9 +1,29 @@
 [
   {
     "card": "Taigam's Scheming",
-    "description": "The order of cards discarded by [Taigam's Scheming] is different than what you choose",
-    "category": "Disadvantageous",
-    "last_updated": "2018-02-13 01:41:12",
+    "description": "Spells that make you discard multiple cards one-by-one will have the visual order of the cards in the graveyard different than what you choose",
+    "category": "Graphical",
+    "last_updated": "2018-02-13 03:39:04",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/307"
+  },
+  {
+    "card": "Contingency Plan",
+    "description": "Spells that make you discard multiple cards one-by-one will have the visual order of the cards in the graveyard different than what you choose",
+    "category": "Graphical",
+    "last_updated": "2018-02-13 03:39:04",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/307"
+  },
+  {
+    "card": "Naga Oracle",
+    "description": "Spells that make you discard multiple cards one-by-one will have the visual order of the cards in the graveyard different than what you choose",
+    "category": "Graphical",
+    "last_updated": "2018-02-13 03:39:04",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
