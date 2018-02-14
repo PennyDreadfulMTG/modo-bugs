@@ -551,9 +551,9 @@
   },
   {
     "card": "Orcish Spy",
-    "description": "[Orcish Spy] and cards with similar ability shows the cards in alphabetical order, not the actual order",
+    "description": "[Orcish Spy] and cards with similar abilities show the cards in alphabetical order, not the actual order",
     "category": "Disadvantageous",
-    "last_updated": "2018-01-20 10:39:39",
+    "last_updated": "2018-02-14 19:40:35",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
