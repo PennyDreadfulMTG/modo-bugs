@@ -1831,9 +1831,9 @@
   },
   {
     "card": "Living Lore",
-    "description": "[Living Lore] If Living Lore imprints a Split Card, it has twice the expected CMC.",
+    "description": "If [Living Lore] imprints a Split Card, it has twice the expected CMC.",
     "category": "Advantageous",
-    "last_updated": "2018-02-01 02:36:04",
+    "last_updated": "2018-02-15 02:55:11",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
