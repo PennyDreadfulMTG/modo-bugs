@@ -26,7 +26,7 @@ Concerted Effort	[Concerted Effort] Specific protections are not shared among al
 Containment Priest	[Containment Priest] exiles Theros Gods even when their devotion isn't met.	Advantageous	2017-07-16 19:47:21
 Contingency Plan	Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.	Graphical	2018-02-13 20:10:02
 Cryptic Gateway	[Cryptic Gateway] Cannot select a card from your hand	Non-Functional ability	2017-12-26 18:37:58
-Crystal Spray	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-02-15 00:39:43
+Crystal Spray	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-02-15 05:01:51
 Curse of Shallow Graves	[Curse of Shallow Graves] creates Zombie tokens with incorrect art.	Graphical	2018-02-01 03:38:16
 Cursed Scroll	[Cursed Scroll] does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2018-01-19 08:40:31
 Custodi Lich	[Custodi Lich] The sacrifice trigger happens whenever any player becomes the monarch.	Advantageous	2018-01-19 09:47:01
@@ -90,7 +90,7 @@ Mana Bloom	[Mana Bloom] Ability does not generate mana on opponents' turns.	Disa
 Mass Polymorph	[Synthetic Destiny][Mass Polymorph] does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-01-19 09:47:03
 Memory Lapse	[Memory Lapse] moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-07-14 08:38:13
 Midnight Oil	Casting a second [Midnight Oil] can cause a game restart under rare circumstances.	Game Breaking	2018-01-26 10:41:49
-Mind Bend	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-02-15 00:39:43
+Mind Bend	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-02-15 05:01:51
 Mindclaw Shaman	You are unable to cast split cards with [Mindclaw Shaman]'s ability.	Disadvantageous	2018-02-12 02:38:56
 Mirror Match	[Mirror Match] Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2017-06-30 16:54:05
 Misdirection	Redirecting spells and abilities sometimes restarts the game in a buggy state	Game Breaking	2018-02-03 10:52:55
