@@ -270,16 +270,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/281"
   },
   {
-    "card": "Exhaustion",
-    "description": "[Exhaustion] fails to prevent permanents from untapping during the next untap step.",
-    "category": "Non-Functional ability",
-    "last_updated": "2018-01-26 10:39:03",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/280"
-  },
-  {
     "card": "Thran Turbine",
     "description": "[Thran Turbine] mana is able to be used to cast spells",
     "category": "Advantageous",
@@ -1903,7 +1893,7 @@
     "card": "Odds",
     "description": "[Odds] Odds: Restarts the game in buggy state on heads",
     "category": "Game Breaking",
-    "last_updated": "2017-10-11 02:10:56",
+    "last_updated": "2018-02-16 04:38:54",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
@@ -1913,7 +1903,7 @@
     "card": "Null Chamber",
     "description": "[Null Chamber]'s Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.",
     "category": "Advantageous",
-    "last_updated": "2017-12-26 17:42:22",
+    "last_updated": "2018-02-16 03:58:51",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -1983,7 +1973,7 @@
     "card": "Cryptic Gateway",
     "description": "[Cryptic Gateway] Cannot select a card from your hand",
     "category": "Non-Functional ability",
-    "last_updated": "2017-12-26 18:37:58",
+    "last_updated": "2018-02-16 04:01:16",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
