@@ -643,7 +643,7 @@
     "card": "Mishra's Workshop",
     "description": "When there are floating generic mana and restricted mana (such as [Mishra's Workshop] mana) that are same color (or same colorless), MTGO will always use generic mana first before using the restricted mana. Workaround: don't float the generic mana if you want to use the restricted mana first",
     "category": "Disadvantageous",
-    "last_updated": "2018-01-24 04:25:40",
+    "last_updated": "2018-02-21 19:35:44",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
