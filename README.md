@@ -1,4 +1,4 @@
-# MODO Bugs
+# MODO Bugs [![Requirements Status](https://requires.io/github/PennyDreadfulMTG/modo-bugs/requirements.svg?branch=master)](https://requires.io/github/PennyDreadfulMTG/modo-bugs/requirements/?branch=master)
 Issue Tracker for Magic Online bugs
 
 # Categories
