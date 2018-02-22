@@ -1,5 +1,35 @@
 [
   {
+    "card": "Overabundance",
+    "description": "[Overabundance] + [Nykthos, Shrine to Nyx] = Can't tap for colorless",
+    "category": "Unconfirmed",
+    "last_updated": "2018-02-22 03:38:55",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/310"
+  },
+  {
+    "card": "Nykthos, Shrine to Nyx",
+    "description": "[Overabundance] + [Nykthos, Shrine to Nyx] = Can't tap for colorless",
+    "category": "Unconfirmed",
+    "last_updated": "2018-02-22 03:38:55",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/310"
+  },
+  {
+    "card": "Primal Wellspring",
+    "description": "If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-02-22 03:38:55",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/309"
+  },
+  {
     "card": "Taigam's Scheming",
     "description": "Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.",
     "category": "Graphical",
