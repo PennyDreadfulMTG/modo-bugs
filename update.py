@@ -22,8 +22,6 @@ LEGAL_CARDS: List[str] = []
 ALL_BUGS: List[Dict] = []
 
 ALL_CSV: List[str] = []
-ALL_BANNED: List[str] = []
-PD_BANNED: List[str] = []
 
 AFFECTS_REGEX = r'^Affects: (.*)$'
 DISCORD_REGEX = r'^Reported on Discord by (\w+#[0-9]+)$'
@@ -67,16 +65,14 @@ def main() -> None:
     csv.close()
 
     txt = open('bannable.txt', mode='w')
-    ALL_BANNED.sort()
-    for line in ALL_BANNED:
-        txt.write(line + '\n')
+    pd = open('pd_bannable.txt', mode='w')
+    for bug in ALL_BUGS:
+        if bug['bannable']:
+            txt.write(bug['card'] + '\n')
+            if bug['pd_legal']:
+                pd.write(bug['card'] + '\n')
     txt.close()
-
-    txt = open('pd_bannable.txt', mode='w')
-    PD_BANNED.sort()
-    for line in PD_BANNED:
-        txt.write(line + '\n')
-    txt.close()
+    pd.close()
 
     bugsjson = open('bugs.json', mode='w')
     json.dump(ALL_BUGS, bugsjson, indent=2)
@@ -163,10 +159,7 @@ def process_issue(issue):
         csv_line += str(issue.updated_at)
         csv_line = remove_smartquotes(csv_line)
         ALL_CSV.append(csv_line)
-        if cat in BADCATS and "Multiplayer" not in labels:
-            ALL_BANNED.append(card)
-            if card in LEGAL_CARDS:
-                PD_BANNED.append(card)
+        bannable = cat in BADCATS and "Multiplayer" not in labels
         bug = {
             'card': card,
             'description': msg,
@@ -175,6 +168,7 @@ def process_issue(issue):
             'pd_legal': card in LEGAL_CARDS,
             'bug_blog': "From Bug Blog" in labels,
             'breaking': cat in BADCATS,
+            'bannable': bannable,
             'url': issue.html_url,
             }
         ALL_BUGS.append(bug)
