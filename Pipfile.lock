@@ -1,18 +1,18 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6ce91b9e9e884ca0b89f2ba852bb88c32957174c5f5ecb47d8b469d17c9ddcad"
+            "sha256": "f8fedfd23612e3a4fcb130248dd69088b40e0a50c2601566575bf7b955961301"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
-            "implementation_version": "3.6.1",
+            "implementation_version": "3.6.3",
             "os_name": "nt",
             "platform_machine": "AMD64",
             "platform_python_implementation": "CPython",
             "platform_release": "10",
             "platform_system": "Windows",
-            "platform_version": "10.0.10240",
-            "python_full_version": "3.6.1",
+            "platform_version": "10.0.16299",
+            "python_full_version": "3.6.3",
             "python_version": "3.6",
             "sys_platform": "win32"
         },
@@ -29,6 +29,14 @@
         ]
     },
     "default": {
+        "beautifulsoup4": {
+            "hashes": [
+                "sha256:7015e76bf32f1f574636c4288399a6de66ce08fb7b2457f628a8d70c0fbabb11",
+                "sha256:11a9a27b7d3bddc6d86f59fb76afb70e921a25ac2d6cc55b40d072bd68435a76",
+                "sha256:808b6ac932dccb0a4126558f7dfdcf41710dd44a4ef497a0bb59a77f9f078e89"
+            ],
+            "version": "==4.6.0"
+        },
         "certifi": {
             "hashes": [
                 "sha256:14131608ad2fd56836d33a71ee60fa1c82bc9d2c8d98b7bdbc631fe1b3cd1296",
