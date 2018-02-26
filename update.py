@@ -31,7 +31,7 @@ REGEX_CARDREF = r'\[?\[([^\]]*)\]\]?'
 BAD_AFFECTS_REGEX = r'Affects: (\[Card Name\]\(, \[Second Card name\], etc\)\r?\n)\['
 
 if sys.stdout.encoding != 'utf-8':
-    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer)
+    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer) # type: ignore 
 
 def fetch_pd_legal() -> None:
     print('Fetching http://pdmtgo.com/legal_cards.txt')
