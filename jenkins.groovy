@@ -9,16 +9,17 @@ node('linux') {
         sh 'git config user.name "Vorpal Buildbot"'
         sh 'git checkout master'
         sh 'git pull'
-        sh 'python3 -m pip install --user -r requirements.txt'
+        sh 'python3 -m pip install --user pipenv'
+        sh 'pipenv install'
         }
     }
     stage('Scrape') {
         withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
-            sh returnStatus: true, script: 'python3 scrape_bugblog.py'
+            sh returnStatus: true, script: 'pipenv run python scrape_bugblog.py'
         }
     }
     stage('Update'){
-        sh 'python3 update.py'
+        sh 'pipenv run python update.py'
     }
     stage('Push changes'){
         def updated = sh returnStatus: true, script: 'git diff --exit-code'
