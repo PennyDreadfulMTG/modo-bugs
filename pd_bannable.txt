@@ -1,17 +1,17 @@
-Apathy
-Deflection
-Identity Thief
-Ignite Memories
 Midnight Oil
-Nebuchadnezzar
-Precursor Golem
-Primitive Justice
-Reap
-Reroute
-Shifty Doppelganger
-Shunt
+Apathy
 Swerve
-Tawnos's Coffin
-Whims of the Fates
 Wild Ricochet
+Shunt
+Deflection
+Reroute
+Precursor Golem
 Zada, Hedron Grinder
+Ignite Memories
+Identity Thief
+Tawnos's Coffin
+Nebuchadnezzar
+Primitive Justice
+Whims of the Fates
+Shifty Doppelganger
+Reap

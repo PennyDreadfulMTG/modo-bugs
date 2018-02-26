@@ -1,25 +1,25 @@
-Apathy
-Deflection
 Fire Covenant
-Identity Thief
-Ignite Memories
-Imp's Mischief
-Jodah's Avenger
-Lich
 Midnight Oil
+Apathy
+Imp's Mischief
 Misdirection
-Misdirection
-Nebuchadnezzar
-Odds
-Precursor Golem
-Primitive Justice
-Reap
-Reroute
-Ricochet Trap
-Shifty Doppelganger
-Shunt
 Swerve
-Tawnos's Coffin
-Whims of the Fates
 Wild Ricochet
+Shunt
+Deflection
+Reroute
+Jodah's Avenger
+Ricochet Trap
+Precursor Golem
 Zada, Hedron Grinder
+Misdirection
+Ignite Memories
+Identity Thief
+Tawnos's Coffin
+Nebuchadnezzar
+Primitive Justice
+Whims of the Fates
+Shifty Doppelganger
+Reap
+Odds
+Lich
