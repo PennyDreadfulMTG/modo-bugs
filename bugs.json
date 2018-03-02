@@ -1,5 +1,16 @@
 [
   {
+    "card": "Clone Legion",
+    "description": "[Clone Legion] put multiple excess copies of all creatures from target player's 75 from all zones.",
+    "category": "Advantageous",
+    "last_updated": "2018-03-02 02:39:04",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/314"
+  },
+  {
     "card": "Buried Alive",
     "description": "The order of cards put into the graveyard by Buried Alive is random",
     "category": "Disadvantageous",
