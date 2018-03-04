@@ -1,9 +1,20 @@
 [
   {
+    "card": "Dream Tides",
+    "description": "[Dream Tides] doesn't require a cost for nongreen creatures chosen to untap.",
+    "category": "Advantageous",
+    "last_updated": "2018-03-04 22:39:03",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/316"
+  },
+  {
     "card": "Null Profusion",
     "description": "Null Profusion triggers when another player casts its owner's cards",
-    "category": "Unconfirmed",
-    "last_updated": "2018-03-04 05:39:11",
+    "category": "Advantageous",
+    "last_updated": "2018-03-04 22:21:16",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,

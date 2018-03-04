@@ -38,6 +38,7 @@ Deflection	Redirecting spells and abilities sometimes restarts the game in a bug
 Dosan the Falling Leaf	[Dosan the Falling Leaf] only allows players to cast spells during his/her opponent's turn	Disadvantageous	2018-02-01 07:24:40
 Doubling Season	[Doubling Season] incorrectly doubles loyalty counters added from costs of loyalty abilities.	Advantageous	2017-10-24 13:38:38
 Dream Halls	[Dream Halls] Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-07-05 16:48:54
+Dream Tides	[Dream Tides] doesn't require a cost for nongreen creatures chosen to untap.	Advantageous	2018-03-04 22:39:03
 Elesh Norn, Grand Cenobite	If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2017-08-25 04:39:46
 Entreat the Angels	When [Entreat the Angels] is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.	Graphical	2018-02-11 02:45:13
 Etali, Primal Storm	[Etali, Primal Storm] is unable to cast split cards or multiple cards with additional costs.	Disadvantageous	2018-02-09 12:37:46
@@ -106,7 +107,7 @@ Nazahn, Revered Bladesmith	Searching for any equipment other than Nazahn's Hamme
 Nebuchadnezzar	[Nebuchadnezzar] ability makes the game start endlessly repeating itself	Game Breaking	2018-02-02 21:38:03
 Noble Benefactor	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-02-10 14:03:32
 Null Chamber	[Null Chamber]'s Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2018-02-16 03:58:51
-Null Profusion	Null Profusion triggers when another player casts its owner's cards	Unconfirmed	2018-03-04 05:39:11
+Null Profusion	Null Profusion triggers when another player casts its owner's cards	Advantageous	2018-03-04 22:21:16
 Oaken brawler	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-08 03:37:50
 Odds	[Odds] Odds: Restarts the game in buggy state on heads	Game Breaking	2018-02-16 04:38:54
 Orcish Spy	[Orcish Spy] and cards with similar abilities show the cards in alphabetical order, not the actual order	Disadvantageous	2018-02-14 19:40:35
