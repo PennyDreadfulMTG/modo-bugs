@@ -13,7 +13,7 @@ Bog Hoodlums	Opponent is not given the option to scry card to the bottom when cl
 Booby Trap	[Booby Trap] does not let you name anything other than non-basic lands.	Disadvantageous	2017-12-12 18:19:18
 Borderland Explorer	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-02-10 14:03:32
 Broken Ambitions	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-08 03:37:50
-Buried Alive	The order of cards put into the graveyard by Buried Alive is random	Disadvantageous	2018-02-26 01:21:29
+Buried Alive	The order of cards put into the graveyard by Buried Alive is random	Disadvantageous	2018-03-04 06:55:58
 Captivating Glance	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-08 03:37:50
 Chandra Nalaar	[Chandra Nalaar] Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
 Charging Tuskodon	Charging Tuskodon deals double damage to a player even for non-combat damage	Advantageous	2018-02-09 12:37:45
@@ -65,7 +65,7 @@ Greater Realm of Preservation	Greater Realm of Preservation does not prevent Sin
 Hada Freeblade	Certain cards, such as [Hada Freeblade], do not display a legality error for the Pauper format in the collection scene.	Graphical	2017-10-06 04:50:46
 Harness the Storm	[Harness the Storm] Doesn't trigger when casting split cards.	Disadvantageous	2018-02-01 03:38:17
 Harsh Mentor	[Harsh Mentor]'s triggered ability also affects abilities activated from creatures in the graveyard.	Advantageous	2017-11-05 11:26:30
-High Seas	[High Seas] only affects red creature spells, rather than red or green creature spells.	Disadvantageous	2017-11-02 03:21:53
+High Seas	[High Seas] only affects red creature spells.	Disadvantageous	2018-03-04 07:39:05
 Hoarder's greed	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-02-08 03:37:50
 Hollow One	[Hollow One]'s cost reduction doesn't consider split cards that are discarded	Disadvantageous	2018-02-03 06:01:49
 Howltooth Hollow	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-03 03:37:56
