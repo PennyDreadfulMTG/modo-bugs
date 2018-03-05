@@ -20,7 +20,7 @@ Charging Tuskodon	Charging Tuskodon deals double damage to a player even for no
 Clone Legion	[Clone Legion] puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-03-02 03:40:54
 Cloud Key	[Cloud Key] Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Collected Company	[Collected Company] does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2017-10-06 04:59:08
-Combat Celebrant	[Combat Celebrant] does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2017-06-20 17:37:24
+Combat Celebrant	[Combat Celebrant] does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2018-03-05 02:40:09
 Commandeer	[Commandeer] does not gain control of the targeted noncreature spell.	Disadvantageous	2017-10-06 04:15:22
 Compost	[Compost] The effect isn't triggered when an opponent only casts the nonblack half of a split card. 	Disadvantageous	2018-02-12 02:20:27
 Compulsive Research	Dredging rather than drawing can let you avoid discarding	Advantageous	2018-02-03 03:37:58
@@ -39,7 +39,7 @@ Dosan the Falling Leaf	[Dosan the Falling Leaf] only allows players to cast spel
 Doubling Season	[Doubling Season] incorrectly doubles loyalty counters added from costs of loyalty abilities.	Advantageous	2017-10-24 13:38:38
 Dream Halls	[Dream Halls] Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-07-05 16:48:54
 Dream Tides	[Dream Tides] doesn't require a cost for nongreen creatures chosen to untap.	Non-Functional ability	2018-03-04 22:41:46
-Elesh Norn, Grand Cenobite	If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2017-08-25 04:39:46
+Elesh Norn, Grand Cenobite	If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2018-03-05 02:40:04
 Entreat the Angels	When [Entreat the Angels] is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.	Graphical	2018-02-11 02:45:13
 Etali, Primal Storm	[Etali, Primal Storm] is unable to cast split cards or multiple cards with additional costs.	Disadvantageous	2018-02-09 12:37:46
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
@@ -51,7 +51,7 @@ Floodtide Serpent	Insteading of bouncing an enchantment, attacking with Floodtid
 Freyalise's Winds	[Freyalise's Winds] Anytime a permanent with a wind counter would be untapped outside of the untap step,  a wind counter is removed rather than it becoming untapped.	Disadvantageous	2018-02-03 06:38:06
 Garruk, the Veil-Cursed	The art for the wolf token created by [Garruk, the Veil-Cursed] is incorrect.	Graphical	2018-01-14 22:52:37
 Genju of the Fields	[Genju of the Fields] does not cause you to gain life upon dealing damage	Disadvantageous	2018-02-13 05:39:16
-Gideon's Intervention	[Gideon's Intervention] Casting a second copy causes the first to become partially non-functional, allowing the named card to deal damage.	Disadvantageous	2018-01-19 09:46:59
+Gideon's Intervention	[Gideon's Intervention] Casting a second copy causes the first to become partially non-functional, allowing the named card to deal damage.	Disadvantageous	2018-03-05 02:38:53
 Gideon, Martial Paragon	[Gideon, Martial Paragon] AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2017-08-10 22:39:10
 Gifts Ungiven	If a player uses the Undo function when selecting cards for their opponent's [Gifts Ungiven], they will only be able to choose 1 card to go to the graveyard.	Disadvantageous	2017-12-17 10:54:15
 Gilt-leaf ambush	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-04 23:40:27
@@ -90,18 +90,18 @@ Living Lore	If [Living Lore] imprints a Split Card, it has twice the expected CM
 Lurking Evil	[Lurking Evil] makes you pay half your opponent's life total	Advantageous	2017-12-17 10:54:12
 Mana Bloom	[Mana Bloom] Ability does not generate mana on opponents' turns.	Disadvantageous	2018-02-08 17:31:21
 Mass Polymorph	[Synthetic Destiny][Mass Polymorph] does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-01-19 09:47:03
-Memory Lapse	[Memory Lapse] moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2017-07-14 08:38:13
+Memory Lapse	[Memory Lapse] moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2018-03-05 02:40:11
 Midnight Oil	Casting a second [Midnight Oil] can cause a game restart under rare circumstances.	Game Breaking	2018-01-26 10:41:49
 Mind Bend	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-02-15 05:01:51
 Mindclaw Shaman	You are unable to cast split cards with [Mindclaw Shaman]'s ability.	Disadvantageous	2018-02-12 02:38:56
-Mirror Match	[Mirror Match] Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2017-06-30 16:54:05
+Mirror Match	[Mirror Match] Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2018-03-05 02:40:05
 Misdirection	Redirecting spells and abilities sometimes restarts the game in a buggy state	Game Breaking	2018-02-03 10:52:55
 Misdirection	[Misdirection] can reset the game in rare cases.	Game Breaking	2017-08-10 22:48:36
 Mishra's Workshop	When there are floating generic mana and restricted mana (such as [Mishra's Workshop] mana) that are same color (or same colorless), MTGO will always use generic mana first before using the restricted mana. Workaround: don't float the generic mana if you want to use the restricted mana first	Disadvantageous	2018-02-21 19:35:44
 Mosswort Bridge	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-03 03:37:56
 Multani's Presence	[Multani's Presence] incorrectly draws cards off copies of spells that are countered	Advantageous	2017-08-08 16:46:15
 Mutiny	[Mutiny] doesn't have clear targeting information. Workaround: The game log displays targets matching the order written on the card, and will highlight the appropriate creature when its name is hovered over with the mouse.	Graphical	2018-02-09 12:37:46
-Myriad Landscape	[Myriad Landscape] Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.	Advantageous	2017-06-21 07:37:18
+Myriad Landscape	[Myriad Landscape] Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.	Advantageous	2018-03-05 02:40:07
 Naga Oracle	Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.	Graphical	2018-02-13 20:10:02
 Nazahn, Revered Bladesmith	Searching for any equipment other than Nazahn's Hammer causes it to be put in an opponent's hand	Disadvantageous	2018-02-03 02:37:56
 Nebuchadnezzar	[Nebuchadnezzar] ability makes the game start endlessly repeating itself	Game Breaking	2018-02-02 21:38:03
@@ -119,7 +119,7 @@ Phantom Tiger	If [Phantom Tiger] dies in combat, blue text abilities it had been
 Precursor Golem	After copying a spell for each other object it could target, the game often resets in a buggy state	Game Breaking	2018-02-06 00:01:34
 Primal Wellspring	If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.	Disadvantageous	2018-02-22 03:38:55
 Primitive Justice	[Primitive Justice] will either not cast/restart the game with a single target.	Game Breaking	2018-01-19 09:47:04
-Profane Command	[Profane Command] If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2018-01-19 09:47:07
+Profane Command	[Profane Command] If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2018-03-05 02:39:13
 Puppeteer Clique	Creatures returned with [Puppeteer Clique] are exiled at the end of any turn, not just the controller's	Disadvantageous	2017-11-09 08:04:30
 Reap	[Reap] puts a "face down ability" into hand instead of the targetted cards	Game Breaking	2018-01-19 08:40:35
 Reflecting Pool	[Reflecting Pool] does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2017-06-02 14:00:45
@@ -134,7 +134,7 @@ Rimescale Dragon	[Rimescale Dragon] does not place an Ice Counter on targeted cr
 Riptide Replicator	[Riptide Replicator] tokens use incorrect art and incorrectly display they have the changeling ability.	Graphical	2018-02-01 02:37:54
 Rogue Skycaptain	[Rogue Skycaptain]'s upkeep cost is {0}.	Advantageous	2018-02-26 00:12:53
 Rosheen Meanderer	[Rosheen Meanderer] is unable to contribute mana to spells that ask an opponent to pay X, such as [Condescend].	Disadvantageous	2018-01-15 05:00:11
-Runic Repetition	[Runic Repetition] Cannot be cast	Disadvantageous	2017-06-01 17:37:27
+Runic Repetition	[Runic Repetition] Cannot be cast	Disadvantageous	2018-03-05 02:40:12
 Sages of the Anima	[Sages of the Anima] puts the non-creature cards on top of the library instead of the bottom.	Disadvantageous	2018-02-06 04:35:59
 Samurai of the Pale Curtain	[Samurai of the Pale Curtain] does not exile tokens.	Disadvantageous	2018-02-03 03:19:31
 Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
@@ -162,13 +162,14 @@ Swerve	Redirecting spells and abilities sometimes restarts the game in a buggy s
 Sylvan Primordial	Casting [Sylvan Primordial] causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2018-02-11 02:52:19
 Synthetic Destiny	[Synthetic Destiny][Mass Polymorph] does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-01-19 09:47:03
 Taigam's Scheming	Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.	Graphical	2018-02-13 20:10:02
-Tawnos's Coffin	[Tawnos's Coffin] crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2017-08-24 16:43:46
+Tawnos's Coffin	[Tawnos's Coffin] crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2018-03-05 02:40:13
 Terastodon	If some (not all) of [Terastodon]'s targets are indestructible permanent(s), it will incorrectly create elephant token(s) for the owner of those permanents.	Advantageous	2018-01-23 02:41:06
-The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard 	Disadvantageous	2017-06-24 06:37:21
+Thalia, Guardian of Thraben	[Thalia, Guardian of Thraben] increase the cost of splice ability	Advantageous	2018-03-05 02:40:01
+The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of [The Gitrog Monster] when put into the graveyard 	Disadvantageous	2018-03-05 02:40:06
 The Scarab God	The Scarab God and God-Pharaoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.	Unclassified	2018-01-20 10:39:39
 The Ur-Dragon	[The Ur-Dragon] also reduces its own casting cost.	Advantageous	2017-11-16 08:30:26
 Thornbite Staff	[Thornbite Staff] doesn't display the equip cost line when zoomed in upon.	Graphical	2018-01-19 08:40:26
-Thornbow Archer	[Thornbow Archer] Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2017-11-22 06:15:33
+Thornbow Archer	[Thornbow Archer] Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2018-03-05 02:40:10
 Thran Turbine	[Thran Turbine] mana is able to be used to cast spells	Advantageous	2018-01-24 04:50:00
 Tomorrow, Azami's Familiar	[Tomorrow, Azami's Familiar] puts both cards not chosen back on top of the library.	Disadvantageous	2018-01-31 20:14:41
 Torment of Hailfire	The undo function works incorrectly with [Torment of Hailfire].	Disadvantageous	2017-08-25 03:22:38
@@ -176,11 +177,11 @@ Unscythe, Killer of Kings	[Unscythe, Killer of Kings]'s effect procs when unequi
 Vesuva	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-02-11 02:46:26
 Vesuvan Shapeshifter	If [Vesuvan Shapeshifter] copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.	Advantageous	2018-01-19 09:46:51
 Vexing Sphinx	[Vexing Sphinx]'s Cumulative Upkeep Doesn't Make You Discard	Advantageous	2018-01-23 02:44:18
-Vizier of Many Faces	[Vizier of Many Faces] If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2017-09-29 07:41:18
+Vizier of Many Faces	[Vizier of Many Faces] If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2018-03-05 02:40:08
 Vizier of Many Faces	[Vizier of Many Faces] keeps its abilities when an opponent controls Overwhelming Splendor.	Advantageous	2017-09-29 07:41:10
 Volcano Hellion	[Volcano Hellion] Damage is capped at 255	Disadvantageous	2018-01-02 17:37:55
 Wall of Roots	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2018-02-11 02:52:24
-Whims of the Fates	[Whims of the Fates] Causes client crashes	Game Breaking	2018-01-25 01:39:19
+Whims of the Fates	[Whims of the Fates] Causes client crashes	Game Breaking	2018-03-05 02:39:09
 Wild Ricochet	Redirecting spells and abilities sometimes restarts the game in a buggy state	Game Breaking	2018-02-03 10:52:55
 Windbrisk Heights	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-03 03:37:56
 Withdraw	[Withdraw] is able to target the same creature twice.	Advantageous	2018-02-08 16:33:56
