@@ -1,7 +1,7 @@
 Card Name	Bug Description	Categorization	Last Confirmed
 Abandoned Sarcophagus	As Foretold incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].	Disadvantageous	2018-01-19 09:46:54
 Abandoned Sarcophagus	[Abandoned Sarcophagus] does not allow you to pay for {X} when casting cycling cards with its ability	Disadvantageous	2018-02-13 06:39:08
-Adder-Staff Boggart	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
+Adder-Staff Boggart	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
 Angelic Field Marshal	[Angelic Field Marshal] still grants a bonus to your commander when an opponent gains control of it.	Advantageous	2018-02-08 16:34:45
 Apathy	The triggered ability of [Apathy] causes a soft-lock.	Game Breaking	2018-01-23 18:39:04
 Ashiok, Nightmare Weaver	[Ashiok, Nightmare Weaver] is unable to put a creature with converted mana cost equal to its current loyalty onto the battlefield.	Disadvantageous	2018-02-03 03:24:40
@@ -11,14 +11,14 @@ Blessed Breath	Splice onto Arcane abilities are incorrectly affected by cost red
 Blessed Breath	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Blood Moon	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-02-11 02:46:26
 Bloodline Keeper	Vampire tokens created by [Bloodline Keeper] have incorrect art and incorrectly display that they have lifelink.	Graphical	2018-01-15 05:16:54
-Bog Hoodlums	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
+Bog Hoodlums	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
 Booby Trap	[Booby Trap] does not let you name anything other than non-basic lands.	Disadvantageous	2017-12-12 18:19:18
 Borderland Explorer	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-02-10 14:03:32
-Broken Ambitions	The controller of the clash ability is not given the option to scry card to the bottom when clashing	Disadvantageous	2018-03-05 23:56:41
+Broken Ambitions	The controller of the clash ability is not given the option to scry card to the bottom when clashing	Disadvantageous	2018-03-06 00:39:36
 Buried Alive	The order of cards put into the graveyard by Buried Alive is random	Disadvantageous	2018-03-04 06:55:58
 Candles' Glow	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Candles' Glow	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
-Captivating Glance	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
+Captivating Glance	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
 Chandra Nalaar	[Chandra Nalaar] Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
 Charging Tuskodon	Charging Tuskodon deals double damage to a player even for non-combat damage	Advantageous	2018-02-09 12:37:45
 Clone Legion	[Clone Legion] puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-03-02 03:40:54
@@ -57,8 +57,8 @@ Evermind	Splice onto Arcane abilities are incorrectly affected by cost reduction
 Evermind	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Fa'adiyah Seer	[Fa'adiyah Seer] and [Sindbad]'s ability won't discard non-land card drawn if there is any dredge card in your graveyard	Advantageous	2018-02-03 07:52:02
 Fire Covenant	If [Fire Covenant] is cast for x=0 and you pay the 1 extra mana that MTGO asks you to (which is the bug), the game will restarts. Workaround: Undo the process if you encounter this bug, and never cast it for x=0	Game Breaking	2018-02-12 02:52:37
-Fire Juggler	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-Fistful of Force	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
+Fire Juggler	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+Fistful of Force	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
 Floodtide Serpent	Insteading of bouncing an enchantment, attacking with Floodtide Serpent shows you all zones.	Advantageous	2018-02-06 03:13:44
 Freyalise's Winds	[Freyalise's Winds] Anytime a permanent with a wind counter would be untapped outside of the untap step,  a wind counter is removed rather than it becoming untapped.	Disadvantageous	2018-02-03 06:38:06
 Garruk, the Veil-Cursed	The art for the wolf token created by [Garruk, the Veil-Cursed] is incorrect.	Graphical	2018-01-14 22:52:37
@@ -66,7 +66,7 @@ Genju of the Fields	[Genju of the Fields] does not cause you to gain life upon d
 Gideon's Intervention	[Gideon's Intervention] Casting a second copy causes the first to become partially non-functional, allowing the named card to deal damage.	Disadvantageous	2018-03-05 02:38:53
 Gideon, Martial Paragon	[Gideon, Martial Paragon] AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2017-08-10 22:39:10
 Gifts Ungiven	If a player uses the Undo function when selecting cards for their opponent's [Gifts Ungiven], they will only be able to choose 1 card to go to the graveyard.	Disadvantageous	2017-12-17 10:54:15
-Gilt-leaf ambush	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
+Gilt-leaf ambush	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
 Gishath, Sun's Avatar	[Gishath, Sun's Avatar] does not allow you to decline to put a Dinosaur creature into play if you have one in your hand.	Disadvantageous	2017-10-06 04:59:20
 Glacial Ray	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Glacial Ray	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
@@ -85,7 +85,7 @@ Harsh Mentor	[Harsh Mentor]'s triggered ability also affects abilities activated
 Hideous Laughter	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Hideous Laughter	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 High Seas	[High Seas] only affects red creature spells.	Disadvantageous	2018-03-04 07:39:05
-Hoarder's greed	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
+Hoarder's greed	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
 Hollow One	[Hollow One]'s cost reduction doesn't consider split cards that are discarded	Disadvantageous	2018-02-03 06:01:49
 Horobi's Whisper	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Horobi's Whisper	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
@@ -136,7 +136,7 @@ Nebuchadnezzar	[Nebuchadnezzar] ability makes the game start endlessly repeating
 Noble Benefactor	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-02-10 14:03:32
 Null Chamber	[Null Chamber]'s Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2018-02-16 03:58:51
 Null Profusion	Null Profusion triggers when another player casts its owner's cards	Advantageous	2018-03-04 22:21:16
-Oaken brawler	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
+Oaken brawler	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
 Odds	[Odds] Odds: Restarts the game in buggy state on heads	Game Breaking	2018-02-16 04:38:54
 Orcish Spy	[Orcish Spy] and cards with similar abilities show the cards in alphabetical order, not the actual order	Disadvantageous	2018-02-14 19:40:35
 Oriss, Samite Guardian	Using [Oriss, Samite Guardian]'s Grandeur ability during controller's precombat main phase will not allow controller to attack that turn.	Disadvantageous	2017-09-29 07:41:07
@@ -158,7 +158,7 @@ Reflecting Pool	[Reflecting Pool] does not get the ability to add any color of m
 Reflector Mage	If a player casts [Reflector Mage] targeting a creature they own, and then in the following turn their opponent casts Reflector Mage, they are able to immediately recast that creature.	Advantageous	2017-12-26 16:46:59
 Reflector Mage	The second Reflector Mage played in the same turn will let the first one's target able to be cast.	Disadvantageous	2018-02-10 01:09:27
 Reincarnation	[Reincarnation] Does nothing	Non-Functional ability	2017-12-26 17:37:57
-Release the Ants	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
+Release the Ants	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
 Reroute	Redirecting spells and abilities sometimes restarts the game in a buggy state	Game Breaking	2018-02-03 10:52:55
 Reweave	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Reweave	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
@@ -242,21 +242,21 @@ Words of Waste	[Words of Waste] does not function.	Non-Functional ability	2017-1
 Yisan, the Wanderer Bard	If all of [Yisan, the Wanderer Bard]'s verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.	Advantageous	2018-01-19 08:40:26
 Zada, Hedron Grinder	After copying a spell for each other object it could target, the game often resets in a buggy state	Game Breaking	2018-02-06 00:01:34
 Zur's Weirding	[Zur's Weirding] Reveals but doesn't allow you to pay	Disadvantageous	2018-01-19 09:47:06
-lash out	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-nath's elite	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-paperfin rascal	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-pollen lullaby	The controller of the clash ability is not given the option to scry card to the bottom when clashing	Disadvantageous	2018-03-05 23:56:41
-pulling teeth	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-recross the paths	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-redeem the lost	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-research the deep	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-revive the fallen	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-ringskipper	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-scattering stroke	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-sentry oak	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-spring cleaning	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-springjack knight	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-titan's revenge	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-weed strangle	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-whirlpool whelm	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
-woodland guidance	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-05 23:57:33
+lash out	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+nath's elite	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+paperfin rascal	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+pollen lullaby	The controller of the clash ability is not given the option to scry card to the bottom when clashing	Disadvantageous	2018-03-06 00:39:36
+pulling teeth	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+recross the paths	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+redeem the lost	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+research the deep	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+revive the fallen	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+ringskipper	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+scattering stroke	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+sentry oak	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+spring cleaning	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+springjack knight	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+titan's revenge	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+weed strangle	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+whirlpool whelm	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
+woodland guidance	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
