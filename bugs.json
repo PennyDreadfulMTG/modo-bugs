@@ -597,7 +597,7 @@
     "card": "Broken Ambitions",
     "description": "The controller of the clash ability is not given the option to scry card to the bottom when clashing",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-06 00:39:36",
+    "last_updated": "2018-03-06 05:39:15",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -605,11 +605,11 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/317"
   },
   {
-    "card": "pollen lullaby",
+    "card": "Pollen Lullaby",
     "description": "The controller of the clash ability is not given the option to scry card to the bottom when clashing",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-06 00:39:36",
-    "pd_legal": false,
+    "last_updated": "2018-03-06 05:39:15",
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,

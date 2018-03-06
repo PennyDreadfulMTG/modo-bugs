@@ -14,7 +14,7 @@ Bloodline Keeper	Vampire tokens created by [Bloodline Keeper] have incorrect art
 Bog Hoodlums	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
 Booby Trap	[Booby Trap] does not let you name anything other than non-basic lands.	Disadvantageous	2017-12-12 18:19:18
 Borderland Explorer	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-02-10 14:03:32
-Broken Ambitions	The controller of the clash ability is not given the option to scry card to the bottom when clashing	Disadvantageous	2018-03-06 00:39:36
+Broken Ambitions	The controller of the clash ability is not given the option to scry card to the bottom when clashing	Disadvantageous	2018-03-06 05:39:15
 Buried Alive	The order of cards put into the graveyard by Buried Alive is random	Disadvantageous	2018-03-04 06:55:58
 Candles' Glow	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Candles' Glow	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
@@ -146,6 +146,7 @@ Overblaze	Splice onto Arcane abilities are incorrectly affected by tax effects t
 Overwhelming Splendor	Creatures with ascend can still grant the City's Blessing with [Overwhelming Splendor] on the battlefield.	Disadvantageous	2018-02-08 16:37:04
 Painful Quandary	If opponent choose to discard a card due to [Painful Quandary], he/she can't choose a card to discard, and the spell will resolves as normal	Disadvantageous	2018-01-26 07:05:30
 Phantom Tiger	If [Phantom Tiger] dies in combat, blue text abilities it had been granted do not apply to that combat's damage.	Disadvantageous	2018-01-19 08:40:28
+Pollen Lullaby	The controller of the clash ability is not given the option to scry card to the bottom when clashing	Disadvantageous	2018-03-06 05:39:15
 Precursor Golem	After copying a spell for each other object it could target, the game often resets in a buggy state	Game Breaking	2018-02-06 00:01:34
 Primal Wellspring	If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.	Disadvantageous	2018-02-22 03:38:55
 Primitive Justice	[Primitive Justice] will either not cast/restart the game with a single target.	Game Breaking	2018-01-19 09:47:04
@@ -245,7 +246,6 @@ Zur's Weirding	[Zur's Weirding] Reveals but doesn't allow you to pay	Disadvantag
 lash out	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
 nath's elite	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
 paperfin rascal	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
-pollen lullaby	The controller of the clash ability is not given the option to scry card to the bottom when clashing	Disadvantageous	2018-03-06 00:39:36
 pulling teeth	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
 recross the paths	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
 redeem the lost	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
