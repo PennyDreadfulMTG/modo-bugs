@@ -892,9 +892,9 @@
   },
   {
     "card": "Dosan the Falling Leaf",
-    "description": "[Dosan the Falling Leaf] only allows players to cast spells during his/her opponent's turn",
-    "category": "Disadvantageous",
-    "last_updated": "2018-03-05 05:10:18",
+    "description": "Dosan the Falling Leaf only allows players to cast spells during his/her opponent's turn",
+    "category": "Advantageous",
+    "last_updated": "2018-03-06 04:35:15",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
