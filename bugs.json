@@ -1,5 +1,16 @@
 [
   {
+    "card": "Cast Out",
+    "description": "Cards exiled by Cast Out are not placed underneath it",
+    "category": "Graphical",
+    "last_updated": "2018-03-08 08:39:16",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/320"
+  },
+  {
     "card": "Blessed Breath",
     "description": "Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name",
     "category": "Advantageous",
