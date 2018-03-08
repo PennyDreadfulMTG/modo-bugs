@@ -48,7 +48,7 @@ Desperate Ritual	Splice onto Arcane abilities are incorrectly affected by cost r
 Desperate Ritual	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Dosan the Falling Leaf	Dosan the Falling Leaf only allows players to cast spells during his/her opponent's turn	Advantageous	2018-03-06 04:35:15
 Doubling Season	[Doubling Season] incorrectly doubles loyalty counters added from costs of loyalty abilities.	Advantageous	2017-10-24 13:38:38
-Dream Halls	[Dream Halls] Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2017-07-05 16:48:54
+Dream Halls	[Dream Halls] Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2018-03-08 15:40:20
 Dream Tides	[Dream Tides] doesn't require a cost for nongreen creatures chosen to untap.	Non-Functional ability	2018-03-04 22:41:46
 Elesh Norn, Grand Cenobite	If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2018-03-05 02:40:04
 Entreat the Angels	When [Entreat the Angels] is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.	Graphical	2018-02-11 02:45:13
@@ -111,6 +111,7 @@ Kodama's Might	Splice onto Arcane abilities are incorrectly affected by tax effe
 Koth of the Hammer	When controlling the Emblem of [Koth of the Hammer], lands do not display the blue text they have.	Graphical	2017-07-16 19:47:11
 Kozilek's Translator	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2018-02-11 02:52:24
 Lavamancer's Skill	[Lavamancer's Skill] the "T: deal 1 damage" ability does not let you choose a target	Disadvantageous	2018-01-29 08:36:16
+Leyline of Sanctity	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with [Leyline of Sanctity], and chooses not to use it.	Unclassified	2018-03-08 15:40:17
 Lich	[Lich] If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-06-29 19:17:25
 Lifted by Clouds	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Lifted by Clouds	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21

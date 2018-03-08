@@ -1,5 +1,16 @@
 [
   {
+    "card": "Leyline of Sanctity",
+    "description": "A game reset can be caused if a player is able to take a pre-game action, such as the one associated with [Leyline of Sanctity], and chooses not to use it.",
+    "category": "Unclassified",
+    "last_updated": "2018-03-08 15:40:17",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/321"
+  },
+  {
     "card": "Cast Out",
     "description": "Cards exiled by Cast Out are not placed underneath it",
     "category": "Graphical",
@@ -2434,9 +2445,9 @@
     "card": "Dream Halls",
     "description": "[Dream Halls] Ability is non-functional. Cannot cast spells with the alternative Casting Cost.",
     "category": "Non-Functional ability",
-    "last_updated": "2017-07-05 16:48:54",
+    "last_updated": "2018-03-08 15:40:20",
     "pd_legal": false,
-    "bug_blog": false,
+    "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/71"
