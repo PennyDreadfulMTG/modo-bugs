@@ -2794,6 +2794,17 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/16"
   },
   {
+    "card": "Mystifying Maze",
+    "description": "[Mystifying Maze] returns the exiled creature to the battlefield untapped.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-03-11 04:38:52",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/15"
+  },
+  {
     "card": "Mana Bloom",
     "description": "[Mana Bloom] Ability does not generate mana on opponents' turns.",
     "category": "Disadvantageous",
