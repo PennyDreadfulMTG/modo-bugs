@@ -1,5 +1,16 @@
 [
   {
+    "card": "Grave Betrayal",
+    "description": "[Grave Betrayal]'s delayed triggers are given control of to an opponent that gains control of it after the initial death triggers",
+    "category": "Disadvantageous",
+    "last_updated": "2018-03-11 05:38:58",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/324"
+  },
+  {
     "card": "Leyline of Sanctity",
     "description": "A game reset can be caused if a player is able to take a pre-game action, such as the one associated with [Leyline of Sanctity], and chooses not to use it.",
     "category": "Unclassified",
