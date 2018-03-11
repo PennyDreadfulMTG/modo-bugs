@@ -1,9 +1,9 @@
 [
   {
     "card": "Grave Betrayal",
-    "description": "[Grave Betrayal]'s delayed triggers are given control of to an opponent that gains control of it after the initial death triggers",
+    "description": "If control of Grave Betrayal changes between a creature dying and the delayed EOT trigger going on the stack, the new controller gets the creature rather than the player who created the delayed trigger.",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-11 05:38:58",
+    "last_updated": "2018-03-11 06:41:25",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -2764,7 +2764,7 @@
     "card": "Reap",
     "description": "[Reap] puts a \"face down ability\" into hand instead of the targetted cards",
     "category": "Game Breaking",
-    "last_updated": "2018-01-19 08:40:35",
+    "last_updated": "2018-03-11 06:23:16",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": true,
