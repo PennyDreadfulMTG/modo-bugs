@@ -969,13 +969,13 @@
   },
   {
     "card": "Midnight Oil",
-    "description": "Casting a second [Midnight Oil] can cause a game restart under rare circumstances.",
-    "category": "Game Breaking",
-    "last_updated": "2018-01-26 10:41:49",
+    "description": "Casting a second Midnight Oil does not reset your hand size limit",
+    "category": "Disadvantageous",
+    "last_updated": "2018-03-11 01:21:15",
     "pd_legal": true,
     "bug_blog": true,
-    "breaking": true,
-    "bannable": true,
+    "breaking": false,
+    "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/284"
   },
   {
