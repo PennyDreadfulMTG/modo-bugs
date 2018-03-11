@@ -1,5 +1,16 @@
 [
   {
+    "card": "Phyrexian Portal",
+    "description": "[Phyrexian Portal] doesn't let the owner see the pile they have chosen or choose a card",
+    "category": "Disadvantageous",
+    "last_updated": "2018-03-11 16:39:08",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/325"
+  },
+  {
     "card": "Grave Betrayal",
     "description": "If control of Grave Betrayal or  Shirei, Shizo's Caretaker changes between a creature dying and the delayed EOT trigger going on the stack, the new controller gets the creature rather than the player who created the delayed trigger.",
     "category": "Disadvantageous",
