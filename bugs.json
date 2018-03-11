@@ -1,9 +1,20 @@
 [
   {
     "card": "Grave Betrayal",
-    "description": "If control of Grave Betrayal changes between a creature dying and the delayed EOT trigger going on the stack, the new controller gets the creature rather than the player who created the delayed trigger.",
+    "description": "If control of Grave Betrayal or  Shirei, Shizo's Caretaker changes between a creature dying and the delayed EOT trigger going on the stack, the new controller gets the creature rather than the player who created the delayed trigger.",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-11 06:41:25",
+    "last_updated": "2018-03-11 08:38:50",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/324"
+  },
+  {
+    "card": "Shirei, Shizo's Caretaker",
+    "description": "If control of Grave Betrayal or  Shirei, Shizo's Caretaker changes between a creature dying and the delayed EOT trigger going on the stack, the new controller gets the creature rather than the player who created the delayed trigger.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-03-11 08:38:50",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,

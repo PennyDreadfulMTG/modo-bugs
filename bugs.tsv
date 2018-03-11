@@ -79,7 +79,7 @@ Gonti, Lord of Luxury	If you cast Savage Stomp with [Gonti, Lord of Luxury] and 
 Goryo's Vengeance	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Goryo's Vengeance	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Grafdigger's Cage	If you manifest a creature with [Grafdigger's Cage] in play, it will be exiled.	Disadvantageous	2018-02-01 02:37:52
-Grave Betrayal	If control of Grave Betrayal changes between a creature dying and the delayed EOT trigger going on the stack, the new controller gets the creature rather than the player who created the delayed trigger.	Disadvantageous	2018-03-11 06:41:25
+Grave Betrayal	If control of Grave Betrayal or  Shirei, Shizo's Caretaker changes between a creature dying and the delayed EOT trigger going on the stack, the new controller gets the creature rather than the player who created the delayed trigger.	Disadvantageous	2018-03-11 08:38:50
 Greater Realm of Preservation	Greater Realm of Preservation does not prevent Sin Prodder's upkeep trigger damage	Disadvantageous	2018-02-08 15:38:12
 Hada Freeblade	Certain cards, such as [Hada Freeblade], do not display a legality error for the Pauper format in the collection scene.	Graphical	2017-10-06 04:50:46
 Harness the Storm	[Harness the Storm] Doesn't trigger when casting split cards.	Disadvantageous	2018-02-01 03:38:17
@@ -190,6 +190,7 @@ Sheltering Ancient	[Sheltering Ancient]'s Cumulative Upkeep Stops Working After 
 Shifting Borders	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Shifting Borders	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Shifty Doppelganger	[Shifty Doppelganger] Restarts the game at end of turn	Game Breaking	2017-09-29 07:41:26
+Shirei, Shizo's Caretaker	If control of Grave Betrayal or  Shirei, Shizo's Caretaker changes between a creature dying and the delayed EOT trigger going on the stack, the new controller gets the creature rather than the player who created the delayed trigger.	Disadvantageous	2018-03-11 08:38:50
 Shunt	Redirecting spells and abilities sometimes restarts the game in a buggy state	Game Breaking	2018-02-03 10:52:55
 Sindbad	[Fa'adiyah Seer] and [Sindbad]'s ability won't discard non-land card drawn if there is any dredge card in your graveyard	Advantageous	2018-02-03 07:52:02
 Sneak Attack	The delayed trigger ability of [Sneak Attack] causes the opponent to sacrifice the creature if they gain control it.	Advantageous	2018-01-26 10:41:18
