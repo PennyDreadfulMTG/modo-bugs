@@ -173,7 +173,7 @@ Pollen Lullaby	The controller of the clash ability is not given the option to sc
 Precursor Golem	After copying a spell for each other object it could target, the game often resets in a buggy state	Game Breaking	2018-02-06 00:01:34
 Primal Wellspring	If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.	Disadvantageous	2018-02-22 03:38:55
 Primitive Justice	[Primitive Justice] will either not cast/restart the game with a single target.	Game Breaking	2018-01-19 09:47:04
-Profane Command	[Profane Command] If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2018-03-05 02:39:13
+Profane Command	[Profane Command] If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2018-03-12 20:20:50
 Providence	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 07:39:06
 Psychic Puppetry	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Psychic Puppetry	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
