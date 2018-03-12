@@ -20,6 +20,11 @@ Candles' Glow	Splice onto Arcane abilities are incorrectly affected by cost redu
 Candles' Glow	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Captivating Glance	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
 Cast Out	Cards exiled by Cast Out are not placed underneath it	Graphical	2018-03-08 19:54:51
+Chancellor of the Annex	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
+Chancellor of the Dross	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
+Chancellor of the Forge	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
+Chancellor of the Spires	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
+Chancellor of the Tangle	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
 Chandra Nalaar	[Chandra Nalaar] Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
 Charging Tuskodon	Charging Tuskodon deals double damage to a player even for non-combat damage	Advantageous	2018-02-09 12:37:45
 Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-12 02:40:05
@@ -30,8 +35,8 @@ Combat Celebrant	[Combat Celebrant] does not allow you to exert it when attackin
 Commandeer	[Commandeer] does not gain control of the targeted noncreature spell.	Disadvantageous	2017-10-06 04:15:22
 Compost	[Compost] The effect isn't triggered when an opponent only casts the nonblack half of a split card. 	Disadvantageous	2018-02-12 02:20:27
 Compulsive Research	Dredging rather than drawing can let you avoid discarding	Advantageous	2018-02-03 03:37:58
-Concerted Effort	Some protection abilities granted by Concerted Effort are not shown graphically on the creatures	Graphical	2018-03-12 05:39:20
-Concerted Effort	[Concerted Effort] Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2017-09-29 07:41:28
+Concerted Effort	Some protection abilities granted by Concerted Effort are not shown graphically on the creatures	Graphical	2018-03-12 06:17:23
+Concerted Effort	[Concerted Effort] Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2018-03-12 06:39:07
 Consuming Vortex	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Consuming Vortex	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Containment Priest	[Containment Priest] exiles Theros Gods even when their devotion isn't met.	Advantageous	2017-07-16 19:47:21
@@ -54,7 +59,6 @@ Dream Halls	[Dream Halls] Ability is non-functional. Cannot cast spells with the
 Dream Tides	[Dream Tides] doesn't require a cost for nongreen creatures chosen to untap.	Advantageous	2018-03-12 03:35:14
 Elesh Norn, Grand Cenobite	If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2018-03-05 02:40:04
 Entreat the Angels	When [Entreat the Angels] is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.	Graphical	2018-02-11 02:45:13
-Etali, Primal Storm	[Etali, Primal Storm] is unable to cast split cards or multiple cards with additional costs.	Disadvantageous	2018-02-09 12:37:46
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Evermind	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Evermind	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
@@ -65,6 +69,7 @@ Fistful of Force	Opponent is not given the option to scry card to the bottom whe
 Floodtide Serpent	Insteading of bouncing an enchantment, attacking with Floodtide Serpent shows you all zones.	Advantageous	2018-02-06 03:13:44
 Freyalise's Winds	[Freyalise's Winds] Anytime a permanent with a wind counter would be untapped outside of the untap step,  a wind counter is removed rather than it becoming untapped.	Disadvantageous	2018-02-03 06:38:06
 Garruk, the Veil-Cursed	The art for the wolf token created by [Garruk, the Veil-Cursed] is incorrect.	Graphical	2018-01-14 22:52:37
+Gemstone Caverns	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
 Genju of the Fields	[Genju of the Fields] does not cause you to gain life upon dealing damage	Disadvantageous	2018-02-13 05:39:16
 Gideon's Intervention	[Gideon's Intervention] Casting a second copy causes the first to become partially non-functional, allowing the named card to deal damage.	Disadvantageous	2018-03-05 02:38:53
 Gideon, Martial Paragon	[Gideon, Martial Paragon] AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2017-08-10 22:39:10
@@ -115,7 +120,16 @@ Koth of the Hammer	When controlling the Emblem of [Koth of the Hammer], lands do
 Kozilek's Translator	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2018-02-11 02:52:24
 Lash Out	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
 Lavamancer's Skill	[Lavamancer's Skill] the "T: deal 1 damage" ability does not let you choose a target	Disadvantageous	2018-01-29 08:36:16
-Leyline of Sanctity	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with [Leyline of Sanctity], and chooses not to use it.	Unclassified	2018-03-12 05:09:52
+Leyline of Anticipation	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
+Leyline of Lifeforce	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
+Leyline of Lightning	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
+Leyline of Punishment	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
+Leyline of Sanctity	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
+Leyline of Sanctity	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with [Leyline of Sanctity], and chooses not to use it.	Unclassified	2018-03-12 06:39:03
+Leyline of Singularity	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
+Leyline of Vitality	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
+Leyline of the Meek	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
+Leyline of the Void	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
 Lich	[Lich] If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-06-29 19:17:25
 Lifted by Clouds	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Lifted by Clouds	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
@@ -161,6 +175,7 @@ Precursor Golem	After copying a spell for each other object it could target, the
 Primal Wellspring	If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.	Disadvantageous	2018-02-22 03:38:55
 Primitive Justice	[Primitive Justice] will either not cast/restart the game with a single target.	Game Breaking	2018-01-19 09:47:04
 Profane Command	[Profane Command] If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2018-03-05 02:39:13
+Providence	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 06:39:03
 Psychic Puppetry	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Psychic Puppetry	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Pulling Teeth	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
