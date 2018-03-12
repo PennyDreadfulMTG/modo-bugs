@@ -22,6 +22,7 @@ Captivating Glance	Opponent is not given the option to scry card to the bottom w
 Cast Out	Cards exiled by Cast Out are not placed underneath it	Graphical	2018-03-08 19:54:51
 Chandra Nalaar	[Chandra Nalaar] Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
 Charging Tuskodon	Charging Tuskodon deals double damage to a player even for non-combat damage	Advantageous	2018-02-09 12:37:45
+Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-12 02:40:04
 Clone Legion	[Clone Legion] puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-03-02 03:40:54
 Cloud Key	[Cloud Key] Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Collected Company	[Collected Company] does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2017-10-06 04:59:08
@@ -248,6 +249,7 @@ Withdraw	[Withdraw] is able to target the same creature twice.	Advantageous	2018
 Words of Waste	[Words of Waste] does not function.	Non-Functional ability	2017-12-03 04:45:09
 Yisan, the Wanderer Bard	If all of [Yisan, the Wanderer Bard]'s verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.	Advantageous	2018-01-19 08:40:26
 Zada, Hedron Grinder	After copying a spell for each other object it could target, the game often resets in a buggy state	Game Breaking	2018-02-06 00:01:34
+Zodiac Rooster	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-12 02:40:04
 Zur's Weirding	[Zur's Weirding] Reveals but doesn't allow you to pay	Disadvantageous	2018-01-19 09:47:06
 lash out	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37
 nath's elite	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-06 00:39:37

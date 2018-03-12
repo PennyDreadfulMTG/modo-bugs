@@ -33,6 +33,28 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/324"
   },
   {
+    "card": "Zodiac Rooster",
+    "description": "Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards",
+    "category": "Unconfirmed",
+    "last_updated": "2018-03-12 02:40:04",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/322"
+  },
+  {
+    "card": "Circle of Flame",
+    "description": "Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards",
+    "category": "Unconfirmed",
+    "last_updated": "2018-03-12 02:40:04",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/322"
+  },
+  {
     "card": "Leyline of Sanctity",
     "description": "A game reset can be caused if a player is able to take a pre-game action, such as the one associated with [Leyline of Sanctity], and chooses not to use it.",
     "category": "Unclassified",
