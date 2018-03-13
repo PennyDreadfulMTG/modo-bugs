@@ -62,11 +62,13 @@ Entreat the Angels	When [Entreat the Angels] is on the stack with 0 chosen for X
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Evermind	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Evermind	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
+Expropriate	bug When [Primal Wellspring] copies [Expropriate], Expropriate effects are controlled by the non-active player who votes time	Unclassified	2018-03-13 16:41:01
 Fa'adiyah Seer	[Fa'adiyah Seer] and [Sindbad]'s ability won't discard non-land card drawn if there is any dredge card in your graveyard	Advantageous	2018-02-03 07:52:02
 Fire Covenant	If [Fire Covenant] is cast for x=0 and you pay the 1 extra mana that MTGO asks you to (which is the bug), the game will restarts. Workaround: Undo the process if you encounter this bug, and never cast it for x=0	Game Breaking	2018-02-12 02:52:37
 Fire Juggler	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
 Fistful of Force	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
 Floodtide Serpent	Insteading of bouncing an enchantment, attacking with Floodtide Serpent shows you all zones.	Advantageous	2018-02-06 03:13:44
+Fractured Identity	bug When [Primal Wellspring] copies [Fractured Identity], the controller of the permanent it targets chooses the new targets for it	Unclassified	2018-03-13 16:40:59
 Freyalise's Winds	[Freyalise's Winds] Anytime a permanent with a wind counter would be untapped outside of the untap step,  a wind counter is removed rather than it becoming untapped.	Disadvantageous	2018-02-03 06:38:06
 Garruk, the Veil-Cursed	The art for the wolf token created by [Garruk, the Veil-Cursed] is incorrect.	Graphical	2018-03-13 04:40:01
 Gemstone Caverns	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 07:39:06
@@ -171,6 +173,8 @@ Phyrexian Portal	Phyrexian Portal doesn't let the owner see the pile they have c
 Pollen Lullaby	The controller of the clash ability is not given the option to scry card to the bottom when clashing	Disadvantageous	2018-03-06 05:39:15
 Precursor Golem	After copying a spell for each other object it could target, the game often resets in a buggy state	Game Breaking	2018-02-06 00:01:34
 Primal Wellspring	If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.	Disadvantageous	2018-03-13 04:40:00
+Primal Wellspring	bug When [Primal Wellspring] copies [Expropriate], Expropriate effects are controlled by the non-active player who votes time	Unclassified	2018-03-13 16:41:01
+Primal Wellspring	bug When [Primal Wellspring] copies [Fractured Identity], the controller of the permanent it targets chooses the new targets for it	Unclassified	2018-03-13 16:40:59
 Primitive Justice	[Primitive Justice] will either not cast/restart the game with a single target.	Game Breaking	2018-01-19 09:47:04
 Profane Command	[Profane Command] If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2018-03-12 20:20:50
 Providence	A game reset can be caused if a player is able to take a pre-game action, such as the one associated with Leyline of Sanctity, and chooses not to use it.	Unclassified	2018-03-12 07:39:06

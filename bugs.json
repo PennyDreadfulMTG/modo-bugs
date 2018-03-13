@@ -1,5 +1,49 @@
 [
   {
+    "card": "Primal Wellspring",
+    "description": "bug When [Primal Wellspring] copies [Fractured Identity], the controller of the permanent it targets chooses the new targets for it",
+    "category": "Unclassified",
+    "last_updated": "2018-03-13 16:40:59",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/330"
+  },
+  {
+    "card": "Fractured Identity",
+    "description": "bug When [Primal Wellspring] copies [Fractured Identity], the controller of the permanent it targets chooses the new targets for it",
+    "category": "Unclassified",
+    "last_updated": "2018-03-13 16:40:59",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/330"
+  },
+  {
+    "card": "Primal Wellspring",
+    "description": "bug When [Primal Wellspring] copies [Expropriate], Expropriate effects are controlled by the non-active player who votes time",
+    "category": "Unclassified",
+    "last_updated": "2018-03-13 16:41:01",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/329"
+  },
+  {
+    "card": "Expropriate",
+    "description": "bug When [Primal Wellspring] copies [Expropriate], Expropriate effects are controlled by the non-active player who votes time",
+    "category": "Unclassified",
+    "last_updated": "2018-03-13 16:41:01",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/329"
+  },
+  {
     "card": "Concerted Effort",
     "description": "Some protection abilities granted by Concerted Effort are not shown graphically on the creatures",
     "category": "Graphical",
