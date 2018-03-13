@@ -13,7 +13,7 @@ Blood Moon	If [Vesuva] copies a land with a static ability and then is later tur
 Bloodline Keeper	[Bloodline Keeper]'s tokens have incorrect art and incorrectly display that they have lifelink.	Graphical	2018-03-12 03:21:07
 Bog Hoodlums	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
 Booby Trap	[Booby Trap] does not let you name anything other than non-basic lands.	Disadvantageous	2017-12-12 18:19:18
-Borderland Explorer	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-02-10 14:03:32
+Borderland Explorer	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-03-13 03:39:29
 Broken Ambitions	The controller of the clash ability is not given the option to scry card to the bottom when clashing	Disadvantageous	2018-03-06 05:39:15
 Buried Alive	The order of cards put into the graveyard by Buried Alive is random	Disadvantageous	2018-03-04 06:55:58
 Candles' Glow	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
@@ -36,7 +36,7 @@ Commandeer	[Commandeer] does not gain control of the targeted noncreature spell.
 Compost	[Compost] The effect isn't triggered when an opponent only casts the nonblack half of a split card. 	Disadvantageous	2018-02-12 02:20:27
 Compulsive Research	Dredging rather than drawing can let you avoid discarding	Advantageous	2018-02-03 03:37:58
 Concerted Effort	Some protection abilities granted by Concerted Effort are not shown graphically on the creatures	Graphical	2018-03-12 06:17:23
-Concerted Effort	[Concerted Effort] Specific protections are not shared among all creatures. (example Harbinger of Spring Protection from non-Spirit Creatures)	Disadvantageous	2018-03-12 06:39:07
+Concerted Effort	[Concerted Effort] Some specific protections are not shared among all creatures. (example: Proctetion from all colors)	Disadvantageous	2018-03-13 03:15:54
 Consuming Vortex	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Consuming Vortex	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Containment Priest	[Containment Priest] exiles Theros Gods even when their devotion isn't met.	Advantageous	2017-07-16 19:47:21
@@ -154,7 +154,7 @@ Naga Oracle	Some spells that let you look at the top cards of your library and c
 Nath's Elite	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
 Nazahn, Revered Bladesmith	Searching for any equipment other than Nazahn's Hammer causes it to be put in an opponent's hand	Disadvantageous	2018-02-03 02:37:56
 Nebuchadnezzar	[Nebuchadnezzar] ability makes the game start endlessly repeating itself	Game Breaking	2018-02-02 21:38:03
-Noble Benefactor	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-02-10 14:03:32
+Noble Benefactor	All lands fetched using [Borderland Explorer]'s ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-03-13 03:39:29
 Null Chamber	[Null Chamber]'s Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2018-02-16 03:58:51
 Null Profusion	Null Profusion triggers when another player casts its owner's cards	Advantageous	2018-03-04 22:21:16
 Oaken Brawler	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
