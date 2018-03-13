@@ -237,7 +237,7 @@ Storage Matrix	[Storage Matrix] Selecting yes to anything other than artifacts w
 Strange Inversion	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Strange Inversion	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Structural Collapse	[Structural Collapse] doesn't cause target to sacrifice either an artifact or land.	Disadvantageous	2018-02-13 06:30:28
-Summoner's Bane	Token created by Summoner's Bane have incorrect art and incorrectly display that they have flying	Graphical	2018-03-12 05:07:47
+Summoner's Bane	Token created by Summoner's Bane have incorrect art and incorrectly display that they have flying	Graphical	2018-03-13 01:26:13
 Sunscourge Champion	[Sunscourge Champion] will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2017-08-10 23:39:12
 Swerve	Redirecting spells and abilities sometimes restarts the game in a buggy state	Game Breaking	2018-02-03 10:52:55
 Sylvan Primordial	Casting [Sylvan Primordial] causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2018-02-11 02:52:19
