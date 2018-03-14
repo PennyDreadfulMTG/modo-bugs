@@ -1,5 +1,27 @@
 [
   {
+    "card": "Duskwatch Recruiter",
+    "description": "bug [Duskwatch Recruiter] puts revealed cards to the top of its owner's library",
+    "category": "Unconfirmed",
+    "last_updated": "2018-03-14 22:40:36",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/332"
+  },
+  {
+    "card": "Vessel of Nascency",
+    "description": "bug If [Vessel of Nascency] reveals any cards that it cannot put into its owners hand, those cards are put on the top of the library instead of the graveyard",
+    "category": "Unconfirmed",
+    "last_updated": "2018-03-14 22:40:37",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/331"
+  },
+  {
     "card": "Primal Wellspring",
     "description": "bug When [Primal Wellspring] copies [Fractured Identity], the controller of the permanent it targets chooses the new targets for it",
     "category": "Unclassified",

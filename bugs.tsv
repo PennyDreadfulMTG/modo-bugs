@@ -57,6 +57,7 @@ Dosan the Falling Leaf	Dosan the Falling Leaf only allows players to cast spells
 Doubling Season	[Doubling Season] incorrectly doubles loyalty counters added from costs of loyalty abilities.	Advantageous	2017-10-24 13:38:38
 Dream Halls	[Dream Halls] Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2018-03-08 15:40:20
 Dream Tides	[Dream Tides] doesn't require a cost for nongreen creatures chosen to untap.	Advantageous	2018-03-12 03:35:14
+Duskwatch Recruiter	bug [Duskwatch Recruiter] puts revealed cards to the top of its owner's library	Unconfirmed	2018-03-14 22:40:36
 Elesh Norn, Grand Cenobite	If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2018-03-05 02:40:04
 Entreat the Angels	When [Entreat the Angels] is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.	Graphical	2018-02-11 02:45:13
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
@@ -264,6 +265,7 @@ Torrent of Stone	Splice onto Arcane abilities are incorrectly affected by tax ef
 Unscythe, Killer of Kings	[Unscythe, Killer of Kings]'s effect procs when unequipped.	Advantageous	2018-02-13 06:49:12
 Veil of Secrecy	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Veil of Secrecy	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
+Vessel of Nascency	bug If [Vessel of Nascency] reveals any cards that it cannot put into its owners hand, those cards are put on the top of the library instead of the graveyard	Unconfirmed	2018-03-14 22:40:37
 Vesuva	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-02-11 02:46:26
 Vesuvan Shapeshifter	If [Vesuvan Shapeshifter] copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.	Advantageous	2018-01-19 09:46:51
 Vexing Sphinx	[Vexing Sphinx]'s Cumulative Upkeep Doesn't Make You Discard	Advantageous	2018-01-23 02:44:18
