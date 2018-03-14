@@ -265,7 +265,7 @@ Torrent of Stone	Splice onto Arcane abilities are incorrectly affected by tax ef
 Unscythe, Killer of Kings	[Unscythe, Killer of Kings]'s effect procs when unequipped.	Advantageous	2018-02-13 06:49:12
 Veil of Secrecy	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Veil of Secrecy	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
-Vessel of Nascency	bug If [Vessel of Nascency] reveals any cards that it cannot put into its owners hand, those cards are put on the top of the library instead of the graveyard	Unconfirmed	2018-03-14 22:40:37
+Vessel of Nascency	bug If [Vessel of Nascency] reveals any cards that it cannot put into its owners hand, those cards are put on the top of the library instead of the graveyard	Unconfirmed	2018-03-14 22:40:38
 Vesuva	If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Unclassified	2018-02-11 02:46:26
 Vesuvan Shapeshifter	If [Vesuvan Shapeshifter] copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.	Advantageous	2018-01-19 09:46:51
 Vexing Sphinx	[Vexing Sphinx]'s Cumulative Upkeep Doesn't Make You Discard	Advantageous	2018-01-23 02:44:18

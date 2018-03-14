@@ -14,7 +14,7 @@
     "card": "Vessel of Nascency",
     "description": "bug If [Vessel of Nascency] reveals any cards that it cannot put into its owners hand, those cards are put on the top of the library instead of the graveyard",
     "category": "Unconfirmed",
-    "last_updated": "2018-03-14 22:40:37",
+    "last_updated": "2018-03-14 22:40:38",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
