@@ -22,7 +22,7 @@ Captivating Glance	Opponent is not given the option to scry card to the bottom w
 Cast Out	Cards exiled by Cast Out are not placed underneath it	Graphical	2018-03-08 19:54:51
 Chandra Nalaar	[Chandra Nalaar] Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
 Charging Tuskodon	Charging Tuskodon deals double damage to a player even for non-combat damage	Advantageous	2018-02-09 12:37:45
-Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-15 03:38:52
+Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-15 04:39:38
 Clone Legion	[Clone Legion] puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-03-02 03:40:54
 Cloud Key	[Cloud Key] Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Collected Company	[Collected Company] does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2017-10-06 04:59:08
@@ -30,7 +30,7 @@ Combat Celebrant	[Combat Celebrant] does not allow you to exert it when attackin
 Commandeer	[Commandeer] does not gain control of the targeted noncreature spell.	Disadvantageous	2017-10-06 04:15:22
 Compost	[Compost] The effect isn't triggered when an opponent only casts the nonblack half of a split card. 	Disadvantageous	2018-02-12 02:20:27
 Compulsive Research	Dredging rather than drawing can let you avoid discarding	Advantageous	2018-02-03 03:37:58
-Concerted Effort	Some protection abilities granted by Concerted Effort are not shown graphically on the creatures	Graphical	2018-03-15 03:39:42
+Concerted Effort	Some protection abilities granted by Concerted Effort are not shown visually on creatures	Graphical	2018-03-15 04:39:38
 Concerted Effort	[Concerted Effort] Some specific protections are not shared among all creatures. (example: Spectra Ward's Protection from all colors)	Disadvantageous	2018-03-15 02:30:27
 Consuming Vortex	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Consuming Vortex	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
@@ -87,6 +87,7 @@ Greater Realm of Preservation	Greater Realm of Preservation does not prevent Sin
 Hada Freeblade	Certain cards, such as [Hada Freeblade], do not display a legality error for the Pauper format in the collection scene.	Graphical	2017-10-06 04:50:46
 Harness the Storm	[Harness the Storm] Doesn't trigger when casting split cards.	Disadvantageous	2018-02-01 03:38:17
 Harsh Mentor	[Harsh Mentor]'s triggered ability also affects abilities activated from creatures in the graveyard.	Advantageous	2017-11-05 11:26:30
+Headless Horseman	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-15 04:39:38
 Hideous Laughter	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Hideous Laughter	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 High Seas	[High Seas] only affects red creature spells.	Disadvantageous	2018-03-04 07:39:05
@@ -125,7 +126,7 @@ Lurking Evil	[Lurking Evil] makes you pay half your opponent's life total	Advant
 Mana Bloom	[Mana Bloom] Ability does not generate mana on opponents' turns.	Disadvantageous	2018-02-08 17:31:21
 Mass Polymorph	[Synthetic Destiny][Mass Polymorph] does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-01-19 09:47:03
 Memory Lapse	[Memory Lapse] moves aftermath cards back on top of the library instead of to the exile zone.	Disadvantageous	2018-03-05 02:40:11
-Midnight Oil	Casting a second Midnight Oil does not reset your hand size limit	Disadvantageous	2018-03-11 01:21:15
+Midnight Oil	Casting a second Midnight Oil does not reset your hand size limit	Disadvantageous	2018-03-15 03:45:29
 Mind Bend	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-02-15 05:01:51
 Mindclaw Shaman	You are unable to cast split cards with [Mindclaw Shaman]'s ability.	Disadvantageous	2018-02-12 02:38:56
 Mirror Match	[Mirror Match] Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2018-03-05 02:40:05
@@ -267,5 +268,5 @@ Withdraw	[Withdraw] is able to target the same creature twice.	Advantageous	2018
 Woodland Guidance	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
 Words of Waste	[Words of Waste] does not function.	Non-Functional ability	2017-12-03 04:45:09
 Yisan, the Wanderer Bard	If all of [Yisan, the Wanderer Bard]'s verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.	Advantageous	2018-01-19 08:40:26
-Zodiac Rooster	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-15 03:38:52
+Zodiac Rooster	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-15 04:39:38
 Zur's Weirding	[Zur's Weirding] Reveals but doesn't allow you to pay	Disadvantageous	2018-01-19 09:47:06
