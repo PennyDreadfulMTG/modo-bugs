@@ -5,6 +5,7 @@ import re
 import sys
 import urllib.parse
 from typing import Dict, List
+from github.Issue import Issue
 
 import requests
 from github import Github
@@ -168,7 +169,7 @@ def process_issue(issue):
             }
         ALL_BUGS.append(bug)
 
-def fix_user_errors(issue):
+def fix_user_errors(issue: Issue):
     body = issue.body
     # People sometimes put the affected cards on the following line. Account for that.
     body = re.sub(BAD_AFFECTS_REGEX, 'Affects: [', body)
@@ -189,6 +190,13 @@ def fix_user_errors(issue):
     # Push changes.
     if body != issue.body:
         issue.edit(body=body)
+    # People are putting [cardnames] in square quotes, despite the fact we prefer Affects: now.
+    def get_name(match):
+        return match.group(1).strip()
+    title = re.sub(REGEX_CARDREF, get_name, issue.title)
+    if title != issue.title:
+        print("Changing title of #{0} to \"{1}\"".format(issue.number, title))
+        issue.edit(title=title)
 
 if __name__ == "__main__":
     main()
