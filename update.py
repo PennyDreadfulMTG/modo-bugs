@@ -1,21 +1,22 @@
 import codecs
+import datetime
+import json
 import re
 import sys
-import datetime
 import urllib.parse
-import json
 from typing import Dict, List
+from github.Issue import Issue
 
 import requests
 from github import Github
 
-import configuration, fetcher
-from helpers import remove_smartquotes
+import configuration
+import fetcher
+from helpers import (AFFECTS_REGEX, BAD_AFFECTS_REGEX, BADCATS, CATEGORIES,
+                     DISCORD_REGEX, IMAGES_REGEX, REGEX_CARDREF,
+                     remove_smartquotes)
 
 CARDNAMES: List[str] = fetcher.catalog_cardnames()
-
-CATEGORIES = ["Advantageous", "Disadvantageous", "Game Breaking", "Graphical", "Non-Functional ability"]
-BADCATS = ["Game Breaking"]
 
 LEGAL_CARDS: List[str] = []
 
@@ -23,15 +24,10 @@ ALL_BUGS: List[Dict] = []
 
 ALL_CSV: List[str] = []
 
-AFFECTS_REGEX = r'^Affects: (.*)$'
-DISCORD_REGEX = r'^Reported on Discord by (\w+#[0-9]+)$'
-IMAGES_REGEX = r'^<!-- Images --> (.*)$'
-REGEX_CARDREF = r'\[?\[([^\]]*)\]\]?'
 
-BAD_AFFECTS_REGEX = r'Affects: (\[Card Name\]\(, \[Second Card name\], etc\)\r?\n)\['
 
 if sys.stdout.encoding != 'utf-8':
-    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer)
+    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer) # type: ignore
 
 def fetch_pd_legal() -> None:
     print('Fetching http://pdmtgo.com/legal_cards.txt')
@@ -173,7 +169,7 @@ def process_issue(issue):
             }
         ALL_BUGS.append(bug)
 
-def fix_user_errors(issue):
+def fix_user_errors(issue: Issue):
     body = issue.body
     # People sometimes put the affected cards on the following line. Account for that.
     body = re.sub(BAD_AFFECTS_REGEX, 'Affects: [', body)
@@ -194,6 +190,13 @@ def fix_user_errors(issue):
     # Push changes.
     if body != issue.body:
         issue.edit(body=body)
+    # People are putting [cardnames] in square quotes, despite the fact we prefer Affects: now.
+    def get_name(match):
+        return match.group(1).strip()
+    title = re.sub(REGEX_CARDREF, get_name, issue.title)
+    if title != issue.title:
+        print("Changing title of #{0} to \"{1}\"".format(issue.number, title))
+        issue.edit(title=title)
 
 if __name__ == "__main__":
     main()

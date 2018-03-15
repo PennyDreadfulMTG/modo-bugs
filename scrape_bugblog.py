@@ -1,22 +1,22 @@
 import re
+from typing import List, Optional, Tuple
 
-from helpers import remove_smartquotes
-
-from bs4 import BeautifulSoup, Comment
-from github import Github
 import requests
+from bs4 import BeautifulSoup, Comment
+from bs4.element import Tag
+from github import Github
+from github.Issue import Issue
 
 import configuration
+from helpers import remove_smartquotes, CODE_REGEX, BBT_REGEX
 
-CODE_REGEX = r'^Code: (.*)$'
-BBT_REGEX = r'^Bug Blog Text: (.*)$'
 
 ISSUE_CODES = {}
 
 github = Github(configuration.get("github_user"), configuration.get("github_password"))
 repo = github.get_repo("PennyDreadfulMTG/modo-bugs")
 
-def scrape():
+def scrape() -> None:
     print('Fetching http://magic.wizards.com/en/articles/archive/184956')
     soup = BeautifulSoup(requests.get('http://magic.wizards.com/en/articles/archive/184956').text, 'html.parser')
     articles = [parse_article_item_extended(a) for a in soup.find_all('div', class_='article-item-extended')]
@@ -25,23 +25,23 @@ def scrape():
     update_redirect(bug_blogs[0][0].text, bug_blogs[0][1])
     scrape_bb(bug_blogs[0][1])
 
-def update_redirect(title, redirect):
+def update_redirect(title: str, redirect: str) -> None:
     text = "---\ntitle: {title}\nredirect_to:\n - {url}\n---\n".format(title=title, url=redirect)
     bb_jekyl = open('bug_blog.md', mode='w')
     bb_jekyl.write(text)
     bb_jekyl.close()
 
-def parse_article_item_extended(a):
+def parse_article_item_extended(a: Tag) -> Tuple[Tag, str]:
     title = a.find_all('h3')[0]
     link = 'http://magic.wizards.com' + a.find_all('a')[0]['href']
     return (title, link)
 
-def scrape_bb(url):
+def scrape_bb(url: str) -> None:
     soup = BeautifulSoup(requests.get(url).text, 'html.parser')
     for b in soup.find_all('div', class_='collapsibleBlock'):
         parse_block(b)
 
-def parse_block(collapsibleBlock):
+def parse_block(collapsibleBlock: Tag) -> None:
     title = collapsibleBlock.find_all('h2')[0].get_text()
     print(title)
     handle_autocards(collapsibleBlock)
@@ -52,7 +52,7 @@ def parse_block(collapsibleBlock):
     else:
         print("Unknown block: {0}".format(title))
 
-def parse_changelog(collapsibleBlock):
+def parse_changelog(collapsibleBlock: Tag) -> None:
     # They never show Fixed bugs in the Bug Blog anymore.  Fixed bugs are now listed on the Build Notes section of MTGO weekly announcements.
     # This is frustrating.
     for added in collapsibleBlock.find_all('ul'):
@@ -105,12 +105,12 @@ def parse_changelog(collapsibleBlock):
                     text = "From Bug Blog.\nBug Blog Text: {0}".format(remove_smartquotes(item.get_text()))
                 repo.create_issue(remove_smartquotes(item.get_text()), body=remove_smartquotes(text), labels=["From Bug Blog"])
 
-def get_cards_from_string(item):
+def get_cards_from_string(item: str) -> List[str]:
     cards = re.findall(r'\[?\[([^\]]*)\]\]?', item)
     cards = [c for c in cards]
     return cards
 
-def parse_knownbugs(b):
+def parse_knownbugs(b: Tag) -> None:
     # attempt to find all the fixed bugs
     all_codes = b.find_all(string=lambda text: isinstance(text, Comment))
     all_codes = [str(code).replace('\t', ' ') for code in all_codes]
@@ -137,12 +137,12 @@ def parse_knownbugs(b):
                 for line in lines:
                     parent = line.parent
                     try:
-                        code = str(parent.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
+                        bb_code = str(parent.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
                     except IndexError:
-                        code = None
+                        bb_code = None
                     bb_text = parent.get_text()
-                    print(code)
-                    if find_issue_by_code(code) is not None:
+                    print(bb_code)
+                    if find_issue_by_code(bb_code) is not None:
                         print("Already assigned.")
                         continue
                     if find_issue_by_code(bb_text) is not None:
@@ -150,8 +150,8 @@ def parse_knownbugs(b):
                         continue
                     text = ''.join(parent.strings)
                     print(text)
-                    if code is not None:
-                        create_comment(issue, 'Found in bug blog.\n{0}\nCode: {1}'.format(text, code))
+                    if bb_code is not None:
+                        create_comment(issue, 'Found in bug blog.\n{0}\nCode: {1}'.format(text, bb_code))
                     else:
                         create_comment(issue, 'Found in bug blog.\nBug Blog Text: {0}'.format(text))
                     if not ("From Bug Blog" in [i.name for i in issue.labels]):
@@ -169,18 +169,20 @@ def parse_knownbugs(b):
                 create_comment(issue, 'This bug has been removed from the bug blog!')
                 issue.edit(state='closed')
         elif bbt is not None:
+            text = bbt.group(1).strip()
+
             pass
 
 def create_comment(issue, body):
     ISSUE_CODES[issue.id] = None
     return issue.create_comment(remove_smartquotes(body))
 
-def handle_autocards(soup):
+def handle_autocards(soup: Tag) -> None:
     for link in soup.find_all('a', class_='autocard-link'):
         name = link.get_text()
         link.replace_with('[{0}]'.format(name))
 
-def find_issue_by_code(code):
+def find_issue_by_code(code: Optional[str]) -> Issue:
     if code is None:
         return None
     all_issues = repo.get_issues(state="all")
@@ -217,7 +219,7 @@ def find_issue_by_code(code):
             ISSUE_CODES[issue.id] = code
             return issue
 
-def find_issue_by_name(name):
+def find_issue_by_name(name: str) -> Issue:
     if name is None: #What?
         return None
     all_issues = repo.get_issues(state="all")
@@ -225,9 +227,9 @@ def find_issue_by_name(name):
         if issue.title == name:
             return issue
 
-def find_issue(cards):
+def find_issue(cards: List[str]) -> Optional[Issue]:
     all_issues = repo.get_issues()
-    relevant_issues = []
+    relevant_issues: List[Issue] = []
     for card in cards:
         for issue in all_issues:
             if issue.id in ISSUE_CODES.keys() and ISSUE_CODES[issue.id] is not None:
@@ -246,4 +248,5 @@ def find_issue(cards):
         print("No issue for this card.")
         return None
 
-scrape()
+if __name__ == "__main__":
+    scrape()
