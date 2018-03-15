@@ -2,6 +2,7 @@ from typing import List
 
 import fetcher_internal as internal
 
+
 def search_scryfall(query):
     """Returns a tuple. First member is an integer indicating how many cards match the query total,
        second member is a list of card names up to the maximum that could be fetched in a timely fashion."""

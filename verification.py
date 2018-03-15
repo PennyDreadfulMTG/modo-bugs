@@ -1,7 +1,8 @@
-import configuration
-from lxml import etree
 import requests
 from github import Github
+from lxml import etree
+
+import configuration
 
 manifest = requests.get('http://mtgoclientdepot.onlinegaming.wizards.com/MTGO.application')
 tree = etree.fromstring(manifest.content)
