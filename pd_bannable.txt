@@ -4,8 +4,6 @@ Wild Ricochet
 Shunt
 Deflection
 Reroute
-Precursor Golem
-Zada, Hedron Grinder
 Ignite Memories
 Identity Thief
 Tawnos's Coffin
