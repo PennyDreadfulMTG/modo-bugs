@@ -36,7 +36,7 @@ Commandeer	[Commandeer] does not gain control of the targeted noncreature spell.
 Compost	[Compost] The effect isn't triggered when an opponent only casts the nonblack half of a split card. 	Disadvantageous	2018-02-12 02:20:27
 Compulsive Research	Dredging rather than drawing can let you avoid discarding	Advantageous	2018-02-03 03:37:58
 Concerted Effort	Some protection abilities granted by Concerted Effort are not shown graphically on the creatures	Graphical	2018-03-12 06:17:23
-Concerted Effort	[Concerted Effort] Some specific protections are not shared among all creatures. (example: Spectra Ward's Protection from all colors)	Disadvantageous	2018-03-13 05:17:13
+Concerted Effort	[Concerted Effort] Some specific protections are not shared among all creatures. (example: Spectra Ward's Protection from all colors)	Disadvantageous	2018-03-15 02:30:27
 Consuming Vortex	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Consuming Vortex	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Containment Priest	[Containment Priest] exiles Theros Gods even when their devotion isn't met.	Advantageous	2017-07-16 19:47:21
@@ -248,7 +248,7 @@ Thran Turbine	[Thran Turbine] mana is able to be used to cast spells	Advantageou
 Through the Breach	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Through the Breach	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Titan's Revenge	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
-Tomorrow, Azami's Familiar	[Tomorrow, Azami's Familiar] puts both cards not chosen back on top of the library.	Disadvantageous	2018-01-31 20:14:41
+Tomorrow, Azami's Familiar	[Tomorrow, Azami's Familiar] puts both unchosen cards back on top of the library.	Disadvantageous	2018-03-15 02:00:14
 Torment of Hailfire	The undo function works incorrectly with [Torment of Hailfire].	Disadvantageous	2017-08-25 03:22:38
 Torrent of Stone	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Torrent of Stone	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
