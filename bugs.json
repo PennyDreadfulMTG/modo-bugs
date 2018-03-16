@@ -1223,8 +1223,8 @@
   {
     "card": "Vesuva",
     "description": "If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.",
-    "category": "Unclassified",
-    "last_updated": "2018-02-11 02:46:26",
+    "category": "Advantageous",
+    "last_updated": "2018-03-16 08:31:38",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -1234,8 +1234,8 @@
   {
     "card": "Blood Moon",
     "description": "If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.",
-    "category": "Unclassified",
-    "last_updated": "2018-02-11 02:46:26",
+    "category": "Advantageous",
+    "last_updated": "2018-03-16 08:31:38",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -1245,8 +1245,8 @@
   {
     "card": "Spreading Seas",
     "description": "If [Vesuva] copies a land with a static ability and then is later turned into a basic land (perhaps by a [Blood Moon] or [Spreading Seas]), that static ability will not be removed. Triggered and activated abilities are correctly removed.",
-    "category": "Unclassified",
-    "last_updated": "2018-02-11 02:46:26",
+    "category": "Advantageous",
+    "last_updated": "2018-03-16 08:31:38",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
