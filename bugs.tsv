@@ -160,6 +160,7 @@ Paperfin Rascal	Opponent is not given the option to scry card to the bottom when
 Phantom Tiger	If [Phantom Tiger] dies in combat, blue text abilities it had been granted do not apply to that combat's damage.	Disadvantageous	2018-01-19 08:40:28
 Phyrexian Portal	Phyrexian Portal doesn't let the owner see the pile they have chosen or choose a card	Disadvantageous	2018-03-12 05:08:04
 Pollen Lullaby	The controller of the clash ability is not given the option to scry card to the bottom when clashing	Disadvantageous	2018-03-06 05:39:15
+Pox	The calculation code seems to be wrong, because one third of three (3) is calculated as two (2)	Unconfirmed	2018-03-16 04:41:06
 Primal Wellspring	If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.	Disadvantageous	2018-03-13 04:40:00
 Primal Wellspring	bug When [Primal Wellspring] copies [Expropriate], Expropriate effects are controlled by the non-active player who votes time	Unclassified	2018-03-13 16:41:01
 Primal Wellspring	bug When [Primal Wellspring] copies [Fractured Identity], the controller of the permanent it targets chooses the new targets for it	Unclassified	2018-03-13 16:40:59

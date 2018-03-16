@@ -1,5 +1,16 @@
 [
   {
+    "card": "Pox",
+    "description": "The calculation code seems to be wrong, because one third of three (3) is calculated as two (2)",
+    "category": "Unconfirmed",
+    "last_updated": "2018-03-16 04:41:06",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/335"
+  },
+  {
     "card": "Weird Harvest",
     "description": "All creatures searched using Weird Harvest's ability will end in the hand of the last priority player",
     "category": "Disadvantageous",
