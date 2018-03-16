@@ -2761,17 +2761,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/44"
   },
   {
-    "card": "Memory Lapse",
-    "description": "[Memory Lapse] moves aftermath cards back on top of the library instead of to the exile zone.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-03-05 02:40:11",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/43"
-  },
-  {
     "card": "Runic Repetition",
     "description": "[Runic Repetition] Cannot be cast",
     "category": "Disadvantageous",
