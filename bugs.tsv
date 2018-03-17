@@ -24,7 +24,7 @@ Card Name	When a player leaves a multiplayer game before the first turn, you can
 Cast Out	Cards exiled by Cast Out are not placed underneath it	Graphical	2018-03-08 19:54:51
 Chandra Nalaar	[Chandra Nalaar] Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2017-09-29 07:41:14
 Charging Tuskodon	Charging Tuskodon deals double damage to a player even for non-combat damage	Advantageous	2018-02-09 12:37:45
-Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-15 04:39:38
+Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-17 01:05:29
 Clone Legion	[Clone Legion] puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-03-02 03:40:54
 Cloud Key	[Cloud Key] Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
 Collected Company	[Collected Company] does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2017-10-06 04:59:08
@@ -90,7 +90,7 @@ Greater Realm of Preservation	Greater Realm of Preservation does not prevent Sin
 Hada Freeblade	Certain cards, such as [Hada Freeblade], do not display a legality error for the Pauper format in the collection scene.	Graphical	2017-10-06 04:50:46
 Harness the Storm	[Harness the Storm] Doesn't trigger when casting split cards.	Disadvantageous	2018-02-01 03:38:17
 Harsh Mentor	[Harsh Mentor]'s triggered ability also affects abilities activated from creatures in the graveyard.	Advantageous	2017-11-05 11:26:30
-Headless Horseman	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-15 04:39:38
+Headless Horseman	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-17 01:05:29
 Hideous Laughter	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Hideous Laughter	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 High Seas	[High Seas] only affects red creature spells.	Disadvantageous	2018-03-04 07:39:05
@@ -273,5 +273,5 @@ Withdraw	[Withdraw] is able to target the same creature twice.	Advantageous	2018
 Woodland Guidance	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
 Words of Waste	[Words of Waste] does not function.	Non-Functional ability	2017-12-03 04:45:09
 Yisan, the Wanderer Bard	If all of [Yisan, the Wanderer Bard]'s verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.	Advantageous	2018-01-19 08:40:26
-Zodiac Rooster	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-15 04:39:38
+Zodiac Rooster	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-17 01:05:29
 Zur's Weirding	[Zur's Weirding] Reveals but doesn't allow you to pay	Disadvantageous	2018-01-19 09:47:06
