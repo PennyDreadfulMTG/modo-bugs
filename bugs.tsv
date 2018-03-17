@@ -56,6 +56,7 @@ Doubling Season	[Doubling Season] incorrectly doubles loyalty counters added fro
 Dream Halls	[Dream Halls] Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2018-03-08 15:40:20
 Dream Tides	Dream Tides doesn't require a cost for nongreen creatures chosen to untap.	Advantageous	2018-03-15 01:32:28
 Elesh Norn, Grand Cenobite	If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2018-03-05 02:40:04
+Ends	[Odds] Odds: Restarts the game in buggy state on heads	Game Breaking	2018-03-17 10:40:51
 Entreat the Angels	When [Entreat the Angels] is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.	Graphical	2018-02-11 02:45:13
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2017-10-31 04:05:19
 Evermind	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
@@ -148,7 +149,7 @@ Noble Benefactor	All lands fetched using [Borderland Explorer]'s ETB ability, re
 Null Chamber	[Null Chamber]'s Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2018-02-16 03:58:51
 Null Profusion	Null Profusion triggers when another player casts its owner's cards	Advantageous	2018-03-04 22:21:16
 Oaken Brawler	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
-Odds/Ends	[Odds] Odds: Restarts the game in buggy state on heads	Game Breaking	2018-03-15 06:40:28
+Odds	[Odds] Odds: Restarts the game in buggy state on heads	Game Breaking	2018-03-17 10:40:51
 Orcish Spy	[Orcish Spy] and cards with similar abilities show the cards in alphabetical order, not the actual order	Disadvantageous	2018-02-14 19:40:35
 Oriss, Samite Guardian	Using [Oriss, Samite Guardian]'s Grandeur ability during controller's precombat main phase will not allow controller to attack that turn.	Disadvantageous	2017-09-29 07:41:07
 Overabundance	[Overabundance] can't add colorless mana, therefore keeping players from using lands that only tap for colorless	Advantageous	2018-02-26 00:12:54
@@ -167,6 +168,7 @@ Primitive Justice	[Primitive Justice] will either not cast/restart the game with
 Profane Command	[Profane Command] If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2018-03-12 20:20:50
 Psychic Puppetry	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Psychic Puppetry	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
+Psychotic Episode	[Psychotic Episode] The card on top of the library isn't displayed in the revealed zone	Unconfirmed	2018-03-17 10:40:46
 Pulling Teeth	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
 Puppeteer Clique	Creatures returned with [Puppeteer Clique] are exiled at the end of any turn, not just the controller's	Disadvantageous	2017-11-09 08:04:30
 Reap	[Reap] puts a "face down ability" into hand instead of the targetted cards	Game Breaking	2018-03-11 06:23:16

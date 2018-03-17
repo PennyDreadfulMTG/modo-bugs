@@ -1,5 +1,16 @@
 [
   {
+    "card": "Psychotic Episode",
+    "description": "[Psychotic Episode] The card on top of the library isn't displayed in the revealed zone",
+    "category": "Unconfirmed",
+    "last_updated": "2018-03-17 10:40:46",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/336"
+  },
+  {
     "card": "Pox",
     "description": "The calculation code seems to be wrong, because one third of three (3) is calculated as two (2)",
     "category": "Unconfirmed",
@@ -2882,10 +2893,21 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/20"
   },
   {
-    "card": "Odds/Ends",
+    "card": "Odds",
     "description": "[Odds] Odds: Restarts the game in buggy state on heads",
     "category": "Game Breaking",
-    "last_updated": "2018-03-15 06:40:28",
+    "last_updated": "2018-03-17 10:40:51",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17"
+  },
+  {
+    "card": "Ends",
+    "description": "[Odds] Odds: Restarts the game in buggy state on heads",
+    "category": "Game Breaking",
+    "last_updated": "2018-03-17 10:40:51",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
