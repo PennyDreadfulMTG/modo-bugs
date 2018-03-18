@@ -2299,6 +2299,17 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/176"
   },
   {
+    "card": "Prince of Thralls",
+    "description": "Prince of Thralls\u00a0asks its owner to pay life instead of the opponent.",
+    "category": "Advantageous",
+    "last_updated": "2018-03-18 23:40:12",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/160"
+  },
+  {
     "card": "Torment of Hailfire",
     "description": "The undo function works incorrectly with [Torment of Hailfire].",
     "category": "Disadvantageous",
