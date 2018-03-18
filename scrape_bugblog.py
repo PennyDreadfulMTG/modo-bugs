@@ -170,7 +170,10 @@ def parse_knownbugs(b: Tag) -> None:
                 issue.edit(state='closed')
         elif bbt is not None:
             text = bbt.group(1).strip()
+            for row in all_rows:
+                data = row.find_all("td")
 
+                handle_autocards(row.text)
             pass
 
 def create_comment(issue, body):
@@ -182,7 +185,7 @@ def handle_autocards(soup: Tag) -> None:
         name = link.get_text()
         link.replace_with('[{0}]'.format(name))
 
-def find_issue_by_code(code: Optional[str]) -> Issue:
+def find_issue_by_code(code: str) -> Issue:
     if code is None:
         return None
     all_issues = repo.get_issues(state="all")
