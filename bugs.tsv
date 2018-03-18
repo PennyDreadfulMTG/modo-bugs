@@ -3,7 +3,7 @@ Abandoned Sarcophagus	As Foretold incorrectly does not apply to cards able to be
 Abandoned Sarcophagus	[Abandoned Sarcophagus] does not allow you to pay for {X} when casting cycling cards with its ability	Disadvantageous	2018-02-13 06:39:08
 Adder-Staff Boggart	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
 Angelic Field Marshal	[Angelic Field Marshal] still grants a bonus to your commander when an opponent gains control of it.	Advantageous	2018-02-08 16:34:45
-Anthroplasm	Anthroplasm dies as soon as its ability resolves and can cause a softlock with an anthem effect out.	Avoidable Game Breaking	2018-03-18 04:39:07
+Anthroplasm	Anthroplasm dies as soon as its ability resolves and can cause a softlock with an anthem effect out.	Avoidable Game Breaking	2018-03-18 04:39:08
 Apathy	The triggered ability of [Apathy] causes a soft-lock.	Game Breaking	2018-01-23 18:39:04
 Ashiok, Nightmare Weaver	[Ashiok, Nightmare Weaver] is unable to put a creature with converted mana cost equal to its current loyalty onto the battlefield.	Disadvantageous	2018-02-03 03:24:40
 Athreos, God of Passage	[Athreos, God of Passage] does not associate its triggers with specific creatures.	Graphical	2017-06-02 11:41:58
@@ -58,7 +58,7 @@ Dream Tides	Dream Tides doesn't require a cost for nongreen creatures chosen to 
 Elesh Norn, Grand Cenobite	If Containment Priest and [Elesh Norn, Grand Cenobite] are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2018-03-05 02:40:04
 Ends	Odds Odds: Restarts the game in buggy state on heads	Game Breaking	2018-03-18 03:58:02
 Entreat the Angels	When [Entreat the Angels] is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.	Graphical	2018-02-11 02:45:13
-Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-18 03:58:00
+Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-18 05:19:52
 Evermind	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Evermind	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Expropriate	bug When Primal Wellspring copies Expropriate, Expropriate effects are controlled by the non-active player who votes time	Unclassified	2018-03-18 03:57:56
@@ -196,12 +196,12 @@ Rosheen Meanderer	[Rosheen Meanderer] is unable to contribute mana to spells tha
 Runic Repetition	[Runic Repetition] Cannot be cast	Disadvantageous	2018-03-05 02:40:12
 Sages of the Anima	[Sages of the Anima] puts the non-creature cards on top of the library instead of the bottom.	Disadvantageous	2018-02-06 04:35:59
 Samurai of the Pale Curtain	[Samurai of the Pale Curtain] does not exile tokens.	Disadvantageous	2018-02-03 03:19:31
-Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-18 03:58:00
+Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-18 05:19:52
 Scattering Stroke	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
 Screams from Within	[Screams from Within]'s second ability (Return ~ to your hand) does not function. 	Disadvantageous	2018-02-03 03:38:45
 Scroll Rack	The "OK" button of [Scroll Rack] has a display issue that displays it as a "cancel" button.	Graphical	2018-01-26 10:39:47
 Scythe of the Wretched	While [Scythe of the Wretched] is unequipped, it reanimates any creature that happens to die.	Advantageous	2018-01-31 23:55:42
-Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-18 03:58:00
+Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-18 05:19:52
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce any casting costs. 	Disadvantageous	2018-02-03 06:09:02
 Sentry Oak	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
 Settle the Wreckage	[Settle the Wreckage] does not give the targeted player the option to not search their library.	Advantageous	2018-02-03 05:15:29
@@ -217,7 +217,7 @@ Sneak Attack	The delayed trigger ability of [Sneak Attack] causes the opponent t
 Soulless Revival	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Soulless Revival	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Sound the Call	The art for the token created by [Sound the Call] is incorrect. 	Graphical	2018-01-19 08:40:25
-Spell Crumple	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-18 03:58:00
+Spell Crumple	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-18 05:19:52
 Spinerock Knoll	[Shelldock Isle] and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-02-03 03:37:56
 Spiritual Visit	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Spiritual Visit	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
