@@ -26,7 +26,7 @@ Chandra Nalaar	[Chandra Nalaar] Ultimate ability (Chandra's -8) does not count a
 Charging Tuskodon	Charging Tuskodon deals double damage to a player even for non-combat damage	Advantageous	2018-02-09 12:37:45
 Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-17 01:05:29
 Clone Legion	[Clone Legion] puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-03-02 03:40:54
-Cloud Key	[Cloud Key] Players are unable to correctly select a card type	Non-Functional ability	2017-06-02 13:33:47
+Cloud Key	Cloud Key Players are unable to correctly select a card type	Non-Functional ability	2018-03-18 20:39:32
 Collected Company	[Collected Company] does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2017-10-06 04:59:08
 Combat Celebrant	[Combat Celebrant] does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2018-03-05 02:40:09
 Commandeer	[Commandeer] does not gain control of the targeted noncreature spell.	Disadvantageous	2017-10-06 04:15:22
@@ -111,7 +111,7 @@ Into the Fray	Splice onto Arcane abilities are incorrectly affected by cost redu
 Into the Fray	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Island Sanctuary	[Island Sanctuary]'s replacement effect is available if you draw a card during an opponents draw step	Advantageous	2017-06-19 21:55:29
 Jodah's Avenger	[Jodah's Avenger] Activated ability continues activating infinitely.	Game Breaking	2018-01-19 08:40:27
-Karplusan Minotaur	[Karplusan Minotaur] Cumulative upkeep cannot be paid	Disadvantageous	2017-07-30 14:49:58
+Karplusan Minotaur	Karplusan Minotaur Cumulative upkeep cannot be paid	Disadvantageous	2018-03-18 20:39:31
 Kess, Dissident Mage	[Kess Dissident Mage]'s ability allows you to cast spells during other players' turns and to cast spells with no mana costs	Advantageous	2018-01-20 14:38:38
 Khalni Garden	The art for the Plant token created by Khalni Garden is incorrect	Graphical	2018-01-24 03:26:30
 Knowledge Pool	[Knowledge Pool] With multiple Knowledge Pools in play, casting a spell from hand lets you cast a spell from each Pool.	Advantageous	2018-01-06 11:37:55
@@ -121,7 +121,7 @@ Koth of the Hammer	When controlling the Emblem of [Koth of the Hammer], lands do
 Kozilek's Translator	The mana abilities of [Wall of Roots] and [Kozilek's Translator] cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2018-02-11 02:52:24
 Lash Out	Opponent is not given the option to scry card to the bottom when clashing	Advantageous	2018-03-12 03:39:26
 Lavamancer's Skill	[Lavamancer's Skill] the "T: deal 1 damage" ability does not let you choose a target	Disadvantageous	2018-01-29 08:36:16
-Lich	[Lich] If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2017-06-29 19:17:25
+Lich	Lich If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2018-03-18 20:39:30
 Lifted by Clouds	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Lifted by Clouds	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
 Liquid Fire	[Liquid Fire] doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2018-01-19 09:46:56
