@@ -1,10 +1,10 @@
 [
   {
-    "card": "Card Name",
-    "description": "Anthroplasm dies as soon as its ability resolves",
-    "category": "Unconfirmed",
-    "last_updated": "2018-03-18 03:57:54",
-    "pd_legal": false,
+    "card": "Anthroplasm",
+    "description": "Anthroplasm dies as soon as its ability resolves and can cause a softlock with an anthem effect out.",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2018-03-18 04:39:07",
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -42,28 +42,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/334"
-  },
-  {
-    "card": "Card Name",
-    "description": "When a player leaves a multiplayer game before the first turn, you can't mulligan.",
-    "category": "Unconfirmed",
-    "last_updated": "2018-03-15 08:49:36",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/333"
-  },
-  {
-    "card": "Second Card name",
-    "description": "When a player leaves a multiplayer game before the first turn, you can't mulligan.",
-    "category": "Unconfirmed",
-    "last_updated": "2018-03-15 08:49:36",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/333"
   },
   {
     "card": "Primal Wellspring",
