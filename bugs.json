@@ -1024,9 +1024,9 @@
   },
   {
     "card": "Fa'adiyah Seer",
-    "description": "[Fa'adiyah Seer] and [Sindbad]'s ability won't discard non-land card drawn if there is any dredge card in your graveyard",
+    "description": "Fa'adiyah Seer and Sindbad's ability won't discard non-land card drawn if there is any dredge card in your graveyard",
     "category": "Advantageous",
-    "last_updated": "2018-02-03 07:52:02",
+    "last_updated": "2018-03-18 05:57:01",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -1035,9 +1035,9 @@
   },
   {
     "card": "Sindbad",
-    "description": "[Fa'adiyah Seer] and [Sindbad]'s ability won't discard non-land card drawn if there is any dredge card in your graveyard",
+    "description": "Fa'adiyah Seer and Sindbad's ability won't discard non-land card drawn if there is any dredge card in your graveyard",
     "category": "Advantageous",
-    "last_updated": "2018-02-03 07:52:02",
+    "last_updated": "2018-03-18 05:57:01",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
