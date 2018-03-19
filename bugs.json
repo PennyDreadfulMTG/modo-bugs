@@ -946,6 +946,50 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/304"
   },
   {
+    "card": "Mire's Toll",
+    "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
+    "category": "Disadvantageous",
+    "last_updated": "2018-03-19 02:39:27",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302"
+  },
+  {
+    "card": "Thieving Sprite",
+    "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
+    "category": "Disadvantageous",
+    "last_updated": "2018-03-19 02:39:27",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302"
+  },
+  {
+    "card": "Bala Ged Thief",
+    "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
+    "category": "Disadvantageous",
+    "last_updated": "2018-03-19 02:39:27",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302"
+  },
+  {
+    "card": "Disciple of Phenax",
+    "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
+    "category": "Disadvantageous",
+    "last_updated": "2018-03-19 02:39:27",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302"
+  },
+  {
     "card": "Reflector Mage",
     "description": "The second Reflector Mage played in the same turn will let the first one\u2019s target able to be cast.",
     "category": "Disadvantageous",
@@ -2014,9 +2058,9 @@
   },
   {
     "card": "Vesuvan Shapeshifter",
-    "description": "If [Vesuvan Shapeshifter] copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.",
+    "description": "If Vesuvan Shapeshifter copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.",
     "category": "Advantageous",
-    "last_updated": "2018-01-19 09:46:51",
+    "last_updated": "2018-03-19 02:39:29",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -2465,9 +2509,9 @@
   },
   {
     "card": "Ignite Memories",
-    "description": "[Ignite Memories] and similar cards can cause a game restart if the target has no cards in hand.",
+    "description": "Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.",
     "category": "Game Breaking",
-    "last_updated": "2017-08-20 07:45:56",
+    "last_updated": "2018-03-19 02:39:31",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": true,
@@ -2531,9 +2575,9 @@
   },
   {
     "card": "Koth of the Hammer",
-    "description": "When controlling the Emblem of [Koth of the Hammer], lands do not display the blue text they have.",
+    "description": "When controlling the Emblem of Koth of the Hammer, lands do not display the blue text they have.",
     "category": "Graphical",
-    "last_updated": "2017-07-16 19:47:11",
+    "last_updated": "2018-03-19 02:39:32",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -2586,9 +2630,9 @@
   },
   {
     "card": "Identity Thief",
-    "description": "[Identity Thief] Restarts the game when attempting to copy a creature.",
+    "description": "Identity Thief Restarts the game when attempting to copy a creature.",
     "category": "Game Breaking",
-    "last_updated": "2017-06-28 05:37:36",
+    "last_updated": "2018-03-19 02:39:33",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": true,
@@ -2605,17 +2649,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/69"
-  },
-  {
-    "card": "Myriad Landscape",
-    "description": "[Myriad Landscape] Ability incorrectly allows a player to put two basic lands that do not share a land type onto the battlefield.",
-    "category": "Advantageous",
-    "last_updated": "2018-03-05 02:40:07",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/68"
   },
   {
     "card": "Vizier of Many Faces",
