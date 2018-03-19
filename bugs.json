@@ -1133,17 +1133,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/288"
   },
   {
-    "card": "Charging Tuskodon",
-    "description": "Charging Tuskodon\u00a0deals double damage to a player even for non-combat damage",
-    "category": "Advantageous",
-    "last_updated": "2018-02-09 12:37:45",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/286"
-  },
-  {
     "card": "Mutiny",
     "description": "[Mutiny] doesn't have clear targeting information. Workaround: The game log displays targets matching the order written on the card, and will highlight the appropriate creature when its name is hovered over with the mouse.",
     "category": "Graphical",
