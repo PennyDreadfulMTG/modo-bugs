@@ -1298,17 +1298,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/272"
   },
   {
-    "card": "Bloodline Keeper",
-    "description": "[Bloodline Keeper]'s tokens have incorrect art and incorrectly display that they have lifelink.",
-    "category": "Graphical",
-    "last_updated": "2018-03-13 04:40:01",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/271"
-  },
-  {
     "card": "The Scarab God",
     "description": "The Scarab God and God-Pharaoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.",
     "category": "Unclassified",
@@ -2511,8 +2500,74 @@
     "card": "Ignite Memories",
     "description": "Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.",
     "category": "Game Breaking",
-    "last_updated": "2018-03-19 02:39:31",
+    "last_updated": "2018-03-19 19:39:52",
     "pd_legal": true,
+    "bug_blog": true,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
+  },
+  {
+    "card": "Singe-Mind Ogre",
+    "description": "Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.",
+    "category": "Game Breaking",
+    "last_updated": "2018-03-19 19:39:52",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
+  },
+  {
+    "card": "Planeswalker's Fury",
+    "description": "Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.",
+    "category": "Game Breaking",
+    "last_updated": "2018-03-19 19:39:52",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
+  },
+  {
+    "card": "Planeswalker's Scorn",
+    "description": "Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.",
+    "category": "Game Breaking",
+    "last_updated": "2018-03-19 19:39:52",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
+  },
+  {
+    "card": "Planeswalker's Mirth",
+    "description": "Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.",
+    "category": "Game Breaking",
+    "last_updated": "2018-03-19 19:39:52",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
+  },
+  {
+    "card": "Planeswalker's Favor",
+    "description": "Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.",
+    "category": "Game Breaking",
+    "last_updated": "2018-03-19 19:39:52",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
+  },
+  {
+    "card": "Planeswalker's Mischief",
+    "description": "Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.",
+    "category": "Game Breaking",
+    "last_updated": "2018-03-19 19:39:52",
+    "pd_legal": false,
     "bug_blog": true,
     "breaking": true,
     "bannable": true,
