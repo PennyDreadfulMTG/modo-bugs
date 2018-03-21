@@ -1,9 +1,9 @@
 Card Name	Bug Description	Categorization	Last Confirmed
-Abandoned Sarcophagus	As Foretold incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].	Disadvantageous	2018-01-19 09:46:54
 Abandoned Sarcophagus	[Abandoned Sarcophagus] does not allow you to pay for {X} when casting cycling cards with its ability	Disadvantageous	2018-02-13 06:39:08
 Angelic Field Marshal	[Angelic Field Marshal] still grants a bonus to your commander when an opponent gains control of it.	Advantageous	2018-02-08 16:34:45
 Anthroplasm	Anthroplasm dies as soon as its ability resolves and can cause a softlock with an anthem effect out.	Avoidable Game Breaking	2018-03-18 04:39:08
 Apathy	The triggered ability of [Apathy] causes a soft-lock.	Game Breaking	2018-01-23 18:39:04
+As Foretold	As Foretold does not apply to cards able to be cast due to Abandoned Sarcophagus.	Disadvantageous	2018-03-21 02:38:04
 Ashiok, Nightmare Weaver	[Ashiok, Nightmare Weaver] is unable to put a creature with converted mana cost equal to its current loyalty onto the battlefield.	Disadvantageous	2018-02-03 03:24:40
 Athreos, God of Passage	Athreos, God of Passage does not associate its triggers with specific creatures.	Graphical	2018-03-19 00:40:08
 Austere Command	[Austere Command] does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.	Disadvantageous	2018-01-23 03:06:22

@@ -1881,10 +1881,10 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/190"
   },
   {
-    "card": "Abandoned Sarcophagus",
-    "description": "As Foretold incorrectly does not apply to cards able to be cast due to [Abandoned Sarcophagus].",
+    "card": "As Foretold",
+    "description": "As Foretold does not apply to cards able to be cast due to Abandoned Sarcophagus.",
     "category": "Disadvantageous",
-    "last_updated": "2018-01-19 09:46:54",
+    "last_updated": "2018-03-21 02:38:04",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
