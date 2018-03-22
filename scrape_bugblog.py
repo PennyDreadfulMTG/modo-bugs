@@ -117,45 +117,40 @@ def parse_knownbugs(b: Tag) -> None:
     for issue in repo.get_issues():
         code = re.search(CODE_REGEX, issue.body, re.MULTILINE)
         bbt = re.search(BBT_REGEX, issue.body, re.MULTILINE)
-        if code is None and bbt is None:
-            for comment in issue.get_comments():
-                code = re.search(CODE_REGEX, comment.body, re.MULTILINE)
-                if code is not None:
-                    break
-            else:
-                cards = get_cards_from_string(issue.title)
-                if "From Bug Blog" in [i.name for i in issue.labels]:
-                    print("Issue #{id} {cards} has no Bug Blog code!".format(id=issue.number, cards=cards))
-                    # TODO: Scan bugblog for issue title.
-                    continue
-                if not cards:
-                    continue
-                lines = b.find_all(string=re.compile(r'\[' + cards[0] + r'\]'))
-                if not lines:
-                    continue
-                for line in lines:
-                    parent = line.parent
-                    try:
-                        bb_code = str(parent.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
-                    except IndexError:
-                        bb_code = None
-                    bb_text = parent.get_text()
-                    print(bb_code)
-                    if find_issue_by_code(bb_code) is not None:
-                        print("Already assigned.")
-                        continue
-                    if find_issue_by_code(bb_text) is not None:
-                        print("Already assigned.")
-                        continue
-                    text = ''.join(parent.strings)
-                    print(text)
-                    if bb_code is not None:
-                        create_comment(issue, 'Found in bug blog.\n{0}\nCode: {1}'.format(text, bb_code))
-                    else:
-                        create_comment(issue, 'Found in bug blog.\nBug Blog Text: {0}'.format(text))
-                    if not ("From Bug Blog" in [i.name for i in issue.labels]):
-                        issue.add_to_labels("From Bug Blog")
+        if bbt is None:
+            cards = get_cards_from_string(issue.title)
+            if "From Bug Blog" in [i.name for i in issue.labels]:
+                print("Issue #{id} {cards} has no Bug Blog text!".format(id=issue.number, cards=cards))
+                # TODO: Scan bugblog for issue title.
                 continue
+            if not cards:
+                continue
+            lines = b.find_all(string=re.compile(r'\[' + cards[0] + r'\]'))
+            if not lines:
+                continue
+            for line in lines:
+                parent = line.parent
+                try:
+                    bb_code = str(parent.find_all(string=lambda text: isinstance(text, Comment))[0]).replace('\t', ' ')
+                except IndexError:
+                    bb_code = None
+                bb_text = parent.get_text().strip()
+                print(bb_code)
+                if find_issue_by_code(bb_code) is not None:
+                    print("Already assigned.")
+                    continue
+                if find_issue_by_code(bb_text) is not None:
+                    print("Already assigned.")
+                    continue
+                text = ''.join(parent.strings)
+                print(text)
+                if bb_code is not None:
+                    create_comment(issue, 'Found in bug blog.\n{0}\nCode: {1}'.format(text, bb_code))
+                else:
+                    create_comment(issue, 'Found in bug blog.\nBug Blog Text: {0}'.format(text))
+                if not ("From Bug Blog" in [i.name for i in issue.labels]):
+                    issue.add_to_labels("From Bug Blog")
+            continue
 
         if code is not None and False: # Code is currently disabled, as it was removed from BB source.
             code = code.group(1).strip()
@@ -211,7 +206,7 @@ def find_issue_by_code(code: str) -> Issue:
                     if icode is not None:
                         body += '\nCode: {0}'.format(icode.groups()[0].strip())
                 if icode is None:
-                    icode = re.search(BBT_REGEX, issue.body, re.MULTILINE)
+                    icode = re.search(BBT_REGEX, comment.body, re.MULTILINE)
                     if icode is not None:
                         body += '\nBug Blog Text: {0}'.format(icode.groups()[0].strip())
 
