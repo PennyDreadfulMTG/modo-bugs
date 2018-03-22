@@ -46,10 +46,10 @@
   {
     "card": "Primal Wellspring",
     "description": "bug When Primal Wellspring copies Fractured Identity, the controller of the permanent it targets chooses the new targets for it",
-    "category": "Unclassified",
-    "last_updated": "2018-03-18 03:57:55",
+    "category": "Unconfirmed",
+    "last_updated": "2018-03-22 17:06:08",
     "pd_legal": false,
-    "bug_blog": true,
+    "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/330"
@@ -57,10 +57,10 @@
   {
     "card": "Fractured Identity",
     "description": "bug When Primal Wellspring copies Fractured Identity, the controller of the permanent it targets chooses the new targets for it",
-    "category": "Unclassified",
-    "last_updated": "2018-03-18 03:57:55",
+    "category": "Unconfirmed",
+    "last_updated": "2018-03-22 17:06:08",
     "pd_legal": false,
-    "bug_blog": true,
+    "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/330"
@@ -68,10 +68,10 @@
   {
     "card": "Primal Wellspring",
     "description": "bug When Primal Wellspring copies Expropriate, Expropriate effects are controlled by the non-active player who votes time",
-    "category": "Unclassified",
-    "last_updated": "2018-03-18 03:57:56",
+    "category": "Unconfirmed",
+    "last_updated": "2018-03-22 17:05:54",
     "pd_legal": false,
-    "bug_blog": true,
+    "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/329"
@@ -79,10 +79,10 @@
   {
     "card": "Expropriate",
     "description": "bug When Primal Wellspring copies Expropriate, Expropriate effects are controlled by the non-active player who votes time",
-    "category": "Unclassified",
-    "last_updated": "2018-03-18 03:57:56",
+    "category": "Unconfirmed",
+    "last_updated": "2018-03-22 17:05:54",
     "pd_legal": false,
-    "bug_blog": true,
+    "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/329"
@@ -850,9 +850,9 @@
     "card": "Primal Wellspring",
     "description": "If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-13 04:40:00",
+    "last_updated": "2018-03-22 17:38:03",
     "pd_legal": false,
-    "bug_blog": false,
+    "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/309"

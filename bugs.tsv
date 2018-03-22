@@ -56,11 +56,11 @@ Entreat the Angels	When Entreat the Angels is on the stack with 0 chosen for X, 
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-22 16:36:31
 Evermind	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Evermind	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-05 23:39:21
-Expropriate	bug When Primal Wellspring copies Expropriate, Expropriate effects are controlled by the non-active player who votes time	Unclassified	2018-03-18 03:57:56
+Expropriate	bug When Primal Wellspring copies Expropriate, Expropriate effects are controlled by the non-active player who votes time	Unconfirmed	2018-03-22 17:05:54
 Fa'adiyah Seer	Fa'adiyah Seer and Sindbad's ability won't discard non-land card drawn if there is any dredge card in your graveyard	Advantageous	2018-03-18 05:57:01
 Fire Covenant	If Fire Covenant is cast for x=0 and you pay the 1 extra mana that MTGO asks you to (which is the bug), the game will restarts. Workaround: Undo the process if you encounter this bug, and never cast it for x=0	Avoidable Game Breaking	2018-03-18 03:57:56
 Floodtide Serpent	Insteading of bouncing an enchantment, attacking with Floodtide Serpent shows you all zones.	Advantageous	2018-02-06 03:13:44
-Fractured Identity	bug When Primal Wellspring copies Fractured Identity, the controller of the permanent it targets chooses the new targets for it	Unclassified	2018-03-18 03:57:55
+Fractured Identity	bug When Primal Wellspring copies Fractured Identity, the controller of the permanent it targets chooses the new targets for it	Unconfirmed	2018-03-22 17:06:08
 Freyalise's Winds	[Freyalise's Winds] Anytime a permanent with a wind counter would be untapped outside of the untap step,  a wind counter is removed rather than it becoming untapped.	Disadvantageous	2018-02-03 06:38:06
 Garruk, the Veil-Cursed	The art for the wolf token created by [Garruk, the Veil-Cursed] is incorrect.	Graphical	2018-03-13 04:40:01
 Genju of the Fields	[Genju of the Fields] does not cause you to gain life upon dealing damage	Disadvantageous	2018-02-13 05:39:16
@@ -149,9 +149,9 @@ Planeswalker's Mirth	Ignite Memories and similar cards can cause a game restart 
 Planeswalker's Mischief	Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.	Game Breaking	2018-03-22 16:36:29
 Planeswalker's Scorn	Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.	Game Breaking	2018-03-22 16:36:29
 Pox	The calculation code seems to be wrong, because one third of three (3) is calculated as two (2)	Unconfirmed	2018-03-16 04:41:06
-Primal Wellspring	If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.	Disadvantageous	2018-03-13 04:40:00
-Primal Wellspring	bug When Primal Wellspring copies Expropriate, Expropriate effects are controlled by the non-active player who votes time	Unclassified	2018-03-18 03:57:56
-Primal Wellspring	bug When Primal Wellspring copies Fractured Identity, the controller of the permanent it targets chooses the new targets for it	Unclassified	2018-03-18 03:57:55
+Primal Wellspring	If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.	Disadvantageous	2018-03-22 17:38:03
+Primal Wellspring	bug When Primal Wellspring copies Expropriate, Expropriate effects are controlled by the non-active player who votes time	Unconfirmed	2018-03-22 17:05:54
+Primal Wellspring	bug When Primal Wellspring copies Fractured Identity, the controller of the permanent it targets chooses the new targets for it	Unconfirmed	2018-03-22 17:06:08
 Primitive Justice	[Primitive Justice] will either not cast/restart the game with a single target.	Game Breaking	2018-01-19 09:47:04
 Prince of Thralls	Prince of Thralls asks its owner to pay life instead of the opponent.	Advantageous	2018-03-22 16:36:54
 Profane Command	Profane Command If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2018-03-22 16:40:10
