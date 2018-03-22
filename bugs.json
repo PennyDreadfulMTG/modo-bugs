@@ -2509,9 +2509,9 @@
   },
   {
     "card": "Zur's Weirding",
-    "description": "[Zur's Weirding] Reveals but doesn't allow you to pay",
+    "description": "Zur's Weirding Reveals but doesn't allow you to pay",
     "category": "Disadvantageous",
-    "last_updated": "2018-01-19 09:47:06",
+    "last_updated": "2018-03-22 06:37:49",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
