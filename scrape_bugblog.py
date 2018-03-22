@@ -86,7 +86,7 @@ def parse_changelog(collapsibleBlock: Tag) -> None:
                 if not reported:
                     print("Adding report to existing issue.")
                     if code is not None:
-                        create_comment(issue, 'Added to Bug Blog.\n{0}\nCode: {1}'.format(item.get_text(), code))
+                        create_comment(issue, 'Added to Bug Blog.\nBug Blog Text: {0}\nCode: {1}'.format(item.get_text(), code))
                     else:
                         create_comment(issue, 'Added to Bug Blog.\nBug Blog Text: {0}'.format(remove_smartquotes(item.get_text())))
 
@@ -114,7 +114,6 @@ def parse_knownbugs(b: Tag) -> None:
     # attempt to find all the fixed bugs
     all_codes = b.find_all(string=lambda text: isinstance(text, Comment))
     all_codes = [str(code).replace('\t', ' ') for code in all_codes]
-    all_rows = b.find_all('tr')
     for issue in repo.get_issues():
         code = re.search(CODE_REGEX, issue.body, re.MULTILINE)
         bbt = re.search(BBT_REGEX, issue.body, re.MULTILINE)
@@ -158,7 +157,7 @@ def parse_knownbugs(b: Tag) -> None:
                         issue.add_to_labels("From Bug Blog")
                 continue
 
-        if code is not None:
+        if code is not None and False: # Code is currently disabled, as it was removed from BB source.
             code = code.group(1).strip()
             # print(repr(code))
             if code in all_codes:
@@ -170,11 +169,15 @@ def parse_knownbugs(b: Tag) -> None:
                 issue.edit(state='closed')
         elif bbt is not None:
             text = bbt.group(1).strip()
-            for row in all_rows:
+            for row in b.find_all('tr'):
                 data = row.find_all("td")
-
-                handle_autocards(row.text)
-            pass
+                handle_autocards(row)
+                if data[1].text.strip() == text:
+                    break
+            else:
+                print('{id} is fixed!'.format(id=issue.number))
+                create_comment(issue, 'This bug has been removed from the bug blog!')
+                issue.edit(state='closed')
 
 def create_comment(issue, body):
     ISSUE_CODES[issue.id] = None
