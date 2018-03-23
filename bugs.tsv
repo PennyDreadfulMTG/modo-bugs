@@ -21,7 +21,7 @@ Cast Out	Cards exiled by Cast Out are not placed underneath it	Graphical	2018-03
 Chandra Nalaar	Chandra Nalaar Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2018-03-20 18:38:41
 Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-17 01:05:29
 Clone Legion	[Clone Legion] puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-03-02 03:40:54
-Cloud Key	Cloud Key Players are unable to correctly select a card type	Non-Functional ability	2018-03-22 16:36:27
+Cloud Key	Cloud Key Players are unable to correctly select a card type	Non-Functional ability	2018-03-23 01:23:52
 Collected Company	Collected Company does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2018-03-22 16:36:31
 Combat Celebrant	Combat Celebrant does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2018-03-22 16:40:04
 Commandeer	Commandeer does not gain control of the targeted noncreature spell.	Disadvantageous	2018-03-22 16:39:47
@@ -116,7 +116,7 @@ Lifted by Clouds	Splice onto Arcane abilities are incorrectly affected by tax ef
 Liquid Fire	[Liquid Fire] doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2018-01-19 09:46:56
 Living Lore	If [Living Lore] imprints a Split Card, it has twice the expected CMC.	Advantageous	2018-02-15 02:55:11
 Lurking Evil	[Lurking Evil] makes you pay half your opponent's life total	Advantageous	2017-12-17 10:54:12
-Mana Bloom	[Mana Bloom] Ability does not generate mana on opponents' turns.	Disadvantageous	2018-02-08 17:31:21
+Mana Bloom	Mana Bloom Ability does not generate mana on opponents' turns.	Disadvantageous	2018-03-23 01:40:03
 Mass Polymorph	Synthetic DestinyMass Polymorph does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-03-22 16:40:07
 Midnight Oil	Casting a second Midnight Oil does not reset your hand size limit	Disadvantageous	2018-03-15 03:45:29
 Mind Bend	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-02-15 05:01:51
