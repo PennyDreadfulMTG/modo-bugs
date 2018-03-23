@@ -115,12 +115,14 @@ def parse_knownbugs(b: Tag) -> None:
     all_codes = b.find_all(string=lambda text: isinstance(text, Comment))
     all_codes = [str(code).replace('\t', ' ') for code in all_codes]
     for issue in repo.get_issues():
-        code = re.search(CODE_REGEX, issue.body, re.MULTILINE)
+        # code = re.search(CODE_REGEX, issue.body, re.MULTILINE)
         bbt = re.search(BBT_REGEX, issue.body, re.MULTILINE)
         if bbt is None:
             cards = get_cards_from_string(issue.title)
             if "From Bug Blog" in [i.name for i in issue.labels]:
                 print("Issue #{id} {cards} has no Bug Blog text!".format(id=issue.number, cards=cards))
+                issue.add_to_labels("Invalid Bug Blog")
+                find_bbt_in_body_or_comments(issue)
                 # TODO: Scan bugblog for issue title.
                 continue
             if not cards:
@@ -151,18 +153,11 @@ def parse_knownbugs(b: Tag) -> None:
                 if not ("From Bug Blog" in [i.name for i in issue.labels]):
                     issue.add_to_labels("From Bug Blog")
             continue
+        else:
+            if "Invalid Bug Blog" in [i.name for i in issue.labels]:
+                issue.remove_from_labels('Invalid Bug Blog')
 
-        if code is not None and False: # Code is currently disabled, as it was removed from BB source.
-            code = code.group(1).strip()
-            # print(repr(code))
-            if code in all_codes:
-                # print('{id} is still bugged'.format(id=issue.number))
-                pass
-            else:
-                print('{id} is fixed!'.format(id=issue.number))
-                create_comment(issue, 'This bug has been removed from the bug blog!')
-                issue.edit(state='closed')
-        elif bbt is not None:
+        if bbt is not None:
             text = bbt.group(1).strip()
             for row in b.find_all('tr'):
                 data = row.find_all("td")
@@ -192,33 +187,30 @@ def find_issue_by_code(code: str) -> Issue:
             if ISSUE_CODES[issue.id] == code:
                 return issue
             continue
-        body = issue.body
         found = code in issue.body
-        icode = re.search(CODE_REGEX, issue.body, re.MULTILINE)
-        if icode is None:
-            icode = re.search(BBT_REGEX, issue.body, re.MULTILINE)
         if not found:
-            for comment in issue.get_comments():
-                if code in comment.body:
-                    found = True
-                if icode is None:
-                    icode = re.search(CODE_REGEX, comment.body, re.MULTILINE)
-                    if icode is not None:
-                        body += '\nCode: {0}'.format(icode.groups()[0].strip())
-                if icode is None:
-                    icode = re.search(BBT_REGEX, comment.body, re.MULTILINE)
-                    if icode is not None:
-                        body += '\nBug Blog Text: {0}'.format(icode.groups()[0].strip())
-
+            icode = find_bbt_in_body_or_comments(issue)
+            found = code in issue.body
         if icode is not None:
             ISSUE_CODES[issue.id] = icode.groups()[0].strip()
         else:
             ISSUE_CODES[issue.id] = None
-        if body != issue.body:
-            issue.edit(body=body)
         if found:
             ISSUE_CODES[issue.id] = code
             return issue
+
+def find_bbt_in_body_or_comments(issue):
+    body = issue.body
+    icode = re.search(BBT_REGEX, issue.body, re.MULTILINE)
+    if not icode:
+        for comment in issue.get_comments():
+            if icode is None:
+                icode = re.search(BBT_REGEX, comment.body, re.MULTILINE)
+                if icode is not None:
+                    body += '\nBug Blog Text: {0}'.format(icode.groups()[0].strip())
+    if body != issue.body:
+        issue.edit(body=body)
+    return icode
 
 def find_issue_by_name(name: str) -> Issue:
     if name is None: #What?
