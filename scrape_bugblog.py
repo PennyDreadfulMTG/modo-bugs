@@ -157,17 +157,19 @@ def parse_knownbugs(b: Tag) -> None:
             if "Invalid Bug Blog" in [i.name for i in issue.labels]:
                 issue.remove_from_labels('Invalid Bug Blog')
 
-        if bbt is not None:
-            text = bbt.group(1).strip()
-            for row in b.find_all('tr'):
-                data = row.find_all("td")
-                handle_autocards(row)
-                if data[1].text.strip() == text:
-                    break
-            else:
-                print('{id} is fixed!'.format(id=issue.number))
-                create_comment(issue, 'This bug has been removed from the bug blog!')
-                issue.edit(state='closed')
+        if "From Bug Blog" in [i.name for i in issue.labels]:
+            # Don't check for Bug Blog Text if it's not marked as a BB issue (Maybe because it was reopened)
+            if bbt is not None:
+                text = bbt.group(1).strip()
+                for row in b.find_all('tr'):
+                    data = row.find_all("td")
+                    handle_autocards(row)
+                    if data[1].text.strip() == text:
+                        break
+                else:
+                    print('{id} is fixed!'.format(id=issue.number))
+                    create_comment(issue, 'This bug has been removed from the bug blog!')
+                    issue.edit(state='closed')
 
 def create_comment(issue, body):
     ISSUE_CODES[issue.id] = None
