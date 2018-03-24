@@ -5,7 +5,7 @@ branches:
 python:
   - "3.6"
 install:
-  - travis_retry pip install -r pipenv
+  - travis_retry pip install pipenv
   - pipenv install
 script:
   - pipenv run python run.py
