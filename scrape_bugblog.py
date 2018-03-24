@@ -8,7 +8,7 @@ from github import Github
 from github.Issue import Issue
 
 import configuration
-from helpers import BBT_REGEX, CODE_REGEX, remove_smartquotes
+from helpers import BBT_REGEX, CODE_REGEX, remove_smartquotes, strip_squarebrackets
 
 ISSUE_CODES = {}
 
@@ -98,10 +98,9 @@ def parse_changelog(collapsibleBlock: Tag) -> None:
                 print('Already exists.')
             else:
                 print('Creating new issue')
+                text = "From Bug Blog.\nAffects: \n<!-- Images -->\nBug Blog Text: {0}".format(remove_smartquotes(item.get_text()))
                 if code is not None:
-                    text = "From Bug Blog.\nCode: {0}".format(code)
-                else:
-                    text = "From Bug Blog.\nBug Blog Text: {0}".format(remove_smartquotes(item.get_text()))
+                    text += "\nCode: {0}".format(code)
                 repo.create_issue(remove_smartquotes(item.get_text()), body=remove_smartquotes(text), labels=["From Bug Blog"])
 
 def get_cards_from_string(item: str) -> List[str]:
@@ -119,11 +118,14 @@ def parse_knownbugs(b: Tag) -> None:
         if bbt is None:
             cards = get_cards_from_string(issue.title)
             if "From Bug Blog" in [i.name for i in issue.labels]:
-                print("Issue #{id} {cards} has no Bug Blog text!".format(id=issue.number, cards=cards))
-                issue.add_to_labels("Invalid Bug Blog")
                 find_bbt_in_body_or_comments(issue)
-                # TODO: Scan bugblog for issue title.
+                find_bbt_in_issue_title(issue, b)
+                bbt = re.search(BBT_REGEX, issue.body, re.MULTILINE)
+                if bbt is None:
+                    print("Issue #{id} {cards} has no Bug Blog text!".format(id=issue.number, cards=cards))
+                    issue.add_to_labels("Invalid Bug Blog")
                 continue
+
             if not cards:
                 continue
             lines = b.find_all(string=re.compile(r'\[' + cards[0] + r'\]'))
@@ -162,13 +164,23 @@ def parse_knownbugs(b: Tag) -> None:
                 text = bbt.group(1).strip()
                 for row in b.find_all('tr'):
                     data = row.find_all("td")
-                    handle_autocards(row)
                     if data[1].text.strip() == text:
                         break
                 else:
                     print('{id} is fixed!'.format(id=issue.number))
                     create_comment(issue, 'This bug has been removed from the bug blog!')
                     issue.edit(state='closed')
+
+def find_bbt_in_issue_title(issue, known_issues):
+    title = strip_squarebrackets(issue.title)
+    for row in known_issues.find_all('tr'):
+        data = row.find_all("td")
+        if strip_squarebrackets(data[1].text.strip()) == title:
+            body = issue.body
+            body += "\nBug Blog Text: {0}".format(data[1].text.strip())
+            if body != issue.body:
+                issue.edit(body=body)
+            return
 
 def create_comment(issue, body):
     ISSUE_CODES[issue.id] = None

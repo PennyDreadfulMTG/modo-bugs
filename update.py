@@ -14,7 +14,7 @@ import configuration
 import fetcher
 from helpers import (AFFECTS_REGEX, BAD_AFFECTS_REGEX, BADCATS, CATEGORIES,
                      DISCORD_REGEX, IMAGES_REGEX, REGEX_CARDREF,
-                     remove_smartquotes)
+                     remove_smartquotes, strip_squarebrackets)
 
 CARDNAMES: List[str] = fetcher.catalog_cardnames()
 
@@ -191,9 +191,7 @@ def fix_user_errors(issue: Issue):
     if body != issue.body:
         issue.edit(body=body)
     # People are putting [cardnames] in square quotes, despite the fact we prefer Affects: now.
-    def get_name(match):
-        return match.group(1).strip()
-    title = re.sub(REGEX_CARDREF, get_name, issue.title)
+    title = strip_squarebrackets(issue.title)
     if title != issue.title:
         print("Changing title of #{0} to \"{1}\"".format(issue.number, title))
         issue.edit(title=title)
