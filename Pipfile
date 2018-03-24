@@ -7,10 +7,10 @@ name = "pypi"
 
 [packages]
 
-pygithub = "*"
-requests = "*"
-"beautifulsoup4" = "*"
-lxml = "*"
+pygithub = "1.37"
+requests = "2.18.4"
+"beautifulsoup4" = "4.6.0"
+lxml = "4.2.0"
 
 
 [dev-packages]

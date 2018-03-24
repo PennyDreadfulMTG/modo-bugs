@@ -8,8 +8,7 @@ from github import Github
 from github.Issue import Issue
 
 import configuration
-from helpers import remove_smartquotes, CODE_REGEX, BBT_REGEX
-
+from helpers import BBT_REGEX, CODE_REGEX, remove_smartquotes
 
 ISSUE_CODES = {}
 

@@ -21,6 +21,11 @@ node('linux') {
     stage('Update'){
         sh 'pipenv run python update.py'
     }
+    stage('Verification') {
+        withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
+            sh returnStatus: true, script: 'pipenv run python verification.py'
+        }
+    }
     stage('Push changes'){
         def updated = sh returnStatus: true, script: 'git diff --exit-code'
         if (updated){

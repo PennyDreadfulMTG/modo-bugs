@@ -5,10 +5,10 @@ import re
 import sys
 import urllib.parse
 from typing import Dict, List
-from github.Issue import Issue
 
 import requests
 from github import Github
+from github.Issue import Issue
 
 import configuration
 import fetcher
