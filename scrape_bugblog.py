@@ -172,10 +172,11 @@ def parse_knownbugs(b: Tag) -> None:
                     issue.edit(state='closed')
 
 def find_bbt_in_issue_title(issue, known_issues):
-    title = strip_squarebrackets(issue.title)
+    title = strip_squarebrackets(issue.title).replace(' ', '')
     for row in known_issues.find_all('tr'):
         data = row.find_all("td")
-        if strip_squarebrackets(data[1].text.strip()) == title:
+        row_text = strip_squarebrackets(data[1].text.strip()).replace(' ', '')
+        if row_text == title:
             body = issue.body
             body += "\nBug Blog Text: {0}".format(data[1].text.strip())
             if body != issue.body:
