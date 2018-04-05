@@ -1034,17 +1034,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/298"
   },
   {
-    "card": "Overwhelming Splendor",
-    "description": "Creatures with ascend can still grant the City's Blessing with Overwhelming Splendor on the battlefield.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-03-23 03:37:41",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/297"
-  },
-  {
     "card": "Greater Realm of Preservation",
     "description": "Greater Realm of Preservation does not prevent Sin Prodder's upkeep trigger damage",
     "category": "Disadvantageous",
@@ -1422,7 +1411,7 @@
     "card": "Ashiok, Nightmare Weaver",
     "description": "Ashiok, Nightmare Weaver is unable to put a creature with converted mana cost equal to its current loyalty onto the battlefield.",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-05 13:38:33",
+    "last_updated": "2018-04-05 14:38:00",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -1604,17 +1593,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/233"
-  },
-  {
-    "card": "Gifts Ungiven",
-    "description": "If a player uses the Undo function when selecting cards for their opponent's Gifts Ungiven, they will only be able to choose 1 card to go to the graveyard.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-03-24 02:14:37",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/232"
   },
   {
     "card": "Phantom Tiger",
@@ -2291,7 +2269,7 @@
     "card": "Gideon's Intervention",
     "description": "Gideon's Intervention Casting a second copy causes the first to become partially non-functional, allowing the named card to deal damage.",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-05 13:38:36",
+    "last_updated": "2018-04-05 14:38:06",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -2335,7 +2313,7 @@
     "card": "Vizier of Many Faces",
     "description": "Vizier of Many Faces If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.",
     "category": "Graphical",
-    "last_updated": "2018-04-05 13:38:36",
+    "last_updated": "2018-04-05 14:38:08",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -2445,7 +2423,7 @@
     "card": "Curse of Shallow Graves",
     "description": "Curse of Shallow Graves creates Zombie tokens with incorrect art.",
     "category": "Graphical",
-    "last_updated": "2018-04-05 13:38:38",
+    "last_updated": "2018-04-05 14:38:10",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
