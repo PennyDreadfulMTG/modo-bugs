@@ -2289,9 +2289,9 @@
   },
   {
     "card": "Gideon's Intervention",
-    "description": "Gideon's Intervention Casting a second copy causes the first to become partially non-functional, allowing the named card to deal damage.",
+    "description": "Casting a second copy of Gideon's Intervention causes the first to become become partially non-functional, allowing the named card to deal damage",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-06 09:42:52",
+    "last_updated": "2018-04-06 10:38:07",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -2333,9 +2333,9 @@
   },
   {
     "card": "Vizier of Many Faces",
-    "description": "Vizier of Many Faces If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.",
+    "description": "When Vizier of Many Faces copies a token creature that was created with embalm, the Vizier will display with no art.",
     "category": "Graphical",
-    "last_updated": "2018-04-06 09:42:52",
+    "last_updated": "2018-04-06 10:09:31",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
