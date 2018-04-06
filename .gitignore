@@ -4,3 +4,4 @@ config.json
 /.vs/*
 /.mypy_cache/
 /monkeytype.sqlite3
+/.pytest_cache/

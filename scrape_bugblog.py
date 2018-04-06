@@ -166,6 +166,9 @@ def parse_knownbugs(b: Tag) -> None:
                     data = row.find_all("td")
                     if data[1].text.strip() == text:
                         break
+                    elif strip_squarebrackets(data[1].text.strip()) == strip_squarebrackets(text):
+                        # Fix this
+                        break
                 else:
                     print('{id} is fixed!'.format(id=issue.number))
                     create_comment(issue, 'This bug has been removed from the bug blog!')
