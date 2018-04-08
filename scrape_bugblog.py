@@ -1,4 +1,4 @@
-import re
+import re, sys
 from typing import List, Optional, Tuple
 
 import requests
@@ -168,11 +168,31 @@ def parse_knownbugs(b: Tag) -> None:
                         break
                     elif strip_squarebrackets(data[1].text.strip()) == strip_squarebrackets(text):
                         # Fix this
+                        print("Issue #{id}'s bug blog text has differing autocard notation.".format(id=issue.number))
+                        body = re.sub(BBT_REGEX, 'Bug Blog Text: {0}'.format(data[1].text.strip()), issue.body, flags=re.MULTILINE)
+                        if issue.body != body:
+                            issue.edit(body=body)
+                            print('Updated to `{0}`'.format(data[1].text.strip()))
                         break
                 else:
                     print('{id} is fixed!'.format(id=issue.number))
                     create_comment(issue, 'This bug has been removed from the bug blog!')
                     issue.edit(state='closed')
+
+    if 'check-missing' in sys.argv:
+        # This is very expensive.
+        for row in b.find_all('tr'):
+            data = row.find_all("td")
+            row_text = data[1].text.strip()
+            if row_text == "Description":
+                # BS4 is bad.
+                continue
+            if find_issue_by_code(row_text):
+                continue
+            print("Could not find issue for `{row}`".format(row=row_text))
+            text = "From Bug Blog.\nAffects: \n<!-- Images -->\nBug Blog Text: {0}".format(row_text)
+            repo.create_issue(remove_smartquotes(row_text), body=remove_smartquotes(text), labels=["From Bug Blog"])
+
 
 def find_bbt_in_issue_title(issue, known_issues):
     title = strip_squarebrackets(issue.title).replace(' ', '')
@@ -187,7 +207,7 @@ def find_bbt_in_issue_title(issue, known_issues):
             return
 
 def create_comment(issue, body):
-    ISSUE_CODES[issue.id] = None
+    ISSUE_CODES[issue.number] = None
     return issue.create_comment(remove_smartquotes(body))
 
 def handle_autocards(soup: Tag) -> None:
@@ -198,23 +218,33 @@ def handle_autocards(soup: Tag) -> None:
 def find_issue_by_code(code: str) -> Issue:
     if code is None:
         return None
-    all_issues = repo.get_issues(state="all")
-    for issue in all_issues:
-        if issue.id in ISSUE_CODES.keys():
-            if ISSUE_CODES[issue.id] == code:
+    def scan(issue_list):
+        for issue in issue_list:
+            if not "From Bug Blog" in [i.name for i in issue.labels]:
+                # Only bug blog issues have bug blog data
+                ISSUE_CODES[issue.number] = None
+                continue
+            icode = ISSUE_CODES.get(issue.number, None)
+            if icode == code:
                 return issue
-            continue
-        found = code in issue.body
-        if not found:
-            icode = find_bbt_in_body_or_comments(issue)
+            elif icode is not None:
+                continue
             found = code in issue.body
-        if icode is not None:
-            ISSUE_CODES[issue.id] = icode.groups()[0].strip()
-        else:
-            ISSUE_CODES[issue.id] = None
-        if found:
-            ISSUE_CODES[issue.id] = code
-            return issue
+            if not found:
+                icode = find_bbt_in_body_or_comments(issue)
+                found = code in issue.body
+            if icode is not None:
+                ISSUE_CODES[issue.number] = icode.groups()[0].strip()
+            else:
+                ISSUE_CODES[issue.number] = None
+            if found:
+                ISSUE_CODES[issue.number] = code
+                return issue
+        return None
+    res = scan(repo.get_issues(state="open"))
+    if res:
+        return res
+    return scan(repo.get_issues(state="closed"))
 
 def find_bbt_in_body_or_comments(issue):
     body = issue.body
@@ -242,7 +272,7 @@ def find_issue(cards: List[str]) -> Optional[Issue]:
     relevant_issues: List[Issue] = []
     for card in cards:
         for issue in all_issues:
-            if issue.id in ISSUE_CODES.keys() and ISSUE_CODES[issue.id] is not None:
+            if ISSUE_CODES.get(issue.number, None) is not None:
                 continue
             if '[{0}]'.format(card) in issue.title and not issue in relevant_issues:
                 relevant_issues.append(issue)
@@ -251,7 +281,7 @@ def find_issue(cards: List[str]) -> Optional[Issue]:
     if len(relevant_issues) > 1:
         # Do something smart.
         print("Error: Too many issues")
-        return relevant_issues[0]
+        return None
     elif len(relevant_issues) == 1:
         return relevant_issues[0]
     else:
