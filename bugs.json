@@ -1,9 +1,9 @@
 [
   {
     "card": "Selvala, Heart of the Wilds",
-    "description": "Mana Reflection doesn't doubling mana produced by Selvala, Heart of the Wilds",
+    "description": "Mana Reflection doesn't doubling mana produced by mana abilities that can add combination of colors into the mana pool",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-04 04:38:34",
+    "last_updated": "2018-04-07 07:38:03",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -12,10 +12,98 @@
   },
   {
     "card": "Mana Reflection",
-    "description": "Mana Reflection doesn't doubling mana produced by Selvala, Heart of the Wilds",
+    "description": "Mana Reflection doesn't doubling mana produced by mana abilities that can add combination of colors into the mana pool",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-04 04:38:34",
+    "last_updated": "2018-04-07 07:38:03",
     "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/346"
+  },
+  {
+    "card": "Axebane Guardian",
+    "description": "Mana Reflection doesn't doubling mana produced by mana abilities that can add combination of colors into the mana pool",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-07 07:38:03",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/346"
+  },
+  {
+    "card": "Altar of the Lost",
+    "description": "Mana Reflection doesn't doubling mana produced by mana abilities that can add combination of colors into the mana pool",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-07 07:38:03",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/346"
+  },
+  {
+    "card": "Terrarion",
+    "description": "Mana Reflection doesn't doubling mana produced by mana abilities that can add combination of colors into the mana pool",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-07 07:38:03",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/346"
+  },
+  {
+    "card": "Cascading Cataracts",
+    "description": "Mana Reflection doesn't doubling mana produced by mana abilities that can add combination of colors into the mana pool",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-07 07:38:03",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/346"
+  },
+  {
+    "card": "Crucible of the Spirit Dragon",
+    "description": "Mana Reflection doesn't doubling mana produced by mana abilities that can add combination of colors into the mana pool",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-07 07:38:03",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/346"
+  },
+  {
+    "card": "Prismatic Geoscope",
+    "description": "Mana Reflection doesn't doubling mana produced by mana abilities that can add combination of colors into the mana pool",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-07 07:38:03",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/346"
+  },
+  {
+    "card": "Shaman of Forgotten Ways",
+    "description": "Mana Reflection doesn't doubling mana produced by mana abilities that can add combination of colors into the mana pool",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-07 07:38:03",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/346"
+  },
+  {
+    "card": "Smokebraider",
+    "description": "Mana Reflection doesn't doubling mana produced by mana abilities that can add combination of colors into the mana pool",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-07 07:38:03",
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -1034,6 +1122,17 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/298"
   },
   {
+    "card": "Overwhelming Splendor",
+    "description": "Creatures with ascend can still grant the City's Blessing with Overwhelming Splendor on the battlefield.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-06 09:14:25",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/297"
+  },
+  {
     "card": "Greater Realm of Preservation",
     "description": "Greater Realm of Preservation does not prevent Sin Prodder's upkeep trigger damage",
     "category": "Disadvantageous",
@@ -1593,6 +1692,17 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/233"
+  },
+  {
+    "card": "Gifts Ungiven",
+    "description": "If a player uses the Undo function when selecting cards for their opponent's Gifts Ungiven, they will only be able to choose 1 card to go to the graveyard.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-06 09:14:30",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/232"
   },
   {
     "card": "Phantom Tiger",
@@ -2267,9 +2377,9 @@
   },
   {
     "card": "Gideon's Intervention",
-    "description": "Gideon's Intervention Casting a second copy causes the first to become partially non-functional, allowing the named card to deal damage.",
+    "description": "Casting a second copy of Gideon's Intervention causes the first to become become partially non-functional, allowing the named card to deal damage",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-06 08:42:55",
+    "last_updated": "2018-04-06 10:38:07",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -2311,9 +2421,9 @@
   },
   {
     "card": "Vizier of Many Faces",
-    "description": "Vizier of Many Faces If the Vizier copies a token creature that was created with embalm, the Vizier will display with no art.",
+    "description": "When Vizier of Many Faces copies a token creature that was created with embalm, the Vizier will display with no art.",
     "category": "Graphical",
-    "last_updated": "2018-04-06 08:42:55",
+    "last_updated": "2018-04-06 10:09:31",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
