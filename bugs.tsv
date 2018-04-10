@@ -124,7 +124,7 @@ Living Lore	If [Living Lore] imprints a Split Card, it has twice the expected CM
 Lurking Evil	[Lurking Evil] makes you pay half your opponent's life total	Advantageous	2017-12-17 10:54:12
 Mana Bloom	Mana Bloom Ability does not generate mana on opponents' turns.	Disadvantageous	2018-03-23 01:40:03
 Mana Reflection	Mana Reflection doesn't doubling mana produced by mana abilities that can add combination of colors into the mana pool	Disadvantageous	2018-04-07 07:38:03
-Mass Polymorph	Synthetic DestinyMass Polymorph does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-03-23 03:38:20
+Mass Polymorph	Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-04-10 06:31:21
 Midnight Oil	Casting a second Midnight Oil does not reset your hand size limit	Disadvantageous	2018-03-24 02:38:04
 Mind Bend	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-04-05 04:24:25
 Mindclaw Shaman	You are unable to cast split cards with [Mindclaw Shaman]'s ability.	Disadvantageous	2018-02-12 02:38:56
@@ -220,7 +220,7 @@ Structural Collapse	[Structural Collapse] doesn't cause target to sacrifice eith
 Summoner's Bane	Token created by Summoner's Bane have incorrect art and incorrectly display that they have flying	Graphical	2018-03-13 01:26:13
 Sunscourge Champion	Sunscourge Champion will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2018-03-24 02:14:56
 Sylvan Primordial	Casting Sylvan Primordial causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2018-03-24 00:38:39
-Synthetic Destiny	Synthetic DestinyMass Polymorph does not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-03-23 03:38:20
+Synthetic Destiny	Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-04-10 06:31:21
 Taigam's Scheming	Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.	Graphical	2018-02-13 20:10:02
 Tawnos's Coffin	Tawnos's Coffin crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2018-03-23 02:38:49
 Terastodon	If some (not all) of Terastodon's targets are indestructible permanent(s), it will incorrectly create elephant token(s) for the owner of those permanents.	Advantageous	2018-03-28 23:38:17

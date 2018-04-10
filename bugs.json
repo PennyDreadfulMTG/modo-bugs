@@ -2553,9 +2553,9 @@
   },
   {
     "card": "Synthetic Destiny",
-    "description": "Synthetic DestinyMass Polymorph does not take commanders into account when determining the number of creatures to reveal.",
+    "description": "Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-23 03:38:20",
+    "last_updated": "2018-04-10 06:31:21",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -2564,9 +2564,9 @@
   },
   {
     "card": "Mass Polymorph",
-    "description": "Synthetic DestinyMass Polymorph does not take commanders into account when determining the number of creatures to reveal.",
+    "description": "Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-23 03:38:20",
+    "last_updated": "2018-04-10 06:31:21",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
