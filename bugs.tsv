@@ -4,8 +4,10 @@ Altar of the Lost	Mana Reflection doesn't double mana produced by mana abilities
 Angelic Field Marshal	Angelic Field Marshal still grants a bonus to your commander when an opponent gains control of it.	Advantageous	2018-03-23 03:37:40
 Anthroplasm	Anthroplasm dies as soon as its ability resolves and can cause a softlock with an anthem effect out.	Avoidable Game Breaking	2018-03-18 04:39:08
 Apathy	The triggered ability of Apathy causes a soft-lock.	Game Breaking	2018-03-24 02:14:29
+Archangel Avacyn	Archangel Avacyn and Garruk, the Veil-Cursed do not respect Commander color identity.	Unclassified	2018-04-13 13:24:48
 As Foretold	As Foretold does not apply to cards able to be cast due to Abandoned Sarcophagus.	Disadvantageous	2018-03-24 02:38:07
 Ashiok, Nightmare Weaver	Ashiok, Nightmare Weaver is unable to put a creature with converted mana cost equal to its current loyalty onto the battlefield.	Disadvantageous	2018-04-05 15:38:34
+Atarka's Command	Atarka's Command's first activated ability doesn't appear in the Effect zone after it resolves.	Unclassified	2018-04-13 13:24:49
 Athreos, God of Passage	Athreos, God of Passage does not associate its triggers with specific creatures.	Graphical	2018-03-24 02:15:01
 Austere Command	Austere Command does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.	Disadvantageous	2018-03-26 01:38:46
 Axebane Guardian	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
@@ -67,6 +69,7 @@ Fa'adiyah Seer	Fa'adiyah Seer and Sindbad's ability won't discard non-land card 
 Fire Covenant	If Fire Covenant is cast for x=0 and you pay the 1 extra mana that MTGO asks you to (which is the bug), the game will restarts. Workaround: Undo the process if you encounter this bug, and never cast it for x=0	Avoidable Game Breaking	2018-03-18 03:57:56
 Floodtide Serpent	Insteading of bouncing an enchantment, attacking with Floodtide Serpent shows you all zones.	Advantageous	2018-02-06 03:13:44
 Freyalise's Winds	[Freyalise's Winds] Anytime a permanent with a wind counter would be untapped outside of the untap step,  a wind counter is removed rather than it becoming untapped.	Disadvantageous	2018-02-03 06:38:06
+Garruk, the Veil-Cursed	Archangel Avacyn and Garruk, the Veil-Cursed do not respect Commander color identity.	Unclassified	2018-04-13 13:24:48
 Garruk, the Veil-Cursed	The art for the wolf token created by Garruk, the Veil-Cursed is incorrect.	Graphical	2018-03-23 03:37:46
 Genju of the Fields	[Genju of the Fields] does not cause you to gain life upon dealing damage	Disadvantageous	2018-02-13 05:39:16
 Gideon's Intervention	Casting a second copy of Gideon's Intervention causes the first to become become partially non-functional, allowing the named card to deal damage	Disadvantageous	2018-04-08 13:25:26
@@ -124,6 +127,7 @@ Living Lore	If [Living Lore] imprints a Split Card, it has twice the expected CM
 Lurking Evil	[Lurking Evil] makes you pay half your opponent's life total	Advantageous	2017-12-17 10:54:12
 Mana Bloom	Mana Bloom Ability does not generate mana on opponents' turns.	Disadvantageous	2018-03-23 01:40:03
 Mana Reflection	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
+Mass Polymorph	Mass Polymorph incorrectly does not count exiled commanders when determining how many creature cards to put onto the battlefield.	Unclassified	2018-04-13 13:24:50
 Mass Polymorph	Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-04-10 06:31:21
 Midnight Oil	Casting a second Midnight Oil does not reset your hand size limit	Disadvantageous	2018-03-24 02:38:04
 Mind Bend	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-04-05 04:24:25
