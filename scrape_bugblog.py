@@ -170,15 +170,16 @@ def parse_knownbugs(b: Tag) -> None:
                 text = bbt.group(1).strip()
                 for row in b.find_all('tr'):
                     data = row.find_all("td")
-                    if data[1].text.strip() == text:
+                    rowtext = remove_smartquotes(data[1].text.strip())
+                    if rowtext == text:
                         break
-                    elif strip_squarebrackets(data[1].text.strip()) == strip_squarebrackets(text):
+                    elif strip_squarebrackets(rowtext) == strip_squarebrackets(text):
                         # Fix this
                         print("Issue #{id}'s bug blog text has differing autocard notation.".format(id=issue.number))
-                        body = re.sub(BBT_REGEX, 'Bug Blog Text: {0}'.format(data[1].text.strip()), issue.body, flags=re.MULTILINE)
+                        body = re.sub(BBT_REGEX, 'Bug Blog Text: {0}'.format(rowtext), issue.body, flags=re.MULTILINE)
                         if issue.body != body:
                             issue.edit(body=body)
-                            print('Updated to `{0}`'.format(data[1].text.strip()))
+                            print('Updated to `{0}`'.format(rowtext))
                         break
                 else:
                     print('{id} is fixed!'.format(id=issue.number))
