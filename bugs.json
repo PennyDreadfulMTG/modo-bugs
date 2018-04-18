@@ -3,18 +3,7 @@
     "card": "Hostage Taker",
     "description": "If a Commander is targeted with Hostage Taker and sent to its owner's command zone instead of exile, it can still be cast by the controller of Hostage Taker.",
     "category": "Unclassified",
-    "last_updated": "2018-04-18 07:35:19",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/452"
-  },
-  {
-    "card": "Hostage Taker",
-    "description": "If a Commander is targeted with Hostage Taker and sent to its owner's command zone instead of exile, it can still be cast by the controller of Hostage Taker.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-18 07:35:19",
+    "last_updated": "2018-04-18 08:38:38",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -1265,6 +1254,72 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/304"
   },
   {
+    "card": "Mire's Toll",
+    "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-18 07:57:46",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302"
+  },
+  {
+    "card": "Thieving Sprite",
+    "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-18 07:57:46",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302"
+  },
+  {
+    "card": "Bala Ged Thief",
+    "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-18 07:57:46",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302"
+  },
+  {
+    "card": "Disciple of Phenax",
+    "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-18 07:57:46",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302"
+  },
+  {
+    "card": "Distended Mindbender",
+    "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-18 07:57:46",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302"
+  },
+  {
+    "card": "Reflector Mage",
+    "description": "The second Reflector Mage played in the same turn will let the first one\u2019s target able to be cast.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-18 07:58:52",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/300"
+  },
+  {
     "card": "Angelic Field Marshal",
     "description": "Angelic Field Marshal still grants a bonus to your commander when an opponent gains control of it.",
     "category": "Advantageous",
@@ -2454,6 +2509,17 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
   },
   {
+    "card": "Hollow One",
+    "description": "Hollow One's cost reduction doesn't consider split cards that are discarded",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-18 07:58:30",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/125"
+  },
+  {
     "card": "Structural Collapse",
     "description": "[Structural Collapse] doesn't cause target to sacrifice either an artifact or land.",
     "category": "Disadvantageous",
@@ -2661,6 +2727,17 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/52"
+  },
+  {
+    "card": "Riptide Replicator",
+    "description": "Riptide Replicator tokens use incorrect art and incorrectly display they have the changeling ability.",
+    "category": "Graphical",
+    "last_updated": "2018-04-18 07:58:18",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/51"
   },
   {
     "card": "Custodi Lich",
@@ -2881,6 +2958,17 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/15"
+  },
+  {
+    "card": "Mana Bloom",
+    "description": "Mana Bloom Ability does not generate mana on opponents' turns.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-18 07:58:07",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/12"
   },
   {
     "card": "Lich",
