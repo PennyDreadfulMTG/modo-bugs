@@ -31,4 +31,8 @@ def search_scryfall(query):
 
 def catalog_cardnames() -> List[str]:
      result_json = internal.fetch_json('https://api.scryfall.com/catalog/card-names')
-     return result_json['data']
+     names: List[str] = result_json['data']
+     for n in names:
+         if ' // ' in n:
+            names.extend(n.split(' // '))
+     return names

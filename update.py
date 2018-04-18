@@ -167,6 +167,8 @@ def process_issue(issue):
             'bannable': bannable,
             'url': issue.html_url,
             }
+        if "Multiplayer" in labels:
+            bug['multiplayer_only'] = True
         ALL_BUGS.append(bug)
 
 def fix_user_errors(issue: Issue):
