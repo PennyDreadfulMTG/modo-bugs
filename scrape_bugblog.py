@@ -167,7 +167,7 @@ def parse_knownbugs(b: Tag) -> None:
         if "From Bug Blog" in [i.name for i in issue.labels]:
             # Don't check for Bug Blog Text if it's not marked as a BB issue (Maybe because it was reopened)
             if bbt is not None:
-                text = bbt.group(1).strip()
+                text = remove_smartquotes(bbt.group(1).strip())
                 for row in b.find_all('tr'):
                     data = row.find_all("td")
                     rowtext = remove_smartquotes(data[1].text.strip())
