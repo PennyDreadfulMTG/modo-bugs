@@ -26,9 +26,15 @@ def scrape() -> None:
 
 def update_redirect(title: str, redirect: str) -> None:
     text = "---\ntitle: {title}\nredirect_to:\n - {url}\n---\n".format(title=title, url=redirect)
-    bb_jekyl = open('bug_blog.md', mode='w')
-    bb_jekyl.write(text)
+    bb_jekyl = open('bug_blog.md', mode='r')
+    orig = bb_jekyl.read()
     bb_jekyl.close()
+    if orig != text:
+        print('New bug blog update!')
+        sys.argv.append('check-missing') # This might be a bad idea
+        bb_jekyl = open('bug_blog.md', mode='w')
+        bb_jekyl.write(text)
+        bb_jekyl.close()
 
 def parse_article_item_extended(a: Tag) -> Tuple[Tag, str]:
     title = a.find_all('h3')[0]
@@ -190,7 +196,7 @@ def parse_knownbugs(b: Tag) -> None:
             if find_issue_by_code(row_text):
                 continue
             print("Could not find issue for `{row}`".format(row=row_text))
-            text = "From Bug Blog.\nAffects: \n<!-- Images -->\nBug Blog Text: {0}".format(row_text)
+            text = "From Bug Blog.\nBug Blog Text: {0}".format(row_text)
             repo.create_issue(remove_smartquotes(row_text), body=remove_smartquotes(text), labels=["From Bug Blog"])
 
 
