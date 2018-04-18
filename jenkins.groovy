@@ -11,7 +11,6 @@ node('linux') {
         sh 'git pull'
         sh 'python3 -m pip install --user pipenv'
         sh 'pipenv install'
-        sh 'pipenv update'
         }
     }
     stage('Scrape') {
