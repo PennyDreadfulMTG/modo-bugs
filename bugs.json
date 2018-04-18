@@ -1845,7 +1845,8 @@
     "bug_blog": true,
     "breaking": true,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/219"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/219",
+    "multiplayer_only": true
   },
   {
     "card": "Deceiver of Form",
