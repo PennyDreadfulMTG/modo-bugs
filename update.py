@@ -169,6 +169,9 @@ def process_issue(issue):
             }
         if "Multiplayer" in labels:
             bug['multiplayer_only'] = True
+        if "Help Wanted" in labels:
+            bug['help_wanted'] = True
+
         ALL_BUGS.append(bug)
 
 def fix_user_errors(issue: Issue):

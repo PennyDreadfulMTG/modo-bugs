@@ -1,4 +1,5 @@
-import re, sys
+import re
+import sys
 from typing import List, Optional, Tuple
 
 import requests
@@ -8,7 +9,8 @@ from github import Github
 from github.Issue import Issue
 
 import configuration
-from helpers import BBT_REGEX, CODE_REGEX, remove_smartquotes, strip_squarebrackets
+from helpers import (BBT_REGEX, CODE_REGEX, remove_smartquotes,
+                     strip_squarebrackets)
 
 ISSUE_CODES = {}
 
