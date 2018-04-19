@@ -1,5 +1,16 @@
 [
   {
+    "card": "Azusa, Lost but Seeking",
+    "description": "Blinking Azusa, Lost but Seeking will cumulatively increase your allowable land drops for that turn",
+    "category": "Advantageous",
+    "last_updated": "2018-04-19 05:37:35",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/454"
+  },
+  {
     "card": "Hostage Taker",
     "description": "If a Commander is targeted with Hostage Taker and sent to its owner's command zone instead of exile, it can still be cast by the controller of Hostage Taker.",
     "category": "Unclassified",
