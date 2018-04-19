@@ -8,7 +8,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/454"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/454",
+    "help_wanted": true
   },
   {
     "card": "Hostage Taker",
@@ -338,7 +339,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/345"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/345",
+    "help_wanted": true
   },
   {
     "card": "Barren Glory",
@@ -360,7 +362,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/342"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/342",
+    "help_wanted": true
   },
   {
     "card": "Eager Construct",
@@ -415,7 +418,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/335"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/335",
+    "help_wanted": true
   },
   {
     "card": "Weird Harvest",
@@ -525,7 +529,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/320"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/320",
+    "help_wanted": true
   },
   {
     "card": "Blessed Breath",
