@@ -122,10 +122,21 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/445"
   },
   {
-    "card": "Cut // Ribbons",
+    "card": "Cut",
     "description": "Split cards such as Cut // Ribbons are reported as 3 cards in the chat log.",
     "category": "Unclassified",
-    "last_updated": "2018-04-18 07:35:34",
+    "last_updated": "2018-04-20 11:38:03",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/444"
+  },
+  {
+    "card": "Ribbons",
+    "description": "Split cards such as Cut // Ribbons are reported as 3 cards in the chat log.",
+    "category": "Unclassified",
+    "last_updated": "2018-04-20 11:38:03",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,

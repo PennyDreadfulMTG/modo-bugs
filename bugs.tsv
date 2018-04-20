@@ -49,7 +49,7 @@ Crystal Spray	Cards that ask you to choose "a basic land type or a color word" o
 Curse of Shallow Graves	Curse of Shallow Graves creates Zombie tokens with incorrect art.	Graphical	2018-04-05 15:38:38
 Cursed Scroll	[Cursed Scroll] does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2018-01-19 08:40:31
 Custodi Lich	Custodi Lich The sacrifice trigger happens whenever any player becomes the monarch.	Advantageous	2018-03-22 16:40:06
-Cut // Ribbons	Split cards such as Cut // Ribbons are reported as 3 cards in the chat log.	Unclassified	2018-04-18 07:35:34
+Cut	Split cards such as Cut // Ribbons are reported as 3 cards in the chat log.	Unclassified	2018-04-20 11:38:03
 Dampen Thought	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Dampen Thought	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
 Death Pit Offering	[Death Pit Offering] sacrifices all of its owner's permanents, not just creatures	Disadvantageous	2018-01-19 09:46:52
@@ -191,6 +191,7 @@ Reincarnation	[Reincarnation] Does nothing	Non-Functional ability	2017-12-26 17:
 Reviving Vapors	Reviving Vapors doesn't cause you to gain life.	Disadvantageous	2018-03-29 04:39:27
 Reweave	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Reweave	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
+Ribbons	Split cards such as Cut // Ribbons are reported as 3 cards in the chat log.	Unclassified	2018-04-20 11:38:03
 Riches	If a commander is chosen for Riches in Rags // Riches, no other opponents need to choose a creature.	Disadvantageous	2018-04-18 04:21:02
 Ricochet Trap	Ricochet Trap restarts the game when cast for its alternate cost.	Avoidable Game Breaking	2018-03-18 03:57:59
 Rimescale Dragon	Rimescale Dragon does not place an Ice Counter on targeted creatures.	Disadvantageous	2018-03-24 02:14:47
