@@ -1,5 +1,16 @@
 [
   {
+    "card": "Mogg Assassin",
+    "description": "Mogg Assassin doesn't kill the opponent's creature on a won flip and doesn't always let both players select a target",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-20 19:37:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/455"
+  },
+  {
     "card": "Azusa, Lost but Seeking",
     "description": "Blinking Azusa, Lost but Seeking will cumulatively increase your allowable land drops for that turn",
     "category": "Advantageous",
@@ -146,8 +157,8 @@
   {
     "card": "Heir of Falkenrath",
     "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-18 07:35:38",
+    "category": "Advantageous",
+    "last_updated": "2018-04-20 19:31:28",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -157,8 +168,8 @@
   {
     "card": "Heir to the Night",
     "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-18 07:35:38",
+    "category": "Advantageous",
+    "last_updated": "2018-04-20 19:31:28",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -168,8 +179,8 @@
   {
     "card": "Heir of Falkenrath",
     "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-18 07:35:38",
+    "category": "Advantageous",
+    "last_updated": "2018-04-20 19:31:28",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,

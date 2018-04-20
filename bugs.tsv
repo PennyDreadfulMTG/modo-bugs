@@ -99,9 +99,9 @@ Hada Freeblade	Certain cards, such as Hada Freeblade, do not display a legality 
 Harness the Storm	[Harness the Storm] Doesn't trigger when casting split cards.	Disadvantageous	2018-02-01 03:38:17
 Harsh Mentor	Harsh Mentor's triggered ability also affects abilities activated from creatures in the graveyard.	Advantageous	2018-03-24 02:14:41
 Headless Horseman	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-17 01:05:29
-Heir of Falkenrath	If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.	Unclassified	2018-04-18 07:35:38
-Heir of Falkenrath	If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.	Unclassified	2018-04-18 07:35:38
-Heir to the Night	If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.	Unclassified	2018-04-18 07:35:38
+Heir of Falkenrath	If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.	Advantageous	2018-04-20 19:31:28
+Heir of Falkenrath	If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.	Advantageous	2018-04-20 19:31:28
+Heir to the Night	If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.	Advantageous	2018-04-20 19:31:28
 Hideous Laughter	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Hideous Laughter	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
 High Seas	[High Seas] only affects red creature spells.	Disadvantageous	2018-03-04 07:39:05
@@ -147,6 +147,7 @@ Mindclaw Shaman	You are unable to cast split cards with [Mindclaw Shaman]'s abil
 Mire's Toll	When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone	Disadvantageous	2018-04-18 07:57:46
 Mirror Match	Mirror Match Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2018-03-24 00:39:07
 Mishra's Workshop	When there are floating generic mana and restricted mana (such as [Mishra's Workshop] mana) that are same color (or same colorless), MTGO will always use generic mana first before using the restricted mana. Workaround: don't float the generic mana if you want to use the restricted mana first	Disadvantageous	2018-02-21 19:35:44
+Mogg Assassin	Mogg Assassin doesn't kill the opponent's creature on a won flip and doesn't always let both players select a target	Disadvantageous	2018-04-20 19:37:48
 Mosswort Bridge	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-03-26 01:15:01
 Multani's Presence	Multani's Presence incorrectly draws cards off copies of spells that are countered	Advantageous	2018-03-20 18:38:40
 Mutiny	Mutiny doesn't have clear targeting information. Workaround: The game log displays targets matching the order written on the card, and will highlight the appropriate creature when its name is hovered over with the mouse.	Graphical	2018-03-24 01:58:20
