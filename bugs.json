@@ -1,5 +1,17 @@
 [
   {
+    "card": "Approach of the Second Sun",
+    "description": "Approach of the Second Sun is bypassing \"Your opponent can't win\" restriction",
+    "category": "Unconfirmed",
+    "last_updated": "2018-04-21 06:37:49",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/457",
+    "help_wanted": true
+  },
+  {
     "card": "Dubious Challenge",
     "description": "Dubious Challenge resets the game when played",
     "category": "Game Breaking",
