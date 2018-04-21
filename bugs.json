@@ -1,5 +1,16 @@
 [
   {
+    "card": "Dubious Challenge",
+    "description": "Dubious Challenge resets the game when played",
+    "category": "Game Breaking",
+    "last_updated": "2018-04-21 03:37:50",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/456"
+  },
+  {
     "card": "Mogg Assassin",
     "description": "Mogg Assassin doesn't kill the opponent's creature on a won flip and doesn't always let both players select a target",
     "category": "Disadvantageous",
@@ -436,7 +447,7 @@
     "card": "Weird Harvest",
     "description": "All creatures searched using Weird Harvest's ability will end in the hand of the last priority player",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-15 06:40:21",
+    "last_updated": "2018-04-21 03:03:01",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
