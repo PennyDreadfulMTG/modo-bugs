@@ -3,7 +3,7 @@
     "card": "Approach of the Second Sun",
     "description": "Approach of the Second Sun is bypassing \"Your opponent can't win\" restriction",
     "category": "Unconfirmed",
-    "last_updated": "2018-04-21 06:37:49",
+    "last_updated": "2018-04-22 19:27:50",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -34,18 +34,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/455"
   },
   {
-    "card": "Azusa, Lost but Seeking",
-    "description": "Blinking Azusa, Lost but Seeking will cumulatively increase your allowable land drops for that turn",
-    "category": "Unconfirmed",
-    "last_updated": "2018-04-21 01:37:45",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/454",
-    "help_wanted": true
-  },
-  {
     "card": "Hostage Taker",
     "description": "If a Commander is targeted with Hostage Taker and sent to its owner's command zone instead of exile, it can still be cast by the controller of Hostage Taker.",
     "category": "Unclassified",
@@ -60,13 +48,12 @@
     "card": "Colfenor's Urn",
     "description": "Colfenor's Urn does not trigger when three or more creatures are exiled.",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-22 03:58:38",
+    "last_updated": "2018-04-22 19:25:31",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/450",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/450"
   },
   {
     "card": "Animation Module",
