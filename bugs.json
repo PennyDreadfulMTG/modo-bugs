@@ -59,13 +59,14 @@
   {
     "card": "Colfenor's Urn",
     "description": "Colfenor's Urn does not trigger when three or more creatures are exiled.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-18 07:35:23",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-22 03:58:38",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/450"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/450",
+    "help_wanted": true
   },
   {
     "card": "Animation Module",
