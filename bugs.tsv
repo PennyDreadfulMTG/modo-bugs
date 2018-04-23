@@ -5,7 +5,6 @@ Angelic Field Marshal	Angelic Field Marshal still grants a bonus to your command
 Animation Module	Animation Module does not trigger off of cards with unleash such as Gore-House Chainwalker.	Disadvantageous	2018-04-20 19:41:56
 Anthroplasm	Anthroplasm dies as soon as its ability resolves and can cause a softlock with an anthem effect out.	Avoidable Game Breaking	2018-03-18 04:39:08
 Apathy	The triggered ability of Apathy causes a soft-lock.	Game Breaking	2018-03-24 02:14:29
-Approach of the Second Sun	Approach of the Second Sun is bypassing "Your opponent can't win" restriction	Unconfirmed	2018-04-23 00:29:43
 Archangel Avacyn	Archangel Avacyn and Garruk, the Veil-Cursed do not respect Commander color identity.	Unclassified	2018-04-18 04:20:57
 As Foretold	As Foretold does not apply to cards able to be cast due to Abandoned Sarcophagus.	Disadvantageous	2018-03-24 02:38:07
 Ashiok, Nightmare Weaver	Ashiok, Nightmare Weaver is unable to put a creature with converted mana cost equal to its current loyalty onto the battlefield.	Disadvantageous	2018-04-05 15:38:34
@@ -79,6 +78,7 @@ Gaddock Teeg	Gaddock Teeg incorrectly does not allow cards with converted mana c
 Garruk, the Veil-Cursed	Archangel Avacyn and Garruk, the Veil-Cursed do not respect Commander color identity.	Unclassified	2018-04-18 04:20:57
 Garruk, the Veil-Cursed	The art for the wolf token created by Garruk, the Veil-Cursed is incorrect.	Graphical	2018-04-18 04:21:01
 Genju of the Fields	[Genju of the Fields] does not cause you to gain life upon dealing damage	Disadvantageous	2018-02-13 05:39:16
+Gideon of the Trials	Gideon of the Trials' emblem fails to prevent the opponent from winning the game via Approach of the Second Sun	Unconfirmed	2018-04-23 01:37:49
 Gideon's Intervention	Casting a second copy of Gideon's Intervention causes the first to become become partially non-functional, allowing the named card to deal damage	Disadvantageous	2018-04-08 13:25:26
 Gideon, Martial Paragon	Gideon, Martial Paragon AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2018-03-24 01:07:02
 Gifts Ungiven	If a player uses the Undo function when selecting cards for their opponent's Gifts Ungiven, they will only be able to choose 1 card to go to the graveyard.	Disadvantageous	2018-04-08 13:25:08

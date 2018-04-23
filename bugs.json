@@ -1,9 +1,9 @@
 [
   {
-    "card": "Approach of the Second Sun",
-    "description": "Approach of the Second Sun is bypassing \"Your opponent can't win\" restriction",
+    "card": "Gideon of the Trials",
+    "description": "Gideon of the Trials' emblem fails to prevent the opponent from winning the game via Approach of the Second Sun",
     "category": "Unconfirmed",
-    "last_updated": "2018-04-23 00:29:43",
+    "last_updated": "2018-04-23 01:37:49",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
