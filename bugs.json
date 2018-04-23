@@ -59,23 +59,25 @@
     "card": "Animation Module",
     "description": "Animation Module does not trigger off of cards with unleash such as Gore-House Chainwalker.",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-20 19:41:56",
+    "last_updated": "2018-04-23 04:43:24",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/449"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/449",
+    "help_wanted": true
   },
   {
     "card": "Gore-House Chainwalker",
     "description": "Animation Module does not trigger off of cards with unleash such as Gore-House Chainwalker.",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-20 19:41:56",
+    "last_updated": "2018-04-23 04:43:24",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/449"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/449",
+    "help_wanted": true
   },
   {
     "card": "Vesuva",

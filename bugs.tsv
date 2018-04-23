@@ -2,7 +2,7 @@ Card Name	Bug Description	Categorization	Last Confirmed
 Abandoned Sarcophagus	Abandoned Sarcophagus does not allow you to pay for {X} when casting cycling cards with its ability	Disadvantageous	2018-03-28 23:12:34
 Altar of the Lost	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
 Angelic Field Marshal	Angelic Field Marshal still grants a bonus to your commander when an opponent gains control of it.	Advantageous	2018-03-23 03:37:40
-Animation Module	Animation Module does not trigger off of cards with unleash such as Gore-House Chainwalker.	Disadvantageous	2018-04-20 19:41:56
+Animation Module	Animation Module does not trigger off of cards with unleash such as Gore-House Chainwalker.	Disadvantageous	2018-04-23 04:43:24
 Anthroplasm	Anthroplasm dies as soon as its ability resolves and can cause a softlock with an anthem effect out.	Avoidable Game Breaking	2018-03-18 04:39:08
 Apathy	The triggered ability of Apathy causes a soft-lock.	Game Breaking	2018-03-24 02:14:29
 Archangel Avacyn	Archangel Avacyn and Garruk, the Veil-Cursed do not respect Commander color identity.	Unclassified	2018-04-18 04:20:57
@@ -90,7 +90,7 @@ Goblin Game	Goblin Game reveals your chosen number before your opponents choose.
 God-Pharaoh's Gift	The Scarab God and God-Pharaoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.	Unclassified	2018-03-26 01:15:00
 Godsire	The art for the tokens created by [Godsire] is incorrect.	Graphical	2018-02-01 19:53:21
 Gonti, Lord of Luxury	If you cast Savage Stomp with Gonti, Lord of Luxury and your opponent controls a dinosaur, the cost will incorrectly be reduced by 2.	Advantageous	2018-03-24 02:14:44
-Gore-House Chainwalker	Animation Module does not trigger off of cards with unleash such as Gore-House Chainwalker.	Disadvantageous	2018-04-20 19:41:56
+Gore-House Chainwalker	Animation Module does not trigger off of cards with unleash such as Gore-House Chainwalker.	Disadvantageous	2018-04-23 04:43:24
 Goryo's Vengeance	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Goryo's Vengeance	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
 Grafdigger's Cage	If you manifest a creature with Grafdigger's Cage in play, it will be exiled.	Disadvantageous	2018-03-24 01:40:16
