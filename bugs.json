@@ -1946,12 +1946,13 @@
     "card": "Abandoned Sarcophagus",
     "description": "Abandoned Sarcophagus does not allow you to pay for {X} when casting cycling cards with its ability",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-28 23:12:34",
+    "last_updated": "2018-04-25 03:11:10",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/233"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/233",
+    "help_wanted": true
   },
   {
     "card": "Gifts Ungiven",
