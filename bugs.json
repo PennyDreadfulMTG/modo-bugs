@@ -1,5 +1,126 @@
 [
   {
+    "card": "Doubling Season",
+    "description": "Doubling Season incorrectly doubles lore counters on sagas such as The Mirari Conjecture placed during the draw step.",
+    "category": "Unclassified",
+    "last_updated": "2018-04-25 23:53:01",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/466"
+  },
+  {
+    "card": "The Mirari Conjecture",
+    "description": "Doubling Season incorrectly doubles lore counters on sagas such as The Mirari Conjecture placed during the draw step.",
+    "category": "Unclassified",
+    "last_updated": "2018-04-25 23:53:01",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/466"
+  },
+  {
+    "card": "Knight of Grace",
+    "description": "Creatures with hexproof from color such as Knight of Grace, are incorrectly able to be targeted by a split card of that color.",
+    "category": "Unclassified",
+    "last_updated": "2018-04-25 23:53:03",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/465"
+  },
+  {
+    "card": "Eager Construct",
+    "description": "Eager Construct does not allow the opponent to scry 1.",
+    "category": "Unclassified",
+    "last_updated": "2018-04-25 23:53:05",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/464"
+  },
+  {
+    "card": "Hostage Taker",
+    "description": "If a Commander is targeted with Hostage Taker and sent to its owner's command zone instead of exile, it can still be cast by the controller of Hostage Taker.",
+    "category": "Unclassified",
+    "last_updated": "2018-04-25 23:53:09",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/462"
+  },
+  {
+    "card": "Hostage Taker",
+    "description": "If a Commander is targeted with Hostage Taker and sent to its owner's command zone instead of exile, it can still be cast by the controller of Hostage Taker.",
+    "category": "Unclassified",
+    "last_updated": "2018-04-25 23:53:09",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/462"
+  },
+  {
+    "card": "Nazahn, Revered Bladesmith",
+    "description": "Nazahn, Revered Bladesmith will sometimes give the equipment it finds to another player's hand.",
+    "category": "Unclassified",
+    "last_updated": "2018-04-25 23:53:11",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/461"
+  },
+  {
+    "card": "Colfenor's Urn",
+    "description": "Colfenor's Urn does not trigger when three or more creatures are exiled.",
+    "category": "Unclassified",
+    "last_updated": "2018-04-25 23:53:13",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/460"
+  },
+  {
+    "card": "Heir of Falkenrath",
+    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
+    "category": "Unclassified",
+    "last_updated": "2018-04-25 23:53:16",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/458"
+  },
+  {
+    "card": "Heir to the Night",
+    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
+    "category": "Unclassified",
+    "last_updated": "2018-04-25 23:53:16",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/458"
+  },
+  {
+    "card": "Heir of Falkenrath",
+    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
+    "category": "Unclassified",
+    "last_updated": "2018-04-25 23:53:16",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/458"
+  },
+  {
     "card": "Gideon of the Trials",
     "description": "Gideon of the Trials' emblem fails to prevent the opponent from winning the game via Approach of the Second Sun",
     "category": "Unconfirmed",
