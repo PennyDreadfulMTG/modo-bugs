@@ -33,17 +33,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/465"
   },
   {
-    "card": "Eager Construct",
-    "description": "Eager Construct does not allow the opponent to scry 1.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-25 23:53:06",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/464"
-  },
-  {
     "card": "Hostage Taker",
     "description": "If a Commander is targeted with Hostage Taker and sent to its owner's command zone instead of exile, it can still be cast by the controller of Hostage Taker.",
     "category": "Unclassified",
@@ -75,17 +64,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/461"
-  },
-  {
-    "card": "Colfenor's Urn",
-    "description": "Colfenor's Urn does not trigger when three or more creatures are exiled.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-25 23:53:14",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/460"
   },
   {
     "card": "Heir of Falkenrath",
@@ -123,14 +101,13 @@
   {
     "card": "Gideon of the Trials",
     "description": "Gideon of the Trials' emblem fails to prevent the opponent from winning the game via Approach of the Second Sun",
-    "category": "Unconfirmed",
-    "last_updated": "2018-04-23 01:37:49",
+    "category": "Disadvantageous",
+    "last_updated": "2018-04-26 05:37:34",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/457",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/457"
   },
   {
     "card": "Dubious Challenge",
@@ -512,11 +489,11 @@
   },
   {
     "card": "Eager Construct",
-    "description": "Eager Construct doesn't give opponents option to scry when selecting 'yes'",
+    "description": "Eager Construct doesn't give opponents the option to scry 1",
     "category": "Advantageous",
-    "last_updated": "2018-03-30 18:37:58",
+    "last_updated": "2018-04-26 05:37:36",
     "pd_legal": true,
-    "bug_blog": false,
+    "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/341"

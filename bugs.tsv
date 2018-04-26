@@ -31,7 +31,6 @@ Circle of Flame	Cards that are only common in PRM version can be added to Pauper
 Clone Legion	[Clone Legion] puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-03-02 03:40:54
 Cloud Key	Cloud Key Players are unable to correctly select a card type	Non-Functional ability	2018-03-23 01:23:52
 Colfenor's Urn	Colfenor's Urn does not trigger when three or more creatures are exiled.	Disadvantageous	2018-04-22 19:25:31
-Colfenor's Urn	Colfenor's Urn does not trigger when three or more creatures are exiled.	Unclassified	2018-04-25 23:53:14
 Collected Company	Collected Company does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2018-03-24 02:14:46
 Combat Celebrant	Combat Celebrant does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2018-03-23 02:38:46
 Commandeer	Commandeer does not gain control of the targeted noncreature spell.	Disadvantageous	2018-03-24 02:14:47
@@ -65,8 +64,7 @@ Doubling Season	Doubling Season incorrectly doubles loyalty counters added from 
 Dream Halls	Dream Halls Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2018-03-23 02:39:13
 Dream Tides	Dream Tides doesn't require a cost for nongreen creatures chosen to untap.	Advantageous	2018-03-15 01:32:28
 Dubious Challenge	Dubious Challenge resets the game when played	Game Breaking	2018-04-21 03:37:51
-Eager Construct	Eager Construct does not allow the opponent to scry 1.	Unclassified	2018-04-25 23:53:06
-Eager Construct	Eager Construct doesn't give opponents option to scry when selecting 'yes'	Advantageous	2018-03-30 18:37:58
+Eager Construct	Eager Construct doesn't give opponents the option to scry 1	Advantageous	2018-04-26 05:37:36
 Elesh Norn, Grand Cenobite	If Containment Priest and Elesh Norn, Grand Cenobite are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2018-03-24 02:14:51
 Ends	Odds restarts the game in buggy state on heads	Game Breaking	2018-04-18 04:21:03
 Entreat the Angels	When Entreat the Angels is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.	Graphical	2018-03-24 02:14:30
@@ -81,7 +79,7 @@ Gaddock Teeg	Gaddock Teeg incorrectly does not allow cards with converted mana c
 Garruk, the Veil-Cursed	Archangel Avacyn and Garruk, the Veil-Cursed do not respect Commander color identity.	Unclassified	2018-04-18 04:20:57
 Garruk, the Veil-Cursed	The art for the wolf token created by Garruk, the Veil-Cursed is incorrect.	Graphical	2018-04-18 04:21:01
 Genju of the Fields	[Genju of the Fields] does not cause you to gain life upon dealing damage	Disadvantageous	2018-02-13 05:39:16
-Gideon of the Trials	Gideon of the Trials' emblem fails to prevent the opponent from winning the game via Approach of the Second Sun	Unconfirmed	2018-04-23 01:37:49
+Gideon of the Trials	Gideon of the Trials' emblem fails to prevent the opponent from winning the game via Approach of the Second Sun	Disadvantageous	2018-04-26 05:37:34
 Gideon's Intervention	Casting a second copy of Gideon's Intervention causes the first to become become partially non-functional, allowing the named card to deal damage	Disadvantageous	2018-04-08 13:25:26
 Gideon, Martial Paragon	Gideon, Martial Paragon AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2018-03-24 01:07:02
 Gifts Ungiven	If a player uses the Undo function when selecting cards for their opponent's Gifts Ungiven, they will only be able to choose 1 card to go to the graveyard.	Disadvantageous	2018-04-08 13:25:08
