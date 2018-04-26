@@ -1,5 +1,17 @@
 [
   {
+    "card": "Teferi\u2019s Realm",
+    "description": "Teferi\u2019s Realm forces you to phase everything out",
+    "category": "Unconfirmed",
+    "last_updated": "2018-04-26 22:37:39",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/467",
+    "help_wanted": true
+  },
+  {
     "card": "Doubling Season",
     "description": "Doubling Season incorrectly doubles lore counters on sagas such as The Mirari Conjecture placed during the draw step.",
     "category": "Unclassified",
