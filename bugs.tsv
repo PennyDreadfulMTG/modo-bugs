@@ -1,10 +1,10 @@
 Card Name	Bug Description	Categorization	Last Confirmed
-Abandoned Sarcophagus	Abandoned Sarcophagus does not allow you to pay for {X} when casting cycling cards with its ability	Disadvantageous	2018-04-25 03:11:10
+Abandoned Sarcophagus	Abandoned Sarcophagus does not allow you to pay for {X} when casting cycling cards with its ability	Disadvantageous	2018-04-27 06:37:47
 Altar of the Lost	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
 Angelic Field Marshal	Angelic Field Marshal still grants a bonus to your commander when an opponent gains control of it.	Advantageous	2018-03-23 03:37:40
 Animation Module	Animation Module does not trigger off of cards with unleash such as Gore-House Chainwalker.	Disadvantageous	2018-04-23 04:43:24
-Anthroplasm	Anthroplasm dies as soon as its ability resolves and can cause a softlock with an anthem effect out.	Avoidable Game Breaking	2018-03-18 04:39:08
-Apathy	The triggered ability of Apathy causes a soft-lock.	Game Breaking	2018-03-24 02:14:29
+Anthroplasm	Anthroplasm dies as soon as its ability resolves and can cause a softlock with an anthem effect out.	Avoidable Game Breaking	2018-04-27 06:37:42
+Apathy	The triggered ability of Apathy causes a soft-lock.	Game Breaking	2018-04-27 06:37:45
 Archangel Avacyn	Archangel Avacyn and Garruk, the Veil-Cursed do not respect Commander color identity.	Unclassified	2018-04-18 04:20:57
 As Foretold	As Foretold does not apply to cards able to be cast due to Abandoned Sarcophagus.	Disadvantageous	2018-03-24 02:38:07
 Ashiok, Nightmare Weaver	Ashiok, Nightmare Weaver is unable to put a creature with converted mana cost equal to its current loyalty onto the battlefield.	Disadvantageous	2018-04-05 15:38:34
@@ -18,7 +18,7 @@ Blessed Breath	Splice onto Arcane abilities are incorrectly affected by cost red
 Blessed Breath	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
 Blood Moon	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-03-23 04:40:32
 Blood Moon	Vesuva allows you to copy a basic land with Blood Moon in play.	Unclassified	2018-04-18 07:35:27
-Booby Trap	[Booby Trap] does not let you name anything other than non-basic lands.	Disadvantageous	2017-12-12 18:19:18
+Booby Trap	Booby Trap does not let you name anything other than non-basic lands.	Disadvantageous	2018-04-27 07:37:58
 Borderland Explorer	All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-03-23 02:39:11
 Buried Alive	The order of cards put into the graveyard by Buried Alive is random	Disadvantageous	2018-03-04 06:55:58
 Cairn Wanderer	Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared	Disadvantageous	2018-03-15 07:42:33
@@ -27,7 +27,7 @@ Candles' Glow	Splice onto Arcane abilities are incorrectly affected by cost redu
 Candles' Glow	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
 Cascading Cataracts	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
 Cast Out	Cards exiled by Cast Out are not placed underneath it	Graphical	2018-03-08 19:54:51
-Chandra Nalaar	Chandra Nalaar Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2018-03-20 18:38:41
+Chandra Nalaar	Chandra Nalaar Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2018-04-27 06:37:52
 Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-17 01:05:29
 Clone Legion	[Clone Legion] puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-03-02 03:40:54
 Cloud Key	Cloud Key Players are unable to correctly select a card type	Non-Functional ability	2018-03-23 01:23:52
@@ -35,7 +35,7 @@ Colfenor's Urn	Colfenor's Urn does not trigger when three or more creatures are 
 Collected Company	Collected Company does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2018-03-24 02:14:46
 Combat Celebrant	Combat Celebrant does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2018-03-23 02:38:46
 Commandeer	Commandeer does not gain control of the targeted noncreature spell.	Disadvantageous	2018-03-24 02:14:47
-Compost	[Compost] The effect isn't triggered when an opponent only casts the nonblack half of a split card. 	Disadvantageous	2018-02-12 02:20:27
+Compost	Compost The effect isn't triggered when an opponent only casts the nonblack half of a split card. 	Disadvantageous	2018-04-27 07:37:59
 Compulsive Research	Dredging rather than drawing can let you avoid discarding	Advantageous	2018-02-03 03:37:58
 Concerted Effort	Some protection abilities granted by Concerted Effort are not shown visually on creatures	Graphical	2018-03-15 06:40:22
 Concerted Effort	Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared	Disadvantageous	2018-03-15 07:42:33
@@ -47,12 +47,12 @@ Crucible of the Spirit Dragon	Mana Reflection doesn't double mana produced by ma
 Cryptic Gateway	[Cryptic Gateway] Cannot select a card from your hand	Non-Functional ability	2018-02-16 04:01:16
 Crystal Spray	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-04-05 04:24:25
 Curse of Shallow Graves	Curse of Shallow Graves creates Zombie tokens with incorrect art.	Graphical	2018-04-05 15:38:38
-Cursed Scroll	[Cursed Scroll] does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2018-01-19 08:40:31
+Cursed Scroll	Cursed Scroll does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2018-04-27 07:38:00
 Custodi Lich	Custodi Lich The sacrifice trigger happens whenever any player becomes the monarch.	Advantageous	2018-03-22 16:40:06
 Cut	Split cards such as Cut // Ribbons are reported as 3 cards in the chat log.	Unclassified	2018-04-20 11:38:03
 Dampen Thought	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Dampen Thought	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
-Death Pit Offering	[Death Pit Offering] sacrifices all of its owner's permanents, not just creatures	Disadvantageous	2018-01-19 09:46:52
+Death Pit Offering	Death Pit Offering sacrifices all of its owner's permanents, not just creatures	Disadvantageous	2018-04-27 07:37:56
 Death-Mask Duplicant	Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared	Disadvantageous	2018-03-15 07:42:33
 Deceiver of Form	If Deceiver of Form's triggered ability turns creatures into copies of a legendary creature, the legend rule fails to apply to the copies.	Advantageous	2018-03-24 02:14:40
 Desperate Ritual	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
@@ -63,7 +63,7 @@ Dosan the Falling Leaf	Dosan the Falling Leaf only allows players to cast spells
 Doubling Season	Doubling Season incorrectly doubles lore counters on sagas such as The Mirari Conjecture placed during the draw step.	Unclassified	2018-04-25 23:53:02
 Doubling Season	Doubling Season incorrectly doubles loyalty counters added from costs of loyalty abilities.	Advantageous	2018-03-24 02:14:44
 Dream Halls	Dream Halls Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2018-03-23 02:39:13
-Dream Tides	Dream Tides doesn't require a cost for nongreen creatures chosen to untap.	Advantageous	2018-03-15 01:32:28
+Dream Tides	Dream Tides doesn't require a cost for nongreen creatures chosen to untap.	Advantageous	2018-04-27 06:37:43
 Dubious Challenge	Dubious Challenge resets the game when played	Game Breaking	2018-04-21 03:37:51
 Eager Construct	Eager Construct doesn't give opponents the option to scry 1	Advantageous	2018-04-26 05:37:36
 Elesh Norn, Grand Cenobite	If Containment Priest and Elesh Norn, Grand Cenobite are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2018-03-24 02:14:51
@@ -79,7 +79,7 @@ Freyalise's Winds	[Freyalise's Winds] Anytime a permanent with a wind counter wo
 Gaddock Teeg	Gaddock Teeg incorrectly does not allow cards with converted mana cost 4 or greater to be spliced onto other cards.	Unclassified	2018-04-18 07:35:29
 Garruk, the Veil-Cursed	Archangel Avacyn and Garruk, the Veil-Cursed do not respect Commander color identity.	Unclassified	2018-04-18 04:20:57
 Garruk, the Veil-Cursed	The art for the wolf token created by Garruk, the Veil-Cursed is incorrect.	Graphical	2018-04-18 04:21:01
-Genju of the Fields	[Genju of the Fields] does not cause you to gain life upon dealing damage	Disadvantageous	2018-02-13 05:39:16
+Genju of the Fields	Genju of the Fields does not cause you to gain life upon dealing damage	Disadvantageous	2018-04-27 07:38:00
 Gideon of the Trials	Gideon of the Trials' emblem fails to prevent the opponent from winning the game via Approach of the Second Sun	Disadvantageous	2018-04-26 06:37:41
 Gideon's Intervention	Casting a second copy of Gideon's Intervention causes the first to become become partially non-functional, allowing the named card to deal damage	Disadvantageous	2018-04-08 13:25:26
 Gideon, Martial Paragon	Gideon, Martial Paragon AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.	Unclassified	2018-03-24 01:07:02
@@ -97,7 +97,7 @@ Goryo's Vengeance	Splice onto Arcane abilities are incorrectly affected by cost 
 Goryo's Vengeance	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
 Grafdigger's Cage	If you manifest a creature with Grafdigger's Cage in play, it will be exiled.	Disadvantageous	2018-03-24 01:40:16
 Grave Betrayal	If control of Grave Betrayal or  Shirei, Shizo's Caretaker changes between a creature dying and the delayed EOT trigger going on the stack, the new controller gets the creature rather than the player who created the delayed trigger.	Disadvantageous	2018-03-19 00:24:33
-Greater Realm of Preservation	Greater Realm of Preservation does not prevent Sin Prodder's upkeep trigger damage	Disadvantageous	2018-02-08 15:38:12
+Greater Realm of Preservation	Greater Realm of Preservation does not prevent Sin Prodder's upkeep trigger damage	Disadvantageous	2018-04-27 06:37:44
 Hada Freeblade	Certain cards, such as Hada Freeblade, do not display a legality error for the Pauper format in the collection scene.	Graphical	2018-03-24 02:14:45
 Harness the Storm	[Harness the Storm] Doesn't trigger when casting split cards.	Disadvantageous	2018-02-01 03:38:17
 Harsh Mentor	Harsh Mentor's triggered ability also affects abilities activated from creatures in the graveyard.	Advantageous	2018-03-24 02:14:41
@@ -133,16 +133,16 @@ Kaya, Ghost Assassin	If Kaya, Ghost Assassin exiles a commander with the first a
 Kess, Dissident Mage	Kess Dissident Mage's ability allows you to cast spells during other players' turns and to cast spells with no mana costs	Advantageous	2018-03-26 01:38:47
 Khalni Garden	The art for the Plant token created by Khalni Garden is incorrect	Graphical	2018-01-24 03:26:30
 Knight of Grace	Creatures with hexproof from color such as Knight of Grace, are incorrectly able to be targeted by a split card of that color.	Unclassified	2018-04-25 23:53:04
-Knowledge Pool	[Knowledge Pool] With multiple Knowledge Pools in play, casting a spell from hand lets you cast a spell from each Pool.	Advantageous	2018-01-06 11:37:55
+Knowledge Pool	Knowledge Pool With multiple Knowledge Pools in play, casting a spell from hand lets you cast a spell from each Pool.	Advantageous	2018-04-27 07:37:55
 Kodama's Might	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Kodama's Might	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
 Koth of the Hammer	When controlling the Emblem of Koth of the Hammer, lands do not display the blue text they have.	Graphical	2018-03-24 01:40:18
 Kozilek's Translator	The mana abilities of Wall of Roots and Kozilek's Translator cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2018-03-24 02:14:41
-Lavamancer's Skill	[Lavamancer's Skill] the "T: deal 1 damage" ability does not let you choose a target	Disadvantageous	2018-01-29 08:36:16
+Lavamancer's Skill	Lavamancer's Skill the "T: deal 1 damage" ability does not let you choose a target	Disadvantageous	2018-04-27 07:37:53
 Lich	Lich If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2018-03-18 20:39:30
 Lifted by Clouds	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Lifted by Clouds	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
-Liquid Fire	[Liquid Fire] doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2018-01-19 09:46:56
+Liquid Fire	Liquid Fire doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2018-04-27 07:37:59
 Living Lore	If [Living Lore] imprints a Split Card, it has twice the expected CMC.	Advantageous	2018-02-15 02:55:11
 Lurking Evil	[Lurking Evil] makes you pay half your opponent's life total	Advantageous	2017-12-17 10:54:12
 Mana Bloom	Mana Bloom Ability does not generate mana on opponents' turns.	Disadvantageous	2018-04-18 07:58:07
@@ -175,7 +175,7 @@ Overabundance	[Overabundance] can't add colorless mana, therefore keeping player
 Overblaze	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Overblaze	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
 Overwhelming Splendor	Creatures with ascend can still grant the City's Blessing with Overwhelming Splendor on the battlefield.	Disadvantageous	2018-04-08 13:23:59
-Phantom Tiger	If Phantom Tiger dies in combat, blue text abilities it had been granted do not apply to that combat's damage.	Disadvantageous	2018-03-24 02:14:38
+Phantom Tiger	If Phantom Tiger dies in combat, blue text abilities it had been granted do not apply to that combat's damage.	Disadvantageous	2018-04-27 06:37:48
 Phyrexian Metamorph	Clones such as Phyrexian Metamorph are not granted haste by Mimic Vat.	Unclassified	2018-04-18 07:35:32
 Phyrexian Portal	Phyrexian Portal doesn't let the owner see the pile they have chosen or choose a card	Disadvantageous	2018-03-12 05:08:04
 Phyrexian Revoker	If a card such as Phyrexian Revoker that asks you to name a card is manifested, you are asked to name the card as it enters the battlefield.	Unclassified	2018-04-18 07:35:31
@@ -193,12 +193,12 @@ Profane Command	Profane Command If a player gains shroud in response to Profane 
 Psychic Puppetry	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Psychic Puppetry	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
 Psychotic Episode	Psychotic Episode The card on top of the library isn't displayed in the revealed zone	Graphical	2018-03-18 03:57:55
-Puppeteer Clique	Creatures returned with Puppeteer Clique are exiled at the end of any turn, not just the controller's	Disadvantageous	2018-03-20 18:38:34
+Puppeteer Clique	Creatures returned with Puppeteer Clique are exiled at the end of any turn, not just the controller's	Disadvantageous	2018-04-27 06:37:50
 Reap	[Reap] puts a "face down ability" into hand instead of the targetted cards	Game Breaking	2018-03-11 06:23:16
 Reflecting Pool	Reflecting Pool does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2018-03-22 16:21:05
 Reflector Mage	If a player casts Reflector Mage targeting a creature they own, and then in the following turn their opponent casts Reflector Mage, they are able to immediately recast that creature.	Advantageous	2018-03-24 02:14:38
 Reflector Mage	The second Reflector Mage played in the same turn will let the first one's target able to be cast.	Disadvantageous	2018-04-18 07:58:52
-Reincarnation	[Reincarnation] Does nothing	Non-Functional ability	2017-12-26 17:37:57
+Reincarnation	Reincarnation Does nothing	Non-Functional ability	2018-04-27 07:38:02
 Reviving Vapors	Reviving Vapors doesn't cause you to gain life.	Disadvantageous	2018-03-29 04:39:27
 Reweave	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Reweave	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
@@ -206,18 +206,18 @@ Ribbons	Split cards such as Cut // Ribbons are reported as 3 cards in the chat l
 Riches	If a commander is chosen for Riches in Rags // Riches, no other opponents need to choose a creature.	Disadvantageous	2018-04-18 04:21:02
 Ricochet Trap	Ricochet Trap restarts the game when cast for its alternate cost.	Avoidable Game Breaking	2018-03-18 03:57:59
 Rimescale Dragon	Rimescale Dragon does not place an Ice Counter on targeted creatures.	Disadvantageous	2018-03-24 02:14:47
-Riptide Replicator	Riptide Replicator tokens use incorrect art and incorrectly display they have the changeling ability.	Graphical	2018-04-18 07:58:18
+Riptide Replicator	Riptide Replicator tokens use incorrect art and incorrectly display they have the changeling ability.	Graphical	2018-04-27 06:37:54
 Roar of Jukai	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Roar of Jukai	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
-Rogue Skycaptain	[Rogue Skycaptain]'s upkeep cost is {0}.	Advantageous	2018-02-26 00:12:53
+Rogue Skycaptain	Rogue Skycaptain's upkeep cost is {0}.	Advantageous	2018-04-27 07:37:51
 Rosheen Meanderer	Rosheen Meanderer is unable to contribute mana to spells that ask an opponent to pay X, such as Condescend.	Disadvantageous	2018-03-24 02:38:05
 Runic Repetition	Runic Repetition Cannot be cast	Disadvantageous	2018-03-23 02:38:49
 Sages of the Anima	[Sages of the Anima] puts the non-creature cards on top of the library instead of the bottom.	Disadvantageous	2018-02-06 04:35:59
 Samurai of the Pale Curtain	Samurai of the Pale Curtain does not exile tokens.	Disadvantageous	2018-04-14 19:39:21
 Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-24 00:34:39
-Screams from Within	[Screams from Within]'s second ability (Return ~ to your hand) does not function. 	Disadvantageous	2018-02-03 03:38:45
+Screams from Within	Screams from Within's second ability (Return ~ to your hand) does not function. 	Disadvantageous	2018-04-27 07:37:55
 Scroll Rack	The "OK" button of Scroll Rack has a display issue that displays it as a "cancel" button.	Graphical	2018-03-23 03:37:43
-Scythe of the Wretched	While [Scythe of the Wretched] is unequipped, it reanimates any creature that happens to die.	Advantageous	2018-01-31 23:55:42
+Scythe of the Wretched	While Scythe of the Wretched is unequipped, it reanimates any creature that happens to die.	Advantageous	2018-04-27 07:37:55
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-24 00:34:39
 Selvala, Heart of the Wilds	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce any casting costs. 	Disadvantageous	2018-02-03 06:09:02
@@ -235,15 +235,15 @@ Smokebraider	Mana Reflection doesn't double mana produced by mana abilities that
 Sneak Attack	The delayed trigger ability of Sneak Attack causes the opponent to sacrifice the creature if they gain control it.	Advantageous	2018-03-24 02:10:56
 Soulless Revival	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Soulless Revival	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
-Sound the Call	The art for the token created by [Sound the Call] is incorrect. 	Graphical	2018-01-19 08:40:25
+Sound the Call	The art for the token created by Sound the Call is incorrect. 	Graphical	2018-04-27 07:37:54
 Spell Crumple	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-24 00:34:39
 Spinerock Knoll	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-03-26 01:15:01
 Spinning Darkness	You can't cast Spinning Darkness for its alternate cost	Disadvantageous	2018-03-31 00:38:08
 Spiritual Visit	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Spiritual Visit	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
-Spoils of Victory	[Spoils of Victory] The land comes into play tapped	Disadvantageous	2018-02-13 05:39:04
+Spoils of Victory	Spoils of Victory The land comes into play tapped	Disadvantageous	2018-04-27 07:38:01
 Spreading Seas	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-03-23 04:40:32
-Storage Matrix	Storage Matrix Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2018-03-23 07:38:30
+Storage Matrix	Storage Matrix Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2018-04-27 06:37:53
 Strange Inversion	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Strange Inversion	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
 Structural Collapse	[Structural Collapse] doesn't cause target to sacrifice either an artifact or land.	Disadvantageous	2018-02-13 06:30:28
@@ -263,7 +263,7 @@ The Ur-Dragon	The Ur-Dragon also reduces its own casting cost.	Advantageous	2018
 Thieving Sprite	When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone	Disadvantageous	2018-04-18 07:57:46
 Thornbite Staff	[Thornbite Staff] doesn't display the equip cost line when zoomed in upon.	Graphical	2018-01-19 08:40:26
 Thornbow Archer	Thornbow Archer Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2018-03-23 02:38:46
-Thran Turbine	[Thran Turbine] mana is able to be used to cast spells	Advantageous	2018-01-24 04:50:00
+Thran Turbine	Thran Turbine mana is able to be used to cast spells	Advantageous	2018-04-27 07:37:53
 Through the Breach	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Through the Breach	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
 Tomorrow, Azami's Familiar	Tomorrow, Azami's Familiar puts both unchosen cards back on top of the library.	Disadvantageous	2018-03-18 03:58:01
@@ -275,7 +275,7 @@ Veil of Secrecy	Splice onto Arcane abilities are incorrectly affected by cost re
 Veil of Secrecy	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
 Vesuva	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-03-23 04:40:32
 Vesuva	Vesuva allows you to copy a basic land with Blood Moon in play.	Unclassified	2018-04-18 07:35:27
-Vesuvan Shapeshifter	If Vesuvan Shapeshifter copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.	Advantageous	2018-03-19 02:39:29
+Vesuvan Shapeshifter	If Vesuvan Shapeshifter copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.	Advantageous	2018-04-27 06:37:48
 Vexing Sphinx	[Vexing Sphinx]'s Cumulative Upkeep Doesn't Make You Discard	Advantageous	2018-01-23 02:44:18
 Vital Surge	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Vital Surge	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
@@ -285,11 +285,11 @@ Volcano Hellion	[Volcano Hellion] Damage is capped at 255	Disadvantageous	2018-0
 Wall of Roots	The mana abilities of Wall of Roots and Kozilek's Translator cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2018-03-24 02:14:41
 Wear Away	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Wear Away	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
-Weird Harvest	All creatures searched using Weird Harvest's ability will end in the hand of the last priority player	Disadvantageous	2018-04-21 03:03:01
+Weird Harvest	All creatures searched using Weird Harvest's ability will end in the hand of the last priority player	Disadvantageous	2018-04-27 06:37:42
 Whims of the Fates	Whims of the Fates Causes client crashes	Game Breaking	2018-03-23 02:38:49
 Windbrisk Heights	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-03-26 01:15:01
 Withdraw	Withdraw is able to target the same creature twice.	Advantageous	2018-03-23 03:37:41
 Words of Waste	Words of Waste does not function.	Non-Functional ability	2018-03-24 02:14:39
-Yisan, the Wanderer Bard	If all of Yisan, the Wanderer Bard's verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.	Advantageous	2018-03-26 01:38:47
+Yisan, the Wanderer Bard	If all of Yisan, the Wanderer Bard's verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.	Advantageous	2018-04-27 06:37:47
 Zodiac Rooster	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-17 01:05:29
 Zur's Weirding	Zur's Weirding Reveals but doesn't allow you to pay	Disadvantageous	2018-03-22 06:37:49
