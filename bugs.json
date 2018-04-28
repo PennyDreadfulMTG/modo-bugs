@@ -56,28 +56,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/465"
   },
   {
-    "card": "Hostage Taker",
-    "description": "If a Commander is targeted with Hostage Taker and sent to its owner's command zone instead of exile, it can still be cast by the controller of Hostage Taker.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-25 23:53:10",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/462"
-  },
-  {
-    "card": "Hostage Taker",
-    "description": "If a Commander is targeted with Hostage Taker and sent to its owner's command zone instead of exile, it can still be cast by the controller of Hostage Taker.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-25 23:53:10",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/462"
-  },
-  {
     "card": "Nazahn, Revered Bladesmith",
     "description": "Nazahn, Revered Bladesmith will sometimes give the equipment it finds to another player's hand.",
     "category": "Unclassified",
@@ -157,13 +135,14 @@
   {
     "card": "Hostage Taker",
     "description": "If a Commander is targeted with Hostage Taker and sent to its owner's command zone instead of exile, it can still be cast by the controller of Hostage Taker.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-18 08:38:38",
+    "category": "Advantageous",
+    "last_updated": "2018-04-28 02:22:12",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/452"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/452",
+    "help_wanted": true
   },
   {
     "card": "Colfenor's Urn",
