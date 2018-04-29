@@ -60,7 +60,7 @@ Desperate Ritual	Splice onto Arcane abilities are incorrectly affected by tax ef
 Disciple of Phenax	When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone	Disadvantageous	2018-04-18 07:57:46
 Distended Mindbender	When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone	Disadvantageous	2018-04-18 07:57:46
 Dosan the Falling Leaf	Dosan the Falling Leaf only allows players to cast spells during their opponents' turn	Advantageous	2018-04-05 23:40:23
-Doubling Season	Doubling Season incorrectly doubles lore counters on sagas such as The Mirari Conjecture placed during the draw step.	Unclassified	2018-04-25 23:53:02
+Doubling Season	Doubling Season incorrectly doubles lore counters on sagas placed during the draw step.	Advantageous	2018-04-29 07:37:59
 Doubling Season	Doubling Season incorrectly doubles loyalty counters added from costs of loyalty abilities.	Advantageous	2018-03-24 02:14:44
 Dream Halls	Dream Halls Ability is non-functional. Cannot cast spells with the alternative Casting Cost.	Non-Functional ability	2018-03-23 02:39:13
 Dream Tides	Dream Tides doesn't require a cost for nongreen creatures chosen to untap.	Advantageous	2018-04-27 06:37:43
@@ -254,7 +254,6 @@ Teferi's Realm	Teferi's Realm forces you to phase everything out	Unconfirmed	201
 Terastodon	If some (not all) of Terastodon's targets are indestructible permanent(s), it will incorrectly create elephant token(s) for the owner of those permanents.	Advantageous	2018-03-28 23:38:17
 Terrarion	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of The Gitrog Monster when put into the graveyard 	Disadvantageous	2018-03-26 01:15:08
-The Mirari Conjecture	Doubling Season incorrectly doubles lore counters on sagas such as The Mirari Conjecture placed during the draw step.	Unclassified	2018-04-25 23:53:02
 The Scarab God	The Scarab God and God-Pharaoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.	Unclassified	2018-03-26 01:15:00
 The Ur-Dragon	The Ur-Dragon also reduces its own casting cost.	Advantageous	2018-03-24 02:14:39
 Thieving Sprite	When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone	Disadvantageous	2018-04-18 07:57:46

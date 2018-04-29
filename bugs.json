@@ -24,20 +24,9 @@
   },
   {
     "card": "Doubling Season",
-    "description": "Doubling Season incorrectly doubles lore counters on sagas such as The Mirari Conjecture placed during the draw step.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-25 23:53:02",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/466"
-  },
-  {
-    "card": "The Mirari Conjecture",
-    "description": "Doubling Season incorrectly doubles lore counters on sagas such as The Mirari Conjecture placed during the draw step.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-25 23:53:02",
+    "description": "Doubling Season incorrectly doubles lore counters on sagas placed during the draw step.",
+    "category": "Advantageous",
+    "last_updated": "2018-04-29 07:37:59",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
