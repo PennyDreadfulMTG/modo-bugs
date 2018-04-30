@@ -311,17 +311,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413"
   },
   {
-    "card": "Mass Polymorph",
-    "description": "Mass Polymorph incorrectly does not count exiled commanders when determining how many creature cards to put onto the battlefield.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-04-30 01:20:50",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/407"
-  },
-  {
     "card": "Selvala, Heart of the Wilds",
     "description": "Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors",
     "category": "Disadvantageous",
