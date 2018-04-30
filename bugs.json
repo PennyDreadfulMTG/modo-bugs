@@ -314,7 +314,7 @@
     "card": "Mass Polymorph",
     "description": "Mass Polymorph incorrectly does not count exiled commanders when determining how many creature cards to put onto the battlefield.",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-20 19:54:56",
+    "last_updated": "2018-04-30 01:20:50",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
