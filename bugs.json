@@ -1491,17 +1491,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/291"
   },
   {
-    "card": "Dosan the Falling Leaf",
-    "description": "Dosan the Falling Leaf only allows players to cast spells during their opponents' turn",
-    "category": "Advantageous",
-    "last_updated": "2018-04-05 23:40:23",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/290"
-  },
-  {
     "card": "Lavamancer's Skill",
     "description": "Lavamancer's Skill the \"T: deal 1 damage\" ability does not let you choose a target",
     "category": "Disadvantageous",
@@ -1943,17 +1932,6 @@
     "help_wanted": true
   },
   {
-    "card": "Gifts Ungiven",
-    "description": "If a player uses the Undo function when selecting cards for their opponent's Gifts Ungiven, they will only be able to choose 1 card to go to the graveyard.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-04-08 13:25:08",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/232"
-  },
-  {
     "card": "Phantom Tiger",
     "description": "If Phantom Tiger dies in combat, blue text abilities it had been granted do not apply to that combat's damage.",
     "category": "Disadvantageous",
@@ -2118,17 +2096,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/206"
-  },
-  {
-    "card": "Gonti, Lord of Luxury",
-    "description": "If you cast Savage Stomp with Gonti, Lord of Luxury and your opponent controls a dinosaur, the cost will incorrectly be reduced by 2.",
-    "category": "Advantageous",
-    "last_updated": "2018-03-24 02:14:44",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/203"
   },
   {
     "card": "Doubling Season",
@@ -2459,83 +2426,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/131"
-  },
-  {
-    "card": "Ignite Memories",
-    "description": "Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.",
-    "category": "Game Breaking",
-    "last_updated": "2018-03-24 02:14:56",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
-  },
-  {
-    "card": "Singe-Mind Ogre",
-    "description": "Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.",
-    "category": "Game Breaking",
-    "last_updated": "2018-03-24 02:14:56",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
-  },
-  {
-    "card": "Planeswalker's Fury",
-    "description": "Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.",
-    "category": "Game Breaking",
-    "last_updated": "2018-03-24 02:14:56",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
-  },
-  {
-    "card": "Planeswalker's Scorn",
-    "description": "Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.",
-    "category": "Game Breaking",
-    "last_updated": "2018-03-24 02:14:56",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
-  },
-  {
-    "card": "Planeswalker's Mirth",
-    "description": "Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.",
-    "category": "Game Breaking",
-    "last_updated": "2018-03-24 02:14:56",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
-  },
-  {
-    "card": "Planeswalker's Favor",
-    "description": "Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.",
-    "category": "Game Breaking",
-    "last_updated": "2018-03-24 02:14:56",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
-  },
-  {
-    "card": "Planeswalker's Mischief",
-    "description": "Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.",
-    "category": "Game Breaking",
-    "last_updated": "2018-03-24 02:14:56",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/127"
   },
   {
     "card": "Hollow One",
@@ -2921,17 +2811,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/24"
-  },
-  {
-    "card": "Reap",
-    "description": "[Reap] puts a \"face down ability\" into hand instead of the targetted cards",
-    "category": "Game Breaking",
-    "last_updated": "2018-03-11 06:23:16",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/23"
   },
   {
     "card": "Profane Command",
