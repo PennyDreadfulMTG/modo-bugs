@@ -26,7 +26,7 @@
     "card": "Doubling Season",
     "description": "Doubling Season incorrectly doubles lore counters on sagas placed during the draw step.",
     "category": "Advantageous",
-    "last_updated": "2018-04-29 07:37:59",
+    "last_updated": "2018-05-01 07:34:01",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
