@@ -16,8 +16,7 @@ Bala Ged Thief	When only some cards from an opponent's hand are revealed, they d
 Barren Glory	Barren Glory does not check intervening if clause during resolution 	Advantageous	2018-04-11 03:39:46
 Blessed Breath	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Blessed Breath	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
-Blood Moon	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-03-23 04:40:32
-Blood Moon	Vesuva allows you to copy a basic land with Blood Moon in play.	Unclassified	2018-04-18 07:35:27
+Blood Moon	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
 Booby Trap	Booby Trap does not let you name anything other than non-basic lands.	Disadvantageous	2018-04-27 07:37:58
 Borderland Explorer	All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-03-23 02:39:11
 Buried Alive	The order of cards put into the graveyard by Buried Alive is random	Disadvantageous	2018-03-04 06:55:58
@@ -31,7 +30,6 @@ Chandra Nalaar	Chandra Nalaar Ultimate ability (Chandra's -8) does not count as 
 Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-17 01:05:29
 Clone Legion	[Clone Legion] puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-03-02 03:40:54
 Cloud Key	Cloud Key Players are unable to correctly select a card type	Non-Functional ability	2018-03-23 01:23:52
-Colfenor's Urn	Colfenor's Urn does not trigger when three or more creatures are exiled.	Disadvantageous	2018-04-22 19:25:31
 Collected Company	Collected Company does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2018-03-24 02:14:46
 Combat Celebrant	Combat Celebrant does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2018-03-23 02:38:46
 Commandeer	Commandeer does not gain control of the targeted noncreature spell.	Disadvantageous	2018-03-24 02:14:47
@@ -113,7 +111,6 @@ High Seas	[High Seas] only affects red creature spells.	Disadvantageous	2018-03-
 Hollow One	Hollow One's cost reduction doesn't consider split cards that are discarded	Disadvantageous	2018-04-18 07:58:30
 Horobi's Whisper	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Horobi's Whisper	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
-Hostage Taker	If a Commander is targeted with Hostage Taker and sent to its owner's command zone instead of exile, it can still be cast by the controller of Hostage Taker.	Advantageous	2018-04-28 02:22:12
 Howltooth Hollow	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-03-26 01:15:01
 Hundred-Talon Strike	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Hundred-Talon Strike	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
@@ -129,7 +126,6 @@ Karplusan Minotaur	Karplusan Minotaur Cumulative upkeep cannot be paid	Disadvant
 Kaya, Ghost Assassin	If Kaya, Ghost Assassin exiles a commander with the first ability, and its controller chooses not to replace exile with the command zone, the commander will still go to the command zone until Kaya returns it.	Unconfirmed	2018-04-04 12:12:12
 Kess, Dissident Mage	Kess Dissident Mage's ability allows you to cast spells during other players' turns and to cast spells with no mana costs	Advantageous	2018-04-29 10:05:55
 Khalni Garden	The art for the Plant token created by Khalni Garden is incorrect	Graphical	2018-01-24 03:26:30
-Knight of Grace	Creatures with hexproof from color such as Knight of Grace, are incorrectly able to be targeted by a split card of that color.	Unclassified	2018-04-25 23:53:04
 Knowledge Pool	Knowledge Pool With multiple Knowledge Pools in play, casting a spell from hand lets you cast a spell from each Pool.	Advantageous	2018-04-27 07:37:55
 Kodama's Might	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Kodama's Might	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
@@ -228,7 +224,6 @@ Shirei, Shizo's Caretaker	If control of Grave Betrayal or  Shirei, Shizo's Caret
 Sindbad	Fa'adiyah Seer and Sindbad's ability won't discard non-land card drawn if there is any dredge card in your graveyard	Advantageous	2018-03-18 05:57:01
 Singe-Mind Ogre	Ignite Memories and similar cards can cause a game restart if the target has no cards in hand.	Game Breaking	2018-03-24 02:14:56
 Smokebraider	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
-Sneak Attack	The delayed trigger ability of Sneak Attack causes the opponent to sacrifice the creature if they gain control it.	Advantageous	2018-03-24 02:10:56
 Soulless Revival	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Soulless Revival	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
 Sound the Call	The art for the token created by Sound the Call is incorrect. 	Graphical	2018-04-27 07:37:54
@@ -238,7 +233,7 @@ Spinning Darkness	You can't cast Spinning Darkness for its alternate cost	Disadv
 Spiritual Visit	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Spiritual Visit	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
 Spoils of Victory	Spoils of Victory The land comes into play tapped	Disadvantageous	2018-04-27 07:38:01
-Spreading Seas	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-03-23 04:40:32
+Spreading Seas	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
 Storage Matrix	Storage Matrix Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2018-04-27 06:37:53
 Strange Inversion	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Strange Inversion	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
@@ -256,7 +251,6 @@ The Gitrog Monster	Non-land permanents that have become lands due to an enchantm
 The Scarab God	The Scarab God and God-Pharaoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.	Unclassified	2018-03-26 01:15:00
 The Ur-Dragon	The Ur-Dragon also reduces its own casting cost.	Advantageous	2018-03-24 02:14:39
 Thieving Sprite	When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone	Disadvantageous	2018-04-18 07:57:46
-Thornbite Staff	[Thornbite Staff] doesn't display the equip cost line when zoomed in upon.	Graphical	2018-01-19 08:40:26
 Thornbow Archer	Thornbow Archer Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2018-03-23 02:38:46
 Thran Turbine	Thran Turbine mana is able to be used to cast spells	Advantageous	2018-04-27 07:37:53
 Through the Breach	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
@@ -268,8 +262,7 @@ Torrent of Stone	Splice onto Arcane abilities are incorrectly affected by tax ef
 Unscythe, Killer of Kings	[Unscythe, Killer of Kings]'s effect procs when unequipped.	Advantageous	2018-02-13 06:49:12
 Veil of Secrecy	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Veil of Secrecy	Splice onto Arcane abilities are incorrectly affected by tax effects that are supposed to affect spells only	Advantageous	2018-03-23 02:30:52
-Vesuva	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-03-23 04:40:32
-Vesuva	Vesuva allows you to copy a basic land with Blood Moon in play.	Unclassified	2018-04-18 07:35:27
+Vesuva	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
 Vesuvan Shapeshifter	If Vesuvan Shapeshifter copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.	Advantageous	2018-04-27 06:37:48
 Vexing Sphinx	[Vexing Sphinx]'s Cumulative Upkeep Doesn't Make You Discard	Advantageous	2018-01-23 02:44:18
 Vital Surge	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21

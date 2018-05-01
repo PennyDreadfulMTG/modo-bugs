@@ -34,17 +34,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/466"
   },
   {
-    "card": "Knight of Grace",
-    "description": "Creatures with hexproof from color such as Knight of Grace, are incorrectly able to be targeted by a split card of that color.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-25 23:53:04",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/465"
-  },
-  {
     "card": "Nazahn, Revered Bladesmith",
     "description": "Nazahn, Revered Bladesmith will sometimes give the equipment it finds to another player's hand.",
     "category": "Unclassified",
@@ -122,29 +111,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/455"
   },
   {
-    "card": "Hostage Taker",
-    "description": "If a Commander is targeted with Hostage Taker and sent to its owner's command zone instead of exile, it can still be cast by the controller of Hostage Taker.",
-    "category": "Advantageous",
-    "last_updated": "2018-04-28 02:22:12",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/452",
-    "help_wanted": true
-  },
-  {
-    "card": "Colfenor's Urn",
-    "description": "Colfenor's Urn does not trigger when three or more creatures are exiled.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-04-22 19:25:31",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/450"
-  },
-  {
     "card": "Animation Module",
     "description": "Animation Module does not trigger off of cards with unleash such as Gore-House Chainwalker.",
     "category": "Disadvantageous",
@@ -155,28 +121,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/449",
     "help_wanted": true
-  },
-  {
-    "card": "Vesuva",
-    "description": "Vesuva allows you to copy a basic land with Blood Moon in play.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-18 07:35:27",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/448"
-  },
-  {
-    "card": "Blood Moon",
-    "description": "Vesuva allows you to copy a basic land with Blood Moon in play.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-18 07:35:27",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/448"
   },
   {
     "card": "Gaddock Teeg",
@@ -1602,17 +1546,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/284"
   },
   {
-    "card": "Sneak Attack",
-    "description": "The delayed trigger ability of Sneak Attack causes the opponent to sacrifice the creature if they gain control it.",
-    "category": "Advantageous",
-    "last_updated": "2018-03-24 02:10:56",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/283"
-  },
-  {
     "card": "Scroll Rack",
     "description": "The \"OK\" button of Scroll Rack has a display issue that displays it as a \"cancel\" button.",
     "category": "Graphical",
@@ -1682,7 +1615,7 @@
     "card": "Vesuva",
     "description": "If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.",
     "category": "Advantageous",
-    "last_updated": "2018-03-23 04:40:32",
+    "last_updated": "2018-05-01 15:31:57",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -1693,7 +1626,7 @@
     "card": "Blood Moon",
     "description": "If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.",
     "category": "Advantageous",
-    "last_updated": "2018-03-23 04:40:32",
+    "last_updated": "2018-05-01 15:31:57",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -1704,7 +1637,7 @@
     "card": "Spreading Seas",
     "description": "If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.",
     "category": "Advantageous",
-    "last_updated": "2018-03-23 04:40:32",
+    "last_updated": "2018-05-01 15:31:57",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -1743,17 +1676,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/268"
-  },
-  {
-    "card": "Thornbite Staff",
-    "description": "[Thornbite Staff] doesn't display the equip cost line when zoomed in upon.",
-    "category": "Graphical",
-    "last_updated": "2018-01-19 08:40:26",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/265"
   },
   {
     "card": "Garruk, the Veil-Cursed",
