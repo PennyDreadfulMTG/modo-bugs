@@ -168,8 +168,8 @@
   {
     "card": "Archangel Avacyn",
     "description": "Only the front sides of Archangel Avacyn and Garruk, the Veil-Cursed are taken into account for Commander color identity.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-01 17:37:49",
+    "category": "Disadvantageous",
+    "last_updated": "2018-05-02 01:09:15",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -179,8 +179,8 @@
   {
     "card": "Garruk, the Veil-Cursed",
     "description": "Only the front sides of Archangel Avacyn and Garruk, the Veil-Cursed are taken into account for Commander color identity.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-01 17:37:49",
+    "category": "Disadvantageous",
+    "last_updated": "2018-05-02 01:09:15",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
