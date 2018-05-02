@@ -2163,17 +2163,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/72"
   },
   {
-    "card": "Dream Halls",
-    "description": "Dream Halls Ability is non-functional. Cannot cast spells with the alternative Casting Cost.",
-    "category": "Non-Functional ability",
-    "last_updated": "2018-03-23 02:39:13",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/71"
-  },
-  {
     "card": "Identity Thief",
     "description": "Identity Thief Restarts the game when attempting to copy a creature.",
     "category": "Game Breaking",
