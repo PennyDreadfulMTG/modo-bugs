@@ -1,6 +1,5 @@
 Card Name	Bug Description	Categorization	Last Confirmed
 Abandoned Sarcophagus	Abandoned Sarcophagus does not allow you to pay for {X} when casting cycling cards with its ability	Disadvantageous	2018-04-27 06:37:47
-Altar of the Lost	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
 Angelic Field Marshal	Angelic Field Marshal still grants a bonus to your commander when an opponent gains control of it.	Advantageous	2018-03-23 03:37:40
 Animation Module	Animation Module does not trigger off of cards with unleash such as Gore-House Chainwalker.	Disadvantageous	2018-05-01 17:42:02
 Apathy	The triggered ability of Apathy causes a soft-lock.	Game Breaking	2018-04-27 06:37:45
@@ -10,7 +9,6 @@ Ashiok, Nightmare Weaver	Ashiok, Nightmare Weaver is unable to put a creature wi
 Atarka's Command	Atarka's Command's first activated ability doesn't appear in the Effect zone after it resolves.	Unclassified	2018-04-13 13:24:49
 Athreos, God of Passage	Athreos, God of Passage does not associate its triggers with specific creatures.	Graphical	2018-03-24 02:15:01
 Austere Command	Austere Command does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.	Disadvantageous	2018-03-26 01:38:46
-Axebane Guardian	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
 Bala Ged Thief	When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone	Disadvantageous	2018-04-18 07:57:46
 Barren Glory	Barren Glory does not check intervening if clause during resolution 	Advantageous	2018-04-11 03:39:46
 Blessed Breath	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
@@ -21,7 +19,6 @@ Buried Alive	The order of cards put into the graveyard by Buried Alive is random
 Cairn Wanderer	Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared	Disadvantageous	2018-03-15 07:42:33
 Caller of the Hunt	Caller of the Hunt doesn't allow you to pick a creature type	Disadvantageous	2018-04-27 02:37:39
 Candles' Glow	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
-Cascading Cataracts	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
 Cast Out	Cards exiled by Cast Out are not placed underneath it	Graphical	2018-03-08 19:54:51
 Chandra Nalaar	Chandra Nalaar Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2018-04-27 06:37:52
 Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-17 01:05:29
@@ -37,7 +34,6 @@ Concerted Effort	Some specific protections (Snow or specificially spectra ward) 
 Consuming Vortex	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Containment Priest	Containment Priest exiles Theros Gods even when their devotion isn't met.	Advantageous	2018-04-08 14:37:54
 Contingency Plan	Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.	Graphical	2018-02-13 20:10:02
-Crucible of the Spirit Dragon	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
 Cryptic Gateway	[Cryptic Gateway] Cannot select a card from your hand	Non-Functional ability	2018-02-16 04:01:16
 Crystal Spray	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-04-05 04:24:25
 Curse of Shallow Graves	Curse of Shallow Graves creates Zombie tokens with incorrect art.	Graphical	2018-04-05 15:38:38
@@ -114,7 +110,7 @@ Liquid Fire	Liquid Fire doesn't let you choose how to deal damage - it all goes 
 Living Lore	If [Living Lore] imprints a Split Card, it has twice the expected CMC.	Advantageous	2018-02-15 02:55:11
 Lurking Evil	[Lurking Evil] makes you pay half your opponent's life total	Advantageous	2017-12-17 10:54:12
 Mana Bloom	Mana Bloom Ability does not generate mana on opponents' turns.	Disadvantageous	2018-04-18 07:58:07
-Mana Reflection	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
+Mana Reflection	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-05-03 07:37:38
 Mass Polymorph	Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-04-10 06:31:21
 Midnight Oil	Casting a second Midnight Oil does not reset your hand size limit	Disadvantageous	2018-03-24 02:38:04
 Mimic Vat	Clones such as Phyrexian Metamorph are not granted haste by Mimic Vat.	Unclassified	2018-04-18 07:35:32
@@ -149,7 +145,6 @@ Pox	The calculation code seems to be wrong, because one third of three (3) is ca
 Primal Wellspring	If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.	Disadvantageous	2018-04-18 04:21:00
 Primitive Justice	[Primitive Justice] will either not cast/restart the game with a single target.	Game Breaking	2018-01-19 09:47:04
 Prince of Thralls	Prince of Thralls asks its owner to pay life instead of the opponent.	Advantageous	2018-03-24 02:37:46
-Prismatic Geoscope	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
 Profane Command	Profane Command If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2018-03-23 02:38:50
 Psychic Puppetry	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Psychotic Episode	Psychotic Episode The card on top of the library isn't displayed in the revealed zone	Graphical	2018-03-18 03:57:55
@@ -176,17 +171,14 @@ Screams from Within	Screams from Within's second ability (Return ~ to your hand)
 Scroll Rack	The "OK" button of Scroll Rack has a display issue that displays it as a "cancel" button.	Graphical	2018-03-23 03:37:43
 Scythe of the Wretched	While Scythe of the Wretched is unequipped, it reanimates any creature that happens to die.	Advantageous	2018-04-27 07:37:55
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-24 00:34:39
-Selvala, Heart of the Wilds	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce any casting costs. 	Disadvantageous	2018-02-03 06:09:02
 Settle the Wreckage	Settle the Wreckage does not give the targeted player the option to not search their library.	Advantageous	2018-03-24 02:14:48
-Shaman of Forgotten Ways	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
 Shelldock Isle	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-03-26 01:15:01
 Sheltering Ancient	[Sheltering Ancient]'s Cumulative Upkeep Stops Working After One Age Counter	Advantageous	2018-01-24 04:24:55
 Shifting Borders	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Shifty Doppelganger	Shifty Doppelganger puts an "ability" onto the battlefield at end of turn, rather than itself.	Game Breaking	2018-03-24 03:36:35
 Shirei, Shizo's Caretaker	If control of Grave Betrayal or  Shirei, Shizo's Caretaker changes between a creature dying and the delayed EOT trigger going on the stack, the new controller gets the creature rather than the player who created the delayed trigger.	Disadvantageous	2018-03-19 00:24:33
 Sindbad	Fa'adiyah Seer and Sindbad's ability won't discard non-land card drawn if there is any dredge card in your graveyard	Advantageous	2018-03-18 05:57:01
-Smokebraider	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
 Soulless Revival	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Sound the Call	The art for the token created by Sound the Call is incorrect. 	Graphical	2018-04-27 07:37:54
 Spell Crumple	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-24 00:34:39
@@ -206,7 +198,6 @@ Taigam's Scheming	Some spells that let you look at the top cards of your library
 Tawnos's Coffin	Tawnos's Coffin crashes the game for everyone when it tries to return a card to the battlefield.	Game Breaking	2018-03-23 02:38:49
 Teferi's Realm	Teferi's Realm forces you to phase everything out	Unconfirmed	2018-05-02 02:37:59
 Terastodon	If some (not all) of Terastodon's targets are indestructible permanent(s), it will incorrectly create elephant token(s) for the owner of those permanents.	Advantageous	2018-03-28 23:38:17
-Terrarion	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-04-11 02:48:35
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of The Gitrog Monster when put into the graveyard 	Disadvantageous	2018-03-26 01:15:08
 The Scarab God	The Scarab God and God-Pharaoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.	Unclassified	2018-03-26 01:15:00
 The Ur-Dragon	The Ur-Dragon also reduces its own casting cost.	Advantageous	2018-03-24 02:14:39
