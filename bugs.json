@@ -1,5 +1,204 @@
 [
   {
+    "card": "Brothers Yamazaki",
+    "description": "The legend rule continue to not apply if you have multiple Brothers Yamazaki tokens from autocardHelm of the Host.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:50:42",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/486"
+  },
+  {
+    "card": "autocard",
+    "description": "The legend rule continue to not apply if you have multiple Brothers Yamazaki tokens from autocardHelm of the Host.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:50:42",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/486"
+  },
+  {
+    "card": "Ashes of the Abhorrent",
+    "description": "Ashes of the Abhorrent incorrectly prevents lands from being played from players' graveyards.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:50:44",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/485"
+  },
+  {
+    "card": "Rancor",
+    "description": "If Rancor falls off a land that was a creature temporarily that turn, it will incorrectly trigger during the next turn's upkeep.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:50:46",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/484"
+  },
+  {
+    "card": "Skullbriar, the Walking Grave",
+    "description": "Skullbriar, the Walking Grave can cause the client to crash if it moves to the command zone with +1/+1 counters.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:50:47",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/483"
+  },
+  {
+    "card": "Merfolk Trickster",
+    "description": "Merfolk Trickster doesn't remove abilities granted to the targeted creature by a different source.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:50:49",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/482"
+  },
+  {
+    "card": "Quicksilver Fountain",
+    "description": "Quicksilver Fountain allows you to place flood counters on nonland permanents.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:50:51",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/481"
+  },
+  {
+    "card": "Leyline of Sanctity",
+    "description": "In rare cases, if both players mulligan with cards such as Leyline of Sanctity can cause the game to be unable to continue.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:50:52",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/480"
+  },
+  {
+    "card": "Athreos, God of Passage",
+    "description": "The triggered ability of Athreos, God of Passage does not return the creature to your hand even if an opponent pays 3 life.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:50:54",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/479"
+  },
+  {
+    "card": "Muldrotha, the Gravetide",
+    "description": "Muldrotha, the Gravetide does not allow you to cast cards from your graveyard with As Foretold.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:50:56",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/478"
+  },
+  {
+    "card": "autocard",
+    "description": "If autocardSquee, the Immortal dies after losing its abilities, you are incorrectly unable to cast it from the graveyard.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:50:58",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/477"
+  },
+  {
+    "card": "Corrosive Ooze",
+    "description": "The triggered ability of Corrosive Ooze doesn't trigger if an aura was destroyed on the blocking/blocked creature previously in the turn.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:50:59",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/476"
+  },
+  {
+    "card": "Nazahn, Revered Bladesmith",
+    "description": "Nazahn, Revered Bladesmith will sometimes give the equipment it finds to another player's hand.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:51:01",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/475"
+  },
+  {
+    "card": "Colfenor's Urn",
+    "description": "Colfenor's Urn does not trigger when three or more creatures are exiled.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:51:02",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/474"
+  },
+  {
+    "card": "Heir of Falkenrath",
+    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:51:06",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/472"
+  },
+  {
+    "card": "Heir to the Night",
+    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:51:06",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/472"
+  },
+  {
+    "card": "Heir of Falkenrath",
+    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-06 14:51:06",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/472"
+  },
+  {
+    "card": "Sword-Point Diplomacy",
+    "description": "Sword-Point Diplomacy is buggy in multiplayer",
+    "category": "Advantageous",
+    "last_updated": "2018-05-06 14:51:07",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/471",
+    "multiplayer_only": true
+  },
+  {
     "card": "Caller of the Hunt",
     "description": "Caller of the Hunt doesn't allow you to pick a creature type",
     "category": "Disadvantageous",
@@ -32,17 +231,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/466"
-  },
-  {
-    "card": "Nazahn, Revered Bladesmith",
-    "description": "Nazahn, Revered Bladesmith will sometimes give the equipment it finds to another player's hand.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-25 23:53:11",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/461"
   },
   {
     "card": "Gideon of the Trials",
@@ -996,9 +1184,9 @@
   },
   {
     "card": "Nazahn, Revered Bladesmith",
-    "description": "Searching for any equipment other than Nazahn's Hammer causes it to be put in an opponent's hand",
+    "description": "Nazahn, Revered Bladesmith will sometimes give the equipment it finds to another player's hand.",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-18 07:38:22",
+    "last_updated": "2018-05-04 23:11:24",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -1070,17 +1258,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/284"
-  },
-  {
-    "card": "Scroll Rack",
-    "description": "The \"OK\" button of Scroll Rack has a display issue that displays it as a \"cancel\" button.",
-    "category": "Graphical",
-    "last_updated": "2018-03-23 03:37:43",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/282"
   },
   {
     "card": "Thran Turbine",
@@ -1436,14 +1613,15 @@
   },
   {
     "card": "Lurking Evil",
-    "description": "[Lurking Evil] makes you pay half your opponent's life total",
+    "description": "Lurking Evil makes you pay half your opponent's life total",
     "category": "Advantageous",
-    "last_updated": "2017-12-17 10:54:12",
+    "last_updated": "2018-05-06 14:51:12",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/237"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/237",
+    "help_wanted": true
   },
   {
     "card": "Screams from Within",
@@ -2131,14 +2309,15 @@
   },
   {
     "card": "Island Sanctuary",
-    "description": "[Island Sanctuary]'s replacement effect is available if you draw a card during an opponents draw step",
+    "description": "Island Sanctuary's replacement effect is available if you draw a card during an opponents draw step",
     "category": "Advantageous",
-    "last_updated": "2017-06-19 21:55:29",
+    "last_updated": "2018-05-06 14:51:14",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/58"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/58",
+    "help_wanted": true
   },
   {
     "card": "Spoils of Victory",
@@ -2249,17 +2428,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/41"
-  },
-  {
-    "card": "Tawnos's Coffin",
-    "description": "Tawnos's Coffin crashes the game for everyone when it tries to return a card to the battlefield.",
-    "category": "Game Breaking",
-    "last_updated": "2018-05-04 11:10:42",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/40"
   },
   {
     "card": "Nebuchadnezzar",
