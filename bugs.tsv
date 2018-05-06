@@ -27,7 +27,6 @@ Chandra Nalaar	Chandra Nalaar Ultimate ability (Chandra's -8) does not count as 
 Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-17 01:05:29
 Clone Legion	[Clone Legion] puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-03-02 03:40:54
 Cloud Key	Cloud Key Players are unable to correctly select a card type	Non-Functional ability	2018-03-23 01:23:52
-Colfenor's Urn	Colfenor's Urn does not trigger when three or more creatures are exiled.	Unclassified	2018-05-06 14:51:03
 Collected Company	Collected Company does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2018-03-24 02:14:46
 Combat Celebrant	Combat Celebrant does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2018-03-23 02:38:46
 Commandeer	Commandeer does not gain control of the targeted noncreature spell.	Disadvantageous	2018-03-24 02:14:47
@@ -137,7 +136,6 @@ Mutiny	Mutiny doesn't have clear targeting information. Workaround: The game log
 Mystifying Maze	[Mystifying Maze] returns the exiled creature to the battlefield untapped.	Disadvantageous	2018-03-11 04:38:52
 Naga Oracle	Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.	Graphical	2018-02-13 20:10:02
 Nazahn, Revered Bladesmith	Nazahn, Revered Bladesmith will sometimes give the equipment it finds to another player's hand.	Disadvantageous	2018-05-04 23:11:24
-Nazahn, Revered Bladesmith	Nazahn, Revered Bladesmith will sometimes give the equipment it finds to another player's hand.	Unclassified	2018-05-06 14:51:01
 Nebuchadnezzar	[Nebuchadnezzar] ability makes the game start endlessly repeating itself	Game Breaking	2018-02-02 21:38:03
 Noble Benefactor	All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-03-23 02:39:11
 Null Chamber	[Null Chamber]'s Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2018-02-16 03:58:51
