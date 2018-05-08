@@ -198,6 +198,7 @@ Spinning Darkness	You can't cast Spinning Darkness for its alternate cost	Disadv
 Spiritual Visit	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Spoils of Victory	Spoils of Victory The land comes into play tapped	Disadvantageous	2018-04-27 07:38:01
 Spreading Seas	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
+Squee, the Immortal	If autocardSquee, the Immortal dies after losing its abilities, you are incorrectly unable to cast it from the graveyard.	Unclassified	2018-05-08 08:37:37
 Storage Matrix	Storage Matrix Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2018-04-27 06:37:53
 Strange Inversion	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-03-05 23:39:21
 Structural Collapse	[Structural Collapse] doesn't cause target to sacrifice either an artifact or land.	Disadvantageous	2018-02-13 06:30:28
@@ -238,5 +239,4 @@ Words of Waste	Words of Waste does not function.	Non-Functional ability	2018-03-
 Yisan, the Wanderer Bard	If all of Yisan, the Wanderer Bard's verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.	Advantageous	2018-04-27 06:37:47
 Zodiac Rooster	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-17 01:05:29
 Zur's Weirding	Zur's Weirding Reveals but doesn't allow you to pay	Disadvantageous	2018-03-22 06:37:49
-autocard	If autocardSquee, the Immortal dies after losing its abilities, you are incorrectly unable to cast it from the graveyard.	Unclassified	2018-05-06 14:50:58
 autocard	The legend rule continue to not apply if you have multiple Brothers Yamazaki tokens from autocardHelm of the Host.	Unclassified	2018-05-06 14:50:43

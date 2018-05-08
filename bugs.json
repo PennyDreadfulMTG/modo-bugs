@@ -110,10 +110,10 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/478"
   },
   {
-    "card": "autocard",
+    "card": "Squee, the Immortal",
     "description": "If autocardSquee, the Immortal dies after losing its abilities, you are incorrectly unable to cast it from the graveyard.",
     "category": "Unclassified",
-    "last_updated": "2018-05-06 14:50:58",
+    "last_updated": "2018-05-08 08:37:37",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
