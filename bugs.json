@@ -11,18 +11,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/488"
   },
   {
-    "card": "Tocatli Honor Guard",
-    "description": "Tocatli Honor Guard doesn't prevent Burning Tree Emissary",
-    "category": "Unconfirmed",
-    "last_updated": "2018-05-12 03:57:03",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/487",
-    "help_wanted": true
-  },
-  {
     "card": "Brothers Yamazaki",
     "description": "The legend rule continue to not apply if you have multiple Brothers Yamazaki tokens from autocardHelm of the Host.",
     "category": "Unclassified",
