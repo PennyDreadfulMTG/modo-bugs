@@ -1,9 +1,9 @@
 [
   {
     "card": "Dust Elemental",
-    "description": "Dust Elemental returns two creatures, not three",
+    "description": "Dust Elemental only returns two creatures if its controller only controls exactly three creatures (including Dust Elemental itself)",
     "category": "Advantageous",
-    "last_updated": "2018-05-12 03:37:42",
+    "last_updated": "2018-05-12 04:38:04",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -14,7 +14,7 @@
     "card": "Tocatli Honor Guard",
     "description": "Tocatli Honor Guard doesn't prevent Burning Tree Emissary",
     "category": "Unconfirmed",
-    "last_updated": "2018-05-12 03:06:25",
+    "last_updated": "2018-05-12 03:57:03",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
