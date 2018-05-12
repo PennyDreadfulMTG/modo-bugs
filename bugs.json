@@ -1,32 +1,33 @@
 [
   {
+    "card": "Dust Elemental",
+    "description": "Dust Elemental returns two creatures, not three",
+    "category": "Advantageous",
+    "last_updated": "2018-05-12 03:37:42",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/488"
+  },
+  {
     "card": "Tocatli Honor Guard",
     "description": "Tocatli Honor Guard doesn't prevent Burning Tree Emissary",
-    "category": "Disadvantageous",
-    "last_updated": "2018-05-11 12:18:02",
+    "category": "Unconfirmed",
+    "last_updated": "2018-05-12 03:06:25",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/487"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/487",
+    "help_wanted": true
   },
   {
     "card": "Brothers Yamazaki",
     "description": "The legend rule continue to not apply if you have multiple Brothers Yamazaki tokens from autocardHelm of the Host.",
     "category": "Unclassified",
-    "last_updated": "2018-05-06 14:50:43",
+    "last_updated": "2018-05-12 03:37:43",
     "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/486"
-  },
-  {
-    "card": "autocard",
-    "description": "The legend rule continue to not apply if you have multiple Brothers Yamazaki tokens from autocardHelm of the Host.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-06 14:50:43",
-    "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
@@ -122,9 +123,9 @@
   },
   {
     "card": "Squee, the Immortal",
-    "description": "If autocardSquee, the Immortal dies after losing its abilities, you are incorrectly unable to cast it from the graveyard.",
+    "description": "If Squee, the Immortal dies after losing its abilities, you are incorrectly unable to cast it from the graveyard.",
     "category": "Unclassified",
-    "last_updated": "2018-05-08 08:37:37",
+    "last_updated": "2018-05-12 03:07:49",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
