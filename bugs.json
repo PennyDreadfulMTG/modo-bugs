@@ -2,8 +2,8 @@
   {
     "card": "Meteor Storm",
     "description": "Meteor Storm discard a card if its controller only has two cards(including (Meteor Strom itself)",
-    "category": "Unconfirmed",
-    "last_updated": "2018-05-14 09:37:41",
+    "category": "Advantageous",
+    "last_updated": "2018-05-14 11:02:22",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
