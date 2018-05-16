@@ -88,17 +88,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/481"
   },
   {
-    "card": "Leyline of Sanctity",
-    "description": "In rare cases, if both players mulligan with cards such as Leyline of Sanctity can cause the game to be unable to continue.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-06 14:50:53",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/480"
-  },
-  {
     "card": "Athreos, God of Passage",
     "description": "The triggered ability of Athreos, God of Passage does not return the creature to your hand even if an opponent pays 3 life.",
     "category": "Unclassified",
@@ -119,17 +108,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/478"
-  },
-  {
-    "card": "Squee, the Immortal",
-    "description": "If Squee, the Immortal dies after losing its abilities, you are incorrectly unable to cast it from the graveyard.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-12 03:07:49",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/477"
   },
   {
     "card": "Corrosive Ooze",
@@ -220,28 +198,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/466"
-  },
-  {
-    "card": "Gideon of the Trials",
-    "description": "Gideon of the Trials' emblem fails to prevent the opponent from winning the game via Approach of the Second Sun",
-    "category": "Disadvantageous",
-    "last_updated": "2018-04-26 06:37:41",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/457"
-  },
-  {
-    "card": "Dubious Challenge",
-    "description": "Dubious Challenge resets the game when played",
-    "category": "Game Breaking",
-    "last_updated": "2018-04-21 03:37:51",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/456"
   },
   {
     "card": "Mogg Assassin",
@@ -420,17 +376,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/342",
     "help_wanted": true
-  },
-  {
-    "card": "Eager Construct",
-    "description": "Eager Construct doesn't give opponents the option to scry 1",
-    "category": "Advantageous",
-    "last_updated": "2018-04-26 05:37:36",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/341"
   },
   {
     "card": "Reviving Vapors",
@@ -1271,17 +1216,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/278"
   },
   {
-    "card": "Apathy",
-    "description": "The triggered ability of Apathy causes a soft-lock.",
-    "category": "Game Breaking",
-    "last_updated": "2018-04-27 06:37:45",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/277"
-  },
-  {
     "card": "Entreat the Angels",
     "description": "When Entreat the Angels is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.",
     "category": "Graphical",
@@ -1945,17 +1879,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/180"
   },
   {
-    "card": "Puppeteer Clique",
-    "description": "Creatures returned with Puppeteer Clique are exiled at the end of any turn, not just the controller's",
-    "category": "Disadvantageous",
-    "last_updated": "2018-04-27 06:37:50",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/178"
-  },
-  {
     "card": "Oriss, Samite Guardian",
     "description": "Using Oriss, Samite Guardian's Grandeur ability during controller's precombat main phase will not allow controller to attack that turn.",
     "category": "Disadvantageous",
@@ -2549,17 +2472,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/15"
-  },
-  {
-    "card": "Mana Bloom",
-    "description": "Mana Bloom Ability does not generate mana on opponents' turns.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-04-18 07:58:07",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/12"
   },
   {
     "card": "Lich",
