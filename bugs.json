@@ -121,39 +121,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/476"
   },
   {
-    "card": "Heir of Falkenrath",
-    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-06 14:51:07",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/472"
-  },
-  {
-    "card": "Heir to the Night",
-    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-06 14:51:07",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/472"
-  },
-  {
-    "card": "Heir of Falkenrath",
-    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-06 14:51:07",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/472"
-  },
-  {
     "card": "Sword-Point Diplomacy",
     "description": "Sword-Point Diplomacy is buggy in multiplayer",
     "category": "Advantageous",
