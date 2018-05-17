@@ -101,8 +101,8 @@
   {
     "card": "Muldrotha, the Gravetide",
     "description": "Muldrotha, the Gravetide does not allow you to cast cards from your graveyard with As Foretold.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-06 14:50:56",
+    "category": "Disadvantageous",
+    "last_updated": "2018-05-17 15:23:12",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -112,8 +112,8 @@
   {
     "card": "Corrosive Ooze",
     "description": "The triggered ability of Corrosive Ooze doesn't trigger if an aura was destroyed on the blocking/blocked creature previously in the turn.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-06 14:51:00",
+    "category": "Disadvantageous",
+    "last_updated": "2018-05-17 15:23:44",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,

@@ -36,7 +36,7 @@ Concerted Effort	Some specific protections (Snow or specificially spectra ward) 
 Consuming Vortex	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents with the same name	Advantageous	2018-05-17 04:31:37
 Containment Priest	Containment Priest exiles Theros Gods even when their devotion isn't met.	Advantageous	2018-04-08 14:37:54
 Contingency Plan	Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.	Graphical	2018-02-13 20:10:02
-Corrosive Ooze	The triggered ability of Corrosive Ooze doesn't trigger if an aura was destroyed on the blocking/blocked creature previously in the turn.	Unclassified	2018-05-06 14:51:00
+Corrosive Ooze	The triggered ability of Corrosive Ooze doesn't trigger if an aura was destroyed on the blocking/blocked creature previously in the turn.	Disadvantageous	2018-05-17 15:23:44
 Cryptic Gateway	[Cryptic Gateway] Cannot select a card from your hand	Non-Functional ability	2018-02-16 04:01:16
 Crystal Spray	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-04-05 04:24:25
 Cursed Scroll	Cursed Scroll does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2018-04-27 07:38:00
@@ -125,7 +125,7 @@ Mirror Match	Mirror Match Non-creature permanents that become creatures temporar
 Mishra's Workshop	When there are floating generic mana and restricted mana (such as [Mishra's Workshop] mana) that are same color (or same colorless), MTGO will always use generic mana first before using the restricted mana. Workaround: don't float the generic mana if you want to use the restricted mana first	Disadvantageous	2018-02-21 19:35:44
 Mogg Assassin	Mogg Assassin doesn't kill the opponent's creature on a won flip and doesn't always let both players select a target	Disadvantageous	2018-04-20 19:37:48
 Mosswort Bridge	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-03-26 01:15:01
-Muldrotha, the Gravetide	Muldrotha, the Gravetide does not allow you to cast cards from your graveyard with As Foretold.	Unclassified	2018-05-06 14:50:56
+Muldrotha, the Gravetide	Muldrotha, the Gravetide does not allow you to cast cards from your graveyard with As Foretold.	Disadvantageous	2018-05-17 15:23:12
 Multani's Presence	Multani's Presence incorrectly draws cards off copies of spells that are countered	Advantageous	2018-03-20 18:38:40
 Mutiny	Mutiny doesn't have clear targeting information. Workaround: The game log displays targets matching the order written on the card, and will highlight the appropriate creature when its name is hovered over with the mouse.	Graphical	2018-03-24 01:58:20
 Mystifying Maze	[Mystifying Maze] returns the exiled creature to the battlefield untapped.	Disadvantageous	2018-03-11 04:38:52
