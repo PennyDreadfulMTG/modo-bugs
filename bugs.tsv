@@ -107,7 +107,7 @@ Lurking Evil	Lurking Evil makes you pay half your opponent's life total	Advantag
 Mana Reflection	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-05-03 07:37:39
 Mass Polymorph	Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-04-10 06:31:21
 Merfolk Trickster	Merfolk Trickster doesn't remove abilities granted to the targeted creature by a different source.	Unclassified	2018-05-06 14:50:50
-Meteor Storm	Meteor Storm discard a card if its controller only has two cards(including (Meteor Strom itself)	Advantageous	2018-05-14 11:37:36
+Meteor Storm	Meteor Storm only discards one card if you have exactly two	Advantageous	2018-05-18 05:42:41
 Midnight Oil	Casting a second Midnight Oil does not reset your hand size limit	Disadvantageous	2018-03-24 02:38:04
 Mimic Vat	Clones such as Phyrexian Metamorph are not granted haste by Mimic Vat.	Unclassified	2018-04-18 07:35:32
 Mind Bend	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-04-05 04:24:25
@@ -191,7 +191,7 @@ Sylvan Primordial	Casting Sylvan Primordial causes the game to be soft-locked in
 Synthetic Destiny	Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-04-10 06:31:21
 Taigam's Scheming	Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.	Graphical	2018-02-13 20:10:02
 Teferi's Realm	Teferi's Realm forces you to phase everything out	Unconfirmed	2018-05-02 02:37:59
-Teferi, Hero of Dominaria	Teferi, Hero of Dominaria's emblem can target Hexproof creatures	Unconfirmed	2018-05-18 02:38:14
+Teferi, Hero of Dominaria	Teferi, Hero of Dominaria's emblem can target Hexproof creatures	Unconfirmed	2018-05-18 05:48:54
 Terastodon	If some (not all) of Terastodon's targets are indestructible permanent(s), it will incorrectly create elephant token(s) for the owner of those permanents.	Advantageous	2018-03-28 23:38:17
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of The Gitrog Monster when put into the graveyard 	Disadvantageous	2018-03-26 01:15:08
 The Scarab God	The Scarab God and God-Pharaoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.	Unclassified	2018-03-26 01:15:00
