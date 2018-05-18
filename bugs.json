@@ -124,7 +124,7 @@
     "card": "Corrosive Ooze",
     "description": "The triggered ability of Corrosive Ooze doesn't trigger if an aura was destroyed on the blocking/blocked creature previously in the turn.",
     "category": "Disadvantageous",
-    "last_updated": "2018-05-17 15:23:44",
+    "last_updated": "2018-05-18 04:37:51",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
