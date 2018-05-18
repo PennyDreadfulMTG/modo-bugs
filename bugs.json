@@ -1,5 +1,126 @@
 [
   {
+    "card": "Valduk, Keeper of the Flame",
+    "description": "Valduk, Keeper of the Flame does not create an elemental token, if it dies while its ability is on the stack.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-18 17:59:27",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/505"
+  },
+  {
+    "card": "Mirran Crusader",
+    "description": "Mirran Crusader doesn't visually represent when it is given protection from colors other than black and green.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-18 17:59:29",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/504"
+  },
+  {
+    "card": "Leovold, Emissary of Tres",
+    "description": "Leovold, Emissary of Tres incorrectly allows an opponent to choose \"Yes\" with Sylvan Library, but correctly doesn't allow them to draw extra cards.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-18 17:59:31",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/503"
+  },
+  {
+    "card": "Sylvan Library",
+    "description": "Leovold, Emissary of Tres incorrectly allows an opponent to choose \"Yes\" with Sylvan Library, but correctly doesn't allow them to draw extra cards.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-18 17:59:31",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/503"
+  },
+  {
+    "card": "Brothers Yamazaki",
+    "description": "The legend rule continues to not apply if you have multiple Brothers Yamazaki tokens from autocardHelm of the Host.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-18 17:59:35",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/501"
+  },
+  {
+    "card": "autocard",
+    "description": "The legend rule continues to not apply if you have multiple Brothers Yamazaki tokens from autocardHelm of the Host.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-18 17:59:35",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/501"
+  },
+  {
+    "card": "Nazahn, Revered Bladesmith",
+    "description": "Nazahn, Revered Bladesmith will sometimes give the equipment it finds to another player's hand.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-18 17:59:37",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/500"
+  },
+  {
+    "card": "Colfenor's Urn",
+    "description": "Colfenor's Urn does not trigger when three or more creatures are exiled.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-18 17:59:39",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/499"
+  },
+  {
+    "card": "Heir of Falkenrath",
+    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-18 17:59:42",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/497"
+  },
+  {
+    "card": "Heir to the Night",
+    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-18 17:59:42",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/497"
+  },
+  {
+    "card": "Heir of Falkenrath",
+    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
+    "category": "Unclassified",
+    "last_updated": "2018-05-18 17:59:42",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/497"
+  },
+  {
     "card": "Teferi, Hero of Dominaria",
     "description": "Teferi, Hero of Dominaria's emblem can target Hexproof creatures",
     "category": "Unconfirmed",
@@ -31,17 +152,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/488"
-  },
-  {
-    "card": "Brothers Yamazaki",
-    "description": "The legend rule continue to not apply if you have multiple Brothers Yamazaki tokens from autocardHelm of the Host.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-12 03:37:43",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/486"
   },
   {
     "card": "Ashes of the Abhorrent",
@@ -1247,17 +1357,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262"
-  },
-  {
-    "card": "Ashiok, Nightmare Weaver",
-    "description": "Ashiok, Nightmare Weaver is unable to put a creature with converted mana cost equal to its current loyalty onto the battlefield.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-04-05 15:38:34",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/261"
   },
   {
     "card": "Terastodon",
