@@ -19,7 +19,9 @@ node('linux') {
         }
     }
     stage('Update'){
-        sh 'pipenv run python update.py'
+        withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
+            sh 'pipenv run python update.py'
+        }
     }
     stage('Verification') {
         withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
