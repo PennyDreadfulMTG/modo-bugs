@@ -1,42 +1,9 @@
 [
   {
-    "card": "Valduk, Keeper of the Flame",
-    "description": "Valduk, Keeper of the Flame does not create an elemental token, if it dies while its ability is on the stack.",
+    "card": "Leovold, Emissary of Trest",
+    "description": "Leovold, Emissary of Trest incorrectly allows an opponent to choose \"Yes\" with Sylvan Library, but correctly doesn't allow them to draw extra cards.",
     "category": "Unclassified",
-    "last_updated": "2018-05-18 17:59:28",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/505"
-  },
-  {
-    "card": "Mirran Crusader",
-    "description": "Mirran Crusader doesn't visually represent when it is given protection from colors other than black and green.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-18 17:59:30",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/504"
-  },
-  {
-    "card": "Leovold, Emissary of Tres",
-    "description": "Leovold, Emissary of Tres incorrectly allows an opponent to choose \"Yes\" with Sylvan Library, but correctly doesn't allow them to draw extra cards.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-18 17:59:32",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/503"
-  },
-  {
-    "card": "Sylvan Library",
-    "description": "Leovold, Emissary of Tres incorrectly allows an opponent to choose \"Yes\" with Sylvan Library, but correctly doesn't allow them to draw extra cards.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-18 17:59:32",
+    "last_updated": "2018-05-21 02:57:21",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -45,9 +12,9 @@
   },
   {
     "card": "Brothers Yamazaki",
-    "description": "The legend rule continues to not apply if you have multiple Brothers Yamazaki tokens from autocardHelm of the Host.",
+    "description": "The legend rule continues to not apply if you have multiple Brothers Yamazaki tokens from Helm of the Host.",
     "category": "Unclassified",
-    "last_updated": "2018-05-18 17:59:36",
+    "last_updated": "2018-05-21 02:57:24",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -55,70 +22,15 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/501"
   },
   {
-    "card": "autocard",
-    "description": "The legend rule continues to not apply if you have multiple Brothers Yamazaki tokens from autocardHelm of the Host.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-18 17:59:36",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/501"
-  },
-  {
-    "card": "Nazahn, Revered Bladesmith",
-    "description": "Nazahn, Revered Bladesmith will sometimes give the equipment it finds to another player's hand.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-18 17:59:37",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/500"
-  },
-  {
-    "card": "Colfenor's Urn",
-    "description": "Colfenor's Urn does not trigger when three or more creatures are exiled.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-18 17:59:40",
+    "card": "Valduk, Keeper of the Flame",
+    "description": "Valduk, Keeper of the Flame does not create an Elemental token\u00a0if it dies while its ability is on the stack.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-05-21 02:57:25",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/499"
-  },
-  {
-    "card": "Heir of Falkenrath",
-    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-18 17:59:43",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/497"
-  },
-  {
-    "card": "Heir to the Night",
-    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-18 17:59:43",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/497"
-  },
-  {
-    "card": "Heir of Falkenrath",
-    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-18 17:59:43",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/497"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/495"
   },
   {
     "card": "Teferi, Hero of Dominaria",
@@ -1040,10 +952,10 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/297"
   },
   {
-    "card": "Greater Realm of Preservation",
-    "description": "Greater Realm of Preservation does not prevent Sin Prodder's upkeep trigger damage",
-    "category": "Disadvantageous",
-    "last_updated": "2018-04-27 06:37:44",
+    "card": "Sin Prodder",
+    "description": "Sin Prodder's upkeep trigger damage isn't associated with Sin Prodder.",
+    "category": "Advantageous",
+    "last_updated": "2018-05-21 02:57:36",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -1945,17 +1857,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/145"
   },
   {
-    "card": "Gideon, Martial Paragon",
-    "description": "Gideon, Martial Paragon AKH Planeswalker deck has 1 Gideon's Intervention instead of 1 Glory-Bound Initiate.",
-    "category": "Unclassified",
-    "last_updated": "2018-03-24 01:07:02",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/144"
-  },
-  {
     "card": "Riches",
     "description": "If a commander is chosen for Riches in Rags // Riches, no other opponents need to choose a creature.",
     "category": "Disadvantageous",
@@ -2047,7 +1948,7 @@
     "card": "Genju of the Fields",
     "description": "Genju of the Fields does not cause you to gain life upon dealing damage",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-27 07:38:00",
+    "last_updated": "2018-05-20 09:35:42",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
