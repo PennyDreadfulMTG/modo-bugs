@@ -1,5 +1,16 @@
 [
   {
+    "card": "Tromokratis",
+    "description": "Tromokratis can cause the game the game to soft-lock in some cases. ",
+    "category": "Unconfirmed",
+    "last_updated": "2018-05-25 19:37:39",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/530"
+  },
+  {
     "card": "Leovold, Emissary of Trest",
     "description": "Leovold, Emissary of Trest incorrectly allows an opponent to choose \"Yes\" with Sylvan Library, but correctly doesn't allow them to draw extra cards.",
     "category": "Unclassified",
