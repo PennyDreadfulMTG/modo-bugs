@@ -332,6 +332,30 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413"
   },
   {
+    "card": "Retribution of the Ancients",
+    "description": "Cards that require a player to remove any number of +1/+1 counters incorrectly do not allow a player to remove any counters.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-05-25 03:24:22",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/406",
+    "help_wanted": true
+  },
+  {
+    "card": "Ooze Flux",
+    "description": "Cards that require a player to remove any number of +1/+1 counters incorrectly do not allow a player to remove any counters.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-05-25 03:24:22",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/406",
+    "help_wanted": true
+  },
+  {
     "card": "Mana Reflection",
     "description": "Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors",
     "category": "Disadvantageous",
@@ -509,18 +533,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/322"
-  },
-  {
-    "card": "Cast Out",
-    "description": "Cards exiled by Cast Out are not placed underneath it",
-    "category": "Graphical",
-    "last_updated": "2018-03-08 19:54:51",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/320",
-    "help_wanted": true
   },
   {
     "card": "Candles' Glow",
@@ -821,14 +833,15 @@
   },
   {
     "card": "Mindclaw Shaman",
-    "description": "You are unable to cast split cards with [Mindclaw Shaman]'s ability.",
+    "description": "You are unable to cast split cards with Mindclaw Shaman's ability.",
     "category": "Disadvantageous",
-    "last_updated": "2018-02-12 02:38:56",
+    "last_updated": "2018-05-25 03:24:26",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/306"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/306",
+    "help_wanted": true
   },
   {
     "card": "Fire Covenant",
@@ -1437,18 +1450,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/234"
   },
   {
-    "card": "Abandoned Sarcophagus",
-    "description": "Abandoned Sarcophagus does not allow you to pay for {X} when casting cycling cards with its ability",
-    "category": "Disadvantageous",
-    "last_updated": "2018-04-27 06:37:47",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/233",
-    "help_wanted": true
-  },
-  {
     "card": "Phantom Tiger",
     "description": "If Phantom Tiger dies in combat, blue text abilities it had been granted do not apply to that combat's damage.",
     "category": "Disadvantageous",
@@ -1541,34 +1542,37 @@
     "card": "Deceiver of Form",
     "description": "If Deceiver of Form's triggered ability turns creatures into copies of a legendary creature, the legend rule fails to apply to the copies.",
     "category": "Advantageous",
-    "last_updated": "2018-03-24 02:14:40",
+    "last_updated": "2018-05-24 03:25:22",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/218"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/218",
+    "help_wanted": true
   },
   {
     "card": "Wall of Roots",
     "description": "The mana abilities of Wall of Roots and Kozilek's Translator cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-24 02:14:41",
+    "last_updated": "2018-05-24 03:36:12",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217",
+    "help_wanted": true
   },
   {
     "card": "Kozilek's Translator",
     "description": "The mana abilities of Wall of Roots and Kozilek's Translator cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-24 02:14:41",
+    "last_updated": "2018-05-24 03:36:12",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217",
+    "help_wanted": true
   },
   {
     "card": "Harsh Mentor",
@@ -1827,12 +1831,13 @@
     "card": "Compost",
     "description": "Compost The effect isn't triggered when an opponent only casts the nonblack half of a split card. ",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-27 07:37:59",
+    "last_updated": "2018-05-24 03:25:36",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/151"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/151",
+    "help_wanted": true
   },
   {
     "card": "Liquid Fire",
@@ -2103,12 +2108,13 @@
     "card": "Spoils of Victory",
     "description": "Spoils of Victory The land comes into play tapped",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-27 07:38:01",
+    "last_updated": "2018-05-24 03:25:01",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/57"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/57",
+    "help_wanted": true
   },
   {
     "card": "Semblance Anvil",
