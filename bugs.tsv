@@ -201,7 +201,7 @@ Thran Turbine	Thran Turbine mana is able to be used to cast spells	Advantageous	
 Through the Breach	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents	Advantageous	2018-05-18 01:37:53
 Tomorrow, Azami's Familiar	Tomorrow, Azami's Familiar puts both unchosen cards back on top of the library.	Disadvantageous	2018-03-18 03:58:01
 Torment of Hailfire	The undo function works incorrectly with Torment of Hailfire.	Disadvantageous	2018-03-24 02:14:52
-Tromokratis	Tromokratis can cause the game the game to soft-lock in some cases. 	Unconfirmed	2018-05-25 19:37:39
+Tromokratis	Tromokratis can cause the game the game to soft-lock in some cases. 	Unconfirmed	2018-05-25 19:47:48
 Unscythe, Killer of Kings	[Unscythe, Killer of Kings]'s effect procs when unequipped.	Advantageous	2018-02-13 06:49:12
 Valduk, Keeper of the Flame	Valduk, Keeper of the Flame does not create an Elemental token if it dies while its ability is on the stack.	Disadvantageous	2018-05-21 02:57:25
 Vesuva	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
