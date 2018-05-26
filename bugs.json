@@ -1,14 +1,15 @@
 [
   {
     "card": "Tromokratis",
-    "description": "Tromokratis can cause the game the game to soft-lock in some cases. ",
-    "category": "Unconfirmed",
-    "last_updated": "2018-05-25 19:47:48",
+    "description": "Tromokratis can cause the game the game to soft-lock in multiplayer games",
+    "category": "Game Breaking",
+    "last_updated": "2018-05-26 02:37:40",
     "pd_legal": true,
     "bug_blog": false,
-    "breaking": false,
+    "breaking": true,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/530"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/530",
+    "multiplayer_only": true
   },
   {
     "card": "Leovold, Emissary of Trest",
