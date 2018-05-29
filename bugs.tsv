@@ -56,7 +56,7 @@ Ever After	There are known issues with giving flashback to a spell that is put o
 Evermind	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents	Advantageous	2018-05-18 01:37:53
 Fa'adiyah Seer	Fa'adiyah Seer and Sindbad's ability won't discard non-land card drawn if there is any dredge card in your graveyard	Advantageous	2018-03-18 05:57:01
 Fire Covenant	If Fire Covenant is cast for x=0 and you pay the 1 extra mana that MTGO asks you to (which is the bug), the game will restarts. Workaround: Undo the process if you encounter this bug, and never cast it for x=0	Avoidable Game Breaking	2018-03-18 03:57:56
-Floodtide Serpent	Insteading of bouncing an enchantment, attacking with Floodtide Serpent shows you all zones.	Advantageous	2018-02-06 03:13:44
+Floodtide Serpent	Instead of bouncing an enchantment, attacking with Floodtide Serpent shows you all zones.	Advantageous	2018-05-29 05:42:29
 Freyalise's Winds	[Freyalise's Winds] Anytime a permanent with a wind counter would be untapped outside of the untap step,  a wind counter is removed rather than it becoming untapped.	Disadvantageous	2018-02-03 06:38:06
 Gaddock Teeg	Gaddock Teeg incorrectly does not allow cards with converted mana cost 4 or greater to be spliced onto other cards.	Unclassified	2018-04-18 07:35:29
 Garruk, the Veil-Cursed	Only the front sides of Archangel Avacyn and Garruk, the Veil-Cursed are taken into account for Commander color identity.	Disadvantageous	2018-05-02 01:37:50
