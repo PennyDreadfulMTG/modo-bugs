@@ -2,12 +2,12 @@
   {
     "card": "Holistic Wisdom",
     "description": "Holistic Wisdom restarts the game when you activate it",
-    "category": "Unconfirmed",
-    "last_updated": "2018-05-29 14:37:46",
+    "category": "Game Breaking",
+    "last_updated": "2018-05-29 23:02:29",
     "pd_legal": false,
     "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
+    "breaking": true,
+    "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/531"
   },
   {
