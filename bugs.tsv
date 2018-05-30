@@ -6,7 +6,7 @@ As Foretold	As Foretold does not apply to cards able to be cast due to Abandoned
 Ashes of the Abhorrent	Ashes of the Abhorrent incorrectly prevents lands from being played from players' graveyards.	Unclassified	2018-05-06 14:50:45
 Atarka's Command	Atarka's Command's first activated ability doesn't appear in the Effect zone after it resolves.	Unclassified	2018-04-13 13:24:49
 Athreos, God of Passage	Athreos, God of Passage does not associate its triggers with specific creatures.	Graphical	2018-03-24 02:15:01
-Athreos, God of Passage	The triggered ability of Athreos, God of Passage does not return the creature to your hand even if an opponent pays 3 life.	Unclassified	2018-05-06 14:50:55
+Athreos, God of Passage	The triggered ability of Athreos, God of Passage does not return the creature to your hand even if an opponent pays 3 life.	Disadvantageous	2018-05-30 18:47:36
 Austere Command	Austere Command does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.	Disadvantageous	2018-03-26 01:38:46
 Bala Ged Thief	When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone	Graphical	2018-05-29 18:52:46
 Barren Glory	Barren Glory does not check intervening if clause during resolution 	Advantageous	2018-04-11 03:39:46
@@ -58,7 +58,7 @@ Fa'adiyah Seer	Fa'adiyah Seer and Sindbad's ability won't discard non-land card 
 Fire Covenant	If Fire Covenant is cast for x=0 and you pay the 1 extra mana that MTGO asks you to (which is the bug), the game will restarts. Workaround: Undo the process if you encounter this bug, and never cast it for x=0	Avoidable Game Breaking	2018-03-18 03:57:56
 Floodtide Serpent	Instead of bouncing an enchantment, attacking with Floodtide Serpent shows you all zones.	Advantageous	2018-05-29 05:42:29
 Freyalise's Winds	[Freyalise's Winds] Anytime a permanent with a wind counter would be untapped outside of the untap step,  a wind counter is removed rather than it becoming untapped.	Disadvantageous	2018-02-03 06:38:06
-Gaddock Teeg	Gaddock Teeg incorrectly does not allow cards with converted mana cost 4 or greater to be spliced onto other cards.	Unclassified	2018-04-18 07:35:29
+Gaddock Teeg	Gaddock Teeg incorrectly does not allow cards with converted mana cost 4 or greater to be spliced onto other cards.	Advantageous	2018-05-30 18:53:37
 Garruk, the Veil-Cursed	Only the front sides of Archangel Avacyn and Garruk, the Veil-Cursed are taken into account for Commander color identity.	Disadvantageous	2018-05-02 01:37:50
 Garruk, the Veil-Cursed	The art for the wolf token created by Garruk, the Veil-Cursed is incorrect.	Graphical	2018-04-18 04:21:01
 Genju of the Fields	Genju of the Fields does not cause you to gain life upon dealing damage	Disadvantageous	2018-05-20 09:35:42
@@ -103,10 +103,10 @@ Living Lore	If [Living Lore] imprints a Split Card, it has twice the expected CM
 Lurking Evil	Lurking Evil makes you pay half your opponent's life total	Advantageous	2018-05-06 14:51:12
 Mana Reflection	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-05-03 07:37:39
 Mass Polymorph	Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-04-10 06:31:21
-Merfolk Trickster	Merfolk Trickster doesn't remove abilities granted to the targeted creature by a different source.	Unclassified	2018-05-06 14:50:50
+Merfolk Trickster	Merfolk Trickster doesn't remove abilities granted to the targeted creature by a different source.	Disadvantageous	2018-05-30 18:47:37
 Meteor Storm	Meteor Storm only discards one card if you have exactly two	Advantageous	2018-05-18 05:42:41
 Midnight Oil	Casting a second Midnight Oil does not reset your hand size limit	Disadvantageous	2018-05-30 04:16:41
-Mimic Vat	Clones such as Phyrexian Metamorph are not granted haste by Mimic Vat.	Unclassified	2018-04-18 07:35:32
+Mimic Vat	Clones such as Phyrexian Metamorph are not granted haste by Mimic Vat.	Disadvantageous	2018-05-30 18:55:30
 Mind Bend	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-04-05 04:24:25
 Mindclaw Shaman	You are unable to cast split cards with Mindclaw Shaman's ability.	Disadvantageous	2018-05-25 03:24:26
 Mire's Toll	When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone	Graphical	2018-05-29 18:52:46
@@ -132,7 +132,7 @@ Overabundance	[Overabundance] can't add colorless mana, therefore keeping player
 Overblaze	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents	Advantageous	2018-05-18 01:37:53
 Overwhelming Splendor	Creatures with ascend can still grant the City's Blessing with Overwhelming Splendor on the battlefield.	Disadvantageous	2018-04-08 13:23:59
 Phantom Tiger	If Phantom Tiger dies in combat, blue text abilities it had been granted do not apply to that combat's damage.	Disadvantageous	2018-04-27 06:37:48
-Phyrexian Metamorph	Clones such as Phyrexian Metamorph are not granted haste by Mimic Vat.	Unclassified	2018-04-18 07:35:32
+Phyrexian Metamorph	Clones such as Phyrexian Metamorph are not granted haste by Mimic Vat.	Disadvantageous	2018-05-30 18:55:30
 Phyrexian Portal	Phyrexian Portal doesn't let the owner see the pile they have chosen or choose a card	Disadvantageous	2018-05-30 04:16:30
 Phyrexian Revoker	If a card such as Phyrexian Revoker that asks you to name a card is manifested, you are asked to name the card as it enters the battlefield.	Unclassified	2018-04-18 07:35:31
 Pox	The calculation code seems to be wrong, because one third of three (3) is calculated as two (2)	Unconfirmed	2018-03-16 04:41:06
@@ -141,7 +141,7 @@ Primitive Justice	[Primitive Justice] will either not cast/restart the game with
 Prince of Thralls	Prince of Thralls asks its owner to pay life instead of the opponent.	Advantageous	2018-03-24 02:37:46
 Profane Command	Profane Command If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2018-03-23 02:38:50
 Psychotic Episode	Psychotic Episode The card on top of the library isn't displayed in the revealed zone	Graphical	2018-03-18 03:57:55
-Quicksilver Fountain	Quicksilver Fountain allows you to place flood counters on nonland permanents.	Unclassified	2018-05-06 14:50:51
+Quicksilver Fountain	Quicksilver Fountain allows you to place flood counters on nonland permanents.	Disadvantageous	2018-05-30 18:47:37
 Rancor	If Rancor falls off a land that was a creature temporarily that turn, it will incorrectly trigger during the next turn's upkeep.	Unclassified	2018-05-06 14:50:46
 Reflecting Pool	Reflecting Pool does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2018-03-22 16:21:05
 Reflector Mage	If a player casts Reflector Mage targeting a creature they own, and then in the following turn their opponent casts Reflector Mage, they are able to immediately recast that creature.	Advantageous	2018-03-24 02:14:38
