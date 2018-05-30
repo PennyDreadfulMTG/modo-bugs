@@ -495,12 +495,13 @@
     "card": "Phyrexian Portal",
     "description": "Phyrexian Portal doesn't let the owner see the pile they have chosen or choose a card",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-12 05:08:04",
+    "last_updated": "2018-05-30 04:16:30",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/325"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/325",
+    "help_wanted": true
   },
   {
     "card": "Grave Betrayal",
@@ -759,12 +760,13 @@
     "card": "Null Profusion",
     "description": "Null Profusion triggers when another player casts its owner's cards",
     "category": "Advantageous",
-    "last_updated": "2018-03-04 22:21:16",
+    "last_updated": "2018-05-30 04:16:23",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/315"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/315",
+    "help_wanted": true
   },
   {
     "card": "Clone Legion",
@@ -792,12 +794,13 @@
     "card": "Rogue Skycaptain",
     "description": "Rogue Skycaptain's upkeep cost is {0}.",
     "category": "Advantageous",
-    "last_updated": "2018-04-27 07:37:51",
+    "last_updated": "2018-05-30 04:16:56",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/312"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/312",
+    "help_wanted": true
   },
   {
     "card": "Overabundance",
@@ -814,12 +817,13 @@
     "card": "Primal Wellspring",
     "description": "If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-18 04:21:00",
+    "last_updated": "2018-05-30 04:17:01",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/309"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/309",
+    "help_wanted": true
   },
   {
     "card": "Taigam's Scheming",
@@ -1112,12 +1116,13 @@
     "card": "Midnight Oil",
     "description": "Casting a second Midnight Oil does not reset your hand size limit",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-24 02:38:04",
+    "last_updated": "2018-05-30 04:16:41",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/284"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/284",
+    "help_wanted": true
   },
   {
     "card": "Thran Turbine",
@@ -1255,56 +1260,61 @@
     "card": "Shelldock Isle",
     "description": "Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-26 01:15:01",
+    "last_updated": "2018-05-30 04:14:30",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262",
+    "help_wanted": true
   },
   {
     "card": "Howltooth Hollow",
     "description": "Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-26 01:15:01",
+    "last_updated": "2018-05-30 04:14:30",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262",
+    "help_wanted": true
   },
   {
     "card": "Mosswort Bridge",
     "description": "Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-26 01:15:01",
+    "last_updated": "2018-05-30 04:14:30",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262",
+    "help_wanted": true
   },
   {
     "card": "Spinerock Knoll",
     "description": "Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-26 01:15:01",
+    "last_updated": "2018-05-30 04:14:30",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262",
+    "help_wanted": true
   },
   {
     "card": "Windbrisk Heights",
     "description": "Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-26 01:15:01",
+    "last_updated": "2018-05-30 04:14:30",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262",
+    "help_wanted": true
   },
   {
     "card": "Terastodon",
@@ -1343,23 +1353,25 @@
     "card": "Borderland Explorer",
     "description": "All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded",
     "category": "Advantageous",
-    "last_updated": "2018-03-23 02:39:11",
+    "last_updated": "2018-05-30 04:16:35",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255",
+    "help_wanted": true
   },
   {
     "card": "Noble Benefactor",
     "description": "All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded",
     "category": "Advantageous",
-    "last_updated": "2018-03-23 02:39:11",
+    "last_updated": "2018-05-30 04:16:35",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255",
+    "help_wanted": true
   },
   {
     "card": "Knowledge Pool",
@@ -1374,14 +1386,15 @@
   },
   {
     "card": "Orcish Spy",
-    "description": "[Orcish Spy] and cards with similar abilities show the cards in alphabetical order, not the actual order",
+    "description": "Orcish Spy and cards with similar abilities show the cards in alphabetical order, not the actual order",
     "category": "Disadvantageous",
-    "last_updated": "2018-02-14 19:40:35",
+    "last_updated": "2018-05-30 04:37:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/251"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/251",
+    "help_wanted": true
   },
   {
     "card": "Compulsive Research",
@@ -1553,13 +1566,14 @@
     "card": "Sylvan Primordial",
     "description": "Casting Sylvan Primordial causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.",
     "category": "Game Breaking",
-    "last_updated": "2018-03-24 00:38:39",
+    "last_updated": "2018-05-30 04:16:17",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": true,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/219",
-    "multiplayer_only": true
+    "multiplayer_only": true,
+    "help_wanted": true
   },
   {
     "card": "Deceiver of Form",
@@ -2319,23 +2333,25 @@
     "card": "Odds",
     "description": "Odds restarts the game in buggy state on heads",
     "category": "Game Breaking",
-    "last_updated": "2018-04-18 04:21:03",
+    "last_updated": "2018-05-30 04:17:31",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17",
+    "help_wanted": true
   },
   {
     "card": "Ends",
     "description": "Odds restarts the game in buggy state on heads",
     "category": "Game Breaking",
-    "last_updated": "2018-04-18 04:21:03",
+    "last_updated": "2018-05-30 04:17:31",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17",
+    "help_wanted": true
   },
   {
     "card": "Null Chamber",
@@ -2350,14 +2366,15 @@
   },
   {
     "card": "Mystifying Maze",
-    "description": "[Mystifying Maze] returns the exiled creature to the battlefield untapped.",
+    "description": "Mystifying Maze returns the exiled creature to the battlefield untapped.",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-11 04:38:52",
+    "last_updated": "2018-05-30 04:37:49",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/15"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/15",
+    "help_wanted": true
   },
   {
     "card": "Lich",

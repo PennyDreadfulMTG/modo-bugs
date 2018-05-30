@@ -12,7 +12,7 @@ Bala Ged Thief	When only some cards from an opponent's hand are revealed, they d
 Barren Glory	Barren Glory does not check intervening if clause during resolution 	Advantageous	2018-04-11 03:39:46
 Blood Moon	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
 Booby Trap	Booby Trap does not let you name anything other than non-basic lands.	Disadvantageous	2018-04-27 07:37:58
-Borderland Explorer	All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-03-23 02:39:11
+Borderland Explorer	All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-05-30 04:16:35
 Brothers Yamazaki	The legend rule continues to not apply if you have multiple Brothers Yamazaki tokens from Helm of the Host.	Unclassified	2018-05-21 02:57:24
 Buried Alive	The order of cards put into the graveyard by Buried Alive is random	Disadvantageous	2018-03-04 06:55:58
 Cairn Wanderer	Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared	Disadvantageous	2018-03-15 07:42:33
@@ -50,7 +50,7 @@ Doubling Season	Doubling Season incorrectly doubles loyalty counters added from 
 Dream Tides	Dream Tides doesn't require a cost for nongreen creatures chosen to untap.	Advantageous	2018-04-27 06:37:43
 Dust Elemental	Dust Elemental only returns two creatures if its controller only controls exactly three creatures (including Dust Elemental itself)	Advantageous	2018-05-12 04:38:04
 Elesh Norn, Grand Cenobite	If Containment Priest and Elesh Norn, Grand Cenobite are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2018-03-24 02:14:51
-Ends	Odds restarts the game in buggy state on heads	Game Breaking	2018-04-18 04:21:03
+Ends	Odds restarts the game in buggy state on heads	Game Breaking	2018-05-30 04:17:31
 Entreat the Angels	When Entreat the Angels is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.	Graphical	2018-03-24 02:14:30
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-24 00:34:39
 Evermind	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents	Advantageous	2018-05-18 01:37:53
@@ -81,7 +81,7 @@ Hideous Laughter	Splice onto Arcane abilities are incorrectly affected by cost r
 High Seas	[High Seas] only affects red creature spells.	Disadvantageous	2018-03-04 07:39:05
 Holistic Wisdom	Holistic Wisdom restarts the game when you activate it	Game Breaking	2018-05-29 23:02:29
 Hollow One	Hollow One's cost reduction doesn't consider split cards that are discarded	Disadvantageous	2018-04-18 07:58:30
-Howltooth Hollow	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-03-26 01:15:01
+Howltooth Hollow	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-05-30 04:14:30
 Icefall Regent	If you target an [Icefall Regent] with a fused split card, you must pay {2} for each side of the split card, for a total of {4}	Advantageous	2018-02-01 03:11:05
 Identity Thief	Identity Thief Restarts the game when attempting to copy a creature.	Game Breaking	2018-03-19 02:39:33
 Infinite Reflection	[Infinite Reflection] All creatures become copies, not just ones you control.	Advantageous	2018-01-03 11:38:22
@@ -105,7 +105,7 @@ Mana Reflection	Mana Reflection doesn't double mana produced by mana abilities t
 Mass Polymorph	Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-04-10 06:31:21
 Merfolk Trickster	Merfolk Trickster doesn't remove abilities granted to the targeted creature by a different source.	Unclassified	2018-05-06 14:50:50
 Meteor Storm	Meteor Storm only discards one card if you have exactly two	Advantageous	2018-05-18 05:42:41
-Midnight Oil	Casting a second Midnight Oil does not reset your hand size limit	Disadvantageous	2018-03-24 02:38:04
+Midnight Oil	Casting a second Midnight Oil does not reset your hand size limit	Disadvantageous	2018-05-30 04:16:41
 Mimic Vat	Clones such as Phyrexian Metamorph are not granted haste by Mimic Vat.	Unclassified	2018-04-18 07:35:32
 Mind Bend	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-04-05 04:24:25
 Mindclaw Shaman	You are unable to cast split cards with Mindclaw Shaman's ability.	Disadvantageous	2018-05-25 03:24:26
@@ -113,30 +113,30 @@ Mire's Toll	When only some cards from an opponent's hand are revealed, they do n
 Mirror Match	Mirror Match Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies	Advantageous	2018-03-24 00:39:07
 Mishra's Workshop	When there are floating generic mana and restricted mana (such as [Mishra's Workshop] mana) that are same color (or same colorless), MTGO will always use generic mana first before using the restricted mana. Workaround: don't float the generic mana if you want to use the restricted mana first	Disadvantageous	2018-02-21 19:35:44
 Mogg Assassin	Mogg Assassin doesn't kill the opponent's creature on a won flip and doesn't always let both players select a target	Disadvantageous	2018-04-20 19:37:48
-Mosswort Bridge	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-03-26 01:15:01
+Mosswort Bridge	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-05-30 04:14:30
 Muldrotha, the Gravetide	Muldrotha, the Gravetide does not allow you to cast cards from your graveyard with As Foretold.	Disadvantageous	2018-05-17 15:23:12
 Multani's Presence	Multani's Presence incorrectly draws cards off copies of spells that are countered	Advantageous	2018-03-20 18:38:40
 Mutiny	Mutiny doesn't have clear targeting information. Workaround: The game log displays targets matching the order written on the card, and will highlight the appropriate creature when its name is hovered over with the mouse.	Graphical	2018-03-24 01:58:20
-Mystifying Maze	[Mystifying Maze] returns the exiled creature to the battlefield untapped.	Disadvantageous	2018-03-11 04:38:52
+Mystifying Maze	Mystifying Maze returns the exiled creature to the battlefield untapped.	Disadvantageous	2018-05-30 04:37:49
 Naga Oracle	Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.	Graphical	2018-02-13 20:10:02
 Nazahn, Revered Bladesmith	Nazahn, Revered Bladesmith will sometimes give the equipment it finds to another player's hand.	Disadvantageous	2018-05-04 23:11:24
 Nebuchadnezzar	[Nebuchadnezzar] ability makes the game start endlessly repeating itself	Game Breaking	2018-02-02 21:38:03
-Noble Benefactor	All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-03-23 02:39:11
+Noble Benefactor	All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-05-30 04:16:35
 Null Chamber	[Null Chamber]'s Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2018-02-16 03:58:51
-Null Profusion	Null Profusion triggers when another player casts its owner's cards	Advantageous	2018-03-04 22:21:16
-Odds	Odds restarts the game in buggy state on heads	Game Breaking	2018-04-18 04:21:03
+Null Profusion	Null Profusion triggers when another player casts its owner's cards	Advantageous	2018-05-30 04:16:23
+Odds	Odds restarts the game in buggy state on heads	Game Breaking	2018-05-30 04:17:31
 Ooze Flux	Cards that require a player to remove any number of +1/+1 counters incorrectly do not allow a player to remove any counters.	Disadvantageous	2018-05-25 03:24:22
-Orcish Spy	[Orcish Spy] and cards with similar abilities show the cards in alphabetical order, not the actual order	Disadvantageous	2018-02-14 19:40:35
+Orcish Spy	Orcish Spy and cards with similar abilities show the cards in alphabetical order, not the actual order	Disadvantageous	2018-05-30 04:37:46
 Oriss, Samite Guardian	Using Oriss, Samite Guardian's Grandeur ability during controller's precombat main phase will not allow controller to attack that turn.	Disadvantageous	2018-03-20 18:38:35
 Overabundance	[Overabundance] can't add colorless mana, therefore keeping players from using lands that only tap for colorless	Advantageous	2018-02-26 00:12:54
 Overblaze	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents	Advantageous	2018-05-18 01:37:53
 Overwhelming Splendor	Creatures with ascend can still grant the City's Blessing with Overwhelming Splendor on the battlefield.	Disadvantageous	2018-04-08 13:23:59
 Phantom Tiger	If Phantom Tiger dies in combat, blue text abilities it had been granted do not apply to that combat's damage.	Disadvantageous	2018-04-27 06:37:48
 Phyrexian Metamorph	Clones such as Phyrexian Metamorph are not granted haste by Mimic Vat.	Unclassified	2018-04-18 07:35:32
-Phyrexian Portal	Phyrexian Portal doesn't let the owner see the pile they have chosen or choose a card	Disadvantageous	2018-03-12 05:08:04
+Phyrexian Portal	Phyrexian Portal doesn't let the owner see the pile they have chosen or choose a card	Disadvantageous	2018-05-30 04:16:30
 Phyrexian Revoker	If a card such as Phyrexian Revoker that asks you to name a card is manifested, you are asked to name the card as it enters the battlefield.	Unclassified	2018-04-18 07:35:31
 Pox	The calculation code seems to be wrong, because one third of three (3) is calculated as two (2)	Unconfirmed	2018-03-16 04:41:06
-Primal Wellspring	If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.	Disadvantageous	2018-04-18 04:21:00
+Primal Wellspring	If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.	Disadvantageous	2018-05-30 04:17:01
 Primitive Justice	[Primitive Justice] will either not cast/restart the game with a single target.	Game Breaking	2018-01-19 09:47:04
 Prince of Thralls	Prince of Thralls asks its owner to pay life instead of the opponent.	Advantageous	2018-03-24 02:37:46
 Profane Command	Profane Command If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2018-03-23 02:38:50
@@ -155,7 +155,7 @@ Riches	If a commander is chosen for Riches in Rags // Riches, no other opponents
 Ricochet Trap	Ricochet Trap restarts the game when cast for its alternate cost.	Avoidable Game Breaking	2018-03-18 03:57:59
 Rimescale Dragon	Rimescale Dragon does not place an Ice Counter on targeted creatures.	Disadvantageous	2018-03-24 02:14:47
 Riptide Replicator	Riptide Replicator tokens use incorrect art and incorrectly display they have the changeling ability.	Graphical	2018-04-27 06:37:54
-Rogue Skycaptain	Rogue Skycaptain's upkeep cost is {0}.	Advantageous	2018-04-27 07:37:51
+Rogue Skycaptain	Rogue Skycaptain's upkeep cost is {0}.	Advantageous	2018-05-30 04:16:56
 Rosheen Meanderer	Rosheen Meanderer is unable to contribute mana to spells that ask an opponent to pay X, such as Condescend.	Disadvantageous	2018-03-24 02:38:05
 Runic Repetition	Runic Repetition Cannot be cast	Disadvantageous	2018-03-23 02:38:49
 Sages of the Anima	[Sages of the Anima] puts the non-creature cards on top of the library instead of the bottom.	Disadvantageous	2018-02-06 04:35:59
@@ -166,7 +166,7 @@ Scythe of the Wretched	While Scythe of the Wretched is unequipped, it reanimates
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-24 00:34:39
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce any casting costs. 	Disadvantageous	2018-02-03 06:09:02
 Settle the Wreckage	Settle the Wreckage does not give the targeted player the option to not search their library.	Advantageous	2018-03-24 02:14:48
-Shelldock Isle	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-03-26 01:15:01
+Shelldock Isle	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-05-30 04:14:30
 Sheltering Ancient	[Sheltering Ancient]'s Cumulative Upkeep Stops Working After One Age Counter	Advantageous	2018-01-24 04:24:55
 Shifting Borders	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents	Advantageous	2018-05-18 01:37:53
 Shifty Doppelganger	Shifty Doppelganger puts an "ability" onto the battlefield at end of turn, rather than itself.	Game Breaking	2018-03-24 03:36:35
@@ -177,7 +177,7 @@ Skullbriar, the Walking Grave	Skullbriar, the Walking Grave can cause the client
 Soulless Revival	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents	Advantageous	2018-05-18 01:37:53
 Sound the Call	The art for the token created by Sound the Call is incorrect. 	Graphical	2018-04-27 07:37:54
 Spell Crumple	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-24 00:34:39
-Spinerock Knoll	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-03-26 01:15:01
+Spinerock Knoll	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-05-30 04:14:30
 Spinning Darkness	You can't cast Spinning Darkness for its alternate cost	Disadvantageous	2018-03-31 00:38:08
 Spoils of Victory	Spoils of Victory The land comes into play tapped	Disadvantageous	2018-05-24 03:25:01
 Spreading Seas	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
@@ -187,7 +187,7 @@ Structural Collapse	[Structural Collapse] doesn't cause target to sacrifice eith
 Summoner's Bane	Token created by Summoner's Bane have incorrect art and incorrectly display that they have flying	Graphical	2018-03-13 01:26:13
 Sunscourge Champion	Sunscourge Champion will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2018-03-24 02:14:56
 Sword-Point Diplomacy	Sword-Point Diplomacy is buggy in multiplayer	Advantageous	2018-05-06 20:08:17
-Sylvan Primordial	Casting Sylvan Primordial causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2018-03-24 00:38:39
+Sylvan Primordial	Casting Sylvan Primordial causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2018-05-30 04:16:17
 Synthetic Destiny	Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-04-10 06:31:21
 Taigam's Scheming	Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.	Graphical	2018-02-13 20:10:02
 Teferi's Realm	Teferi's Realm forces you to phase everything out	Unconfirmed	2018-05-02 02:37:59
@@ -216,7 +216,7 @@ Wall of Roots	The mana abilities of Wall of Roots and Kozilek's Translator canno
 Wear Away	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents	Advantageous	2018-05-18 01:37:53
 Weird Harvest	All creatures searched using Weird Harvest's ability will end in the hand of the last priority player	Disadvantageous	2018-04-27 06:37:42
 Whims of the Fates	Whims of the Fates Causes client crashes	Game Breaking	2018-03-23 02:38:49
-Windbrisk Heights	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-03-26 01:15:01
+Windbrisk Heights	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-05-30 04:14:30
 Withdraw	Withdraw is able to target the same creature twice.	Advantageous	2018-03-23 03:37:41
 Words of Waste	Words of Waste does not function.	Non-Functional ability	2018-03-24 02:14:39
 Yisan, the Wanderer Bard	If all of Yisan, the Wanderer Bard's verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.	Advantageous	2018-04-27 06:37:47
