@@ -21,7 +21,7 @@ Candles' Glow	Splice onto Arcane abilities are incorrectly affected by cost redu
 Chandra Nalaar	Chandra Nalaar Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2018-04-27 06:37:52
 Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Unconfirmed	2018-03-17 01:05:29
 Clone Legion	[Clone Legion] puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-03-02 03:40:54
-Cloud Key	Cloud Key Players are unable to correctly select a card type	Non-Functional ability	2018-03-23 01:23:52
+Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2018-05-31 06:21:48
 Collected Company	Collected Company does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2018-03-24 02:14:46
 Combat Celebrant	Combat Celebrant does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2018-03-23 02:38:46
 Commandeer	Commandeer does not gain control of the targeted noncreature spell.	Disadvantageous	2018-03-24 02:14:47
@@ -50,7 +50,7 @@ Doubling Season	Doubling Season incorrectly doubles loyalty counters added from 
 Dream Tides	Dream Tides doesn't require a cost for nongreen creatures chosen to untap.	Advantageous	2018-04-27 06:37:43
 Dust Elemental	Dust Elemental only returns two creatures if its controller only controls exactly three creatures (including Dust Elemental itself)	Advantageous	2018-05-12 04:38:04
 Elesh Norn, Grand Cenobite	If Containment Priest and Elesh Norn, Grand Cenobite are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2018-03-24 02:14:51
-Ends	Odds restarts the game in buggy state on heads	Game Breaking	2018-05-30 04:17:31
+Ends	Odds restarts the game in buggy state on heads	Game Breaking	2018-05-31 06:37:15
 Entreat the Angels	When Entreat the Angels is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.	Graphical	2018-03-24 02:14:30
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-24 00:34:39
 Evermind	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents	Advantageous	2018-05-18 01:37:53
@@ -61,7 +61,7 @@ Freyalise's Winds	[Freyalise's Winds] Anytime a permanent with a wind counter wo
 Gaddock Teeg	Gaddock Teeg incorrectly does not allow cards with converted mana cost 4 or greater to be spliced onto other cards.	Advantageous	2018-05-30 18:53:37
 Garruk, the Veil-Cursed	Only the front sides of Archangel Avacyn and Garruk, the Veil-Cursed are taken into account for Commander color identity.	Disadvantageous	2018-05-02 01:37:50
 Garruk, the Veil-Cursed	The art for the wolf token created by Garruk, the Veil-Cursed is incorrect.	Graphical	2018-04-18 04:21:01
-Genju of the Fields	Genju of the Fields does not cause you to gain life upon dealing damage	Disadvantageous	2018-05-20 09:35:42
+Genju of the Fields	Genju of the Fields does not cause you to gain life upon dealing damage	Disadvantageous	2018-05-31 06:21:12
 Gideon's Intervention	Casting a second copy of Gideon's Intervention causes the first to become become partially non-functional, allowing the named card to deal damage	Disadvantageous	2018-04-08 13:25:26
 Gishath, Sun's Avatar	Gishath, Sun's Avatar does not allow you to decline to put a Dinosaur creature into play if you have one in your hand.	Disadvantageous	2018-03-24 00:34:39
 Glacial Ray	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents	Advantageous	2018-05-18 01:37:53
@@ -84,13 +84,12 @@ Hollow One	Hollow One's cost reduction doesn't consider split cards that are dis
 Howltooth Hollow	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-05-30 04:14:30
 Icefall Regent	If you target an [Icefall Regent] with a fused split card, you must pay {2} for each side of the split card, for a total of {4}	Advantageous	2018-02-01 03:11:05
 Identity Thief	Identity Thief Restarts the game when attempting to copy a creature.	Game Breaking	2018-03-19 02:39:33
-Infinite Reflection	[Infinite Reflection] All creatures become copies, not just ones you control.	Advantageous	2018-01-03 11:38:22
+Infinite Reflection	Infinite Reflection All creatures become copies, not just ones you control.	Advantageous	2018-05-31 06:38:08
 Island Sanctuary	Island Sanctuary's replacement effect is available if you draw a card during an opponents draw step	Advantageous	2018-05-06 14:51:14
 Jodah's Avenger	[Jodah's Avenger] Activated ability continues activating infinitely.	Game Breaking	2018-01-19 08:40:27
 Karplusan Minotaur	Karplusan Minotaur Cumulative upkeep cannot be paid	Disadvantageous	2018-03-18 20:39:31
 Kaya, Ghost Assassin	If Kaya, Ghost Assassin exiles a commander with the first ability, and its controller chooses not to replace exile with the command zone, the commander will still go to the command zone until Kaya returns it.	Unconfirmed	2018-04-04 12:12:12
 Kess, Dissident Mage	Kess Dissident Mage's ability allows you to cast spells during other players' turns and to cast spells with no mana costs	Advantageous	2018-04-29 10:05:55
-Khalni Garden	The art for the Plant token created by Khalni Garden is incorrect	Graphical	2018-01-24 03:26:30
 Knowledge Pool	Knowledge Pool With multiple Knowledge Pools in play, casting a spell from hand lets you cast a spell from each Pool.	Advantageous	2018-04-27 07:37:55
 Koth of the Hammer	When controlling the Emblem of Koth of the Hammer, lands do not display the blue text they have.	Graphical	2018-03-24 01:40:18
 Kozilek's Translator	The mana abilities of Wall of Roots and Kozilek's Translator cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2018-05-24 03:36:12
@@ -124,7 +123,7 @@ Nebuchadnezzar	[Nebuchadnezzar] ability makes the game start endlessly repeating
 Noble Benefactor	All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-05-30 04:16:35
 Null Chamber	[Null Chamber]'s Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.	Advantageous	2018-02-16 03:58:51
 Null Profusion	Null Profusion triggers when another player casts its owner's cards	Advantageous	2018-05-30 04:16:23
-Odds	Odds restarts the game in buggy state on heads	Game Breaking	2018-05-30 04:17:31
+Odds	Odds restarts the game in buggy state on heads	Game Breaking	2018-05-31 06:37:15
 Ooze Flux	Cards that require a player to remove any number of +1/+1 counters incorrectly do not allow a player to remove any counters.	Disadvantageous	2018-05-25 03:24:22
 Orcish Spy	Orcish Spy and cards with similar abilities show the cards in alphabetical order, not the actual order	Disadvantageous	2018-05-30 04:37:46
 Oriss, Samite Guardian	Using Oriss, Samite Guardian's Grandeur ability during controller's precombat main phase will not allow controller to attack that turn.	Disadvantageous	2018-03-20 18:38:35
@@ -207,7 +206,7 @@ Unscythe, Killer of Kings	[Unscythe, Killer of Kings]'s effect procs when unequi
 Valduk, Keeper of the Flame	Valduk, Keeper of the Flame does not create an Elemental token if it dies while its ability is on the stack.	Disadvantageous	2018-05-21 02:57:25
 Vesuva	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
 Vesuvan Shapeshifter	If Vesuvan Shapeshifter copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.	Advantageous	2018-04-27 06:37:48
-Vexing Sphinx	[Vexing Sphinx]'s Cumulative Upkeep Doesn't Make You Discard	Advantageous	2018-01-23 02:44:18
+Vexing Sphinx	Vexing Sphinx's Cumulative Upkeep Doesn't Make You Discard	Advantageous	2018-05-31 06:38:05
 Vital Surge	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two cost-reducting permanents	Advantageous	2018-05-18 01:37:53
 Vizier of Many Faces	Vizier of Many Faces keeps its abilities when an opponent controls Overwhelming Splendor.	Advantageous	2018-03-24 02:14:55
 Vizier of Many Faces	When Vizier of Many Faces copies a token creature that was created with embalm, the Vizier will display with no art.	Graphical	2018-04-06 10:09:31

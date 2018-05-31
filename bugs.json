@@ -1136,17 +1136,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/279"
   },
   {
-    "card": "Khalni Garden",
-    "description": "The art for the Plant token created by Khalni Garden is incorrect",
-    "category": "Graphical",
-    "last_updated": "2018-01-24 03:26:30",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/278"
-  },
-  {
     "card": "Entreat the Angels",
     "description": "When Entreat the Angels is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.",
     "category": "Graphical",
@@ -1442,14 +1431,15 @@
   },
   {
     "card": "Vexing Sphinx",
-    "description": "[Vexing Sphinx]'s Cumulative Upkeep Doesn't Make You Discard",
+    "description": "Vexing Sphinx's Cumulative Upkeep Doesn't Make You Discard",
     "category": "Advantageous",
-    "last_updated": "2018-01-23 02:44:18",
+    "last_updated": "2018-05-31 06:38:05",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/240"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/240",
+    "help_wanted": true
   },
   {
     "card": "Jodah's Avenger",
@@ -1990,7 +1980,7 @@
     "card": "Genju of the Fields",
     "description": "Genju of the Fields does not cause you to gain life upon dealing damage",
     "category": "Disadvantageous",
-    "last_updated": "2018-05-20 09:35:42",
+    "last_updated": "2018-05-31 06:21:12",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -2333,25 +2323,23 @@
     "card": "Odds",
     "description": "Odds restarts the game in buggy state on heads",
     "category": "Game Breaking",
-    "last_updated": "2018-05-30 04:17:31",
+    "last_updated": "2018-05-31 06:37:15",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17"
   },
   {
     "card": "Ends",
     "description": "Odds restarts the game in buggy state on heads",
     "category": "Game Breaking",
-    "last_updated": "2018-05-30 04:17:31",
+    "last_updated": "2018-05-31 06:37:15",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17"
   },
   {
     "card": "Null Chamber",
@@ -2400,14 +2388,15 @@
   },
   {
     "card": "Infinite Reflection",
-    "description": "[Infinite Reflection] All creatures become copies, not just ones you control.",
+    "description": "Infinite Reflection All creatures become copies, not just ones you control.",
     "category": "Advantageous",
-    "last_updated": "2018-01-03 11:38:22",
+    "last_updated": "2018-05-31 06:38:08",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/9"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/9",
+    "help_wanted": true
   },
   {
     "card": "High Seas",
@@ -2477,9 +2466,9 @@
   },
   {
     "card": "Cloud Key",
-    "description": "Cloud Key Players are unable to correctly select a card type",
+    "description": "Players are unable to correctly select a card type",
     "category": "Non-Functional ability",
-    "last_updated": "2018-03-23 01:23:52",
+    "last_updated": "2018-05-31 06:21:48",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
