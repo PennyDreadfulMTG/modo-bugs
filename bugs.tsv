@@ -33,7 +33,7 @@ Consuming Vortex	Splice onto Arcane abilities are incorrectly affected by cost r
 Containment Priest	Containment Priest exiles Theros Gods even when their devotion isn't met.	Advantageous	2018-04-08 14:37:54
 Contingency Plan	Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.	Graphical	2018-02-13 20:10:02
 Corrosive Ooze	The triggered ability of Corrosive Ooze doesn't trigger if an aura was destroyed on the blocking/blocked creature previously in the turn.	Disadvantageous	2018-05-18 04:37:51
-Cryptic Gateway	[Cryptic Gateway] Cannot select a card from your hand	Non-Functional ability	2018-02-16 04:01:16
+Cryptic Gateway	Cryptic Gateway does not let you select a card from your hand	Non-Functional ability	2018-05-31 06:43:59
 Crystal Spray	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-04-05 04:24:25
 Cursed Scroll	Cursed Scroll does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2018-04-27 07:38:00
 Custodi Lich	Custodi Lich The sacrifice trigger happens whenever any player becomes the monarch.	Advantageous	2018-03-22 16:40:06
@@ -104,7 +104,7 @@ Mana Reflection	Mana Reflection doesn't double mana produced by mana abilities t
 Mass Polymorph	Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-04-10 06:31:21
 Merfolk Trickster	Merfolk Trickster doesn't remove abilities granted to the targeted creature by a different source.	Disadvantageous	2018-05-30 18:47:37
 Meteor Storm	Meteor Storm only discards one card if you have exactly two	Advantageous	2018-05-18 05:42:41
-Midnight Oil	Casting a second Midnight Oil does not reset your hand size limit	Disadvantageous	2018-05-30 04:16:41
+Midnight Oil	Casting a second Midnight Oil does not reset your hand size limit	Disadvantageous	2018-05-31 06:59:08
 Mimic Vat	Clones such as Phyrexian Metamorph are not granted haste by Mimic Vat.	Disadvantageous	2018-05-30 18:55:30
 Mind Bend	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-04-05 04:24:25
 Mindclaw Shaman	You are unable to cast split cards with Mindclaw Shaman's ability.	Disadvantageous	2018-05-25 03:24:26
@@ -202,7 +202,7 @@ Through the Breach	Splice onto Arcane abilities are incorrectly affected by cost
 Tomorrow, Azami's Familiar	Tomorrow, Azami's Familiar puts both unchosen cards back on top of the library.	Disadvantageous	2018-03-18 03:58:01
 Torment of Hailfire	The undo function works incorrectly with Torment of Hailfire.	Disadvantageous	2018-03-24 02:14:52
 Tromokratis	Tromokratis can cause the game the game to soft-lock in multiplayer games	Game Breaking	2018-05-26 02:37:40
-Unscythe, Killer of Kings	[Unscythe, Killer of Kings]'s effect procs when unequipped.	Advantageous	2018-02-13 06:49:12
+Unscythe, Killer of Kings	Unscythe, Killer of Kings's effect procs when unequipped.	Advantageous	2018-05-31 06:51:42
 Valduk, Keeper of the Flame	Valduk, Keeper of the Flame does not create an Elemental token if it dies while its ability is on the stack.	Disadvantageous	2018-05-21 02:57:25
 Vesuva	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
 Vesuvan Shapeshifter	If Vesuvan Shapeshifter copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.	Advantageous	2018-04-27 06:37:48

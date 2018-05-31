@@ -1116,13 +1116,12 @@
     "card": "Midnight Oil",
     "description": "Casting a second Midnight Oil does not reset your hand size limit",
     "category": "Disadvantageous",
-    "last_updated": "2018-05-30 04:16:41",
+    "last_updated": "2018-05-31 06:59:08",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/284",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/284"
   },
   {
     "card": "Thran Turbine",
@@ -2110,9 +2109,9 @@
   },
   {
     "card": "Unscythe, Killer of Kings",
-    "description": "[Unscythe, Killer of Kings]'s effect procs when unequipped.",
+    "description": "Unscythe, Killer of Kings's effect procs when unequipped.",
     "category": "Advantageous",
-    "last_updated": "2018-02-13 06:49:12",
+    "last_updated": "2018-05-31 06:51:42",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -2422,9 +2421,9 @@
   },
   {
     "card": "Cryptic Gateway",
-    "description": "[Cryptic Gateway] Cannot select a card from your hand",
+    "description": "Cryptic Gateway does not let you select a card from your hand",
     "category": "Non-Functional ability",
-    "last_updated": "2018-02-16 04:01:16",
+    "last_updated": "2018-05-31 06:43:59",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
