@@ -100,7 +100,7 @@ Lifted by Clouds	Splice onto Arcane abilities are incorrectly affected by cost r
 Liquid Fire	Liquid Fire doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2018-04-27 07:37:59
 Living Lore	If [Living Lore] imprints a Split Card, it has twice the expected CMC.	Advantageous	2018-02-15 02:55:11
 Lurking Evil	Lurking Evil makes you pay half your opponent's life total	Advantageous	2018-05-06 14:51:12
-Mana Reflection	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-05-03 07:37:39
+Mana Reflection	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-06-02 08:32:47
 Mass Polymorph	Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-04-10 06:31:21
 Merfolk Trickster	Merfolk Trickster doesn't remove abilities granted to the targeted creature by a different source.	Disadvantageous	2018-05-30 18:47:37
 Meteor Storm	Meteor Storm only discards one card if you have exactly two	Advantageous	2018-05-18 05:42:41
@@ -158,7 +158,7 @@ Rogue Skycaptain	Rogue Skycaptain's upkeep cost is {0}.	Advantageous	2018-05-30 
 Rosheen Meanderer	Rosheen Meanderer is unable to contribute mana to spells that ask an opponent to pay X, such as Condescend.	Disadvantageous	2018-03-24 02:38:05
 Runic Repetition	Runic Repetition Cannot be cast	Disadvantageous	2018-03-23 02:38:49
 Sages of the Anima	[Sages of the Anima] puts the non-creature cards on top of the library instead of the bottom.	Disadvantageous	2018-02-06 04:35:59
-Samurai of the Pale Curtain	Samurai of the Pale Curtain does not exile tokens.	Disadvantageous	2018-04-14 19:39:21
+Samurai of the Pale Curtain	Samurai of the Pale Curtain does not exile tokens.	Disadvantageous	2018-06-02 08:29:12
 Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-24 00:34:39
 Screams from Within	Screams from Within's second ability (Return ~ to your hand) does not function. 	Disadvantageous	2018-04-27 07:37:55
 Scythe of the Wretched	While Scythe of the Wretched is unequipped, it reanimates any creature that happens to die.	Advantageous	2018-04-27 07:37:55
