@@ -2355,13 +2355,12 @@
     "card": "Mystifying Maze",
     "description": "Mystifying Maze returns the exiled creature to the battlefield untapped.",
     "category": "Disadvantageous",
-    "last_updated": "2018-05-30 04:37:49",
+    "last_updated": "2018-06-03 05:53:20",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/15",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/15"
   },
   {
     "card": "Lich",
