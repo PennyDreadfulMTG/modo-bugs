@@ -1,9 +1,9 @@
 [
   {
     "card": "Brainspoil",
-    "description": "Brainspoil Can't target equipped creature",
+    "description": "Brainspoil can't target equipped creatures",
     "category": "Disadvantageous",
-    "last_updated": "2018-06-07 16:37:43",
+    "last_updated": "2018-06-07 16:39:10",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -490,17 +490,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/327"
-  },
-  {
-    "card": "Summoner's Bane",
-    "description": "Token created by Summoner's Bane have incorrect art and incorrectly display that they have flying",
-    "category": "Graphical",
-    "last_updated": "2018-03-13 01:26:13",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/326"
   },
   {
     "card": "Phyrexian Portal",
@@ -1473,17 +1462,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/237",
     "help_wanted": true
-  },
-  {
-    "card": "Screams from Within",
-    "description": "Screams from Within's second ability (Return ~ to your hand) does not function. ",
-    "category": "Disadvantageous",
-    "last_updated": "2018-04-27 07:37:55",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/234"
   },
   {
     "card": "Phantom Tiger",

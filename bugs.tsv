@@ -13,7 +13,7 @@ Barren Glory	Barren Glory does not check intervening if clause during resolution
 Blood Moon	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
 Booby Trap	Booby Trap does not let you name anything other than non-basic lands.	Disadvantageous	2018-04-27 07:37:58
 Borderland Explorer	All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-05-30 04:16:35
-Brainspoil	Brainspoil Can't target equipped creature	Disadvantageous	2018-06-07 16:37:43
+Brainspoil	Brainspoil can't target equipped creatures	Disadvantageous	2018-06-07 16:39:10
 Brothers Yamazaki	The legend rule continues to not apply if you have multiple Brothers Yamazaki tokens from Helm of the Host.	Unclassified	2018-05-21 02:57:24
 Buried Alive	The order of cards put into the graveyard by Buried Alive is random	Disadvantageous	2018-03-04 06:55:58
 Cairn Wanderer	Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared	Disadvantageous	2018-03-15 07:42:33
@@ -161,7 +161,6 @@ Runic Repetition	Runic Repetition Cannot be cast	Disadvantageous	2018-03-23 02:3
 Sages of the Anima	[Sages of the Anima] puts the non-creature cards on top of the library instead of the bottom.	Disadvantageous	2018-02-06 04:35:59
 Samurai of the Pale Curtain	Samurai of the Pale Curtain does not exile tokens.	Disadvantageous	2018-06-02 08:29:12
 Sanguine Sacrament	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-24 00:34:39
-Screams from Within	Screams from Within's second ability (Return ~ to your hand) does not function. 	Disadvantageous	2018-04-27 07:37:55
 Scythe of the Wretched	While Scythe of the Wretched is unequipped, it reanimates any creature that happens to die.	Advantageous	2018-04-27 07:37:55
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-24 00:34:39
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce any casting costs. 	Disadvantageous	2018-02-03 06:09:02
@@ -184,7 +183,6 @@ Spreading Seas	If Vesuva copies a land with a static ability and then is later t
 Storage Matrix	Storage Matrix Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2018-04-27 06:37:53
 Strange Inversion	Splice onto Arcane abilities are incorrectly affected by cost reduction effects that are supposed to affect spells only if there are two or more cost-reducting permanents	Advantageous	2018-05-31 10:32:46
 Structural Collapse	[Structural Collapse] doesn't cause target to sacrifice either an artifact or land.	Disadvantageous	2018-02-13 06:30:28
-Summoner's Bane	Token created by Summoner's Bane have incorrect art and incorrectly display that they have flying	Graphical	2018-03-13 01:26:13
 Sunscourge Champion	Sunscourge Champion will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2018-03-24 02:14:56
 Sword-Point Diplomacy	Sword-Point Diplomacy is buggy in multiplayer	Advantageous	2018-05-06 20:08:17
 Sylvan Primordial	Casting Sylvan Primordial causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2018-05-30 04:16:17
