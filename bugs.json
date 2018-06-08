@@ -92,7 +92,7 @@
     "card": "Dust Elemental",
     "description": "Dust Elemental only returns two creatures if its controller only controls exactly three creatures (including Dust Elemental itself)",
     "category": "Advantageous",
-    "last_updated": "2018-06-02 01:38:15",
+    "last_updated": "2018-06-08 10:21:04",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
