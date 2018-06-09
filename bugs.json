@@ -1,5 +1,27 @@
 [
   {
+    "card": "Card Name",
+    "description": "MTGO wrongly handle how Splice onto Arcane abilities works",
+    "category": "Unconfirmed",
+    "last_updated": "2018-06-09 08:38:08",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/533"
+  },
+  {
+    "card": "Second Card name",
+    "description": "MTGO wrongly handle how Splice onto Arcane abilities works",
+    "category": "Unconfirmed",
+    "last_updated": "2018-06-09 08:38:08",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/533"
+  },
+  {
     "card": "Brainspoil",
     "description": "Brainspoil can't target equipped creatures",
     "category": "Disadvantageous",
