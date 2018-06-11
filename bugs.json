@@ -1,5 +1,17 @@
 [
   {
+    "card": "Baneful Omen",
+    "description": "If the card revealed by Baneful Omen have cmc > 0, the ability will continuously triggers until the opponent lose",
+    "category": "Unconfirmed",
+    "last_updated": "2018-06-11 00:37:50",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/534",
+    "help_wanted": true
+  },
+  {
     "card": "Card Name",
     "description": "MTGO wrongly handle how Splice onto Arcane abilities works",
     "category": "Unconfirmed",

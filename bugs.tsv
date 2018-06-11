@@ -9,6 +9,7 @@ Athreos, God of Passage	Athreos, God of Passage does not associate its triggers 
 Athreos, God of Passage	The triggered ability of Athreos, God of Passage does not return the creature to your hand even if an opponent pays 3 life.	Disadvantageous	2018-05-30 18:47:36
 Austere Command	Austere Command does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.	Disadvantageous	2018-03-26 01:38:46
 Bala Ged Thief	When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone	Graphical	2018-05-29 18:52:46
+Baneful Omen	If the card revealed by Baneful Omen have cmc > 0, the ability will continuously triggers until the opponent lose	Unconfirmed	2018-06-11 00:37:50
 Barren Glory	Barren Glory does not check intervening if clause during resolution 	Advantageous	2018-04-11 03:39:46
 Blood Moon	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
 Booby Trap	Booby Trap does not let you name anything other than non-basic lands.	Disadvantageous	2018-04-27 07:37:58
