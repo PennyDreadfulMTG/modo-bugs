@@ -1,5 +1,16 @@
 [
   {
+    "card": "Rayne, Academy Chancellor",
+    "description": "Rayne, Academy Chancellor draws an extra card while equipped.",
+    "category": "Unconfirmed",
+    "last_updated": "2018-06-12 19:37:51",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/535"
+  },
+  {
     "card": "Baneful Omen",
     "description": "Baneful Omen's triggered ability will continuously triggered until the controller choose not to reveal the top card",
     "category": "Advantageous",
