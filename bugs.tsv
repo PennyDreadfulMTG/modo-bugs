@@ -14,7 +14,7 @@ Barren Glory	Barren Glory does not check intervening if clause during resolution
 Blood Moon	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
 Booby Trap	Booby Trap does not let you name anything other than non-basic lands.	Disadvantageous	2018-04-27 07:37:58
 Borderland Explorer	All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-05-30 04:16:35
-Brainspoil	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Disadvantageous	2018-06-13 08:01:01
+Brainspoil	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Disadvantageous	2018-06-13 09:37:58
 Brothers Yamazaki	The legend rule continues to not apply if you have multiple Brothers Yamazaki tokens from Helm of the Host.	Unclassified	2018-05-21 02:57:24
 Buried Alive	The order of cards put into the graveyard by Buried Alive is random	Disadvantageous	2018-03-04 06:55:58
 Cairn Wanderer	Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared	Disadvantageous	2018-03-15 07:42:33
@@ -39,6 +39,7 @@ Crystal Spray	Cards that ask you to choose "a basic land type or a color word" o
 Cursed Scroll	Cursed Scroll does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2018-04-27 07:38:00
 Custodi Lich	Custodi Lich The sacrifice trigger happens whenever any player becomes the monarch.	Advantageous	2018-03-22 16:40:06
 Cut	Split cards such as Cut // Ribbons are reported as 3 cards in the chat log.	Unclassified	2018-04-20 11:38:03
+Cut the Earthly Bond	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Advantageous	2018-06-13 09:37:57
 Death Pit Offering	Death Pit Offering sacrifices all of its owner's permanents, not just creatures	Disadvantageous	2018-04-27 07:37:56
 Death-Mask Duplicant	Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared	Disadvantageous	2018-03-15 07:42:33
 Deceiver of Form	If Deceiver of Form's triggered ability turns creatures into copies of a legendary creature, the legend rule fails to apply to the copies.	Advantageous	2018-05-24 03:25:22
@@ -47,12 +48,14 @@ Distended Mindbender	When only some cards from an opponent's hand are revealed, 
 Doubling Season	Doubling Season incorrectly doubles lore counters on sagas placed during the draw step.	Advantageous	2018-05-01 07:34:01
 Doubling Season	Doubling Season incorrectly doubles loyalty counters added from costs of loyalty abilities.	Advantageous	2018-03-24 02:14:44
 Dream Tides	Dream Tides doesn't require a cost for nongreen creatures chosen to untap.	Advantageous	2018-04-27 06:37:43
+Dreampod Druid	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Advantageous	2018-06-13 09:37:57
 Dust Elemental	Dust Elemental only returns two creatures if its controller only controls exactly three creatures (including Dust Elemental itself)	Advantageous	2018-06-08 10:21:04
 Elesh Norn, Grand Cenobite	If Containment Priest and Elesh Norn, Grand Cenobite are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.	Advantageous	2018-03-24 02:14:51
 Ends	Odds restarts the game in buggy state on heads	Game Breaking	2018-05-31 06:37:15
 Entreat the Angels	When Entreat the Angels is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.	Graphical	2018-03-24 02:14:30
 Ever After	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-24 00:34:39
 Fa'adiyah Seer	Fa'adiyah Seer and Sindbad's ability won't discard non-land card drawn if there is any dredge card in your graveyard	Advantageous	2018-03-18 05:57:01
+Feast of Dreams	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Advantageous	2018-06-13 09:37:57
 Fire Covenant	If Fire Covenant is cast for x=0 and you pay the 1 extra mana that MTGO asks you to (which is the bug), the game will restarts. Workaround: Undo the process if you encounter this bug, and never cast it for x=0	Avoidable Game Breaking	2018-03-18 03:57:56
 Floodtide Serpent	Instead of bouncing an enchantment, attacking with Floodtide Serpent shows you all zones.	Advantageous	2018-05-29 05:42:29
 Freyalise's Winds	[Freyalise's Winds] Anytime a permanent with a wind counter would be untapped outside of the untap step,  a wind counter is removed rather than it becoming untapped.	Disadvantageous	2018-02-03 06:38:06
@@ -88,6 +91,7 @@ Kess, Dissident Mage	Kess Dissident Mage's ability allows you to cast spells dur
 Knowledge Pool	Knowledge Pool With multiple Knowledge Pools in play, casting a spell from hand lets you cast a spell from each Pool.	Advantageous	2018-04-27 07:37:55
 Koth of the Hammer	When controlling the Emblem of Koth of the Hammer, lands do not display the blue text they have.	Graphical	2018-03-24 01:40:18
 Kozilek's Translator	The mana abilities of Wall of Roots and Kozilek's Translator cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2018-05-24 03:36:12
+Krond the Dawn-Clad	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Advantageous	2018-06-13 09:37:57
 Lavamancer's Skill	Lavamancer's Skill the "T: deal 1 damage" ability does not let you choose a target	Disadvantageous	2018-04-27 07:37:53
 Leovold, Emissary of Trest	Leovold, Emissary of Trest incorrectly allows an opponent to choose "Yes" with Sylvan Library, but correctly doesn't allow them to draw extra cards.	Unclassified	2018-05-21 02:57:21
 Lich	Lich If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2018-03-18 20:39:30
@@ -134,8 +138,9 @@ Prince of Thralls	Prince of Thralls asks its owner to pay life instead of the o
 Profane Command	Profane Command If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.	Advantageous	2018-03-23 02:38:50
 Psychotic Episode	Psychotic Episode The card on top of the library isn't displayed in the revealed zone	Graphical	2018-03-18 03:57:55
 Quicksilver Fountain	Quicksilver Fountain allows you to place flood counters on nonland permanents.	Disadvantageous	2018-05-30 18:47:37
+Ramses Overdark	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Advantageous	2018-06-13 09:37:57
 Rancor	If Rancor falls off a land that was a creature temporarily that turn, it will incorrectly trigger during the next turn's upkeep.	Unclassified	2018-05-06 14:50:46
-Rayne, Academy Chancellor	Rayne, Academy Chancellor draws an extra card while equipped.	Unconfirmed	2018-06-12 19:37:52
+Rayne, Academy Chancellor	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Advantageous	2018-06-13 09:37:57
 Reflecting Pool	Reflecting Pool does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2018-03-22 16:21:05
 Reflector Mage	If a player casts Reflector Mage targeting a creature they own, and then in the following turn their opponent casts Reflector Mage, they are able to immediately recast that creature.	Advantageous	2018-03-24 02:14:38
 Reflector Mage	The second Reflector Mage played in the same turn will let the first one's target able to be cast.	Disadvantageous	2018-04-18 07:58:52
@@ -187,11 +192,13 @@ The Ur-Dragon	The Ur-Dragon also reduces its own casting cost.	Advantageous	2018
 Thieving Sprite	When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone	Graphical	2018-05-29 18:52:46
 Thornbow Archer	Thornbow Archer Incorrectly grants 1 life to opponents that do not control an Elf, rather than causing them to lose 1 life.	Disadvantageous	2018-03-23 02:38:46
 Thran Turbine	Thran Turbine mana is able to be used to cast spells	Advantageous	2018-04-27 07:37:53
+Time Elemental	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Disadvantageous	2018-06-13 09:37:58
 Tomorrow, Azami's Familiar	Tomorrow, Azami's Familiar puts both unchosen cards back on top of the library.	Disadvantageous	2018-03-18 03:58:01
 Torment of Hailfire	The undo function works incorrectly with Torment of Hailfire.	Disadvantageous	2018-03-24 02:14:52
 Tromokratis	Tromokratis can cause the game the game to soft-lock in multiplayer games	Game Breaking	2018-05-26 02:37:40
 Unscythe, Killer of Kings	Unscythe, Killer of Kings's effect procs when unequipped.	Advantageous	2018-05-31 06:51:42
 Valduk, Keeper of the Flame	Valduk, Keeper of the Flame does not create an Elemental token if it dies while its ability is on the stack.	Disadvantageous	2018-05-21 02:57:25
+Venomous Vines	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Advantageous	2018-06-13 09:37:57
 Vesuva	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
 Vesuvan Shapeshifter	If Vesuvan Shapeshifter copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.	Advantageous	2018-04-27 06:37:48
 Vexing Sphinx	Vexing Sphinx's Cumulative Upkeep Doesn't Make You Discard	Advantageous	2018-05-31 06:38:05
@@ -202,6 +209,7 @@ Wall of Roots	The mana abilities of Wall of Roots and Kozilek's Translator canno
 Weird Harvest	All creatures searched using Weird Harvest's ability will end in the hand of the last priority player	Disadvantageous	2018-04-27 06:37:42
 Whims of the Fates	Whims of the Fates Causes client crashes	Game Breaking	2018-03-23 02:38:49
 Windbrisk Heights	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-05-30 04:14:30
+Winds of Rath	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Advantageous	2018-06-13 09:37:57
 Withdraw	Withdraw is able to target the same creature twice.	Advantageous	2018-03-23 03:37:41
 Words of Waste	Words of Waste does not function.	Non-Functional ability	2018-03-24 02:14:39
 Yisan, the Wanderer Bard	If all of Yisan, the Wanderer Bard's verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.	Advantageous	2018-04-27 06:37:47
