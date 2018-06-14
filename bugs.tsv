@@ -37,7 +37,7 @@ Corrosive Ooze	The triggered ability of Corrosive Ooze doesn't trigger if an aur
 Cryptic Gateway	Cryptic Gateway does not let you select a card from your hand	Non-Functional ability	2018-05-31 06:43:59
 Crystal Spray	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-04-05 04:24:25
 Cursed Scroll	Cursed Scroll does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2018-04-27 07:38:00
-Custodi Lich	Custodi Lich The sacrifice trigger happens whenever any player becomes the monarch.	Advantageous	2018-03-22 16:40:06
+Custodi Lich	Custodi Lich's sacrifice trigger happens when you create the monarchy, and whenever an opponent becomes the monarch.	Advantageous	2018-06-14 15:41:53
 Cut	Split cards such as Cut // Ribbons are reported as 3 cards in the chat log.	Unclassified	2018-04-20 11:38:03
 Cut the Earthly Bond	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Advantageous	2018-06-13 09:37:57
 Death Pit Offering	Death Pit Offering sacrifices all of its owner's permanents, not just creatures	Disadvantageous	2018-04-27 07:37:56

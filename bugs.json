@@ -2111,9 +2111,9 @@
   },
   {
     "card": "Custodi Lich",
-    "description": "Custodi Lich The sacrifice trigger happens whenever any player becomes the monarch.",
+    "description": "Custodi Lich's sacrifice trigger happens when you create the monarchy, and whenever an opponent becomes the monarch.",
     "category": "Advantageous",
-    "last_updated": "2018-03-22 16:40:06",
+    "last_updated": "2018-06-14 15:41:53",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
