@@ -288,9 +288,9 @@
   },
   {
     "card": "Athreos, God of Passage",
-    "description": "The triggered ability of Athreos, God of Passage does not return the creature to your hand even if an opponent pays 3 life.",
+    "description": "The triggered ability of Athreos, God of Passage does not return the creature to your hand.",
     "category": "Disadvantageous",
-    "last_updated": "2018-05-30 18:47:36",
+    "last_updated": "2018-06-14 22:35:57",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
