@@ -1397,18 +1397,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/238"
   },
   {
-    "card": "Lurking Evil",
-    "description": "Lurking Evil makes you pay half your opponent's life total",
-    "category": "Advantageous",
-    "last_updated": "2018-06-22 03:32:21",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/237",
-    "help_wanted": true
-  },
-  {
     "card": "Phantom Tiger",
     "description": "If Phantom Tiger dies in combat, blue text abilities it had been granted do not apply to that combat's damage.",
     "category": "Disadvantageous",
