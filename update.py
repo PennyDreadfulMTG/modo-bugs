@@ -201,6 +201,8 @@ def fix_user_errors(issue: Issue) -> None:
             body = '\n'.join(lines[:-1])
     # People are missing the bullet points, and putting info on the following line instead.
     body = re.sub(r' - \r?\n', '', body)
+    # Some people ignore the request for screenshots.
+    body = body.replace('(Attach a screenshot or video here)', 'Currently Unconfirmed.')
     # Push changes.
     if body != issue.body:
         issue.edit(body=body)
