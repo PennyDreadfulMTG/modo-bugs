@@ -3,7 +3,7 @@
     "card": "Arena",
     "description": "Arena doesn't cause the creatures to fight",
     "category": "Unconfirmed",
-    "last_updated": "2018-06-27 00:37:26",
+    "last_updated": "2018-06-27 05:20:13",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -14,7 +14,7 @@
     "card": "Cut the Earthly Bond",
     "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-13 09:37:57",
+    "last_updated": "2018-06-27 05:21:47",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -25,7 +25,7 @@
     "card": "Feast of Dreams",
     "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-13 09:37:57",
+    "last_updated": "2018-06-27 05:21:47",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -36,7 +36,7 @@
     "card": "Dreampod Druid",
     "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-13 09:37:57",
+    "last_updated": "2018-06-27 05:21:47",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -47,7 +47,7 @@
     "card": "Rayne, Academy Chancellor",
     "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-13 09:37:57",
+    "last_updated": "2018-06-27 05:21:47",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -58,7 +58,7 @@
     "card": "Venomous Vines",
     "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-13 09:37:57",
+    "last_updated": "2018-06-27 05:21:47",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -69,7 +69,7 @@
     "card": "Winds of Rath",
     "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-13 09:37:57",
+    "last_updated": "2018-06-27 05:21:47",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -80,7 +80,7 @@
     "card": "Ramses Overdark",
     "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-13 09:37:57",
+    "last_updated": "2018-06-27 05:21:47",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -91,7 +91,7 @@
     "card": "Krond the Dawn-Clad",
     "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-13 09:37:57",
+    "last_updated": "2018-06-27 05:21:47",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -767,7 +767,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/310"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/310",
+    "help_wanted": true
   },
   {
     "card": "Primal Wellspring",
@@ -790,7 +791,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/307"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/307",
+    "help_wanted": true
   },
   {
     "card": "Contingency Plan",
@@ -801,7 +803,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/307"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/307",
+    "help_wanted": true
   },
   {
     "card": "Naga Oracle",
@@ -812,7 +815,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/307"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/307",
+    "help_wanted": true
   },
   {
     "card": "Mindclaw Shaman",
@@ -846,7 +850,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/304"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/304",
+    "help_wanted": true
   },
   {
     "card": "Mire's Toll",
@@ -1033,7 +1038,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/291"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/291",
+    "help_wanted": true
   },
   {
     "card": "Lavamancer's Skill",
@@ -1055,7 +1061,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/288"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/288",
+    "help_wanted": true
   },
   {
     "card": "Mutiny",
@@ -1349,7 +1356,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/249"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/249",
+    "help_wanted": true
   },
   {
     "card": "Volcano Hellion",
@@ -1360,7 +1368,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/247"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/247",
+    "help_wanted": true
   },
   {
     "card": "Mishra's Workshop",
@@ -1371,7 +1380,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/245"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/245",
+    "help_wanted": true
   },
   {
     "card": "Sheltering Ancient",
@@ -1382,7 +1392,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/241"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/241",
+    "help_wanted": true
   },
   {
     "card": "Vexing Sphinx",
@@ -1405,13 +1416,14 @@
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/238"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/238",
+    "help_wanted": true
   },
   {
     "card": "Lurking Evil",
     "description": "Lurking Evil makes you pay life equal to half of your opponent's life total",
     "category": "Advantageous",
-    "last_updated": "2018-06-24 01:59:13",
+    "last_updated": "2018-06-27 05:37:44",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -1576,7 +1588,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/208"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/208",
+    "help_wanted": true
   },
   {
     "card": "Ricochet Trap",
@@ -1874,7 +1887,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/135"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/135",
+    "help_wanted": true
   },
   {
     "card": "Chandra Nalaar",
@@ -1918,7 +1932,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/123"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/123",
+    "help_wanted": true
   },
   {
     "card": "Genju of the Fields",
@@ -2096,7 +2111,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/55"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/55",
+    "help_wanted": true
   },
   {
     "card": "Athreos, God of Passage",
@@ -2184,7 +2200,8 @@
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/39"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/39",
+    "help_wanted": true
   },
   {
     "card": "Primitive Justice",
@@ -2195,7 +2212,8 @@
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/36"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/36",
+    "help_wanted": true
   },
   {
     "card": "Living Lore",
@@ -2206,7 +2224,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/35"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/35",
+    "help_wanted": true
   },
   {
     "card": "Zur's Weirding",
@@ -2294,7 +2313,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/16"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/16",
+    "help_wanted": true
   },
   {
     "card": "Mystifying Maze",
@@ -2361,7 +2381,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/7"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/7",
+    "help_wanted": true
   },
   {
     "card": "Cryptic Gateway",
