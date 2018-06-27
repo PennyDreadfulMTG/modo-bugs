@@ -15,6 +15,7 @@ import fetcher
 from helpers import (AFFECTS_REGEX, BAD_AFFECTS_REGEX, BADCATS, CATEGORIES,
                      DISCORD_REGEX, IMAGES_REGEX, REGEX_CARDREF,
                      remove_smartquotes, strip_squarebrackets)
+import helpers
 
 CARDNAMES: List[str] = fetcher.catalog_cardnames()
 
@@ -99,12 +100,10 @@ def process_issue(issue: Issue) -> None:
     elif not fail and 'Invalid Card Name' in labels:
         issue.remove_from_labels('Invalid Card Name')
 
+    expected = '<!-- Images --> '
     images = re.search(IMAGES_REGEX, issue.body, re.MULTILINE)
-    if len(cards) > 1:
-        width = '200px'
-    else:
-        width = '300px'
-    expected = '<!-- Images --> ' + ''.join(['<img src="https://api.scryfall.com/cards/named?exact={0}&format=image" width="{1}">'.format(urllib.parse.quote(c), width) for c in cards])
+    for row in helpers.grouper(5, cards):
+        expected = expected + '<img src="http://magic.bluebones.net/proxies/index2.php?c={0}" height="300px">'.format('|'.join([urllib.parse.quote(c) for c in row if c is not None]))
     if age < 5:
         if not images:
             print('Adding Images...')

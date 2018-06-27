@@ -1,4 +1,6 @@
+import itertools
 import re
+from typing import Iterable, Any
 
 CATEGORIES = ["Advantageous", "Disadvantageous", "Game Breaking", "Avoidable Game Breaking", "Graphical", "Non-Functional ability"]
 BADCATS = ["Game Breaking"]
@@ -21,3 +23,8 @@ def strip_squarebrackets(title: str) -> str:
         return match.group(1).strip()
     title = re.sub(REGEX_CARDREF, get_name, title)
     return title
+
+def grouper(n: int, iterable: Iterable, fillvalue: Any = None):
+    "grouper(3, 'ABCDEFG', 'x') --> ABC DEF Gxx"
+    args = [iter(iterable)] * n
+    return itertools.zip_longest(*args, fillvalue=fillvalue)
