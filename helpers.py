@@ -1,11 +1,12 @@
 import itertools
 import re
-from typing import Iterable, Any
+from typing import Any, Iterable
 
 CATEGORIES = ["Advantageous", "Disadvantageous", "Game Breaking", "Avoidable Game Breaking", "Graphical", "Non-Functional ability"]
 BADCATS = ["Game Breaking"]
 
 AFFECTS_REGEX = r'^Affects: (.*)$'
+SEEALSO_REGEX = r'^See Also: (.*)$'
 DISCORD_REGEX = r'^Reported on Discord by (\w+#[0-9]+)$'
 IMAGES_REGEX = r'^<!-- Images --> (.*)$'
 REGEX_CARDREF = r'\[?\[([^\]]*)\]\]?'

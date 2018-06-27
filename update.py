@@ -12,10 +12,10 @@ from github.Issue import Issue
 
 import configuration
 import fetcher
-from helpers import (AFFECTS_REGEX, BAD_AFFECTS_REGEX, BADCATS, CATEGORIES,
-                     DISCORD_REGEX, IMAGES_REGEX, REGEX_CARDREF,
-                     remove_smartquotes, strip_squarebrackets)
 import helpers
+from helpers import (AFFECTS_REGEX, BAD_AFFECTS_REGEX, BADCATS, CATEGORIES,
+                     DISCORD_REGEX, IMAGES_REGEX, REGEX_CARDREF, SEEALSO_REGEX,
+                     remove_smartquotes, strip_squarebrackets)
 
 CARDNAMES: List[str] = fetcher.catalog_cardnames()
 
@@ -82,6 +82,7 @@ def process_issue(issue: Issue) -> None:
         apply_screenshot_labels(issue)
     labels = [c.name for c in issue.labels]
     affects = re.search(AFFECTS_REGEX, issue.body, re.MULTILINE)
+    see_also = re.search(SEEALSO_REGEX, issue.body, re.MULTILINE)
     if affects is None:
         affects = issue.title
     else:
@@ -105,6 +106,10 @@ def process_issue(issue: Issue) -> None:
     images = re.search(IMAGES_REGEX, issue.body, re.MULTILINE)
     for row in helpers.grouper(5, cards):
         expected = expected + '<img src="http://magic.bluebones.net/proxies/index2.php?c={0}" height="300px">'.format('|'.join([urllib.parse.quote(c) for c in row if c is not None]))
+    if see_also is not None:
+        for row in helpers.grouper(5, re.findall(REGEX_CARDREF, see_also.group(1))):
+            expected = expected + '<img src="http://magic.bluebones.net/proxies/index2.php?c={0}" height="250px">'.format('|'.join([urllib.parse.quote(c) for c in row if c is not None]))
+
     if age < 5:
         if not images:
             print('Adding Images...')
