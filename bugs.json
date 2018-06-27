@@ -1,9 +1,20 @@
 [
   {
+    "card": "Rooftop Storm",
+    "description": "Rooftop Storm does not reduce the cost of commanders",
+    "category": "Unconfirmed",
+    "last_updated": "2018-06-27 06:20:20",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/538"
+  },
+  {
     "card": "Arena",
     "description": "Arena doesn't cause the creatures to fight",
     "category": "Unconfirmed",
-    "last_updated": "2018-06-27 05:20:13",
+    "last_updated": "2018-06-27 06:20:22",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -179,8 +190,8 @@
   {
     "card": "Leovold, Emissary of Trest",
     "description": "Leovold, Emissary of Trest incorrectly allows an opponent to choose \"Yes\" with Sylvan Library, but correctly doesn't allow them to draw extra cards.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-21 02:57:21",
+    "category": "Graphical",
+    "last_updated": "2018-06-27 06:20:23",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -671,8 +682,8 @@
   {
     "card": "Zodiac Rooster",
     "description": "Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards",
-    "category": "Unconfirmed",
-    "last_updated": "2018-03-17 01:05:29",
+    "category": "Disadvantageous",
+    "last_updated": "2018-06-27 06:37:19",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -682,8 +693,8 @@
   {
     "card": "Circle of Flame",
     "description": "Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards",
-    "category": "Unconfirmed",
-    "last_updated": "2018-03-17 01:05:29",
+    "category": "Disadvantageous",
+    "last_updated": "2018-06-27 06:37:19",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -693,8 +704,8 @@
   {
     "card": "Headless Horseman",
     "description": "Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards",
-    "category": "Unconfirmed",
-    "last_updated": "2018-03-17 01:05:29",
+    "category": "Disadvantageous",
+    "last_updated": "2018-06-27 06:37:19",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -1423,13 +1434,12 @@
     "card": "Lurking Evil",
     "description": "Lurking Evil makes you pay life equal to half of your opponent's life total",
     "category": "Advantageous",
-    "last_updated": "2018-06-27 05:37:44",
+    "last_updated": "2018-06-27 06:20:33",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/237",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/237"
   },
   {
     "card": "Phantom Tiger",
