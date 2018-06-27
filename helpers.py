@@ -16,7 +16,7 @@ BBT_REGEX = r'^Bug Blog Text: (.*)$'
 def remove_smartquotes(text: str) -> str:
     return text.replace('’', "'").replace('“', '"').replace('”', '"')
 
-def strip_squarebrackets(title):
+def strip_squarebrackets(title: str) -> str:
     def get_name(match):
         return match.group(1).strip()
     title = re.sub(REGEX_CARDREF, get_name, title)

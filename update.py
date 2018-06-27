@@ -74,7 +74,7 @@ def main() -> None:
     json.dump(ALL_BUGS, bugsjson, indent=2)
     bugsjson.close()
 
-def process_issue(issue):
+def process_issue(issue: Issue) -> None:
     age = (datetime.datetime.now() - issue.updated_at).days
     if age < 5:
         fix_user_errors(issue)
@@ -169,12 +169,16 @@ def process_issue(issue):
             }
         if "Multiplayer" in labels:
             bug['multiplayer_only'] = True
+
+        age = datetime.datetime.now() - issue.updated_at
         if "Help Wanted" in labels:
+            bug['help_wanted'] = True
+        elif age.days > 120:
             bug['help_wanted'] = True
 
         ALL_BUGS.append(bug)
 
-def fix_user_errors(issue: Issue):
+def fix_user_errors(issue: Issue) -> None:
     body = issue.body
     # People sometimes put the affected cards on the following line. Account for that.
     body = re.sub(BAD_AFFECTS_REGEX, 'Affects: [', body)
