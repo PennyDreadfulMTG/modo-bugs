@@ -2,7 +2,7 @@ Card Name	Bug Description	Categorization	Last Confirmed
 Angelic Field Marshal	Angelic Field Marshal still grants a bonus to your commander when an opponent gains control of it.	Advantageous	2018-03-23 03:37:40
 Animation Module	Animation Module does not trigger off of cards with unleash such as Gore-House Chainwalker.	Disadvantageous	2018-05-01 17:42:02
 Archangel Avacyn	Only the front sides of Archangel Avacyn and Garruk, the Veil-Cursed are taken into account for Commander color identity.	Disadvantageous	2018-05-02 01:37:50
-Arena	Arena doesn't cause the creatures to fight	Unconfirmed	2018-06-27 06:37:16
+Arena	Arena doesn't cause the creatures to fight	Unconfirmed	2018-06-27 07:03:20
 As Foretold	As Foretold does not apply to cards able to be cast due to Abandoned Sarcophagus.	Disadvantageous	2018-03-24 02:38:07
 Ashes of the Abhorrent	Ashes of the Abhorrent incorrectly prevents lands from being played from players' graveyards.	Unclassified	2018-05-06 14:50:45
 Atarka's Command	Atarka's Command's first activated ability doesn't appear in the Effect zone after it resolves.	Unclassified	2018-04-13 13:24:49
@@ -22,7 +22,7 @@ Cairn Wanderer	Some specific protections (Snow or specificially spectra ward) ar
 Caller of the Hunt	Caller of the Hunt doesn't allow you to pick a creature type	Disadvantageous	2018-04-27 02:37:39
 Card Name	MTGO wrongly handle how Splice onto Arcane abilities works	Unconfirmed	2018-06-09 08:38:08
 Chandra Nalaar	Chandra Nalaar Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2018-04-27 06:37:52
-Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Disadvantageous	2018-06-27 06:37:19
+Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Disadvantageous	2018-06-27 06:38:08
 Clone Legion	[Clone Legion] puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-03-02 03:40:54
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2018-05-31 06:21:48
 Collected Company	Collected Company does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2018-03-24 02:14:46
@@ -75,7 +75,7 @@ Grave Betrayal	If control of Grave Betrayal or  Shirei, Shizo's Caretaker change
 Hada Freeblade	Certain cards, such as Hada Freeblade, do not display a legality error for the Pauper format in the collection scene.	Graphical	2018-03-24 02:14:45
 Harness the Storm	[Harness the Storm] Doesn't trigger when casting split cards.	Disadvantageous	2018-02-01 03:38:17
 Harsh Mentor	Harsh Mentor's triggered ability also affects abilities activated from creatures in the graveyard.	Advantageous	2018-03-24 02:14:41
-Headless Horseman	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Disadvantageous	2018-06-27 06:37:19
+Headless Horseman	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Disadvantageous	2018-06-27 06:38:08
 Heir of Falkenrath	If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.	Advantageous	2018-05-01 18:37:49
 High Seas	[High Seas] only affects red creature spells.	Disadvantageous	2018-03-04 07:39:05
 Holistic Wisdom	Holistic Wisdom restarts the game when you activate it	Game Breaking	2018-05-29 23:02:29
@@ -94,11 +94,11 @@ Koth of the Hammer	When controlling the Emblem of Koth of the Hammer, lands do n
 Kozilek's Translator	The mana abilities of Wall of Roots and Kozilek's Translator cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2018-05-24 03:36:12
 Krond the Dawn-Clad	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Advantageous	2018-06-27 05:21:47
 Lavamancer's Skill	Lavamancer's Skill the "T: deal 1 damage" ability does not let you choose a target	Disadvantageous	2018-04-27 07:37:53
-Leovold, Emissary of Trest	Leovold, Emissary of Trest incorrectly allows an opponent to choose "Yes" with Sylvan Library, but correctly doesn't allow them to draw extra cards.	Graphical	2018-06-27 06:37:16
+Leovold, Emissary of Trest	Leovold, Emissary of Trest incorrectly allows an opponent to choose "Yes" with Sylvan Library, but correctly doesn't allow them to draw extra cards.	Graphical	2018-06-27 06:38:05
 Lich	Lich If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2018-03-18 20:39:30
 Liquid Fire	Liquid Fire doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2018-04-27 07:37:59
 Living Lore	If [Living Lore] imprints a Split Card, it has twice the expected CMC.	Advantageous	2018-02-15 02:55:11
-Lurking Evil	Lurking Evil makes you pay life equal to half of your opponent's life total	Advantageous	2018-06-27 06:37:21
+Lurking Evil	Lurking Evil makes you pay life equal to half of your opponent's life total	Advantageous	2018-06-27 06:38:09
 Mana Reflection	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-06-02 08:32:47
 Mass Polymorph	Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-04-10 06:31:21
 Merfolk Trickster	Merfolk Trickster doesn't remove abilities granted to the targeted creature by a different source.	Disadvantageous	2018-05-30 18:47:37
@@ -154,7 +154,7 @@ Ricochet Trap	Ricochet Trap restarts the game when cast for its alternate cost.	
 Rimescale Dragon	Rimescale Dragon does not place an Ice Counter on targeted creatures.	Disadvantageous	2018-03-24 02:14:47
 Riptide Replicator	Riptide Replicator tokens use incorrect art and incorrectly display they have the changeling ability.	Graphical	2018-04-27 06:37:54
 Rogue Skycaptain	Rogue Skycaptain's upkeep cost is {0}.	Advantageous	2018-05-30 04:16:56
-Rooftop Storm	Rooftop Storm does not reduce the cost of commanders	Unconfirmed	2018-06-27 06:37:15
+Rooftop Storm	Rooftop Storm does not reduce the cost of commanders	Unconfirmed	2018-06-27 06:38:05
 Rosheen Meanderer	Rosheen Meanderer is unable to contribute mana to spells that ask an opponent to pay X, such as Condescend.	Disadvantageous	2018-03-24 02:38:05
 Runic Repetition	Runic Repetition Cannot be cast	Disadvantageous	2018-03-23 02:38:49
 Sages of the Anima	[Sages of the Anima] puts the non-creature cards on top of the library instead of the bottom.	Disadvantageous	2018-02-06 04:35:59
@@ -215,5 +215,5 @@ Winds of Rath	Spells and non-static abilities that cares whether or not a perman
 Withdraw	Withdraw is able to target the same creature twice.	Advantageous	2018-03-23 03:37:41
 Words of Waste	Words of Waste does not function.	Non-Functional ability	2018-03-24 02:14:39
 Yisan, the Wanderer Bard	If all of Yisan, the Wanderer Bard's verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.	Advantageous	2018-04-27 06:37:47
-Zodiac Rooster	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Disadvantageous	2018-06-27 06:37:19
+Zodiac Rooster	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Disadvantageous	2018-06-27 06:38:08
 Zur's Weirding	Zur's Weirding Reveals but doesn't allow you to pay	Disadvantageous	2018-03-22 06:37:49
