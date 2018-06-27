@@ -236,9 +236,9 @@ def apply_screenshot_labels(issue: Issue) -> None:
     if has_video and 'Needs Video' in labels:
         issue.remove_from_labels('Needs Video')
 
-    if not has_screenshot and not has_video:
+    if not has_screenshot and not has_video and not 'Needs Screenshot' in labels:
         issue.add_to_labels('Needs Screenshot')
-    if has_screenshot and not has_video:
+    if has_screenshot and not has_video and not 'Needs Video' in labels:
         issue.add_to_labels('Needs Video')
 
 if __name__ == "__main__":
