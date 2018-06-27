@@ -1,5 +1,16 @@
 [
   {
+    "card": "Arena",
+    "description": "Arena doesn't cause the creatures to fight",
+    "category": "Unconfirmed",
+    "last_updated": "2018-06-27 00:37:25",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/537"
+  },
+  {
     "card": "Cut the Earthly Bond",
     "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
