@@ -79,6 +79,7 @@ def process_issue(issue: Issue) -> None:
     age = (datetime.datetime.now() - issue.updated_at).days
     if age < 5:
         fix_user_errors(issue)
+        apply_screenshot_labels(issue)
     labels = [c.name for c in issue.labels]
     affects = re.search(AFFECTS_REGEX, issue.body, re.MULTILINE)
     if affects is None:
@@ -203,6 +204,35 @@ def fix_user_errors(issue: Issue) -> None:
     if title != issue.title:
         print("Changing title of #{0} to \"{1}\"".format(issue.number, title))
         issue.edit(title=title)
+
+def apply_screenshot_labels(issue: Issue) -> None:
+    labels = [c.name for c in issue.labels]
+    has_screenshot = 'Has Screenshot' in labels
+    has_video = 'Has Video' in labels
+
+    if '(https://user-images.githubusercontent.com/' in issue.body:
+        has_screenshot = True
+    if 'https://imgur.com/' in issue.body:
+        has_screenshot = True
+    if '(https://youtu.be/' in issue.body:
+        has_video = True
+    if 'youtube.com/watch' in issue.body:
+        has_video = True
+
+    if has_screenshot and not 'Has Screenshot' in labels:
+        issue.add_to_labels('Has Screenshot')
+    if has_screenshot and 'Needs Screenshot' in labels:
+        issue.remove_from_labels('Needs Screenshot')
+
+    if has_video and not 'Has Video' in labels:
+        issue.add_to_labels('Has Video')
+    if has_video and 'Needs Video' in labels:
+        issue.remove_from_labels('Needs Video')
+
+    if not has_screenshot and not has_video:
+        issue.add_to_labels('Needs Screenshot')
+    if has_screenshot and not has_video:
+        issue.add_to_labels('Needs Video')
 
 if __name__ == "__main__":
     main()
