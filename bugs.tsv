@@ -2,7 +2,7 @@ Card Name	Bug Description	Categorization	Last Confirmed
 Angelic Field Marshal	Angelic Field Marshal still grants a bonus to your commander when an opponent gains control of it.	Advantageous	2018-03-23 03:37:40
 Animation Module	Animation Module does not trigger off of cards with unleash such as Gore-House Chainwalker.	Disadvantageous	2018-05-01 17:42:02
 Archangel Avacyn	Only the front sides of Archangel Avacyn and Garruk, the Veil-Cursed are taken into account for Commander color identity.	Disadvantageous	2018-05-02 01:37:50
-Arena	Arena doesn't cause the creatures to fight	Unconfirmed	2018-06-27 06:20:22
+Arena	Arena doesn't cause the creatures to fight	Unconfirmed	2018-06-27 06:37:16
 As Foretold	As Foretold does not apply to cards able to be cast due to Abandoned Sarcophagus.	Disadvantageous	2018-03-24 02:38:07
 Ashes of the Abhorrent	Ashes of the Abhorrent incorrectly prevents lands from being played from players' graveyards.	Unclassified	2018-05-06 14:50:45
 Atarka's Command	Atarka's Command's first activated ability doesn't appear in the Effect zone after it resolves.	Unclassified	2018-04-13 13:24:49
@@ -94,11 +94,11 @@ Koth of the Hammer	When controlling the Emblem of Koth of the Hammer, lands do n
 Kozilek's Translator	The mana abilities of Wall of Roots and Kozilek's Translator cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2018-05-24 03:36:12
 Krond the Dawn-Clad	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Advantageous	2018-06-27 05:21:47
 Lavamancer's Skill	Lavamancer's Skill the "T: deal 1 damage" ability does not let you choose a target	Disadvantageous	2018-04-27 07:37:53
-Leovold, Emissary of Trest	Leovold, Emissary of Trest incorrectly allows an opponent to choose "Yes" with Sylvan Library, but correctly doesn't allow them to draw extra cards.	Graphical	2018-06-27 06:20:23
+Leovold, Emissary of Trest	Leovold, Emissary of Trest incorrectly allows an opponent to choose "Yes" with Sylvan Library, but correctly doesn't allow them to draw extra cards.	Graphical	2018-06-27 06:37:16
 Lich	Lich If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2018-03-18 20:39:30
 Liquid Fire	Liquid Fire doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2018-04-27 07:37:59
 Living Lore	If [Living Lore] imprints a Split Card, it has twice the expected CMC.	Advantageous	2018-02-15 02:55:11
-Lurking Evil	Lurking Evil makes you pay life equal to half of your opponent's life total	Advantageous	2018-06-27 06:20:33
+Lurking Evil	Lurking Evil makes you pay life equal to half of your opponent's life total	Advantageous	2018-06-27 06:37:21
 Mana Reflection	Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors	Disadvantageous	2018-06-02 08:32:47
 Mass Polymorph	Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-04-10 06:31:21
 Merfolk Trickster	Merfolk Trickster doesn't remove abilities granted to the targeted creature by a different source.	Disadvantageous	2018-05-30 18:47:37
@@ -154,7 +154,7 @@ Ricochet Trap	Ricochet Trap restarts the game when cast for its alternate cost.	
 Rimescale Dragon	Rimescale Dragon does not place an Ice Counter on targeted creatures.	Disadvantageous	2018-03-24 02:14:47
 Riptide Replicator	Riptide Replicator tokens use incorrect art and incorrectly display they have the changeling ability.	Graphical	2018-04-27 06:37:54
 Rogue Skycaptain	Rogue Skycaptain's upkeep cost is {0}.	Advantageous	2018-05-30 04:16:56
-Rooftop Storm	Rooftop Storm does not reduce the cost of commanders	Unconfirmed	2018-06-27 06:20:20
+Rooftop Storm	Rooftop Storm does not reduce the cost of commanders	Unconfirmed	2018-06-27 06:37:15
 Rosheen Meanderer	Rosheen Meanderer is unable to contribute mana to spells that ask an opponent to pay X, such as Condescend.	Disadvantageous	2018-03-24 02:38:05
 Runic Repetition	Runic Repetition Cannot be cast	Disadvantageous	2018-03-23 02:38:49
 Sages of the Anima	[Sages of the Anima] puts the non-creature cards on top of the library instead of the bottom.	Disadvantageous	2018-02-06 04:35:59
