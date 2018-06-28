@@ -4,7 +4,6 @@ Animation Module	Animation Module does not trigger off of cards with unleash suc
 Archangel Avacyn	Only the front sides of Archangel Avacyn and Garruk, the Veil-Cursed are taken into account for Commander color identity.	Disadvantageous	2018-05-02 01:37:50
 Arena	Arena doesn't cause the creatures to fight	Unconfirmed	2018-06-27 14:37:34
 As Foretold	As Foretold does not apply to cards able to be cast due to Abandoned Sarcophagus.	Disadvantageous	2018-03-24 02:38:07
-Ashes of the Abhorrent	Ashes of the Abhorrent incorrectly prevents lands from being played from players' graveyards.	Unclassified	2018-05-06 14:50:45
 Atarka's Command	Atarka's Command's first activated ability doesn't appear in the Effect zone after it resolves.	Unclassified	2018-04-13 13:24:49
 Athreos, God of Passage	Athreos, God of Passage does not associate its triggers with specific creatures.	Graphical	2018-03-24 02:15:01
 Athreos, God of Passage	The triggered ability of Athreos, God of Passage does not return the creature to your hand.	Disadvantageous	2018-06-14 22:41:23
@@ -26,7 +25,6 @@ Circle of Flame	Cards that are only common in PRM version can be added to Pauper
 Clone Legion	[Clone Legion] puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-03-02 03:40:54
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2018-05-31 06:21:48
 Collected Company	Collected Company does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2018-03-24 02:14:46
-Combat Celebrant	Combat Celebrant does not allow you to exert it when attacking a planeswalker.	Disadvantageous	2018-03-23 02:38:46
 Commandeer	Commandeer does not gain control of the targeted noncreature spell.	Disadvantageous	2018-03-24 02:14:47
 Compost	Compost The effect isn't triggered when an opponent only casts the nonblack half of a split card. 	Disadvantageous	2018-05-24 03:25:36
 Compulsive Research	Dredging rather than drawing can let you avoid discarding	Advantageous	2018-02-03 03:37:58
@@ -34,7 +32,6 @@ Concerted Effort	Some protection abilities granted by Concerted Effort are not s
 Concerted Effort	Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared	Disadvantageous	2018-03-15 07:42:33
 Containment Priest	Containment Priest exiles Theros Gods even when their devotion isn't met.	Advantageous	2018-04-08 14:37:54
 Contingency Plan	Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.	Graphical	2018-02-13 20:10:02
-Corrosive Ooze	The triggered ability of Corrosive Ooze doesn't trigger if an aura was destroyed on the blocking/blocked creature previously in the turn.	Disadvantageous	2018-05-18 04:37:51
 Cryptic Gateway	Cryptic Gateway does not let you select a card from your hand	Non-Functional ability	2018-05-31 06:43:59
 Crystal Spray	Cards that ask you to choose "a basic land type or a color word" only let you choose a basic land type.	Disadvantageous	2018-04-05 04:24:25
 Cursed Scroll	Cursed Scroll does not deal damage if choosing to click the card in your hand, rather than typing the name.	Graphical	2018-04-27 07:38:00
@@ -47,7 +44,6 @@ Deceiver of Form	If Deceiver of Form's triggered ability turns creatures into co
 Disciple of Phenax	When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone	Graphical	2018-05-29 18:52:46
 Distended Mindbender	When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone	Graphical	2018-05-29 18:52:46
 Doubling Season	Doubling Season incorrectly doubles lore counters on sagas placed during the draw step.	Advantageous	2018-05-01 07:34:01
-Doubling Season	Doubling Season incorrectly doubles loyalty counters added from costs of loyalty abilities.	Advantageous	2018-03-24 02:14:44
 Dream Tides	Dream Tides doesn't require a cost for nongreen creatures chosen to untap.	Advantageous	2018-04-27 06:37:43
 Dreampod Druid	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Advantageous	2018-06-27 05:21:47
 Dust Elemental	Dust Elemental only returns two creatures if its controller only controls exactly three creatures (including Dust Elemental itself)	Advantageous	2018-06-08 10:21:04

@@ -254,17 +254,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/488"
   },
   {
-    "card": "Ashes of the Abhorrent",
-    "description": "Ashes of the Abhorrent incorrectly prevents lands from being played from players' graveyards.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-06 14:50:45",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/485"
-  },
-  {
     "card": "Rancor",
     "description": "If Rancor falls off a land that was a creature temporarily that turn, it will incorrectly trigger during the next turn's upkeep.",
     "category": "Unclassified",
@@ -329,17 +318,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/478"
-  },
-  {
-    "card": "Corrosive Ooze",
-    "description": "The triggered ability of Corrosive Ooze doesn't trigger if an aura was destroyed on the blocking/blocked creature previously in the turn.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-05-18 04:37:51",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/476"
   },
   {
     "card": "Sword-Point Diplomacy",
@@ -1613,17 +1591,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/206"
   },
   {
-    "card": "Doubling Season",
-    "description": "Doubling Season incorrectly doubles loyalty counters added from costs of loyalty abilities.",
-    "category": "Advantageous",
-    "last_updated": "2018-03-24 02:14:44",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/202"
-  },
-  {
     "card": "Hada Freeblade",
     "description": "Certain cards, such as Hada Freeblade, do not display a legality error for the Pauper format in the collection scene.",
     "category": "Graphical",
@@ -2054,17 +2021,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/66"
-  },
-  {
-    "card": "Combat Celebrant",
-    "description": "Combat Celebrant does not allow you to exert it when attacking a planeswalker.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-03-23 02:38:46",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/64"
   },
   {
     "card": "Thornbow Archer",
