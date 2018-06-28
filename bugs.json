@@ -923,7 +923,7 @@
     "card": "Reflector Mage",
     "description": "The second Reflector Mage played in the same turn will let the first one\u2019s target able to be cast.",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-18 07:58:52",
+    "last_updated": "2018-06-28 03:37:23",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
