@@ -22,7 +22,7 @@ Caller of the Hunt	Caller of the Hunt doesn't allow you to pick a creature type	
 Card Name	MTGO wrongly handle how Splice onto Arcane abilities works	Unconfirmed	2018-06-09 08:38:08
 Chandra Nalaar	Chandra Nalaar Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2018-04-27 06:37:52
 Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Disadvantageous	2018-06-27 14:37:37
-Clone Legion	[Clone Legion] puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-03-02 03:40:54
+Clone Legion	Clone Legion puts multiple excess copies of all creatures from all of the targeted player's zones.	Advantageous	2018-07-01 17:37:31
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2018-05-31 06:21:48
 Collected Company	Collected Company does not allow you to put fewer than the maximum number of creatures onto the battlefield.	Disadvantageous	2018-03-24 02:14:46
 Commandeer	Commandeer does not gain control of the targeted noncreature spell.	Disadvantageous	2018-03-24 02:14:47
