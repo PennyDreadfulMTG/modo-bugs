@@ -733,7 +733,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/313"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/313",
+    "help_wanted": true
   },
   {
     "card": "Rogue Skycaptain",
