@@ -2337,7 +2337,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/8"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/8",
+    "help_wanted": true
   },
   {
     "card": "Harness the Storm",
