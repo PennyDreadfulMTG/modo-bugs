@@ -128,6 +128,7 @@ Phantom Tiger	If Phantom Tiger dies in combat, blue text abilities it had been g
 Phyrexian Metamorph	Clones such as Phyrexian Metamorph are not granted haste by Mimic Vat.	Disadvantageous	2018-05-30 18:55:30
 Phyrexian Portal	Phyrexian Portal doesn't let the owner see the pile they have chosen or choose a card	Disadvantageous	2018-05-30 04:16:30
 Phyrexian Revoker	If a card such as Phyrexian Revoker that asks you to name a card is manifested, you are asked to name the card as it enters the battlefield.	Unclassified	2018-04-18 07:35:31
+Platinum Emperion	If you control Platinum Emperion you cannot even pay 0 life for costs.	Disadvantageous	2018-07-03 01:37:36
 Pox	The calculation code seems to be wrong, because one third of three (3) is calculated as two (2)	Unconfirmed	2018-03-16 04:41:06
 Primal Wellspring	If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.	Disadvantageous	2018-05-30 04:17:01
 Primitive Justice	[Primitive Justice] will either not cast/restart the game with a single target.	Game Breaking	2018-01-19 09:47:04
@@ -159,6 +160,7 @@ Sanguine Sacrament	There are known issues with giving flashback to a spell that 
 Scythe of the Wretched	While Scythe of the Wretched is unequipped, it reanimates any creature that happens to die.	Advantageous	2018-04-27 07:37:55
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-24 00:34:39
 Second Card name	MTGO wrongly handle how Splice onto Arcane abilities works	Unconfirmed	2018-06-09 08:38:08
+Secret Salvage	Secret Salvage does not add the cards found from the library to the revealed zone.	Graphical	2018-07-03 01:37:34
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce any casting costs. 	Disadvantageous	2018-02-03 06:09:02
 Settle the Wreckage	Settle the Wreckage does not give the targeted player the option to not search their library.	Advantageous	2018-03-24 02:14:48
 Shelldock Isle	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-05-30 04:14:30
@@ -176,6 +178,7 @@ Spoils of Victory	Spoils of Victory The land comes into play tapped	Disadvantage
 Spreading Seas	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
 Storage Matrix	Storage Matrix Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2018-04-27 06:37:53
 Structural Collapse	[Structural Collapse] doesn't cause target to sacrifice either an artifact or land.	Disadvantageous	2018-02-13 06:30:28
+Sunforger	The activated ability of Sunforger does not shuffle the library.	Disadvantageous	2018-07-03 01:37:35
 Sunscourge Champion	Sunscourge Champion will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2018-03-24 02:14:56
 Sword-Point Diplomacy	Sword-Point Diplomacy is buggy in multiplayer	Advantageous	2018-05-06 20:08:17
 Sylvan Primordial	Casting Sylvan Primordial causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2018-05-30 04:16:17

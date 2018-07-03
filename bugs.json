@@ -1,5 +1,38 @@
 [
   {
+    "card": "Secret Salvage",
+    "description": "Secret Salvage does not add the cards found from the library to the revealed zone.",
+    "category": "Graphical",
+    "last_updated": "2018-07-03 01:37:34",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/541"
+  },
+  {
+    "card": "Sunforger",
+    "description": "The activated ability of Sunforger does not shuffle the library.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-07-03 01:37:35",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/540"
+  },
+  {
+    "card": "Platinum Emperion",
+    "description": "If you control Platinum Emperion you cannot even pay 0 life for costs.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-07-03 01:37:36",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/539"
+  },
+  {
     "card": "Rooftop Storm",
     "description": "Rooftop Storm does not reduce the cost of commanders",
     "category": "Unconfirmed",
