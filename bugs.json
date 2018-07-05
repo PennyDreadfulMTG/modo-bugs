@@ -1,5 +1,16 @@
 [
   {
+    "card": "Flesh // Blood",
+    "description": "Flesh // Blood Crashed game when targeting opponent.",
+    "category": "Unconfirmed",
+    "last_updated": "2018-07-05 21:37:25",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/543"
+  },
+  {
     "card": "Secret Salvage",
     "description": "Secret Salvage does not add the cards found from the library to the revealed zone.",
     "category": "Graphical",
