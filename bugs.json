@@ -1,5 +1,16 @@
 [
   {
+    "card": "Crypt Ghast",
+    "description": "Crypt Ghast produces large amount of mana for each swamp tapped",
+    "category": "Unconfirmed",
+    "last_updated": "2018-07-08 02:37:40",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/545"
+  },
+  {
     "card": "Smallpox",
     "description": "Smallpox does not make players sacrifice things",
     "category": "Disadvantageous",
@@ -36,7 +47,7 @@
     "card": "Sunforger",
     "description": "The activated ability of Sunforger does not shuffle the library.",
     "category": "Disadvantageous",
-    "last_updated": "2018-07-03 01:37:35",
+    "last_updated": "2018-07-08 02:37:42",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
