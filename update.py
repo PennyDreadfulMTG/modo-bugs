@@ -225,6 +225,8 @@ def apply_screenshot_labels(issue: Issue) -> None:
         has_video = True
     if 'youtube.com/watch' in issue.body:
         has_video = True
+    if 'clips.twitch.tv/' in issue.body:
+        has_video = True
 
     if has_screenshot and not 'Has Screenshot' in labels:
         issue.add_to_labels('Has Screenshot')
@@ -235,6 +237,8 @@ def apply_screenshot_labels(issue: Issue) -> None:
         issue.add_to_labels('Has Video')
     if has_video and 'Needs Video' in labels:
         issue.remove_from_labels('Needs Video')
+    if has_video and 'Needs Screenshot' in labels:
+        issue.remove_from_labels('Needs Screenshot')
 
     if not has_screenshot and not has_video and not 'Needs Screenshot' in labels:
         issue.add_to_labels('Needs Screenshot')
