@@ -1,5 +1,16 @@
 [
   {
+    "card": "Smallpox",
+    "description": "Smallpox does not make players sacrifice things",
+    "category": "Disadvantageous",
+    "last_updated": "2018-07-08 01:37:27",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/544"
+  },
+  {
     "card": "Flesh // Blood",
     "description": "Flesh // Blood Crashed game when targeting opponent.",
     "category": "Unconfirmed",
