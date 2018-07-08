@@ -181,7 +181,7 @@ Spoils of Victory	Spoils of Victory The land comes into play tapped	Disadvantage
 Spreading Seas	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
 Storage Matrix	Storage Matrix Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.	Disadvantageous	2018-04-27 06:37:53
 Structural Collapse	[Structural Collapse] doesn't cause target to sacrifice either an artifact or land.	Disadvantageous	2018-02-13 06:30:28
-Sunforger	The activated ability of Sunforger does not shuffle the library.	Disadvantageous	2018-07-08 02:37:42
+Sunforger	The activated ability of Sunforger does not shuffle the library.	Disadvantageous	2018-07-08 03:37:40
 Sunscourge Champion	Sunscourge Champion will cause you to lose life if it has negative power when its trigger resolves.	Disadvantageous	2018-03-24 02:14:56
 Sword-Point Diplomacy	Sword-Point Diplomacy is buggy in multiplayer	Advantageous	2018-05-06 20:08:17
 Sylvan Primordial	Casting Sylvan Primordial causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2018-05-30 04:16:17
