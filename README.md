@@ -35,9 +35,9 @@ The card still functions as printed, it just looks weird while doing so.
 
 Go to <https://github.com/PennyDreadfulMTG/modo-bugs/issues>.
 
-Create an issue with the name `[cardname] bug description`. 
+Create an issue with the name `bug description`. 
 
-For example: `[Power Conduit] Activating its ability will restart the game`
+For example: `Activating Power Condiut's ability will restart the game`
 
 Where possible, try to provide screenshots or videos.
 
