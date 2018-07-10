@@ -221,7 +221,7 @@ def apply_screenshot_labels(issue: Issue) -> None:
         has_screenshot = True
     if 'https://imgur.com/' in issue.body:
         has_screenshot = True
-    if '(https://youtu.be/' in issue.body:
+    if 'https://youtu.be/' in issue.body:
         has_video = True
     if 'youtube.com/watch' in issue.body:
         has_video = True
