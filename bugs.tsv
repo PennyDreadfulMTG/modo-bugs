@@ -56,7 +56,7 @@ Ever After	There are known issues with giving flashback to a spell that is put o
 Fa'adiyah Seer	Fa'adiyah Seer and Sindbad's ability won't discard non-land card drawn if there is any dredge card in your graveyard	Advantageous	2018-03-18 05:57:01
 Feast of Dreams	Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted	Advantageous	2018-06-27 05:21:47
 Fire Covenant	If Fire Covenant is cast for x=0 and you pay the 1 extra mana that MTGO asks you to (which is the bug), the game will restarts. Workaround: Undo the process if you encounter this bug, and never cast it for x=0	Avoidable Game Breaking	2018-03-18 03:57:56
-Flesh // Blood	Flesh // Blood Crashed game when targeting opponent.	Unconfirmed	2018-07-10 00:38:20
+Flesh // Blood	Casting split cards Fused restarts the game in a buggy state	Avoidable Game Breaking	2018-07-10 01:37:34
 Floodtide Serpent	Instead of bouncing an enchantment, attacking with Floodtide Serpent shows you all zones.	Advantageous	2018-05-29 05:42:29
 Freyalise's Winds	[Freyalise's Winds] Anytime a permanent with a wind counter would be untapped outside of the untap step,  a wind counter is removed rather than it becoming untapped.	Disadvantageous	2018-02-03 06:38:06
 Gaddock Teeg	Gaddock Teeg incorrectly does not allow cards with converted mana cost 4 or greater to be spliced onto other cards.	Advantageous	2018-05-30 18:53:37
