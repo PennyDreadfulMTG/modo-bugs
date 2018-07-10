@@ -1,5 +1,27 @@
 [
   {
+    "card": "Card Name",
+    "description": "\"Far / Away\" using Fuse effect resets the game",
+    "category": "Unconfirmed",
+    "last_updated": "2018-07-10 16:37:34",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/549"
+  },
+  {
+    "card": "Second Card name",
+    "description": "\"Far / Away\" using Fuse effect resets the game",
+    "category": "Unconfirmed",
+    "last_updated": "2018-07-10 16:37:34",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/549"
+  },
+  {
     "card": "Hunted Dragon",
     "description": "The tokens created by Hunted Dragon have Banding in addition to first strike",
     "category": "Disadvantageous",
