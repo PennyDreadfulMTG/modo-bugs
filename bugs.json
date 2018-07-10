@@ -1,5 +1,17 @@
 [
   {
+    "card": "Hunted Dragon",
+    "description": "The tokens created by Hunted Dragon have Banding in addition to first strike",
+    "category": "Disadvantageous",
+    "last_updated": "2018-07-10 09:37:59",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/548",
+    "help_wanted": true
+  },
+  {
     "card": "Courser of Kruphix",
     "description": "Courser of Kruphix incorrectly shows the top card with shocklands",
     "category": "Advantageous",
