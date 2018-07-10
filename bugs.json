@@ -1,9 +1,9 @@
 [
   {
-    "card": "Courser of Krupix",
+    "card": "Courser of Kruphix",
     "description": "Courser of Kruphix incorrectly shows the top card with shocklands",
     "category": "Advantageous",
-    "last_updated": "2018-07-10 02:37:55",
+    "last_updated": "2018-07-10 04:11:45",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
