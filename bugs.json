@@ -343,17 +343,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/495"
   },
   {
-    "card": "Teferi, Hero of Dominaria",
-    "description": "Teferi, Hero of Dominaria's emblem can target Hexproof creatures",
-    "category": "Unconfirmed",
-    "last_updated": "2018-05-18 05:48:54",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/490"
-  },
-  {
     "card": "Meteor Storm",
     "description": "Meteor Storm only discards one card if you have exactly two",
     "category": "Advantageous",
