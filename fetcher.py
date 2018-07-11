@@ -8,6 +8,7 @@ def search_scryfall(query):
        second member is a list of card names up to the maximum that could be fetched in a timely fashion."""
     if query == '':
         return False, []
+    print(f"Searching scryfall for `{query}`")
     result_json = internal.fetch_json('https://api.scryfall.com/cards/search?q=' + internal.escape(query), character_encoding='utf-8')
     if 'code' in result_json.keys(): # The API returned an error
         if result_json['status'] == 404: # No cards found

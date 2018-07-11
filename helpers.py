@@ -10,7 +10,7 @@ SEEALSO_REGEX = r'^See Also: (.*)$'
 DISCORD_REGEX = r'^Reported on Discord by (\w+#[0-9]+)$'
 IMAGES_REGEX = r'^<!-- Images --> (.*)$'
 REGEX_CARDREF = r'\[?\[([^\]]*)\]\]?'
-REGEX_SEARCHREF = r'\{([\w:/^$]+)\}'
+REGEX_SEARCHREF = r'\{([\w:/^$" ]+)\}'
 
 
 BAD_AFFECTS_REGEX = r'Affects: (\[Card Name\]\(, \[Second Card name\], etc\)\r?\n)\['
