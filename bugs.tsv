@@ -108,6 +108,7 @@ Krond the Dawn-Clad	Spells and non-static abilities that cares whether or not a 
 Lavamancer's Skill	Lavamancer's Skill the "T: deal 1 damage" ability does not let you choose a target	Disadvantageous	2018-04-27 07:37:53
 Leovold, Emissary of Trest	Leovold, Emissary of Trest incorrectly allows an opponent to choose "Yes" with Sylvan Library, but correctly doesn't allow them to draw extra cards.	Graphical	2018-06-27 14:37:34
 Lich	Lich If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2018-03-18 20:39:30
+Liliana of the Veil	Activating Liliana of the Veil's +1 with only one card in hand will soft-lock the game	Avoidable Game Breaking	2018-07-11 09:37:32
 Liquid Fire	Liquid Fire doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2018-04-27 07:37:59
 Living Lore	If [Living Lore] imprints a Split Card, it has twice the expected CMC.	Advantageous	2018-02-15 02:55:11
 Lurking Evil	Lurking Evil makes you pay life equal to half of your opponent's life total	Advantageous	2018-06-27 14:37:38
