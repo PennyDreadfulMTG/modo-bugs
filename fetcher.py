@@ -15,7 +15,7 @@ def search_scryfall(query):
         print('Error fetching scryfall data:\n', result_json)
         return False, []
     for warning in result_json.get('warnings', []): #scryfall-provided human-readable warnings
-        print(warning) # Why aren't we displaying these to the user?
+        print(warning)
     result_data = result_json['data']
     result_data.sort(key=lambda x: x['legalities']['penny'])
 
@@ -27,7 +27,7 @@ def search_scryfall(query):
             return scr_card['card_faces'][0]['name']
         return scr_card['name']
     result_cardnames = [get_frontside(obj) for obj in result_data]
-    return result_json['total_cards'], result_cardnames
+    return result_json['total_cards'], result_cardnames, result_json.get('warnings', [])
 
 def catalog_cardnames() -> List[str]:
      result_json = internal.fetch_json('https://api.scryfall.com/catalog/card-names')

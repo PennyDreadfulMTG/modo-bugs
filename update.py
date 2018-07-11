@@ -193,6 +193,12 @@ def fix_user_errors(issue: Issue) -> None:
         cards = re.findall(REGEX_CARDREF, issue.title)
         cards = [c for c in cards]
         body = body + '\nAffects: ' + ''.join(['[' + c + ']' for c in cards])
+    if re.search(helpers.REGEX_SEARCHREF, body):
+        def do_search(m):
+            search = m.group(1)
+            n, cards, warnings = fetcher.search_scryfall(search)
+            return ', '.join([f'[{c}]' for c in cards])
+        body = re.sub(helpers.REGEX_SEARCHREF, do_search, body)
     # We had a bug where the above triggered infinitely.  Clean it up.
     extra_affects = re.findall(AFFECTS_REGEX, body, re.MULTILINE)
     if len(extra_affects) > 1:
