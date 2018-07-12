@@ -156,9 +156,9 @@
   },
   {
     "card": "Cut the Earthly Bond",
-    "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-27 05:21:47",
+    "last_updated": "2018-07-12 01:37:33",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -167,9 +167,9 @@
   },
   {
     "card": "Feast of Dreams",
-    "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-27 05:21:47",
+    "last_updated": "2018-07-12 01:37:33",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -178,9 +178,9 @@
   },
   {
     "card": "Dreampod Druid",
-    "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-27 05:21:47",
+    "last_updated": "2018-07-12 01:37:33",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -189,9 +189,9 @@
   },
   {
     "card": "Rayne, Academy Chancellor",
-    "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-27 05:21:47",
+    "last_updated": "2018-07-12 01:37:33",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -200,9 +200,9 @@
   },
   {
     "card": "Venomous Vines",
-    "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-27 05:21:47",
+    "last_updated": "2018-07-12 01:37:33",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -211,9 +211,9 @@
   },
   {
     "card": "Winds of Rath",
-    "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-27 05:21:47",
+    "last_updated": "2018-07-12 01:37:33",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -222,9 +222,9 @@
   },
   {
     "card": "Ramses Overdark",
-    "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-27 05:21:47",
+    "last_updated": "2018-07-12 01:37:33",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -233,9 +233,9 @@
   },
   {
     "card": "Krond the Dawn-Clad",
-    "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-06-27 05:21:47",
+    "last_updated": "2018-07-12 01:37:33",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -274,28 +274,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/533"
-  },
-  {
-    "card": "Brainspoil",
-    "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
-    "category": "Disadvantageous",
-    "last_updated": "2018-06-13 09:37:58",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/532"
-  },
-  {
-    "card": "Time Elemental",
-    "description": "Spells and non-static abilities that cares whether or not a permanent is enchanted, will see equipped permanent as enchanted",
-    "category": "Disadvantageous",
-    "last_updated": "2018-06-13 09:37:58",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/532"
   },
   {
     "card": "Holistic Wisdom",
@@ -834,17 +812,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/315",
     "help_wanted": true
-  },
-  {
-    "card": "Clone Legion",
-    "description": "Clone Legion puts multiple excess copies of all creatures from all of the targeted player's zones.",
-    "category": "Advantageous",
-    "last_updated": "2018-07-01 17:37:31",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/314"
   },
   {
     "card": "Buried Alive",
@@ -2034,17 +2001,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/123",
     "help_wanted": true
-  },
-  {
-    "card": "Genju of the Fields",
-    "description": "Genju of the Fields does not cause you to gain life upon dealing damage",
-    "category": "Disadvantageous",
-    "last_updated": "2018-05-31 06:21:12",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/122"
   },
   {
     "card": "Grafdigger's Cage",
