@@ -89,17 +89,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/545"
   },
   {
-    "card": "Smallpox",
-    "description": "Smallpox does not make players sacrifice things",
-    "category": "Disadvantageous",
-    "last_updated": "2018-07-08 01:37:27",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/544"
-  },
-  {
     "card": "Secret Salvage",
     "description": "Secret Salvage does not add the cards found from the library to the revealed zone.",
     "category": "Graphical",
@@ -156,9 +145,9 @@
   },
   {
     "card": "Cut the Earthly Bond",
-    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that care whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-07-12 01:37:33",
+    "last_updated": "2018-07-12 01:42:40",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -167,9 +156,9 @@
   },
   {
     "card": "Feast of Dreams",
-    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that care whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-07-12 01:37:33",
+    "last_updated": "2018-07-12 01:42:40",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -178,9 +167,9 @@
   },
   {
     "card": "Dreampod Druid",
-    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that care whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-07-12 01:37:33",
+    "last_updated": "2018-07-12 01:42:40",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -189,9 +178,9 @@
   },
   {
     "card": "Rayne, Academy Chancellor",
-    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that care whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-07-12 01:37:33",
+    "last_updated": "2018-07-12 01:42:40",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -200,9 +189,9 @@
   },
   {
     "card": "Venomous Vines",
-    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that care whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-07-12 01:37:33",
+    "last_updated": "2018-07-12 01:42:40",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -211,9 +200,9 @@
   },
   {
     "card": "Winds of Rath",
-    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that care whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-07-12 01:37:33",
+    "last_updated": "2018-07-12 01:42:40",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -222,9 +211,9 @@
   },
   {
     "card": "Ramses Overdark",
-    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that care whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-07-12 01:37:33",
+    "last_updated": "2018-07-12 01:42:40",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -233,9 +222,9 @@
   },
   {
     "card": "Krond the Dawn-Clad",
-    "description": "Spells and non-static abilities that cares whether a permanent is enchanted, will see equipped permanent as enchanted",
+    "description": "Spells and non-static abilities that care whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
-    "last_updated": "2018-07-12 01:37:33",
+    "last_updated": "2018-07-12 01:42:40",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -1778,17 +1767,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/191"
-  },
-  {
-    "card": "Settle the Wreckage",
-    "description": "Settle the Wreckage does not give the targeted player the option to not search their library.",
-    "category": "Advantageous",
-    "last_updated": "2018-03-24 02:14:48",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/190"
   },
   {
     "card": "As Foretold",
