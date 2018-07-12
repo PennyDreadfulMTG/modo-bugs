@@ -78,17 +78,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/546"
   },
   {
-    "card": "Crypt Ghast",
-    "description": "Crypt Ghast produces large amount of mana for each swamp tapped",
-    "category": "Advantageous",
-    "last_updated": "2018-07-08 10:37:31",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/545"
-  },
-  {
     "card": "Secret Salvage",
     "description": "Secret Salvage does not add the cards found from the library to the revealed zone.",
     "category": "Graphical",
