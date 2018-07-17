@@ -1,5 +1,38 @@
 [
   {
+    "card": "Card Name",
+    "description": "Casting Delirium Skeins does not cause the controller to discard three cards",
+    "category": "Unconfirmed",
+    "last_updated": "2018-07-17 20:37:35",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/554"
+  },
+  {
+    "card": "Second Card name",
+    "description": "Casting Delirium Skeins does not cause the controller to discard three cards",
+    "category": "Unconfirmed",
+    "last_updated": "2018-07-17 20:37:35",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/554"
+  },
+  {
+    "card": "Evershrike",
+    "description": "If you activate Evershrike's ability multiple times before having it get reanimated, each trigger will let you attach an aura.",
+    "category": "Advantageous",
+    "last_updated": "2018-07-16 09:00:34",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/553"
+  },
+  {
     "card": "Liliana of the Veil",
     "description": "Activating Liliana of the Veil's +1 with only one card in hand will soft-lock the game",
     "category": "Avoidable Game Breaking",
@@ -70,7 +103,7 @@
     "card": "Consuming Vapors",
     "description": "Choosing not to play Consuming Vapors with its Rebound Ability allows you to play it from exile at sorcery speed at any time.",
     "category": "Advantageous",
-    "last_updated": "2018-07-10 21:47:14",
+    "last_updated": "2018-07-13 07:37:49",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -124,10 +157,10 @@
   {
     "card": "Arena",
     "description": "Arena doesn't cause the creatures to fight",
-    "category": "Unconfirmed",
-    "last_updated": "2018-06-27 14:37:34",
+    "category": "Non-Functional ability",
+    "last_updated": "2018-07-17 15:21:53",
     "pd_legal": false,
-    "bug_blog": false,
+    "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/537"
@@ -257,7 +290,7 @@
     "card": "Holistic Wisdom",
     "description": "Holistic Wisdom restarts the game when you activate it",
     "category": "Game Breaking",
-    "last_updated": "2018-05-29 23:02:29",
+    "last_updated": "2018-07-13 08:37:50",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": true,
@@ -290,8 +323,8 @@
   {
     "card": "Brothers Yamazaki",
     "description": "The legend rule continues to not apply if you have multiple Brothers Yamazaki tokens from Helm of the Host.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-21 02:57:24",
+    "category": "Advantageous",
+    "last_updated": "2018-07-15 13:37:27",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -313,7 +346,7 @@
     "card": "Meteor Storm",
     "description": "Meteor Storm only discards one card if you have exactly two",
     "category": "Advantageous",
-    "last_updated": "2018-05-18 05:42:41",
+    "last_updated": "2018-07-13 08:37:51",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -368,7 +401,7 @@
     "card": "Quicksilver Fountain",
     "description": "Quicksilver Fountain allows you to place flood counters on nonland permanents.",
     "category": "Disadvantageous",
-    "last_updated": "2018-05-30 18:47:37",
+    "last_updated": "2018-07-13 08:37:52",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -491,7 +524,7 @@
     "card": "Phyrexian Metamorph",
     "description": "Clones such as Phyrexian Metamorph are not granted haste by Mimic Vat.",
     "category": "Disadvantageous",
-    "last_updated": "2018-05-30 18:55:30",
+    "last_updated": "2018-07-13 08:37:53",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -502,7 +535,7 @@
     "card": "Mimic Vat",
     "description": "Clones such as Phyrexian Metamorph are not granted haste by Mimic Vat.",
     "category": "Disadvantageous",
-    "last_updated": "2018-05-30 18:55:30",
+    "last_updated": "2018-07-13 08:37:53",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -665,7 +698,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/336"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/336",
+    "help_wanted": true
   },
   {
     "card": "Pox",
@@ -699,13 +733,14 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/327"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/327",
+    "help_wanted": true
   },
   {
     "card": "Phyrexian Portal",
     "description": "Phyrexian Portal doesn't let the owner see the pile they have chosen or choose a card",
     "category": "Disadvantageous",
-    "last_updated": "2018-05-30 04:16:30",
+    "last_updated": "2018-07-13 08:37:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -722,7 +757,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/324"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/324",
+    "help_wanted": true
   },
   {
     "card": "Shirei, Shizo's Caretaker",
@@ -733,7 +769,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/324"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/324",
+    "help_wanted": true
   },
   {
     "card": "Zodiac Rooster",
@@ -772,7 +809,7 @@
     "card": "Dream Tides",
     "description": "Dream Tides doesn't require a cost for nongreen creatures chosen to untap.",
     "category": "Advantageous",
-    "last_updated": "2018-04-27 06:37:43",
+    "last_updated": "2018-07-13 08:37:56",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -795,19 +832,18 @@
     "card": "Buried Alive",
     "description": "The order of cards put into the graveyard by Buried Alive is random",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-04 06:55:58",
+    "last_updated": "2018-07-16 02:08:38",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/313",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/313"
   },
   {
     "card": "Rogue Skycaptain",
     "description": "Rogue Skycaptain's upkeep cost is {0}.",
     "category": "Advantageous",
-    "last_updated": "2018-05-30 04:16:56",
+    "last_updated": "2018-07-13 07:37:53",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -896,7 +932,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/305"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/305",
+    "help_wanted": true
   },
   {
     "card": "Glamerdye",
@@ -913,8 +950,8 @@
   {
     "card": "Mire's Toll",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
-    "category": "Graphical",
-    "last_updated": "2018-05-29 18:52:46",
+    "category": "Disadvantageous",
+    "last_updated": "2018-07-13 07:41:45",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -924,8 +961,8 @@
   {
     "card": "Thieving Sprite",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
-    "category": "Graphical",
-    "last_updated": "2018-05-29 18:52:46",
+    "category": "Disadvantageous",
+    "last_updated": "2018-07-13 07:41:45",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -935,8 +972,8 @@
   {
     "card": "Bala Ged Thief",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
-    "category": "Graphical",
-    "last_updated": "2018-05-29 18:52:46",
+    "category": "Disadvantageous",
+    "last_updated": "2018-07-13 07:41:45",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -946,8 +983,8 @@
   {
     "card": "Disciple of Phenax",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
-    "category": "Graphical",
-    "last_updated": "2018-05-29 18:52:46",
+    "category": "Disadvantageous",
+    "last_updated": "2018-07-13 07:41:45",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -957,8 +994,8 @@
   {
     "card": "Distended Mindbender",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
-    "category": "Graphical",
-    "last_updated": "2018-05-29 18:52:46",
+    "category": "Disadvantageous",
+    "last_updated": "2018-07-13 07:41:45",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -1051,7 +1088,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/294"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/294",
+    "help_wanted": true
   },
   {
     "card": "Sindbad",
@@ -1062,7 +1100,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/294"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/294",
+    "help_wanted": true
   },
   {
     "card": "Nazahn, Revered Bladesmith",
@@ -1131,17 +1170,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/285"
-  },
-  {
-    "card": "Midnight Oil",
-    "description": "Casting a second Midnight Oil does not reset your hand size limit",
-    "category": "Disadvantageous",
-    "last_updated": "2018-05-31 06:59:08",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/284"
   },
   {
     "card": "Thran Turbine",
@@ -1235,7 +1263,7 @@
     "card": "Sound the Call",
     "description": "The art for the token created by Sound the Call is incorrect. ",
     "category": "Graphical",
-    "last_updated": "2018-04-27 07:37:54",
+    "last_updated": "2018-07-13 07:37:54",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -1350,7 +1378,7 @@
     "card": "Yisan, the Wanderer Bard",
     "description": "If all of Yisan, the Wanderer Bard's verse counters are removed in response to its ability, you are able to search your library for any creature, regardless of CMC.",
     "category": "Advantageous",
-    "last_updated": "2018-04-27 06:37:47",
+    "last_updated": "2018-07-13 07:37:55",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -1385,7 +1413,7 @@
     "card": "Knowledge Pool",
     "description": "Knowledge Pool With multiple Knowledge Pools in play, casting a spell from hand lets you cast a spell from each Pool.",
     "category": "Advantageous",
-    "last_updated": "2018-04-27 07:37:55",
+    "last_updated": "2018-07-13 07:37:55",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -1396,7 +1424,7 @@
     "card": "Orcish Spy",
     "description": "Orcish Spy and cards with similar abilities show the cards in alphabetical order, not the actual order",
     "category": "Disadvantageous",
-    "last_updated": "2018-05-30 04:37:46",
+    "last_updated": "2018-07-13 07:37:55",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -1418,15 +1446,14 @@
   },
   {
     "card": "Volcano Hellion",
-    "description": "[Volcano Hellion] Damage is capped at 255",
+    "description": "Volcano Hellion's damage is capped at 255",
     "category": "Disadvantageous",
-    "last_updated": "2018-01-02 17:37:55",
+    "last_updated": "2018-07-17 22:37:35",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/247",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/247"
   },
   {
     "card": "Mishra's Workshop",
@@ -1466,21 +1493,20 @@
   },
   {
     "card": "Jodah's Avenger",
-    "description": "[Jodah's Avenger] Activated ability continues activating infinitely.",
-    "category": "Game Breaking",
-    "last_updated": "2018-01-19 08:40:27",
+    "description": "Jodah's Avenger's activated ability doesn't work correctly.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-07-17 22:37:36",
     "pd_legal": true,
     "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/238",
-    "help_wanted": true
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/238"
   },
   {
     "card": "Lurking Evil",
     "description": "Lurking Evil makes you pay life equal to half of your opponent's life total",
     "category": "Advantageous",
-    "last_updated": "2018-06-27 14:37:38",
+    "last_updated": "2018-07-13 07:37:56",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -1513,7 +1539,7 @@
     "card": "Words of Waste",
     "description": "Words of Waste does not function.",
     "category": "Non-Functional ability",
-    "last_updated": "2018-03-24 02:14:39",
+    "last_updated": "2018-07-13 07:37:56",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -1546,7 +1572,7 @@
     "card": "Scythe of the Wretched",
     "description": "While Scythe of the Wretched is unequipped, it reanimates any creature that happens to die.",
     "category": "Advantageous",
-    "last_updated": "2018-04-27 07:37:55",
+    "last_updated": "2018-07-13 07:37:57",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -1656,7 +1682,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/206"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/206",
+    "help_wanted": true
   },
   {
     "card": "Hada Freeblade",
@@ -1750,7 +1777,7 @@
     "card": "Rimescale Dragon",
     "description": "Rimescale Dragon does not place an Ice Counter on targeted creatures.",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-24 02:14:47",
+    "last_updated": "2018-07-13 07:37:58",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -1832,13 +1859,14 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/155"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/155",
+    "help_wanted": true
   },
   {
     "card": "Booby Trap",
     "description": "Booby Trap does not let you name anything other than non-basic lands.",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-27 07:37:58",
+    "last_updated": "2018-07-13 07:37:58",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -1872,7 +1900,7 @@
     "card": "Vizier of Many Faces",
     "description": "Vizier of Many Faces keeps its abilities when an opponent controls Overwhelming Splendor.",
     "category": "Advantageous",
-    "last_updated": "2018-03-24 02:14:55",
+    "last_updated": "2018-07-13 07:37:58",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -1916,13 +1944,12 @@
     "card": "Freyalise's Winds",
     "description": "[Freyalise's Winds] Anytime a permanent with a wind counter would be untapped outside of the untap step,  a wind counter is removed rather than it becoming untapped.",
     "category": "Disadvantageous",
-    "last_updated": "2018-02-03 06:38:06",
+    "last_updated": "2018-07-13 07:37:59",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/135",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/135"
   },
   {
     "card": "Chandra Nalaar",
@@ -1939,7 +1966,7 @@
     "card": "Cursed Scroll",
     "description": "Cursed Scroll does not deal damage if choosing to click the card in your hand, rather than typing the name.",
     "category": "Graphical",
-    "last_updated": "2018-04-27 07:38:00",
+    "last_updated": "2018-07-13 07:38:00",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -2028,7 +2055,7 @@
     "card": "Gideon's Intervention",
     "description": "Casting a second copy of Gideon's Intervention causes the first to become become partially non-functional, allowing the named card to deal damage",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-08 13:25:26",
+    "last_updated": "2018-07-13 07:38:00",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -2044,7 +2071,8 @@
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/70"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/70",
+    "help_wanted": true
   },
   {
     "card": "The Gitrog Monster",
@@ -2056,17 +2084,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/69"
-  },
-  {
-    "card": "Vizier of Many Faces",
-    "description": "When Vizier of Many Faces copies a token creature that was created with embalm, the Vizier will display with no art.",
-    "category": "Graphical",
-    "last_updated": "2018-04-06 10:09:31",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/66"
   },
   {
     "card": "Thornbow Archer",
@@ -2083,7 +2100,7 @@
     "card": "Unscythe, Killer of Kings",
     "description": "Unscythe, Killer of Kings's effect procs when unequipped.",
     "category": "Advantageous",
-    "last_updated": "2018-05-31 06:51:42",
+    "last_updated": "2018-07-13 07:38:01",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -2106,7 +2123,7 @@
     "card": "Spoils of Victory",
     "description": "Spoils of Victory The land comes into play tapped",
     "category": "Disadvantageous",
-    "last_updated": "2018-05-24 03:25:01",
+    "last_updated": "2018-07-13 07:38:01",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -2231,13 +2248,12 @@
     "card": "Living Lore",
     "description": "If [Living Lore] imprints a Split Card, it has twice the expected CMC.",
     "category": "Advantageous",
-    "last_updated": "2018-02-15 02:55:11",
+    "last_updated": "2018-07-13 07:38:02",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/35",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/35"
   },
   {
     "card": "Zur's Weirding",
@@ -2265,7 +2281,7 @@
     "card": "Shifty Doppelganger",
     "description": "Shifty Doppelganger puts an \"ability\" onto the battlefield at end of turn, rather than itself.",
     "category": "Game Breaking",
-    "last_updated": "2018-03-24 03:36:35",
+    "last_updated": "2018-07-13 07:38:02",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
@@ -2287,12 +2303,13 @@
     "card": "Profane Command",
     "description": "Profane Command If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.",
     "category": "Advantageous",
-    "last_updated": "2018-03-23 02:38:50",
+    "last_updated": "2018-07-17 22:37:38",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/20"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/20",
+    "help_wanted": true
   },
   {
     "card": "Odds",
@@ -2348,7 +2365,8 @@
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/11"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/11",
+    "help_wanted": true
   },
   {
     "card": "Karplusan Minotaur",
@@ -2359,7 +2377,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/10"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/10",
+    "help_wanted": true
   },
   {
     "card": "Infinite Reflection",
@@ -2417,7 +2436,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/4"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/4",
+    "help_wanted": true
   },
   {
     "card": "Death-Mask Duplicant",
@@ -2428,7 +2448,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/4"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/4",
+    "help_wanted": true
   },
   {
     "card": "Cairn Wanderer",
@@ -2439,7 +2460,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/4"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/4",
+    "help_wanted": true
   },
   {
     "card": "Cloud Key",
