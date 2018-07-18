@@ -1,21 +1,10 @@
 [
   {
-    "card": "Card Name",
+    "card": "Delirium Skeins",
     "description": "Casting Delirium Skeins does not cause the controller to discard three cards",
     "category": "Unconfirmed",
-    "last_updated": "2018-07-17 20:37:35",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/554"
-  },
-  {
-    "card": "Second Card name",
-    "description": "Casting Delirium Skeins does not cause the controller to discard three cards",
-    "category": "Unconfirmed",
-    "last_updated": "2018-07-17 20:37:35",
-    "pd_legal": false,
+    "last_updated": "2018-07-18 03:37:27",
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
