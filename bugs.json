@@ -1804,7 +1804,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/177"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/177",
+    "help_wanted": true
   },
   {
     "card": "Elesh Norn, Grand Cenobite",
@@ -1927,7 +1928,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/137"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/137",
+    "help_wanted": true
   },
   {
     "card": "Freyalise's Winds",
