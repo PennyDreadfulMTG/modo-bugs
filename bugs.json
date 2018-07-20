@@ -1,5 +1,115 @@
 [
   {
+    "card": "Karn Liberated",
+    "description": "Restarting the game with Karn Liberated does not remove the City's Blessing.",
+    "category": "Unclassified",
+    "last_updated": "2018-07-20 07:01:52",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/575"
+  },
+  {
+    "card": "Brothers Yamazaki",
+    "description": "The legend rule continue to not apply if you have multiple Brothers Yamazaki tokens from Helm of the Host.",
+    "category": "Unclassified",
+    "last_updated": "2018-07-20 07:01:55",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/573"
+  },
+  {
+    "card": "Helm of the Host",
+    "description": "The legend rule continue to not apply if you have multiple Brothers Yamazaki tokens from Helm of the Host.",
+    "category": "Unclassified",
+    "last_updated": "2018-07-20 07:01:55",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/573"
+  },
+  {
+    "card": "Reflector Mage",
+    "description": "The second Reflector Mage played in the same turn will let the first one's target able to be cast.",
+    "category": "Unclassified",
+    "last_updated": "2018-07-20 07:01:57",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/572"
+  },
+  {
+    "card": "Mutiny",
+    "description": "Mutiny doesn't have clear targeting information. Workaround: the game log displays targets matching the order written on the card, and will highlight the appropriate creature when its name is hovered over with the mouse.",
+    "category": "Unclassified",
+    "last_updated": "2018-07-20 07:02:04",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/568"
+  },
+  {
+    "card": "Stabwhisker the Odious",
+    "description": "Kamigawa Flip cards such as Stabwhisker the Odious are displayed as enchantments and do not respect the attack with all function or changes to power and toughness. Workaround: click the creature separately to attack with it, and right click the creature to display its correct power and toughness.",
+    "category": "Unclassified",
+    "last_updated": "2018-07-20 07:02:06",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/567"
+  },
+  {
+    "card": "Amulet of Vigor",
+    "description": "If a player controls two or more Amulet of Vigors, Magic Online will automatically stack all triggers from the Amulets together, rather than allowing players to choose how to stack their triggers.",
+    "category": "Unclassified",
+    "last_updated": "2018-07-20 07:02:11",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/564"
+  },
+  {
+    "card": "Riptide Replicator",
+    "description": "Riptide Replicator's token uses incorrect art.",
+    "category": "Unclassified",
+    "last_updated": "2018-07-20 07:02:12",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/563"
+  },
+  {
+    "card": "Hollow One",
+    "description": "Hollow One doesn't count discarded split cards.",
+    "category": "Unclassified",
+    "last_updated": "2018-07-20 07:02:14",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/562"
+  },
+  {
+    "card": "Riverfall Mimic",
+    "description": "Eventide Mimics such as Riverfall Mimic trigger even when a card of only one of its colors is cast.",
+    "category": "Unclassified",
+    "last_updated": "2018-07-20 07:02:17",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/561"
+  },
+  {
     "card": "Delirium Skeins",
     "description": "Casting Delirium Skeins does not cause the controller to discard three cards",
     "category": "Unconfirmed",
@@ -103,7 +213,7 @@
     "card": "Secret Salvage",
     "description": "Secret Salvage does not add the cards found from the library to the revealed zone.",
     "category": "Graphical",
-    "last_updated": "2018-07-03 01:37:34",
+    "last_updated": "2018-07-20 06:39:50",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -114,7 +224,7 @@
     "card": "Sunforger",
     "description": "The activated ability of Sunforger does not shuffle the library.",
     "category": "Disadvantageous",
-    "last_updated": "2018-07-08 03:37:40",
+    "last_updated": "2018-07-20 06:39:50",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -125,7 +235,7 @@
     "card": "Platinum Emperion",
     "description": "If you control Platinum Emperion you cannot even pay 0 life for costs.",
     "category": "Disadvantageous",
-    "last_updated": "2018-07-03 01:37:36",
+    "last_updated": "2018-07-20 06:39:51",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -147,7 +257,7 @@
     "card": "Arena",
     "description": "Arena doesn't cause the creatures to fight",
     "category": "Non-Functional ability",
-    "last_updated": "2018-07-17 15:21:53",
+    "last_updated": "2018-07-20 06:39:51",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -308,28 +418,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/503"
-  },
-  {
-    "card": "Brothers Yamazaki",
-    "description": "The legend rule continues to not apply if you have multiple Brothers Yamazaki tokens from Helm of the Host.",
-    "category": "Advantageous",
-    "last_updated": "2018-07-15 13:37:27",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/501"
-  },
-  {
-    "card": "Valduk, Keeper of the Flame",
-    "description": "Valduk, Keeper of the Flame does not create an Elemental token\u00a0if it dies while its ability is on the stack.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-05-21 02:57:25",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/495"
   },
   {
     "card": "Meteor Storm",
@@ -1148,17 +1236,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/288",
     "help_wanted": true
-  },
-  {
-    "card": "Mutiny",
-    "description": "Mutiny doesn't have clear targeting information. Workaround: The game log displays targets matching the order written on the card, and will highlight the appropriate creature when its name is hovered over with the mouse.",
-    "category": "Graphical",
-    "last_updated": "2018-03-24 01:58:20",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/285"
   },
   {
     "card": "Thran Turbine",
