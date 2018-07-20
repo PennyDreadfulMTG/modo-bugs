@@ -11,8 +11,8 @@ from github.Issue import Issue
 import configuration
 from helpers import (BBT_REGEX, CODE_REGEX, remove_smartquotes,
                      strip_squarebrackets)
+from repo import create_comment, ISSUE_CODES
 
-ISSUE_CODES = {}
 
 github = Github(configuration.get("github_user"), configuration.get("github_password"))
 repo = github.get_repo("PennyDreadfulMTG/modo-bugs")
@@ -23,10 +23,11 @@ def scrape() -> None:
     articles = [parse_article_item_extended(a) for a in soup.find_all('div', class_='article-item-extended')]
     bug_blogs = [a for a in articles if str(a[0].string).startswith('Magic Online Bug Blog')]
     print('scraping {0} ({1})'.format(bug_blogs[0][0], bug_blogs[0][1]))
-    update_redirect(bug_blogs[0][0].text, bug_blogs[0][1])
-    scrape_bb(bug_blogs[0][1])
+    new = update_redirect(bug_blogs[0][0].text, bug_blogs[0][1])
+    if new:
+        scrape_bb(bug_blogs[0][1])
 
-def update_redirect(title: str, redirect: str) -> None:
+def update_redirect(title: str, redirect: str) -> bool:
     text = "---\ntitle: {title}\nredirect_to:\n - {url}\n---\n".format(title=title, url=redirect)
     bb_jekyl = open('bug_blog.md', mode='r')
     orig = bb_jekyl.read()
@@ -37,6 +38,10 @@ def update_redirect(title: str, redirect: str) -> None:
         bb_jekyl = open('bug_blog.md', mode='w')
         bb_jekyl.write(text)
         bb_jekyl.close()
+        return True
+    if 'always-scrape' in sys.argv:
+        return True
+    return False
 
 def parse_article_item_extended(a: Tag) -> Tuple[Tag, str]:
     title = a.find_all('h3')[0]
@@ -70,12 +75,12 @@ def parse_changelog(collapsibleBlock: Tag) -> None:
             except IndexError:
                 print('No code!')
                 code = None
-            cards = get_cards_from_string(item.get_text())
-
-            if not cards and not code:
-                continue
+            bbt = remove_smartquotes(item.get_text())
+            cards = get_cards_from_string(bbt)
 
             issue = find_issue_by_code(code)
+            if issue is None:
+                issue = find_issue_by_code(bbt)
             if issue is None:
                 issue = find_issue(cards)
             if issue is not None:
@@ -95,21 +100,21 @@ def parse_changelog(collapsibleBlock: Tag) -> None:
                     if code is not None:
                         create_comment(issue, 'Added to Bug Blog.\nBug Blog Text: {0}\nCode: {1}'.format(item.get_text(), code))
                     else:
-                        create_comment(issue, 'Added to Bug Blog.\nBug Blog Text: {0}'.format(remove_smartquotes(item.get_text())))
+                        create_comment(issue, 'Added to Bug Blog.\nBug Blog Text: {0}'.format(bbt))
 
                 if not ("From Bug Blog" in [i.name for i in issue.labels]):
                     print("Adding Bug Blog to labels")
                     issue.add_to_labels("From Bug Blog")
             elif find_issue_by_code(code):
                 print('Already closed.')
-            elif find_issue_by_name(item.get_text()):
+            elif find_issue_by_name(bbt):
                 print('Already exists.')
             else:
                 print('Creating new issue')
-                text = "From Bug Blog.\nAffects: \n<!-- Images -->\nBug Blog Text: {0}".format(remove_smartquotes(item.get_text()))
+                text = "From Bug Blog.\nAffects: \n<!-- Images -->\nBug Blog Text: {0}".format(bbt)
                 if code is not None:
                     text += "\nCode: {0}".format(code)
-                repo.create_issue(remove_smartquotes(item.get_text()), body=remove_smartquotes(text), labels=["From Bug Blog"])
+                repo.create_issue(bbt, body=remove_smartquotes(text), labels=["From Bug Blog"])
 
 def get_cards_from_string(item: str) -> List[str]:
     cards = re.findall(r'\[?\[([^\]]*)\]\]?', item)
@@ -214,10 +219,6 @@ def find_bbt_in_issue_title(issue, known_issues):
             if body != issue.body:
                 issue.edit(body=body)
             return
-
-def create_comment(issue, body):
-    ISSUE_CODES[issue.number] = None
-    return issue.create_comment(remove_smartquotes(body))
 
 def handle_autocards(soup: Tag) -> None:
     for link in soup.find_all('a', class_='autocard-link'):
