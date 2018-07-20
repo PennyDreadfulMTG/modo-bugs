@@ -15,7 +15,7 @@ Barren Glory	Barren Glory does not check intervening if clause during resolution
 Blood Moon	If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.	Advantageous	2018-05-01 15:31:57
 Booby Trap	Booby Trap does not let you name anything other than non-basic lands.	Disadvantageous	2018-07-13 07:37:58
 Borderland Explorer	All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will ends up in Borderland's controller hand, but those lands can't be played or discarded	Advantageous	2018-05-30 04:16:35
-Brothers Yamazaki	The legend rule continue to not apply if you have multiple Brothers Yamazaki tokens from Helm of the Host.	Unclassified	2018-07-20 07:01:55
+Brothers Yamazaki	The legend rule continue to not apply if you have multiple Brothers Yamazaki tokens from Helm of the Host.	Unclassified	2018-07-20 07:01:56
 Buried Alive	The order of cards put into the graveyard by Buried Alive is random	Disadvantageous	2018-07-16 02:08:38
 Cairn Wanderer	Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared	Disadvantageous	2018-03-15 07:42:33
 Caller of the Hunt	Caller of the Hunt doesn't allow you to pick a creature type	Disadvantageous	2018-04-27 02:37:39
@@ -78,10 +78,10 @@ Harness the Storm	[Harness the Storm] Doesn't trigger when casting split cards.	
 Harsh Mentor	Harsh Mentor's triggered ability also affects abilities activated from creatures in the graveyard.	Advantageous	2018-03-24 02:14:41
 Headless Horseman	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Disadvantageous	2018-06-27 14:37:37
 Heir of Falkenrath	If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.	Advantageous	2018-05-01 18:37:49
-Helm of the Host	The legend rule continue to not apply if you have multiple Brothers Yamazaki tokens from Helm of the Host.	Unclassified	2018-07-20 07:01:55
+Helm of the Host	The legend rule continue to not apply if you have multiple Brothers Yamazaki tokens from Helm of the Host.	Unclassified	2018-07-20 07:01:56
 High Seas	[High Seas] only affects red creature spells.	Disadvantageous	2018-03-04 07:39:05
 Holistic Wisdom	Holistic Wisdom restarts the game when you activate it	Game Breaking	2018-07-13 08:37:50
-Hollow One	Hollow One doesn't count discarded split cards.	Unclassified	2018-07-20 07:02:14
+Hollow One	Hollow One doesn't count discarded split cards.	Unclassified	2018-07-20 07:02:15
 Hollow One	Hollow One's cost reduction doesn't consider split cards that are discarded	Disadvantageous	2018-04-18 07:58:30
 Howltooth Hollow	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-05-30 04:14:30
 Hunted Dragon	The tokens created by Hunted Dragon have Banding in addition to first strike	Graphical	2018-07-12 16:37:22
@@ -159,8 +159,7 @@ Ribbons	Split cards such as Cut // Ribbons are reported as 3 cards in the chat l
 Riches	If a commander is chosen for Riches in Rags // Riches, no other opponents need to choose a creature.	Disadvantageous	2018-04-18 04:21:02
 Ricochet Trap	Ricochet Trap restarts the game when cast for its alternate cost.	Avoidable Game Breaking	2018-03-18 03:57:59
 Rimescale Dragon	Rimescale Dragon does not place an Ice Counter on targeted creatures.	Disadvantageous	2018-07-13 07:37:58
-Riptide Replicator	Riptide Replicator tokens use incorrect art and incorrectly display they have the changeling ability.	Graphical	2018-04-27 06:37:54
-Riptide Replicator	Riptide Replicator's token uses incorrect art.	Unclassified	2018-07-20 07:02:12
+Riptide Replicator	Riptide Replicator tokens use incorrect art and incorrectly display they have the changeling ability.	Graphical	2018-07-20 07:38:04
 Riverfall Mimic	Eventide Mimics such as Riverfall Mimic trigger even when a card of only one of its colors is cast.	Unclassified	2018-07-20 07:02:17
 Rogue Skycaptain	Rogue Skycaptain's upkeep cost is {0}.	Advantageous	2018-07-13 07:37:53
 Rooftop Storm	Rooftop Storm does not reduce the cost of commanders	Unconfirmed	2018-06-27 14:37:34
