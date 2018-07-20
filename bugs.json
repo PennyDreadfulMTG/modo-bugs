@@ -2321,7 +2321,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/34"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/34",
+    "help_wanted": true
   },
   {
     "card": "Whims of the Fates",
