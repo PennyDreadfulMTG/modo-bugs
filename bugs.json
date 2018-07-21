@@ -1088,7 +1088,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/299"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/299",
+    "help_wanted": true
   },
   {
     "card": "Withdraw",
@@ -1099,7 +1100,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/298"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/298",
+    "help_wanted": true
   },
   {
     "card": "Overwhelming Splendor",
@@ -2151,7 +2153,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/63"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/63",
+    "help_wanted": true
   },
   {
     "card": "Unscythe, Killer of Kings",
@@ -2276,7 +2279,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/41"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/41",
+    "help_wanted": true
   },
   {
     "card": "Nebuchadnezzar",
@@ -2334,7 +2338,8 @@
     "bug_blog": true,
     "breaking": true,
     "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/32"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/32",
+    "help_wanted": true
   },
   {
     "card": "Shifty Doppelganger",
