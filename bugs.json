@@ -2091,7 +2091,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/74"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/74",
+    "help_wanted": true
   },
   {
     "card": "Storage Matrix",
