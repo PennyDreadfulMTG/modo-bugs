@@ -11,28 +11,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/575"
   },
   {
-    "card": "Brothers Yamazaki",
-    "description": "The legend rule continue to not apply if you have multiple Brothers Yamazaki tokens from Helm of the Host.",
-    "category": "Unclassified",
-    "last_updated": "2018-07-20 07:01:56",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/573"
-  },
-  {
-    "card": "Helm of the Host",
-    "description": "The legend rule continue to not apply if you have multiple Brothers Yamazaki tokens from Helm of the Host.",
-    "category": "Unclassified",
-    "last_updated": "2018-07-20 07:01:56",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/573"
-  },
-  {
     "card": "Reflector Mage",
     "description": "The second Reflector Mage played in the same turn will let the first one's target able to be cast.",
     "category": "Unclassified",
@@ -407,6 +385,17 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/503"
+  },
+  {
+    "card": "Brothers Yamazaki",
+    "description": "The legend rule continues to not apply if you have multiple Brothers Yamazaki tokens from Helm of the Host.",
+    "category": "Advantageous",
+    "last_updated": "2018-07-22 12:41:56",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/501"
   },
   {
     "card": "Meteor Storm",
