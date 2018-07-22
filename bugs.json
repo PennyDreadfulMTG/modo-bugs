@@ -1,5 +1,27 @@
 [
   {
+    "card": "Card Name",
+    "description": "Fact or Fiction chooses an opponent before revealing in multiplayer",
+    "category": "Unconfirmed",
+    "last_updated": "2018-07-22 16:37:56",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/578"
+  },
+  {
+    "card": "Second Card name",
+    "description": "Fact or Fiction chooses an opponent before revealing in multiplayer",
+    "category": "Unconfirmed",
+    "last_updated": "2018-07-22 16:37:56",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/578"
+  },
+  {
     "card": "Karn Liberated",
     "description": "Restarting the game with Karn Liberated does not remove the City's Blessing.",
     "category": "Unclassified",
@@ -1237,7 +1259,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/276"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/276",
+    "help_wanted": true
   },
   {
     "card": "Rosheen Meanderer",
@@ -1579,7 +1602,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/229"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/229",
+    "help_wanted": true
   },
   {
     "card": "Words of Waste",
@@ -1601,7 +1625,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/225"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/225",
+    "help_wanted": true
   },
   {
     "card": "Kess, Dissident Mage",
@@ -1694,7 +1719,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/216"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/216",
+    "help_wanted": true
   },
   {
     "card": "Death Pit Offering",
@@ -1740,7 +1766,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/198"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/198",
+    "help_wanted": true
   },
   {
     "card": "Ever After",
@@ -1811,7 +1838,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/193"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/193",
+    "help_wanted": true
   },
   {
     "card": "Commandeer",
@@ -1822,7 +1850,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/192"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/192",
+    "help_wanted": true
   },
   {
     "card": "Rimescale Dragon",
@@ -1855,7 +1884,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/180"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/180",
+    "help_wanted": true
   },
   {
     "card": "Oriss, Samite Guardian",
@@ -1878,7 +1908,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/176"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/176",
+    "help_wanted": true
   },
   {
     "card": "Prince of Thralls",
@@ -1889,7 +1920,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/160"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/160",
+    "help_wanted": true
   },
   {
     "card": "Torment of Hailfire",
@@ -1900,7 +1932,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/158"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/158",
+    "help_wanted": true
   },
   {
     "card": "Tomorrow, Azami's Familiar",
@@ -1979,7 +2012,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/139"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/139",
+    "help_wanted": true
   },
   {
     "card": "Multani's Presence",
@@ -2058,7 +2092,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/79"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/79",
+    "help_wanted": true
   },
   {
     "card": "Containment Priest",
@@ -2080,7 +2115,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/77"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/77",
+    "help_wanted": true
   },
   {
     "card": "Mirror Match",
@@ -2207,7 +2243,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/52"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/52",
+    "help_wanted": true
   },
   {
     "card": "Riptide Replicator",
