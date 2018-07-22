@@ -1751,7 +1751,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
+    "help_wanted": true
   },
   {
     "card": "Sanguine Sacrament",
@@ -1762,7 +1763,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
+    "help_wanted": true
   },
   {
     "card": "Seasons Past",
@@ -1773,7 +1775,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
+    "help_wanted": true
   },
   {
     "card": "Spell Crumple",
@@ -1784,7 +1787,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
+    "help_wanted": true
   },
   {
     "card": "Gishath, Sun's Avatar",
@@ -1795,7 +1799,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/195"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/195",
+    "help_wanted": true
   },
   {
     "card": "Collected Company",
