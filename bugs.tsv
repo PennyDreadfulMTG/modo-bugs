@@ -3,7 +3,7 @@ Amulet of Vigor	If a player controls two or more Amulet of Vigors, Magic Online 
 Angelic Field Marshal	Angelic Field Marshal still grants a bonus to your commander when an opponent gains control of it.	Advantageous	2018-03-23 03:37:40
 Animation Module	Animation Module does not trigger off of cards with unleash such as Gore-House Chainwalker.	Disadvantageous	2018-05-01 17:42:02
 Archangel Avacyn	Only the front sides of Archangel Avacyn and Garruk, the Veil-Cursed are taken into account for Commander color identity.	Disadvantageous	2018-05-02 01:37:50
-Arena	Arena doesn't cause the creatures to fight	Non-Functional ability	2018-07-24 04:37:31
+Arena	Arena doesn't cause the creatures to fight	Non-Functional ability	2018-07-24 04:37:58
 As Foretold	As Foretold does not apply to cards able to be cast due to Abandoned Sarcophagus.	Disadvantageous	2018-03-24 02:38:07
 Atarka's Command	Atarka's Command's first activated ability doesn't appear in the Effect zone after it resolves.	Unclassified	2018-04-13 13:24:49
 Athreos, God of Passage	Athreos, God of Passage does not associate its triggers with specific creatures.	Graphical	2018-03-24 02:15:01
@@ -150,7 +150,7 @@ Rayne, Academy Chancellor	Spells and non-static abilities that care whether a pe
 Reflecting Pool	Reflecting Pool does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2018-03-22 16:21:05
 Reflector Mage	If a player casts Reflector Mage targeting a creature they own, and then in the following turn their opponent casts Reflector Mage, they are able to immediately recast that creature.	Advantageous	2018-03-24 02:14:38
 Reflector Mage	The second Reflector Mage played in the same turn will let the first one's target able to be cast.	Disadvantageous	2018-06-28 03:37:23
-Reflector Mage	The second Reflector Mage played in the same turn will let the first one's target able to be cast.	Unclassified	2018-07-20 07:01:57
+Reflector Mage	The second Reflector Mage played in the same turn will let the first one's target able to be cast.	Unclassified	2018-07-24 04:46:52
 Reincarnation	Reincarnation Does nothing	Non-Functional ability	2018-04-27 07:38:02
 Retribution of the Ancients	Cards that require a player to remove any number of +1/+1 counters incorrectly do not allow a player to remove any counters.	Disadvantageous	2018-05-25 03:24:22
 Reviving Vapors	Reviving Vapors doesn't cause you to gain life.	Disadvantageous	2018-03-29 04:39:27
