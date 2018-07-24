@@ -2401,13 +2401,12 @@
     "card": "Profane Command",
     "description": "Profane Command If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.",
     "category": "Advantageous",
-    "last_updated": "2018-07-17 22:37:38",
+    "last_updated": "2018-07-24 03:27:08",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/20",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/20"
   },
   {
     "card": "Odds",
