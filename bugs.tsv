@@ -98,7 +98,6 @@ Koth of the Hammer	When controlling the Emblem of Koth of the Hammer, lands do n
 Kozilek's Translator	The mana abilities of Wall of Roots and Kozilek's Translator cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.	Disadvantageous	2018-05-24 03:36:12
 Krond the Dawn-Clad	Spells and non-static abilities that care whether a permanent is enchanted, will see equipped permanent as enchanted	Advantageous	2018-07-12 01:42:40
 Lavamancer's Skill	Lavamancer's Skill the "T: deal 1 damage" ability does not let you choose a target	Disadvantageous	2018-04-27 07:37:53
-Leovold, Emissary of Trest	Leovold, Emissary of Trest incorrectly allows an opponent to choose "Yes" with Sylvan Library, but correctly doesn't allow them to draw extra cards.	Graphical	2018-06-27 14:37:34
 Lich	Lich If you cannot sacrifice enough permanents, the game restarts	Game Breaking	2018-03-18 20:39:30
 Liliana of the Veil	Activating Liliana of the Veil's +1 with only one card in hand will soft-lock the game	Avoidable Game Breaking	2018-07-11 09:37:32
 Liquid Fire	Liquid Fire doesn't let you choose how to deal damage - it all goes to player	Disadvantageous	2018-04-27 07:37:59
@@ -150,7 +149,6 @@ Rayne, Academy Chancellor	Spells and non-static abilities that care whether a pe
 Reflecting Pool	Reflecting Pool does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.	Disadvantageous	2018-03-22 16:21:05
 Reflector Mage	If a player casts Reflector Mage targeting a creature they own, and then in the following turn their opponent casts Reflector Mage, they are able to immediately recast that creature.	Advantageous	2018-03-24 02:14:38
 Reflector Mage	The second Reflector Mage played in the same turn will let the first one's target able to be cast.	Disadvantageous	2018-06-28 03:37:23
-Reflector Mage	The second Reflector Mage played in the same turn will let the first one's target able to be cast.	Unclassified	2018-07-24 04:46:52
 Reincarnation	Reincarnation Does nothing	Non-Functional ability	2018-04-27 07:38:02
 Retribution of the Ancients	Cards that require a player to remove any number of +1/+1 counters incorrectly do not allow a player to remove any counters.	Disadvantageous	2018-05-25 03:24:22
 Reviving Vapors	Reviving Vapors doesn't cause you to gain life.	Disadvantageous	2018-03-29 04:39:27

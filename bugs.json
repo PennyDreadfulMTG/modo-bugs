@@ -33,17 +33,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/575"
   },
   {
-    "card": "Reflector Mage",
-    "description": "The second Reflector Mage played in the same turn will let the first one's target able to be cast.",
-    "category": "Unclassified",
-    "last_updated": "2018-07-24 04:46:52",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/572"
-  },
-  {
     "card": "Mutiny",
     "description": "Mutiny doesn't have clear targeting information. Workaround: the game log displays targets matching the order written on the card, and will highlight the appropriate creature when its name is hovered over with the mouse.",
     "category": "Unclassified",
@@ -374,17 +363,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/530",
     "multiplayer_only": true
-  },
-  {
-    "card": "Leovold, Emissary of Trest",
-    "description": "Leovold, Emissary of Trest incorrectly allows an opponent to choose \"Yes\" with Sylvan Library, but correctly doesn't allow them to draw extra cards.",
-    "category": "Graphical",
-    "last_updated": "2018-06-27 14:37:34",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/503"
   },
   {
     "card": "Brothers Yamazaki",
