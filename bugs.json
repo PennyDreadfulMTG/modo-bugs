@@ -66,17 +66,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/564"
   },
   {
-    "card": "Hollow One",
-    "description": "Hollow One doesn't count discarded split cards.",
-    "category": "Unclassified",
-    "last_updated": "2018-07-20 07:02:15",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/562"
-  },
-  {
     "card": "Riverfall Mimic",
     "description": "Eventide Mimics such as Riverfall Mimic trigger even when a card of only one of its colors is cast.",
     "category": "Unclassified",
