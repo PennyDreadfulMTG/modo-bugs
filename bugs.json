@@ -246,9 +246,9 @@
     "card": "Arena",
     "description": "Arena doesn't cause the creatures to fight",
     "category": "Non-Functional ability",
-    "last_updated": "2018-07-20 06:39:51",
+    "last_updated": "2018-07-24 04:37:31",
     "pd_legal": false,
-    "bug_blog": true,
+    "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/537"
@@ -351,28 +351,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/534"
-  },
-  {
-    "card": "Card Name",
-    "description": "MTGO wrongly handle how Splice onto Arcane abilities works",
-    "category": "Unconfirmed",
-    "last_updated": "2018-06-09 08:38:08",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/533"
-  },
-  {
-    "card": "Second Card name",
-    "description": "MTGO wrongly handle how Splice onto Arcane abilities works",
-    "category": "Unconfirmed",
-    "last_updated": "2018-06-09 08:38:08",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/533"
   },
   {
     "card": "Holistic Wisdom",
@@ -534,7 +512,7 @@
     "card": "Teferi's Realm",
     "description": "Teferi\u2019s Realm forces you to phase everything out",
     "category": "Unconfirmed",
-    "last_updated": "2018-05-02 02:37:59",
+    "last_updated": "2018-07-24 04:36:29",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -782,7 +760,7 @@
     "card": "Pox",
     "description": "The calculation code seems to be wrong, because one third of three (3) is calculated as two (2)",
     "category": "Unconfirmed",
-    "last_updated": "2018-03-16 04:41:06",
+    "last_updated": "2018-07-24 04:36:39",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,

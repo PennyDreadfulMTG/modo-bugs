@@ -3,7 +3,7 @@ Amulet of Vigor	If a player controls two or more Amulet of Vigors, Magic Online 
 Angelic Field Marshal	Angelic Field Marshal still grants a bonus to your commander when an opponent gains control of it.	Advantageous	2018-03-23 03:37:40
 Animation Module	Animation Module does not trigger off of cards with unleash such as Gore-House Chainwalker.	Disadvantageous	2018-05-01 17:42:02
 Archangel Avacyn	Only the front sides of Archangel Avacyn and Garruk, the Veil-Cursed are taken into account for Commander color identity.	Disadvantageous	2018-05-02 01:37:50
-Arena	Arena doesn't cause the creatures to fight	Non-Functional ability	2018-07-20 06:39:51
+Arena	Arena doesn't cause the creatures to fight	Non-Functional ability	2018-07-24 04:37:31
 As Foretold	As Foretold does not apply to cards able to be cast due to Abandoned Sarcophagus.	Disadvantageous	2018-03-24 02:38:07
 Atarka's Command	Atarka's Command's first activated ability doesn't appear in the Effect zone after it resolves.	Unclassified	2018-04-13 13:24:49
 Athreos, God of Passage	Athreos, God of Passage does not associate its triggers with specific creatures.	Graphical	2018-03-24 02:15:01
@@ -20,7 +20,6 @@ Buried Alive	The order of cards put into the graveyard by Buried Alive is random
 Cairn Wanderer	Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared	Disadvantageous	2018-03-15 07:42:33
 Caller of the Hunt	Caller of the Hunt doesn't allow you to pick a creature type	Disadvantageous	2018-04-27 02:37:39
 Card Name	Fact or Fiction chooses an opponent before revealing in multiplayer	Unconfirmed	2018-07-22 16:37:56
-Card Name	MTGO wrongly handle how Splice onto Arcane abilities works	Unconfirmed	2018-06-09 08:38:08
 Chandra Nalaar	Chandra Nalaar Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.	Disadvantageous	2018-04-27 06:37:52
 Circle of Flame	Cards that are only common in PRM version can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards	Disadvantageous	2018-06-27 14:37:37
 Cloud Key	Players are unable to correctly select a card type	Non-Functional ability	2018-05-31 06:21:48
@@ -138,7 +137,7 @@ Phyrexian Metamorph	Clones such as Phyrexian Metamorph are not granted haste by 
 Phyrexian Portal	Phyrexian Portal doesn't let the owner see the pile they have chosen or choose a card	Disadvantageous	2018-07-13 08:37:55
 Phyrexian Revoker	If a card such as Phyrexian Revoker that asks you to name a card is manifested, you are asked to name the card as it enters the battlefield.	Unclassified	2018-04-18 07:35:31
 Platinum Emperion	If you control Platinum Emperion you cannot even pay 0 life for costs.	Disadvantageous	2018-07-20 06:39:51
-Pox	The calculation code seems to be wrong, because one third of three (3) is calculated as two (2)	Unconfirmed	2018-03-16 04:41:06
+Pox	The calculation code seems to be wrong, because one third of three (3) is calculated as two (2)	Unconfirmed	2018-07-24 04:36:39
 Primal Wellspring	If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.	Disadvantageous	2018-05-30 04:17:01
 Primitive Justice	[Primitive Justice] will either not cast/restart the game with a single target.	Game Breaking	2018-01-19 09:47:04
 Prince of Thralls	Prince of Thralls asks its owner to pay life instead of the opponent.	Advantageous	2018-03-24 02:37:46
@@ -171,7 +170,6 @@ Sanguine Sacrament	There are known issues with giving flashback to a spell that 
 Scythe of the Wretched	While Scythe of the Wretched is unequipped, it reanimates any creature that happens to die.	Advantageous	2018-07-13 07:37:57
 Seasons Past	There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.	Unclassified	2018-03-24 00:34:39
 Second Card name	Fact or Fiction chooses an opponent before revealing in multiplayer	Unconfirmed	2018-07-22 16:37:56
-Second Card name	MTGO wrongly handle how Splice onto Arcane abilities works	Unconfirmed	2018-06-09 08:38:08
 Secret Salvage	Secret Salvage does not add the cards found from the library to the revealed zone.	Graphical	2018-07-20 06:39:50
 Semblance Anvil	[Semblance Anvil] imprinting a split card does not reduce any casting costs. 	Disadvantageous	2018-02-03 06:09:02
 Shelldock Isle	Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.	Disadvantageous	2018-05-30 04:14:30
@@ -196,7 +194,7 @@ Sword-Point Diplomacy	Sword-Point Diplomacy is buggy in multiplayer	Advantageous
 Sylvan Primordial	Casting Sylvan Primordial causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.	Game Breaking	2018-05-30 04:16:17
 Synthetic Destiny	Synthetic Destiny and Mass Polymorph do not take commanders into account when determining the number of creatures to reveal.	Disadvantageous	2018-04-10 06:31:21
 Taigam's Scheming	Some spells that let you look at the top cards of your library and choose multiple cards one-by-one to send to the graveyard will incorrectly display the visual order of the chosen cards in the graveyard.	Graphical	2018-02-13 20:10:02
-Teferi's Realm	Teferi's Realm forces you to phase everything out	Unconfirmed	2018-05-02 02:37:59
+Teferi's Realm	Teferi's Realm forces you to phase everything out	Unconfirmed	2018-07-24 04:36:29
 Terastodon	If some (not all) of Terastodon's targets are indestructible permanent(s), it will incorrectly create elephant token(s) for the owner of those permanents.	Advantageous	2018-03-28 23:38:17
 The Gitrog Monster	Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of The Gitrog Monster when put into the graveyard 	Disadvantageous	2018-03-26 01:15:08
 The Scarab God	The Scarab God and God-Pharaoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.	Unclassified	2018-03-26 01:15:00
