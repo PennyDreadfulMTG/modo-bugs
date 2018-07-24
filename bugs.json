@@ -1294,7 +1294,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/269"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/269",
+    "help_wanted": true
   },
   {
     "card": "God-Pharaoh's Gift",
@@ -1305,7 +1306,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/269"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/269",
+    "help_wanted": true
   },
   {
     "card": "Sound the Call",
@@ -2153,7 +2155,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/69"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/69",
+    "help_wanted": true
   },
   {
     "card": "Thornbow Archer",
