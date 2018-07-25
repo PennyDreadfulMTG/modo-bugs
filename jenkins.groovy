@@ -5,10 +5,9 @@ node('linux') {
     }
 
     stage('setup') {
-        sh 'python3 -m pip install --user pipenv'
-        sh 'pipenv install'
+        sh 'python3 -m pip install --user -r requirements.txt'
         withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
-            sh 'pipenv run python run.py modo_bugs init'
+            sh 'python3 run.py modo_bugs init'
             dir('modo_bugs_repo') {
                 sh 'git config user.email "jenkins@katelyngigante.com"'
                 sh 'git config user.name "Vorpal Buildbot"'
@@ -19,17 +18,17 @@ node('linux') {
     }
     stage('Scrape') {
         withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
-            sh returnStatus: true, script: 'pipenv run python run.py modo_bugs scrape'
+            sh returnStatus: true, script: 'python3 run.py modo_bugs scrape'
         }
     }
     stage('Update'){
         withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
-            sh 'pipenv run python run.py modo_bugs update'
+            sh 'python3 run.py modo_bugs update'
         }
     }
     stage('Verification') {
         withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
-            sh returnStatus: true, script: 'pipenv run python run.py modo_bugs verify'
+            sh returnStatus: true, script: 'python3 run.py modo_bugs verify'
         }
     }
     stage('Push changes'){
