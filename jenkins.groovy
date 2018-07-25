@@ -1,41 +1,47 @@
 // This is the hourly cron script that Jenkins will execute.
 node('linux') {
     stage('checkout'){
-        checkout([$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: '61235359-4c9e-4d64-b63a-7717e51f3069', url: 'https://github.com/PennyDreadfulMTG/modo-bugs.git']]])
+        checkout([$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: '61235359-4c9e-4d64-b63a-7717e51f3069', url: 'https://github.com/PennyDreadfulMTG/Penny-Dreadful-Tools.git']]])
     }
+
     stage('setup') {
-        withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
-        sh 'git config user.email "jenkins@katelyngigante.com"'
-        sh 'git config user.name "Vorpal Buildbot"'
-        sh 'git checkout master'
-        sh 'git pull'
         sh 'python3 -m pip install --user pipenv'
         sh 'pipenv install'
+        withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
+            sh 'pipenv run python run.py modo_bugs init'
+            dir('modo_bugs_repo') {
+                sh 'git config user.email "jenkins@katelyngigante.com"'
+                sh 'git config user.name "Vorpal Buildbot"'
+                sh 'git checkout master'
+                sh 'git pull'
+            }
         }
     }
     stage('Scrape') {
         withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
-            sh returnStatus: true, script: 'pipenv run python scrape_bugblog.py'
+            sh returnStatus: true, script: 'pipenv run python run.py modo_bugs scrape'
         }
     }
     stage('Update'){
         withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
-            sh 'pipenv run python update.py'
+            sh 'pipenv run python run.py modo_bugs update'
         }
     }
     stage('Verification') {
         withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
-            sh returnStatus: true, script: 'pipenv run python verification.py'
+            sh returnStatus: true, script: 'pipenv run python run.py modo_bugs verify'
         }
     }
     stage('Push changes'){
-        def updated = sh returnStatus: true, script: 'git diff --exit-code'
-        if (updated){
-            sh 'git commit -a -m "Updated Bug List from Issues"'
-            sh 'git pull'
-        }
-        withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
-            sh 'git push https://$github_user:$github_password@github.com/PennyDreadfulMTG/modo-bugs.git'
+        dir('modo_bugs_repo') {
+            def updated = sh returnStatus: true, script: 'git diff --exit-code'
+            if (updated){
+                sh 'git commit -a -m "Updated Bug List from Issues"'
+                sh 'git pull'
+            }
+            withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
+                sh 'git push https://$github_user:$github_password@github.com/PennyDreadfulMTG/modo-bugs.git'
+            }
         }
     }
 }
