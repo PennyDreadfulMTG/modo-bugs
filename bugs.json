@@ -66,17 +66,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/564"
   },
   {
-    "card": "Riverfall Mimic",
-    "description": "Eventide Mimics such as Riverfall Mimic trigger even when a card of only one of its colors is cast.",
-    "category": "Unclassified",
-    "last_updated": "2018-07-20 07:02:17",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/561"
-  },
-  {
     "card": "Delirium Skeins",
     "description": "Casting Delirium Skeins does not cause the controller to discard three cards",
     "category": "Unconfirmed",
