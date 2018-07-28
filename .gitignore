@@ -5,3 +5,4 @@ config.json
 /.mypy_cache/
 /monkeytype.sqlite3
 /.pytest_cache/
+.web_cache/

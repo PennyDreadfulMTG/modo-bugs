@@ -17,7 +17,7 @@ node('linux') {
         }
     }
     stage('Scrape') {
-        withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user')]) {
+        withCredentials([usernamePassword(credentialsId: 'd61f34a1-4929-406d-b4c5-ec380d823780', passwordVariable: 'github_password', usernameVariable: 'github_user'), usernamePassword(credentialsId: 'modo_bugs_webhook_id_and_token', passwordVariable: 'bugs_webhook_token', usernameVariable: 'bugs_webhook_id')]) {
             sh returnStatus: true, script: 'python3 run.py modo_bugs scrape'
         }
     }
