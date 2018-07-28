@@ -199,28 +199,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/539"
   },
   {
-    "card": "Rooftop Storm",
-    "description": "Rooftop Storm does not reduce the cost of commanders",
-    "category": "Unconfirmed",
-    "last_updated": "2018-06-27 14:37:34",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/538"
-  },
-  {
-    "card": "Arena",
-    "description": "Arena doesn't cause the creatures to fight",
-    "category": "Non-Functional ability",
-    "last_updated": "2018-07-24 04:37:58",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/537"
-  },
-  {
     "card": "Cut the Earthly Bond",
     "description": "Spells and non-static abilities that care whether a permanent is enchanted, will see equipped permanent as enchanted",
     "category": "Advantageous",
