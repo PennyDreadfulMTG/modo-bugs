@@ -521,28 +521,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/446"
   },
   {
-    "card": "Phyrexian Metamorph",
-    "description": "Clones such as Phyrexian Metamorph are not granted haste by Mimic Vat.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-07-13 08:37:53",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/445"
-  },
-  {
-    "card": "Mimic Vat",
-    "description": "Clones such as Phyrexian Metamorph are not granted haste by Mimic Vat.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-07-13 08:37:53",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/445"
-  },
-  {
     "card": "Cut",
     "description": "Split cards such as Cut // Ribbons are reported as 3 cards in the chat log.",
     "category": "Unclassified",
