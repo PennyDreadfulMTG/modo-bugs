@@ -1947,17 +1947,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/135"
   },
   {
-    "card": "Chandra Nalaar",
-    "description": "Chandra Nalaar Ultimate ability (Chandra's -8) does not count as damage from a planeswalker.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-04-27 06:37:52",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/132"
-  },
-  {
     "card": "Cursed Scroll",
     "description": "Cursed Scroll does not deal damage if choosing to click the card in your hand, rather than typing the name.",
     "category": "Graphical",
