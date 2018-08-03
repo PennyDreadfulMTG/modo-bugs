@@ -1047,7 +1047,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/295"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/295",
+    "help_wanted": true
   },
   {
     "card": "Crystal Spray",
@@ -1058,7 +1059,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/295"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/295",
+    "help_wanted": true
   },
   {
     "card": "Fa'adiyah Seer",
