@@ -2,8 +2,8 @@
   {
     "card": "Collected Company",
     "description": "If metallic mimic and a creature of the chosen type enter the battlefield through collected company, the system will incorrectly give that creature a +1/+1 counter",
-    "category": "Unconfirmed",
-    "last_updated": "2018-08-05 11:37:33",
+    "category": "Advantageous",
+    "last_updated": "2018-08-05 11:48:51",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
