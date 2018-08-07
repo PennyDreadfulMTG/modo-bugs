@@ -2015,7 +2015,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/78"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/78",
+    "help_wanted": true
   },
   {
     "card": "Koth of the Hammer",
