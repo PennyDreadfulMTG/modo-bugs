@@ -2190,7 +2190,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/45"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/45",
+    "help_wanted": true
   },
   {
     "card": "Mass Polymorph",
@@ -2201,7 +2202,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/45"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/45",
+    "help_wanted": true
   },
   {
     "card": "Reflecting Pool",
