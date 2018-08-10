@@ -1,5 +1,27 @@
 [
   {
+    "card": "Bonds of Mortality",
+    "description": "Bonds of Mortality gives everything hexproof?",
+    "category": "Unconfirmed",
+    "last_updated": "2018-08-10 01:37:27",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/587"
+  },
+  {
+    "card": "Umbra Mystic",
+    "description": "Umbra Mystic possible bug (or Totem Armor in general)",
+    "category": "Unconfirmed",
+    "last_updated": "2018-08-10 01:37:28",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/586"
+  },
+  {
     "card": "Collected Company",
     "description": "If metallic mimic and a creature of the chosen type enter the battlefield through collected company, the system will incorrectly give that creature a +1/+1 counter",
     "category": "Advantageous",
