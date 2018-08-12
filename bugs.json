@@ -617,7 +617,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
+    "help_wanted": true
   },
   {
     "card": "Retribution of the Ancients",
