@@ -2018,7 +2018,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/125"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/125",
+    "help_wanted": true
   },
   {
     "card": "Structural Collapse",
