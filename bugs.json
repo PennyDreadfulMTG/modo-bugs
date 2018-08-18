@@ -1076,17 +1076,6 @@
     "help_wanted": true
   },
   {
-    "card": "Sin Prodder",
-    "description": "Sin Prodder's upkeep trigger damage isn't associated with Sin Prodder.",
-    "category": "Advantageous",
-    "last_updated": "2018-05-21 02:57:36",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/296"
-  },
-  {
     "card": "Mind Bend",
     "description": "Cards that ask you to choose \"a basic land type or a color word\" only let you choose a basic land type.",
     "category": "Disadvantageous",
