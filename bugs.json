@@ -44,22 +44,11 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/583"
   },
   {
-    "card": "Card Name",
+    "card": "Fact or Fiction",
     "description": "Fact or Fiction chooses an opponent before revealing in multiplayer",
     "category": "Unconfirmed",
-    "last_updated": "2018-07-22 16:37:56",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/578"
-  },
-  {
-    "card": "Second Card name",
-    "description": "Fact or Fiction chooses an opponent before revealing in multiplayer",
-    "category": "Unconfirmed",
-    "last_updated": "2018-07-22 16:37:56",
-    "pd_legal": false,
+    "last_updated": "2018-08-19 13:37:31",
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
