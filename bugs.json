@@ -3,7 +3,7 @@
     "card": "Tooth and Nail",
     "description": "Tooth and Nail can sometimes incorrectly allow the opponent to put creatures onto the battlefield.",
     "category": "Disadvantageous",
-    "last_updated": "2018-08-25 15:08:24",
+    "last_updated": "2018-08-25 15:37:32",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -13,8 +13,8 @@
   {
     "card": "Vaevictis Asmadi, the Dire",
     "description": "The triggered ability of Vaevictis Asmadi, the Dire can sometimes completely remove cards from the game.",
-    "category": "Unclassified",
-    "last_updated": "2018-08-25 07:37:52",
+    "category": "Disadvantageous",
+    "last_updated": "2018-08-25 16:02:06",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -66,6 +66,28 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/586"
   },
   {
+    "card": "Commit // Memory",
+    "description": "If you cast Commit // Memory targeting another Commit // Memory, a rare issue may occur that causes it to not be placed correctly within the library.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-08-25 16:04:50",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/585"
+  },
+  {
+    "card": "Commit // Memory",
+    "description": "If you cast Commit // Memory targeting another Commit // Memory, a rare issue may occur that causes it to not be placed correctly within the library.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-08-25 16:04:50",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/585"
+  },
+  {
     "card": "Collected Company",
     "description": "If metallic mimic and a creature of the chosen type enter the battlefield through collected company, the system will incorrectly give that creature a +1/+1 counter",
     "category": "Advantageous",
@@ -75,6 +97,17 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/583"
+  },
+  {
+    "card": "Liu Bei, Lord of Shu",
+    "description": "The ability of Liu Bei, Lord of Shu does not function.",
+    "category": "Non-Functional ability",
+    "last_updated": "2018-08-25 16:04:12",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/582"
   },
   {
     "card": "Fact or Fiction",
@@ -111,9 +144,9 @@
   },
   {
     "card": "Stabwhisker the Odious",
-    "description": "Kamigawa Flip cards such as Stabwhisker the Odious are displayed as enchantments and do not respect the attack with all function or changes to power and toughness. Workaround: click the creature separately to attack with it, and right click the creature to display its correct power and toughness.",
+    "description": "Kamigawa Flip cards are displayed as enchantments and do not respect the attack with all function or changes to power and toughness.",
     "category": "Unclassified",
-    "last_updated": "2018-07-20 07:02:06",
+    "last_updated": "2018-08-25 16:20:15",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -520,7 +553,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/468"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/468",
+    "help_wanted": true
   },
   {
     "card": "Teferi's Realm",
