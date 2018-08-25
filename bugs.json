@@ -843,7 +843,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/334"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/334",
+    "help_wanted": true
   },
   {
     "card": "Concerted Effort",
@@ -1625,7 +1626,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/230"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/230",
+    "help_wanted": true
   },
   {
     "card": "Reflector Mage",
@@ -1692,7 +1694,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/220"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/220",
+    "help_wanted": true
   },
   {
     "card": "Sylvan Primordial",
@@ -2160,7 +2163,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/73"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/73",
+    "help_wanted": true
   },
   {
     "card": "Gideon's Intervention",
