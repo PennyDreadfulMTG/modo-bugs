@@ -173,7 +173,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/550"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/550",
+    "cade_bug": true
   },
   {
     "card": "Gisela, the Broken Blade",
@@ -184,7 +185,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/550"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/550",
+    "cade_bug": true
   },
   {
     "card": "Hanweir Battlements",
@@ -195,7 +197,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/550"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/550",
+    "cade_bug": true
   },
   {
     "card": "Hunted Dragon",
@@ -627,7 +630,7 @@
     "card": "Archangel Avacyn",
     "description": "Only the front sides of Archangel Avacyn and Garruk, the Veil-Cursed are taken into account for Commander color identity.",
     "category": "Disadvantageous",
-    "last_updated": "2018-05-02 01:37:50",
+    "last_updated": "2018-08-25 08:35:07",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -638,12 +641,45 @@
     "card": "Garruk, the Veil-Cursed",
     "description": "Only the front sides of Archangel Avacyn and Garruk, the Veil-Cursed are taken into account for Commander color identity.",
     "category": "Disadvantageous",
-    "last_updated": "2018-05-02 01:37:50",
+    "last_updated": "2018-08-25 08:35:07",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/431"
+  },
+  {
+    "card": "Oath of Nissa",
+    "description": "If a player makes a selection, then reverses that selection with the \"undo\" keyboard shortcut (default: CTRL+Z), the game log will sometimes incorrectly show both cards the player selected. Notably, this includes Oath of Nissa and similar effects that ask a player to put one of a small number of cards into their hand.",
+    "category": "Unclassified",
+    "last_updated": "2018-08-25 08:35:07",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/430"
+  },
+  {
+    "card": "Cavern of Souls",
+    "description": "When casting a spell, if there is any mana already in the player's pool, the most recently produced colored mana is automatically applied to the spell first. For example, if a player taps a Cavern of Souls (naming Human), then an Island, then casts Delver of Secrets, the blue mana applied to the Delver's mana cost will be that from the Island. If the player tapped the Island, then the Cavern, the Cavern's mana would be applied to the spell, and it would be appropriately uncounterable.",
+    "category": "Unclassified",
+    "last_updated": "2018-08-25 08:35:09",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/428"
+  },
+  {
+    "card": "Delver of Secrets",
+    "description": "When casting a spell, if there is any mana already in the player's pool, the most recently produced colored mana is automatically applied to the spell first. For example, if a player taps a Cavern of Souls (naming Human), then an Island, then casts Delver of Secrets, the blue mana applied to the Delver's mana cost will be that from the Island. If the player tapped the Island, then the Cavern, the Cavern's mana would be applied to the spell, and it would be appropriately uncounterable.",
+    "category": "Unclassified",
+    "last_updated": "2018-08-25 08:35:09",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/428"
   },
   {
     "card": "Atarka's Command",
@@ -680,6 +716,17 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/406",
     "help_wanted": true
+  },
+  {
+    "card": "Nahiri's Wrath",
+    "description": "The prompt box for the additional cost of Nahiri's Wrath contains a grammatical error when selecting a single target.",
+    "category": "Unclassified",
+    "last_updated": "2018-08-25 08:35:12",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/390"
   },
   {
     "card": "Mana Reflection",
@@ -832,7 +879,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/322"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/322",
+    "cade_bug": true
   },
   {
     "card": "Circle of Flame",
@@ -843,7 +891,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/322"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/322",
+    "cade_bug": true
   },
   {
     "card": "Headless Horseman",
@@ -854,7 +903,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/322"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/322",
+    "cade_bug": true
   },
   {
     "card": "Dream Tides",
@@ -1558,19 +1608,18 @@
     "card": "Reflector Mage",
     "description": "If a player casts Reflector Mage targeting a creature they own, and then in the following turn their opponent casts Reflector Mage, they are able to immediately recast that creature.",
     "category": "Advantageous",
-    "last_updated": "2018-03-24 02:14:38",
+    "last_updated": "2018-08-25 08:35:16",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/229",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/229"
   },
   {
     "card": "Words of Waste",
     "description": "Words of Waste does not function.",
     "category": "Non-Functional ability",
-    "last_updated": "2018-07-13 07:37:56",
+    "last_updated": "2018-08-25 08:35:17",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -1734,49 +1783,45 @@
     "card": "Ever After",
     "description": "There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.",
     "category": "Unclassified",
-    "last_updated": "2018-03-24 00:34:39",
+    "last_updated": "2018-08-25 08:35:18",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
   },
   {
     "card": "Sanguine Sacrament",
     "description": "There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.",
     "category": "Unclassified",
-    "last_updated": "2018-03-24 00:34:39",
+    "last_updated": "2018-08-25 08:35:18",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
   },
   {
     "card": "Seasons Past",
     "description": "There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.",
     "category": "Unclassified",
-    "last_updated": "2018-03-24 00:34:39",
+    "last_updated": "2018-08-25 08:35:18",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
   },
   {
     "card": "Spell Crumple",
     "description": "There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.",
     "category": "Unclassified",
-    "last_updated": "2018-03-24 00:34:39",
+    "last_updated": "2018-08-25 08:35:18",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196"
   },
   {
     "card": "Gishath, Sun's Avatar",
@@ -1829,13 +1874,12 @@
     "card": "As Foretold",
     "description": "As Foretold does not apply to cards able to be cast due to Abandoned Sarcophagus.",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-24 02:38:07",
+    "last_updated": "2018-08-25 08:35:19",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/181",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/181"
   },
   {
     "card": "Goblin Game",
