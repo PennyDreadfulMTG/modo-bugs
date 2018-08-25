@@ -1254,7 +1254,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/289"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/289",
+    "help_wanted": true
   },
   {
     "card": "Sages of the Anima",
@@ -1277,7 +1278,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/279"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/279",
+    "help_wanted": true
   },
   {
     "card": "Entreat the Angels",
@@ -1767,7 +1769,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/213"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/213",
+    "help_wanted": true
   },
   {
     "card": "Icefall Regent",
@@ -2011,7 +2014,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/148"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/148",
+    "help_wanted": true
   },
   {
     "card": "Vizier of Many Faces",
@@ -2409,7 +2413,8 @@
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/24"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/24",
+    "help_wanted": true
   },
   {
     "card": "Profane Command",
