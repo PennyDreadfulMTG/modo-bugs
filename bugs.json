@@ -124,12 +124,13 @@
     "card": "Fact or Fiction",
     "description": "Fact or Fiction chooses an opponent before revealing in multiplayer",
     "category": "Unconfirmed",
-    "last_updated": "2018-08-19 13:37:32",
+    "last_updated": "2018-08-28 00:01:50",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/578"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/578",
+    "multiplayer_only": true
   },
   {
     "card": "Karn Liberated",
