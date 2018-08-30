@@ -1508,37 +1508,34 @@
     "card": "Borderland Explorer",
     "description": "All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will be put into the hand of the last person to search, but those lands can't be played or discarded",
     "category": "Advantageous",
-    "last_updated": "2018-08-30 02:10:46",
+    "last_updated": "2018-08-30 02:41:03",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255"
   },
   {
     "card": "Noble Benefactor",
     "description": "All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will be put into the hand of the last person to search, but those lands can't be played or discarded",
     "category": "Advantageous",
-    "last_updated": "2018-08-30 02:10:46",
+    "last_updated": "2018-08-30 02:41:03",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255"
   },
   {
     "card": "Weird Harvest",
     "description": "All lands fetched using Borderland Explorer's ETB ability, regardless of who owns it, will be put into the hand of the last person to search, but those lands can't be played or discarded",
     "category": "Advantageous",
-    "last_updated": "2018-08-30 02:10:46",
+    "last_updated": "2018-08-30 02:41:03",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255"
   },
   {
     "card": "Knowledge Pool",
