@@ -1327,7 +1327,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/272"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/272",
+    "help_wanted": true
   },
   {
     "card": "Blood Moon",
@@ -1338,7 +1339,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/272"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/272",
+    "help_wanted": true
   },
   {
     "card": "Spreading Seas",
@@ -1349,7 +1351,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/272"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/272",
+    "help_wanted": true
   },
   {
     "card": "The Scarab God",
