@@ -503,8 +503,8 @@
   {
     "card": "Rancor",
     "description": "If Rancor falls off a land that was a creature temporarily that turn, it will incorrectly trigger during the next turn's upkeep.",
-    "category": "Unclassified",
-    "last_updated": "2018-05-06 14:50:46",
+    "category": "Advantageous",
+    "last_updated": "2018-09-01 01:21:30",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
