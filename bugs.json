@@ -2434,13 +2434,12 @@
     "card": "Whims of the Fates",
     "description": "Whims of the Fates Causes client crashes",
     "category": "Game Breaking",
-    "last_updated": "2018-03-23 02:38:49",
+    "last_updated": "2018-09-01 02:38:09",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": true,
     "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/32",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/32"
   },
   {
     "card": "Shifty Doppelganger",
