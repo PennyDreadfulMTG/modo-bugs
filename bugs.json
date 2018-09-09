@@ -338,7 +338,7 @@
     "card": "Arena",
     "description": "Arena doesn't cause the creatures to fight",
     "category": "Non-Functional ability",
-    "last_updated": "2018-07-24 04:37:58",
+    "last_updated": "2018-09-09 04:41:28",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
