@@ -1,5 +1,16 @@
 [
   {
+    "card": "Sphinx's Tutelage",
+    "description": "Sphinx's Tutelage causes the game to restart.",
+    "category": "Game Breaking",
+    "last_updated": "2018-09-10 01:57:11",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/596"
+  },
+  {
     "card": "Convincing Mirage",
     "description": "Cards that target a land and ask you to choose a basic land type to change it to default to Swamp, regardless of choice.",
     "category": "Disadvantageous",
@@ -146,7 +157,7 @@
     "card": "Fact or Fiction",
     "description": "Fact or Fiction chooses an opponent before revealing in multiplayer",
     "category": "Disadvantageous",
-    "last_updated": "2018-09-10 01:33:13",
+    "last_updated": "2018-09-10 01:37:52",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
