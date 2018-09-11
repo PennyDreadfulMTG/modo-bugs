@@ -2643,7 +2643,7 @@
     "card": "Cloud Key",
     "description": "Players are unable to correctly select a card type",
     "category": "Non-Functional ability",
-    "last_updated": "2018-05-31 06:21:48",
+    "last_updated": "2018-09-11 05:38:33",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
