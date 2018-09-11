@@ -1753,13 +1753,12 @@
     "card": "Vesuvan Shapeshifter",
     "description": "If Vesuvan Shapeshifter copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.",
     "category": "Advantageous",
-    "last_updated": "2018-04-27 06:37:48",
+    "last_updated": "2018-09-11 04:37:38",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/220",
-    "help_wanted": true
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/220"
   },
   {
     "card": "Sylvan Primordial",
