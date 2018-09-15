@@ -576,7 +576,8 @@
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/478"
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/478",
+    "help_wanted": true
   },
   {
     "card": "Sword-Point Diplomacy",
