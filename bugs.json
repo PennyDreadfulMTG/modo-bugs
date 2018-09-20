@@ -2633,7 +2633,7 @@
     "card": "Living Lore",
     "description": "If Living Lore imprints a Split Card, it has twice the expected CMC.",
     "category": "Advantageous",
-    "last_updated": "2018-09-20 07:38:25",
+    "last_updated": "2018-09-20 10:01:23",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -2769,13 +2769,12 @@
     "card": "Karplusan Minotaur",
     "description": "Karplusan Minotaur Cumulative upkeep cannot be paid",
     "category": "Disadvantageous",
-    "last_updated": "2018-03-18 20:39:31",
+    "last_updated": "2018-09-20 10:38:02",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/10",
-    "help_wanted": true,
     "last_verified": "3.4.103.2022"
   },
   {
