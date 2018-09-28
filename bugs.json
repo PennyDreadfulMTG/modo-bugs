@@ -75,13 +75,13 @@
     "card": "Sphinx's Tutelage",
     "description": "Sphinx's Tutelage causes the game to restart.",
     "category": "Game Breaking",
-    "last_updated": "2018-09-28 02:50:39",
+    "last_updated": "2018-09-28 03:51:53",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/596",
-    "last_verified": "3.4.104.2038"
+    "last_verified": "3.4.105.2039"
   },
   {
     "card": "Convincing Mirage",
