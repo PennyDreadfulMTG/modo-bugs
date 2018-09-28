@@ -710,13 +710,12 @@
     "card": "Athreos, God of Passage",
     "description": "The triggered ability of Athreos, God of Passage does not return the creature to your hand.",
     "category": "Disadvantageous",
-    "last_updated": "2018-06-14 22:41:23",
+    "last_updated": "2018-09-28 18:38:02",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/479",
-    "help_wanted": true,
     "last_verified": null
   },
   {
