@@ -1,5 +1,17 @@
 [
   {
+    "card": "Demanding Dragon",
+    "description": "Demanding Dragon never lets you pay life",
+    "category": "Unconfirmed",
+    "last_updated": "2018-09-29 02:07:28",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/604",
+    "last_verified": null
+  },
+  {
     "card": "Containment Priest",
     "description": "If Containment Priest and any other creatures (not casted) ETB at the same time, all the other creatures qould wrongly get exiled",
     "category": "Unconfirmed",
