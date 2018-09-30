@@ -1330,7 +1330,7 @@
     "card": "Eldrazi Spawn",
     "description": "Eldrazi Spawn and Scions created by cards from the Battle for Zendikar and Rise of the Eldrazi sets display \"Add {1} to your mana pool\" instead of \"Add {C} to your mana pool\"",
     "category": "Graphical",
-    "last_updated": "2018-09-20 15:00:39",
+    "last_updated": "2018-09-30 15:09:04",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
