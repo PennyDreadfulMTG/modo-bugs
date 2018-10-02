@@ -38,8 +38,8 @@
   {
     "card": "Cragganwick Cremator",
     "description": "Cragganwick Cremator is unable to deal damage to planeswalkers.",
-    "category": "Unclassified",
-    "last_updated": "2018-09-20 14:59:33",
+    "category": "Disadvantageous",
+    "last_updated": "2018-10-02 12:36:43",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
