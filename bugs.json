@@ -2186,13 +2186,13 @@
     "card": "Compulsive Research",
     "description": "Dredging rather than drawing can let you avoid discarding",
     "category": "Advantageous",
-    "last_updated": "2018-10-10 02:38:32",
+    "last_updated": "2018-10-11 07:54:20",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/249",
-    "last_verified": null
+    "last_verified": "3.4.105.2044"
   },
   {
     "card": "Volcano Hellion",
@@ -2915,9 +2915,9 @@
   },
   {
     "card": "Spoils of Victory",
-    "description": "Spoils of Victory The land comes into play tapped",
+    "description": "The land from Spoils of Victory comes into play tapped",
     "category": "Disadvantageous",
-    "last_updated": "2018-10-10 02:38:36",
+    "last_updated": "2018-10-11 08:27:19",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
