@@ -791,8 +791,8 @@
   {
     "card": "Quicksilver Fountain",
     "description": "Quicksilver Fountain allows you to place flood counters on nonland permanents.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-10-10 01:38:13",
+    "category": "Advantageous",
+    "last_updated": "2018-10-15 02:44:53",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
