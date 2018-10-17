@@ -1,9 +1,9 @@
 [
   {
     "card": "Broodbirth Viper",
-    "description": "Broodbirth Viper",
-    "category": "Unconfirmed",
-    "last_updated": "2018-10-17 01:38:07",
+    "description": "Broodbirth Viper's token(s) don't get exiled at the end of combat",
+    "category": "Advantageous",
+    "last_updated": "2018-10-17 07:44:42",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
