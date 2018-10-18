@@ -1,5 +1,17 @@
 [
   {
+    "card": "Voldaren Pariah",
+    "description": "Voldarian Pariah doesn't cause opponent to sac vehicles when flipped",
+    "category": "Unconfirmed",
+    "last_updated": "2018-10-18 01:37:48",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/617",
+    "last_verified": null
+  },
+  {
     "card": "Broodbirth Viper",
     "description": "Broodbirth Viper's token(s) don't get exiled at the end of combat",
     "category": "Advantageous",
