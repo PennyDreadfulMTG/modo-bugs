@@ -1,9 +1,9 @@
 [
   {
     "card": "Voldaren Pariah",
-    "description": "Voldarian Pariah doesn't cause opponent to sac vehicles when flipped",
+    "description": "Voldarian Pariah causes opponent to sacrifice one creature instead of three",
     "category": "Unconfirmed",
-    "last_updated": "2018-10-18 01:37:49",
+    "last_updated": "2018-10-18 04:37:50",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
