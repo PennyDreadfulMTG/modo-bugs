@@ -1,9 +1,9 @@
 [
   {
     "card": "Voldaren Pariah",
-    "description": "Voldarian Pariah causes opponent to sacrifice one creature instead of three",
-    "category": "Unconfirmed",
-    "last_updated": "2018-10-18 04:37:50",
+    "description": "Voldaren Pariah's triggered transform ability only causes opponent to sacrifice one creature",
+    "category": "Disadvantageous",
+    "last_updated": "2018-10-18 05:37:54",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -26,8 +26,8 @@
   {
     "card": "Nullstone Gargoyle",
     "description": "Nullstone Gargoyle counters all non creature spells cast",
-    "category": "Unconfirmed",
-    "last_updated": "2018-10-07 23:24:23",
+    "category": "Advantageous",
+    "last_updated": "2018-10-18 05:10:56",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
