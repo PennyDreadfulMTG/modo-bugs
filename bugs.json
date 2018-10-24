@@ -1,17 +1,5 @@
 [
   {
-    "card": "Vance's Blasting Cannons",
-    "description": "Vance's Blasting Cannons does not see a card you cast that is owned by an opponent for its trigger.",
-    "category": "Unclassified",
-    "last_updated": "2018-10-18 15:37:55",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/622",
-    "last_verified": null
-  },
-  {
     "card": "Shared Fate",
     "description": "Zones that cards appear in due to the replacement ability of Shared Fate are incorrect.",
     "category": "Unclassified",
@@ -33,18 +21,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/620",
-    "last_verified": null
-  },
-  {
-    "card": "Gruesome Menagerie",
-    "description": "Gruesome Menagerie can allow multiple creatures of the same converted mana cost to be targeted in some instances.",
-    "category": "Unclassified",
-    "last_updated": "2018-10-18 15:38:02",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/619",
     "last_verified": null
   },
   {
@@ -117,54 +93,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/613",
-    "last_verified": null
-  },
-  {
-    "card": "Piston-Fist Cyclops",
-    "description": "Piston-Fist Cyclops is not able to attack when you cast an opponent's instant or sorcery from the triggered ability of Thief of Sanity.",
-    "category": "Unclassified",
-    "last_updated": "2018-10-10 01:37:59",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/612",
-    "last_verified": null
-  },
-  {
-    "card": "Thief of Sanity",
-    "description": "Piston-Fist Cyclops is not able to attack when you cast an opponent's instant or sorcery from the triggered ability of Thief of Sanity.",
-    "category": "Unclassified",
-    "last_updated": "2018-10-10 01:37:59",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/612",
-    "last_verified": null
-  },
-  {
-    "card": "Skirk Prospector",
-    "description": "Skirk Prospector incorrectly allows a player to tap a goblin as part of a convoke ability, and then sacrifice it for mana to pay for the same spell's cost.",
-    "category": "Unclassified",
-    "last_updated": "2018-10-10 01:38:01",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/611",
-    "last_verified": null
-  },
-  {
-    "card": "Etrata, the Silencer",
-    "description": "If Etrata, the Silencer exiles a token creature with two creatures already having hit counters on them, Etrata's controller will win the game.",
-    "category": "Unclassified",
-    "last_updated": "2018-10-10 01:38:02",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/610",
     "last_verified": null
   },
   {
@@ -2530,19 +2458,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/208",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Ricochet Trap",
-    "description": "Ricochet Trap restarts the game when cast for its alternate cost.",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2018-03-18 03:57:59",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/206",
     "help_wanted": true,
     "last_verified": null
   },
