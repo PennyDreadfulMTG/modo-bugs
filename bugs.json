@@ -16,7 +16,7 @@
     "description": "If during the resolution of Invent, of Invert // Invent, a split card that is both a sorcery and an instant is chosen, a second card cannot be selected.",
     "category": "Unclassified",
     "last_updated": "2018-10-18 15:38:00",
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
