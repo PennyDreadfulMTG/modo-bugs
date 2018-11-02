@@ -1,5 +1,77 @@
 [
   {
+    "card": "Devour Flesh",
+    "description": "Devour Flesh and Geth's Verdict do not function.",
+    "category": "Unclassified",
+    "last_updated": "2018-11-02 17:00:06",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/628",
+    "last_verified": null
+  },
+  {
+    "card": "Geth's Verdict",
+    "description": "Devour Flesh and Geth's Verdict do not function.",
+    "category": "Unclassified",
+    "last_updated": "2018-11-02 17:00:06",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/628",
+    "last_verified": null
+  },
+  {
+    "card": "Sorin, Lord of Innistrad",
+    "description": "If Sorin, Lord of Innistrad somehow becomes a creature, he cannot target himself with his ultimate ability.",
+    "category": "Unclassified",
+    "last_updated": "2018-11-02 17:00:10",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/627",
+    "last_verified": null
+  },
+  {
+    "card": "Fireball",
+    "description": "Fireball cannot be cast with 0 targets when X = 0.",
+    "category": "Unclassified",
+    "last_updated": "2018-11-02 17:00:12",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/626",
+    "last_verified": null
+  },
+  {
+    "card": "Selective Snare",
+    "description": "If a player copies Selective Snare, they can incorrectly target creatures of a different creature type.",
+    "category": "Unclassified",
+    "last_updated": "2018-11-02 17:00:15",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/625",
+    "last_verified": null
+  },
+  {
+    "card": "Necromantic Summons",
+    "description": "The spell mastery ability of Necromantic Summons does not function.",
+    "category": "Unclassified",
+    "last_updated": "2018-11-02 17:00:19",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/624",
+    "last_verified": null
+  },
+  {
     "card": "Shared Fate",
     "description": "Zones that cards appear in due to the replacement ability of Shared Fate are incorrect.",
     "category": "Graphical",
@@ -9,18 +81,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/621",
-    "last_verified": null
-  },
-  {
-    "card": "Invert // Invent",
-    "description": "If during the resolution of Invent, a split card that is both a sorcery and an instant is chosen, a second card cannot be selected.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-11-02 02:01:43",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/620",
     "last_verified": null
   },
   {
@@ -93,18 +153,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/613",
-    "last_verified": null
-  },
-  {
-    "card": "Nicol Bolas, Planeswalker",
-    "description": "Nicol Bolas, Planeswalker only requires the targeted opponent to sacrifice one permanent.",
-    "category": "Unclassified",
-    "last_updated": "2018-10-10 01:38:04",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/609",
     "last_verified": null
   },
   {
@@ -1719,66 +1767,61 @@
     "card": "Mire's Toll",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
     "category": "Disadvantageous",
-    "last_updated": "2018-07-13 07:41:45",
+    "last_updated": "2018-11-02 17:00:24",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2027"
+    "last_verified": "3.4.105.2048"
   },
   {
     "card": "Thieving Sprite",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
     "category": "Disadvantageous",
-    "last_updated": "2018-07-13 07:41:45",
+    "last_updated": "2018-11-02 17:00:24",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2027"
+    "last_verified": "3.4.105.2048"
   },
   {
     "card": "Bala Ged Thief",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
     "category": "Disadvantageous",
-    "last_updated": "2018-07-13 07:41:45",
+    "last_updated": "2018-11-02 17:00:24",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2027"
+    "last_verified": "3.4.105.2048"
   },
   {
     "card": "Disciple of Phenax",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
     "category": "Disadvantageous",
-    "last_updated": "2018-07-13 07:41:45",
+    "last_updated": "2018-11-02 17:00:24",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2027"
+    "last_verified": "3.4.105.2048"
   },
   {
     "card": "Distended Mindbender",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
     "category": "Disadvantageous",
-    "last_updated": "2018-07-13 07:41:45",
+    "last_updated": "2018-11-02 17:00:24",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2027"
+    "last_verified": "3.4.105.2048"
   },
   {
     "card": "Angelic Field Marshal",
