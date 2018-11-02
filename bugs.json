@@ -2,8 +2,8 @@
   {
     "card": "Shared Fate",
     "description": "Zones that cards appear in due to the replacement ability of Shared Fate are incorrect.",
-    "category": "Unclassified",
-    "last_updated": "2018-10-18 15:37:58",
+    "category": "Graphical",
+    "last_updated": "2018-11-02 02:10:17",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -13,9 +13,9 @@
   },
   {
     "card": "Invert // Invent",
-    "description": "If during the resolution of Invent, of Invert // Invent, a split card that is both a sorcery and an instant is chosen, a second card cannot be selected.",
-    "category": "Unclassified",
-    "last_updated": "2018-10-26 09:38:00",
+    "description": "If during the resolution of Invent, a split card that is both a sorcery and an instant is chosen, a second card cannot be selected.",
+    "category": "Disadvantageous",
+    "last_updated": "2018-11-02 02:01:43",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
