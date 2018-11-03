@@ -38,8 +38,8 @@
   {
     "card": "Fireball",
     "description": "Fireball cannot be cast with 0 targets when X = 0.",
-    "category": "Unclassified",
-    "last_updated": "2018-11-02 17:00:13",
+    "category": "Disadvantageous",
+    "last_updated": "2018-11-03 17:02:15",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -1638,14 +1638,13 @@
     "card": "Buried Alive",
     "description": "The order of cards put into the graveyard by Buried Alive is random",
     "category": "Disadvantageous",
-    "last_updated": "2018-07-16 02:08:38",
+    "last_updated": "2018-11-03 17:38:05",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/313",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2027"
+    "last_verified": "3.4.105.2048"
   },
   {
     "card": "Rogue Skycaptain",
@@ -3070,18 +3069,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/44",
-    "last_verified": null
-  },
-  {
-    "card": "Runic Repetition",
-    "description": "Runic Repetition Cannot be cast",
-    "category": "Disadvantageous",
-    "last_updated": "2018-11-03 16:21:04",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/41",
     "last_verified": null
   },
   {
