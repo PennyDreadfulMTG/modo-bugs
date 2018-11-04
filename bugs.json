@@ -482,19 +482,6 @@
     "last_verified": null
   },
   {
-    "card": "Delirium Skeins",
-    "description": "Casting Delirium Skeins does not cause the controller to discard three cards, and instead soft-locks the game",
-    "category": "Game Breaking",
-    "last_updated": "2018-08-05 11:04:02",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/554",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Evershrike",
     "description": "If you activate Evershrike's ability multiple times before having it get reanimated, each trigger will let you attach an aura.",
     "category": "Advantageous",
