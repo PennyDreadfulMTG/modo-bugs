@@ -494,19 +494,6 @@
     "last_verified": "3.4.104.2027"
   },
   {
-    "card": "Liliana of the Veil",
-    "description": "Activating Liliana of the Veil's +1 with only one card in hand will soft-lock the game",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2018-07-11 09:37:32",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/551",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2026"
-  },
-  {
     "card": "Graf Rats",
     "description": "There is an issue adding meld cards to your deck",
     "category": "Disadvantageous",
