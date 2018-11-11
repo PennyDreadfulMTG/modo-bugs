@@ -2,8 +2,8 @@
   {
     "card": "Devour Flesh",
     "description": "Devour Flesh and Geth's Verdict do not function.",
-    "category": "Unclassified",
-    "last_updated": "2018-11-02 17:00:07",
+    "category": "Non-Functional ability",
+    "last_updated": "2018-11-11 10:33:49",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -14,8 +14,8 @@
   {
     "card": "Geth's Verdict",
     "description": "Devour Flesh and Geth's Verdict do not function.",
-    "category": "Unclassified",
-    "last_updated": "2018-11-02 17:00:07",
+    "category": "Non-Functional ability",
+    "last_updated": "2018-11-11 10:33:49",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
