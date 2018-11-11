@@ -2068,66 +2068,61 @@
     "card": "Shelldock Isle",
     "description": "Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.",
     "category": "Disadvantageous",
-    "last_updated": "2018-10-09 21:51:03",
+    "last_updated": "2018-11-11 21:38:12",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262",
-    "help_wanted": true,
-    "last_verified": "3.4.105.2044"
+    "last_verified": "3.4.105.2051"
   },
   {
     "card": "Howltooth Hollow",
     "description": "Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.",
     "category": "Disadvantageous",
-    "last_updated": "2018-10-09 21:51:03",
+    "last_updated": "2018-11-11 21:38:12",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262",
-    "help_wanted": true,
-    "last_verified": "3.4.105.2044"
+    "last_verified": "3.4.105.2051"
   },
   {
     "card": "Mosswort Bridge",
     "description": "Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.",
     "category": "Disadvantageous",
-    "last_updated": "2018-10-09 21:51:03",
+    "last_updated": "2018-11-11 21:38:12",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262",
-    "help_wanted": true,
-    "last_verified": "3.4.105.2044"
+    "last_verified": "3.4.105.2051"
   },
   {
     "card": "Spinerock Knoll",
     "description": "Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.",
     "category": "Disadvantageous",
-    "last_updated": "2018-10-09 21:51:03",
+    "last_updated": "2018-11-11 21:38:12",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262",
-    "help_wanted": true,
-    "last_verified": "3.4.105.2044"
+    "last_verified": "3.4.105.2051"
   },
   {
     "card": "Windbrisk Heights",
     "description": "Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.",
     "category": "Disadvantageous",
-    "last_updated": "2018-10-09 21:51:03",
+    "last_updated": "2018-11-11 21:38:12",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262",
-    "help_wanted": true,
-    "last_verified": "3.4.105.2044"
+    "last_verified": "3.4.105.2051"
   },
   {
     "card": "Terastodon",
