@@ -3266,14 +3266,13 @@
     "card": "Cryptic Gateway",
     "description": "Cryptic Gateway does not let you select a card from your hand",
     "category": "Non-Functional ability",
-    "last_updated": "2018-05-31 06:43:59",
+    "last_updated": "2018-11-15 22:38:21",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/5",
-    "help_wanted": true,
-    "last_verified": "3.4.103.2022"
+    "last_verified": "3.4.105.2052"
   },
   {
     "card": "Concerted Effort",
