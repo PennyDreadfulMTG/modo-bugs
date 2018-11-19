@@ -1,17 +1,5 @@
 [
   {
-    "card": "Wild-Field Scarecrow",
-    "description": "Wild-field Scarecrow cannot activate its ability",
-    "category": "Unconfirmed",
-    "last_updated": "2018-11-19 12:38:26",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/634",
-    "last_verified": null
-  },
-  {
     "card": "Terminus",
     "description": "Cards with the miracle mechanic such as Terminus incorrectly retain their miracle blue text reminder when they are not cast.",
     "category": "Unclassified",
