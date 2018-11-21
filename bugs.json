@@ -1227,32 +1227,6 @@
     "last_verified": null
   },
   {
-    "card": "Retribution of the Ancients",
-    "description": "Cards that require a player to remove any number of +1/+1 counters incorrectly do not allow a player to remove any counters.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-11-21 17:05:17",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/406",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Ooze Flux",
-    "description": "Cards that require a player to remove any number of +1/+1 counters incorrectly do not allow a player to remove any counters.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-11-21 17:05:17",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/406",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Ever After",
     "description": "Ever After resolves immediately upon selection of the second target instead of allowing the player to click a \"Done\" button.",
     "category": "Unclassified",
