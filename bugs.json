@@ -334,13 +334,12 @@
     "card": "Vaevictis Asmadi, the Dire",
     "description": "The triggered ability of Vaevictis Asmadi, the Dire can sometimes completely remove cards from the game.",
     "category": "Disadvantageous",
-    "last_updated": "2018-08-25 16:02:06",
+    "last_updated": "2018-11-24 20:21:13",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/592",
-    "help_wanted": true,
     "last_verified": "3.4.104.2032"
   },
   {
