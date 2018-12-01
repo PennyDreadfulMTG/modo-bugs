@@ -1,5 +1,17 @@
 [
   {
+    "card": "Pyxis of Pandemonium",
+    "description": "When multiple Pyxis of Pandemonium are in the battlefield, there is no indicator how many cards are exiled by each Pyxis, or which cards are exiled by each Pyxis",
+    "category": "Unconfirmed",
+    "last_updated": "2018-12-01 03:38:47",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/645",
+    "last_verified": null
+  },
+  {
     "card": "Kalitas, Traitor of Ghet",
     "description": "If you control Kalitas, Traitor of Ghet, you create a zombie creature token when a creature you control owned by an opponent dies.",
     "category": "Unclassified",
@@ -156,30 +168,6 @@
     "last_verified": null
   },
   {
-    "card": "Devour Flesh",
-    "description": "Devour Flesh and Geth's Verdict do not function.",
-    "category": "Non-Functional ability",
-    "last_updated": "2018-11-11 11:38:21",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/628",
-    "last_verified": null
-  },
-  {
-    "card": "Geth's Verdict",
-    "description": "Devour Flesh and Geth's Verdict do not function.",
-    "category": "Non-Functional ability",
-    "last_updated": "2018-11-11 11:38:21",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/628",
-    "last_verified": null
-  },
-  {
     "card": "Sorin, Lord of Innistrad",
     "description": "If Sorin, Lord of Innistrad somehow becomes a creature, he cannot target himself with his ultimate ability.",
     "category": "Unclassified",
@@ -195,24 +183,12 @@
     "card": "Fireball",
     "description": "Fireball cannot be cast with 0 targets when X = 0.",
     "category": "Disadvantageous",
-    "last_updated": "2018-11-03 17:02:15",
+    "last_updated": "2018-12-01 02:52:49",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/626",
-    "last_verified": null
-  },
-  {
-    "card": "Selective Snare",
-    "description": "If a player copies Selective Snare, they can incorrectly target creatures of a different creature type.",
-    "category": "Unclassified",
-    "last_updated": "2018-11-02 17:00:16",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/625",
     "last_verified": null
   },
   {
@@ -423,32 +399,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/597",
     "help_wanted": true,
     "last_verified": null
-  },
-  {
-    "card": "Convincing Mirage",
-    "description": "Cards that target a land and ask you to choose a basic land type to change it to default to Swamp, regardless of choice.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-08-30 06:37:43",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/595",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2036"
-  },
-  {
-    "card": "Phantasmal Terrain",
-    "description": "Cards that target a land and ask you to choose a basic land type to change it to default to Swamp, regardless of choice.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-08-30 06:37:43",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/595",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2036"
   },
   {
     "card": "Umbral Mantle",
@@ -878,19 +828,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/535",
     "help_wanted": true,
     "last_verified": "3.4.104.2027"
-  },
-  {
-    "card": "Baneful Omen",
-    "description": "Baneful Omen's triggered ability will continuously triggered until the controller choose not to reveal the top card",
-    "category": "Advantageous",
-    "last_updated": "2018-06-11 09:37:56",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/534",
-    "help_wanted": true,
-    "last_verified": null
   },
   {
     "card": "Holistic Wisdom",
@@ -2078,19 +2015,6 @@
     "last_verified": null
   },
   {
-    "card": "Lavamancer's Skill",
-    "description": "Lavamancer's Skill the \"T: deal 1 damage\" ability does not let you choose a target",
-    "category": "Disadvantageous",
-    "last_updated": "2018-04-27 07:37:53",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/289",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Sages of the Anima",
     "description": "[Sages of the Anima] puts the non-creature cards on top of the library instead of the bottom.",
     "category": "Disadvantageous",
@@ -2217,66 +2141,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/263",
     "last_verified": "3.4.103.2022"
-  },
-  {
-    "card": "Shelldock Isle",
-    "description": "Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-11-11 21:38:12",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262",
-    "last_verified": "3.4.105.2051"
-  },
-  {
-    "card": "Howltooth Hollow",
-    "description": "Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-11-11 21:38:12",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262",
-    "last_verified": "3.4.105.2051"
-  },
-  {
-    "card": "Mosswort Bridge",
-    "description": "Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-11-11 21:38:12",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262",
-    "last_verified": "3.4.105.2051"
-  },
-  {
-    "card": "Spinerock Knoll",
-    "description": "Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-11-11 21:38:12",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262",
-    "last_verified": "3.4.105.2051"
-  },
-  {
-    "card": "Windbrisk Heights",
-    "description": "Shelldock Isle and other hideaway lands from Lorwyn do not allow you to play lands.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-11-11 21:38:12",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/262",
-    "last_verified": "3.4.105.2051"
   },
   {
     "card": "Terastodon",
@@ -2701,19 +2565,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/192",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Rimescale Dragon",
-    "description": "Rimescale Dragon does not place an Ice Counter on targeted creatures.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-09-25 03:38:17",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/191",
     "help_wanted": true,
     "last_verified": null
   },
