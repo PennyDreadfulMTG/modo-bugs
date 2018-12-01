@@ -1641,19 +1641,6 @@
     "last_verified": null
   },
   {
-    "card": "Weird Harvest",
-    "description": "All creatures searched using Weird Harvest's ability will end in the hand of the last priority player",
-    "category": "Disadvantageous",
-    "last_updated": "2018-09-10 23:37:40",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/334",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2037"
-  },
-  {
     "card": "Concerted Effort",
     "description": "Some protection abilities granted by Concerted Effort are not shown visually on creatures",
     "category": "Graphical",
@@ -2331,45 +2318,6 @@
     "last_verified": null
   },
   {
-    "card": "Borderland Explorer",
-    "description": "All cards fetched using a more-than-one-player-searches ability, regardless of who owns it, will be put into the hand of the last person to search, but those cards can't be played or discarded",
-    "category": "Advantageous",
-    "last_updated": "2018-09-11 20:37:40",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2036"
-  },
-  {
-    "card": "Noble Benefactor",
-    "description": "All cards fetched using a more-than-one-player-searches ability, regardless of who owns it, will be put into the hand of the last person to search, but those cards can't be played or discarded",
-    "category": "Advantageous",
-    "last_updated": "2018-09-11 20:37:40",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2036"
-  },
-  {
-    "card": "Weird Harvest",
-    "description": "All cards fetched using a more-than-one-player-searches ability, regardless of who owns it, will be put into the hand of the last person to search, but those cards can't be played or discarded",
-    "category": "Advantageous",
-    "last_updated": "2018-09-11 20:37:40",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/255",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2036"
-  },
-  {
     "card": "Knowledge Pool",
     "description": "Knowledge Pool With multiple Knowledge Pools in play, casting a spell from hand lets you cast a spell from each Pool.",
     "category": "Advantageous",
@@ -2519,19 +2467,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/228",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "The Ur-Dragon",
-    "description": "The Ur-Dragon also reduces its own casting cost.",
-    "category": "Advantageous",
-    "last_updated": "2018-09-25 03:38:09",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/225",
     "help_wanted": true,
     "last_verified": null
   },
@@ -3141,19 +3076,6 @@
     "last_verified": null
   },
   {
-    "card": "Spoils of Victory",
-    "description": "The land from Spoils of Victory comes into play tapped",
-    "category": "Disadvantageous",
-    "last_updated": "2018-10-11 08:27:19",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/57",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2027"
-  },
-  {
     "card": "Semblance Anvil",
     "description": "Semblance Anvil imprinting a split card does not reduce any casting costs. ",
     "category": "Disadvantageous",
@@ -3321,18 +3243,6 @@
     "last_verified": "3.4.103.2022"
   },
   {
-    "card": "Reincarnation",
-    "description": "Reincarnation does nothing",
-    "category": "Non-Functional ability",
-    "last_updated": "2018-10-10 01:38:23",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/24",
-    "last_verified": "3.4.102.2007"
-  },
-  {
     "card": "Profane Command",
     "description": "Profane Command If a player gains shroud in response to Profane Command, the first mode will still resolve / choosing to give creatures fear when you control no creatures prompts a large number.",
     "category": "Advantageous",
@@ -3395,19 +3305,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/11",
     "help_wanted": true,
     "last_verified": null
-  },
-  {
-    "card": "Karplusan Minotaur",
-    "description": "Karplusan Minotaur Cumulative upkeep cannot be paid",
-    "category": "Disadvantageous",
-    "last_updated": "2018-09-20 10:46:09",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/10",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2038"
   },
   {
     "card": "Infinite Reflection",
