@@ -3048,13 +3048,12 @@
     "card": "Living Lore",
     "description": "If Living Lore imprints a Split Card, it has twice the expected CMC.",
     "category": "Advantageous",
-    "last_updated": "2018-09-20 10:01:23",
+    "last_updated": "2018-12-05 20:57:45",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/35",
-    "help_wanted": true,
     "last_verified": "3.4.104.2038"
   },
   {
