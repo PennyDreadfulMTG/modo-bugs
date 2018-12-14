@@ -1,5 +1,53 @@
 [
   {
+    "card": "Nahiri's Wrath",
+    "description": "The prompt box of Nahiri's Wrath displays incorrect text.",
+    "category": "Unclassified",
+    "last_updated": "2018-12-14 11:40:26",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/650",
+    "last_verified": null
+  },
+  {
+    "card": "Aether Tide",
+    "description": "Aether Tide is unable to be cast.",
+    "category": "Unclassified",
+    "last_updated": "2018-12-14 11:40:29",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/649",
+    "last_verified": null
+  },
+  {
+    "card": "Careful Consideration",
+    "description": "Copy spells that care about being cast during a main phase such as Careful Consideration sometimes do not confer the main phase bonus.",
+    "category": "Unclassified",
+    "last_updated": "2018-12-14 11:40:31",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/648",
+    "last_verified": null
+  },
+  {
+    "card": "Verdant Eidolon",
+    "description": "There is a known issue with Verdant Eidolon creating too much mana.",
+    "category": "Unclassified",
+    "last_updated": "2018-12-14 11:40:33",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/647",
+    "last_verified": null
+  },
+  {
     "card": "Pyxis of Pandemonium",
     "description": "When multiple Pyxis of Pandemonium are in the battlefield, there is no indicator how many cards are exiled by each Pyxis, or which cards are exiled by each Pyxis",
     "category": "Unconfirmed",
@@ -21,30 +69,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/643",
-    "last_verified": null
-  },
-  {
-    "card": "Nullhide Ferox",
-    "description": "If a player clones a Nullhide Ferox with Clone, even if its ability is activated, its controller still cannot cast noncreature spells.",
-    "category": "Unclassified",
-    "last_updated": "2018-11-30 02:00:13",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/642",
-    "last_verified": null
-  },
-  {
-    "card": "Clone",
-    "description": "If a player clones a Nullhide Ferox with Clone, even if its ability is activated, its controller still cannot cast noncreature spells.",
-    "category": "Unclassified",
-    "last_updated": "2018-11-30 02:00:13",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/642",
     "last_verified": null
   },
   {
@@ -86,8 +110,8 @@
   {
     "card": "Porphyry Nodes",
     "description": "Porphyry Nodes allows a creature to regenerate if it's tied for the least power.",
-    "category": "Unclassified",
-    "last_updated": "2018-11-30 02:00:20",
+    "category": "Disadvantageous",
+    "last_updated": "2018-12-14 02:33:40",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -253,9 +277,9 @@
   },
   {
     "card": "Nullstone Gargoyle",
-    "description": "Nullstone Gargoyle counters all non creature spells cast",
+    "description": "Nullstone Gargoyle counters all noncreature spells cast",
     "category": "Advantageous",
-    "last_updated": "2018-10-18 15:38:06",
+    "last_updated": "2018-12-14 02:28:12",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -265,15 +289,14 @@
   },
   {
     "card": "Orator of Ojutai",
-    "description": "Orator of Ojutai's triggered ability will draw a card only when you have a dragon under your control",
+    "description": "Orator of Ojutai's triggered ability will draw a card only when you control a dragon",
     "category": "Disadvantageous",
-    "last_updated": "2018-10-07 02:09:45",
+    "last_updated": "2018-12-14 02:27:45",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/614",
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -431,15 +454,14 @@
   },
   {
     "card": "Hellion Eruption",
-    "description": "Hellion Eruption doesn't give you tokens and sacrifices everything you have ",
+    "description": "Hellion Eruption doesn't create tokens and sacrifices all your permanents",
     "category": "Disadvantageous",
-    "last_updated": "2018-08-25 07:37:52",
+    "last_updated": "2018-12-13 19:11:22",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/589",
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -1685,19 +1707,6 @@
     "last_verified": "3.4.101.1120"
   },
   {
-    "card": "Dream Tides",
-    "description": "Dream Tides doesn't require a cost for nongreen creatures chosen to untap.",
-    "category": "Advantageous",
-    "last_updated": "2018-10-10 02:38:27",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/316",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2027"
-  },
-  {
     "card": "Null Profusion",
     "description": "Null Profusion triggers when another player casts its owner's cards",
     "category": "Advantageous",
@@ -2677,6 +2686,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/155",
+    "help_wanted": true,
     "last_verified": "3.4.105.2044"
   },
   {

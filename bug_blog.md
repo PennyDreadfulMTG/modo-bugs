@@ -1,5 +1,5 @@
 ---
-title: Magic Online Bug Blog November 29, 2018
+title: Magic Online Bug Blog December 13, 2018
 redirect_to:
- - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-bug-blog-november-2018-11-29
+ - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-bug-blog-december-2018-12-13
 ---
