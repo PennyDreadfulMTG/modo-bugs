@@ -1,9 +1,21 @@
 [
   {
+    "card": "Price of Fame",
+    "description": "Price of Fame does not reduce in cost when it targets a legendary creature",
+    "category": "Disadvantageous",
+    "last_updated": "2018-12-20 03:12:17",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/651",
+    "last_verified": null
+  },
+  {
     "card": "Nahiri's Wrath",
     "description": "The prompt box of Nahiri's Wrath displays incorrect text.",
     "category": "Unclassified",
-    "last_updated": "2018-12-14 11:40:26",
+    "last_updated": "2018-12-14 11:40:27",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -27,7 +39,7 @@
     "card": "Careful Consideration",
     "description": "Copy spells that care about being cast during a main phase such as Careful Consideration sometimes do not confer the main phase bonus.",
     "category": "Unclassified",
-    "last_updated": "2018-12-14 11:40:31",
+    "last_updated": "2018-12-14 11:40:32",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -39,7 +51,7 @@
     "card": "Verdant Eidolon",
     "description": "There is a known issue with Verdant Eidolon creating too much mana.",
     "category": "Unclassified",
-    "last_updated": "2018-12-14 11:40:33",
+    "last_updated": "2018-12-14 11:40:34",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -249,6 +261,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/618",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -273,6 +286,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/616",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -309,6 +323,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/613",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -321,6 +336,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/608",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -973,6 +989,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/481",
+    "help_wanted": true,
     "last_verified": "3.4.105.2039"
   },
   {
