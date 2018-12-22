@@ -1,17 +1,5 @@
 [
   {
-    "card": "Price of Fame",
-    "description": "Price of Fame does not reduce in cost when it targets a legendary creature",
-    "category": "Disadvantageous",
-    "last_updated": "2018-12-20 03:12:18",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/651",
-    "last_verified": null
-  },
-  {
     "card": "Nahiri's Wrath",
     "description": "The prompt box of Nahiri's Wrath displays incorrect text.",
     "category": "Unclassified",
@@ -3094,18 +3082,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/36",
     "help_wanted": true,
     "last_verified": null
-  },
-  {
-    "card": "Living Lore",
-    "description": "If Living Lore imprints a Split Card, it has twice the expected CMC.",
-    "category": "Advantageous",
-    "last_updated": "2018-12-10 02:18:49",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/35",
-    "last_verified": "3.4.106.2053"
   },
   {
     "card": "Zur's Weirding",
