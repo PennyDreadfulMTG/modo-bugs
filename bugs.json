@@ -48,6 +48,18 @@
     "last_verified": null
   },
   {
+    "card": "Pyxis of Pandemonium",
+    "description": "When multiple Pyxis of Pandemonium are in the battlefield, there is no indicator how many cards are exiled by each Pyxis, or which cards are exiled by each Pyxis",
+    "category": "Graphical",
+    "last_updated": "2019-01-01 02:14:31",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/645",
+    "last_verified": null
+  },
+  {
     "card": "Kalitas, Traitor of Ghet",
     "description": "If you control Kalitas, Traitor of Ghet, you create a zombie creature token when a creature you control owned by an opponent dies.",
     "category": "Unclassified",
