@@ -1,5 +1,29 @@
 [
   {
+    "card": "Fleetwheel Cruiser",
+    "description": "Fleetwheel Cruiser does not correctly display changes in power and toughness with Tempered Steel.",
+    "category": "Unconfirmed",
+    "last_updated": "2019-01-01 23:37:59",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/652",
+    "last_verified": null
+  },
+  {
+    "card": "Tempered Steel",
+    "description": "Fleetwheel Cruiser does not correctly display changes in power and toughness with Tempered Steel.",
+    "category": "Unconfirmed",
+    "last_updated": "2019-01-01 23:37:59",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/652",
+    "last_verified": null
+  },
+  {
     "card": "Nahiri's Wrath",
     "description": "The prompt box of Nahiri's Wrath displays incorrect text.",
     "category": "Unclassified",
