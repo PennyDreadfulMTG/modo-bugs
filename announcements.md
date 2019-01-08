@@ -1,6 +1,6 @@
 ---
-title: Magic Online Announcements, December 18, 2018
+title: Magic Online Announcements, January 8, 2019
 redirect_to:
- - http://magic.wizards.com/en/articles/archive/feature/magic-online-announcements-december-2018-12-18
+ - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-january-8-2019-2019-01-08
 has_build_notes: True
 ---
