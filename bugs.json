@@ -400,18 +400,6 @@
     "last_verified": null
   },
   {
-    "card": "Voldaren Pariah",
-    "description": "Voldaren Pariah's triggered transform ability only causes opponent to sacrifice one creature",
-    "category": "Disadvantageous",
-    "last_updated": "2018-12-29 03:03:57",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/617",
-    "last_verified": null
-  },
-  {
     "card": "Broodbirth Viper",
     "description": "Broodbirth Viper's token(s) don't get exiled at the end of combat",
     "category": "Advantageous",
