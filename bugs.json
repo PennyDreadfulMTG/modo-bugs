@@ -1,9 +1,9 @@
 [
   {
-    "card": "Lazav, Multifarious",
+    "card": "Lazav, the Multifarious",
     "description": "If Lazav, Multifarious is a copy of another creature that references other copies of itself such as Myr Servitor, it will incorrectly refer to other copies of Lazav.",
     "category": "Unclassified",
-    "last_updated": "2019-01-07 18:05:20",
+    "last_updated": "2019-01-14 10:39:00",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -15,7 +15,7 @@
     "card": "Myr Servitor",
     "description": "If Lazav, Multifarious is a copy of another creature that references other copies of itself such as Myr Servitor, it will incorrectly refer to other copies of Lazav.",
     "category": "Unclassified",
-    "last_updated": "2019-01-07 18:05:20",
+    "last_updated": "2019-01-14 10:39:00",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
