@@ -1,5 +1,65 @@
 [
   {
+    "card": "Keranos, God of Storms",
+    "description": "Keranos, God of Storms does not trigger when its controller draws a card.",
+    "category": "Unclassified",
+    "last_updated": "2019-01-17 20:02:56",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/667",
+    "last_verified": null
+  },
+  {
+    "card": "Walking Ballista",
+    "description": "If a player attempts to cast Walking Ballista with a cost reduction effect, they are initially prompted to pay for X=127. They can adjust this to the correct number.",
+    "category": "Unclassified",
+    "last_updated": "2019-01-17 20:02:58",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/666",
+    "last_verified": null
+  },
+  {
+    "card": "Phyrexian Revoker",
+    "description": "Phyrexian Revoker can name the Momir Vig, Simic Visionary Avatar.",
+    "category": "Unclassified",
+    "last_updated": "2019-01-17 20:03:01",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/665",
+    "last_verified": null
+  },
+  {
+    "card": "Momir Vig, Simic Visionary Avatar",
+    "description": "Phyrexian Revoker can name the Momir Vig, Simic Visionary Avatar.",
+    "category": "Unclassified",
+    "last_updated": "2019-01-17 20:03:01",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/665",
+    "last_verified": null
+  },
+  {
+    "card": "Sword-Point Diplomacy",
+    "description": "A player can pay more life than they have with Sword-Point Diplomacy, but they will still most likely lose the game.",
+    "category": "Unclassified",
+    "last_updated": "2019-01-17 20:03:03",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/664",
+    "last_verified": null
+  },
+  {
     "card": "Lazav, the Multifarious",
     "description": "If Lazav, Multifarious is a copy of another creature that references other copies of itself such as Myr Servitor, it will incorrectly refer to other copies of Lazav.",
     "category": "Unclassified",
