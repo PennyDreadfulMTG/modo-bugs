@@ -134,12 +134,12 @@
   {
     "card": "Gemstone Caverns",
     "description": "There is a rare issue that can occur with Gemstone Caverns that can restart the game.",
-    "category": "Unclassified",
-    "last_updated": "2019-01-07 18:05:32",
+    "category": "Game Breaking",
+    "last_updated": "2019-01-19 09:54:30",
     "pd_legal": false,
     "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
+    "breaking": true,
+    "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/657",
     "last_verified": null
   },
