@@ -1076,14 +1076,13 @@
     "card": "Tromokratis",
     "description": "Tromokratis can cause the game the game to soft-lock in multiplayer games",
     "category": "Game Breaking",
-    "last_updated": "2018-10-10 02:38:24",
+    "last_updated": "2019-01-23 11:27:11",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/530",
     "multiplayer_only": true,
-    "help_wanted": true,
     "last_verified": "3.4.103.2018"
   },
   {
