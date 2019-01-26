@@ -1,5 +1,17 @@
 [
   {
+    "card": "Fortune's Favor",
+    "description": "Fortune's Favor does not indicate which pile is face up",
+    "category": "Graphical",
+    "last_updated": "2019-01-26 00:38:02",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/668",
+    "last_verified": null
+  },
+  {
     "card": "Keranos, God of Storms",
     "description": "Keranos, God of Storms does not trigger when its controller draws a card.",
     "category": "Unclassified",
