@@ -1,5 +1,17 @@
 [
   {
+    "card": "Tangleclaw Werewolf",
+    "description": "Fibrous Entangler (Flipped Tangleclaw Werewolf) tries to force players who it is not attacking in multiplayer to block it, locking the game as they cannot make a legal block",
+    "category": "Unconfirmed",
+    "last_updated": "2019-01-27 22:37:56",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/669",
+    "last_verified": null
+  },
+  {
     "card": "Fortune's Favor",
     "description": "Fortune's Favor does not indicate which pile is face up",
     "category": "Graphical",
