@@ -499,18 +499,6 @@
     "last_verified": null
   },
   {
-    "card": "Orator of Ojutai",
-    "description": "Orator of Ojutai's triggered ability will draw a card only when you control a dragon",
-    "category": "Disadvantageous",
-    "last_updated": "2018-12-14 02:27:45",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/614",
-    "last_verified": null
-  },
-  {
     "card": "Eldrazi Spawn",
     "description": "Eldrazi Spawn and Scions created by cards from the Battle for Zendikar and Rise of the Eldrazi sets display \"Add {1} to your mana pool\" instead of \"Add {C} to your mana pool\" upon zoom. As this change in template was not a functional change, these tokens continue to function correctly.",
     "category": "Unclassified",
