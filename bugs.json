@@ -2,13 +2,14 @@
   {
     "card": "Tangleclaw Werewolf",
     "description": "Fibrous Entangler (Flipped Tangleclaw Werewolf) tries to force players who it is not attacking in multiplayer to block it, locking the game as they cannot make a legal block",
-    "category": "Unconfirmed",
-    "last_updated": "2019-01-27 22:37:57",
+    "category": "Game Breaking",
+    "last_updated": "2019-01-28 05:28:15",
     "pd_legal": true,
     "bug_blog": false,
-    "breaking": false,
+    "breaking": true,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/669",
+    "multiplayer_only": true,
     "last_verified": null
   },
   {
