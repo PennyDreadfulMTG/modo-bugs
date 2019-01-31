@@ -1,5 +1,53 @@
 [
   {
+    "card": "Brothers Yamazaki",
+    "description": "If one player controls two Brothers Yamazaki, and another player controls one, the \"legend rule\" continues to not apply.",
+    "category": "Unclassified",
+    "last_updated": "2019-01-31 21:51:27",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/679",
+    "last_verified": null
+  },
+  {
+    "card": "Crypt of Agadeem",
+    "description": "Crypt of Agadeem does not make mana with its second ability.",
+    "category": "Unclassified",
+    "last_updated": "2019-01-31 21:51:30",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/678",
+    "last_verified": null
+  },
+  {
+    "card": "Sekki, Seasons' Guide",
+    "description": "Spirit tokens created by Sekki, Seasons' Guide are not considered to have the same name.",
+    "category": "Unclassified",
+    "last_updated": "2019-01-31 21:51:34",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/676",
+    "last_verified": null
+  },
+  {
+    "card": "Relic Crush",
+    "description": "Relic Crush can target the same permanent twice.",
+    "category": "Unclassified",
+    "last_updated": "2019-01-31 21:51:36",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/675",
+    "last_verified": null
+  },
+  {
     "card": "Mimic Vat",
     "description": "Mimic Vat will return previously exiled card to the graveyard incorrectly if you say 'Yes' to the trigger when the target has been exiled",
     "category": "Advantageous",
