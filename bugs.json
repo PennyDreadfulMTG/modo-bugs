@@ -1,5 +1,17 @@
 [
   {
+    "card": "Mimic Vat",
+    "description": "Mimic Vat will return previously exiled card to the graveyard incorrectly if you say 'Yes' to the trigger when the target has been exiled",
+    "category": "Advantageous",
+    "last_updated": "2019-01-31 18:38:09",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/672",
+    "last_verified": null
+  },
+  {
     "card": "Tangleclaw Werewolf",
     "description": "Fibrous Entangler (Flipped Tangleclaw Werewolf) tries to force players who it is not attacking in multiplayer to block it, locking the game as they cannot make a legal block",
     "category": "Game Breaking",
