@@ -414,8 +414,8 @@
   {
     "card": "Pili-Pala",
     "description": "Pili-Pala can incorrectly pay for its own untap ability by tapping to use the ability granted by Grand Architect.",
-    "category": "Unclassified",
-    "last_updated": "2019-02-01 22:43:51",
+    "category": "Advantageous",
+    "last_updated": "2019-02-07 18:36:36",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -426,8 +426,8 @@
   {
     "card": "Grand Architect",
     "description": "Pili-Pala can incorrectly pay for its own untap ability by tapping to use the ability granted by Grand Architect.",
-    "category": "Unclassified",
-    "last_updated": "2019-02-01 22:43:51",
+    "category": "Advantageous",
+    "last_updated": "2019-02-07 18:36:36",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
