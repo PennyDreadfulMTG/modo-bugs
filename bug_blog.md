@@ -1,5 +1,5 @@
 ---
-title: Magic Online Bug Blog January 31, 2019
+title: Magic Online Bug Blog February 14, 2019
 redirect_to:
- - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-bug-blog-january-31-2019-2019-01-31
+ - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-bug-blog-february-2019-02-14
 ---
