@@ -2,8 +2,8 @@
   {
     "card": "Jace, Cunning Castaway",
     "description": "Illusion tokens created by Jace, Cunning Castaway have redundant blue text.",
-    "category": "Unclassified",
-    "last_updated": "2019-02-14 21:09:42",
+    "category": "Graphical",
+    "last_updated": "2019-02-16 15:03:26",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -3379,13 +3379,13 @@
     "card": "Whims of the Fates",
     "description": "Whims of the Fates Causes client crashes",
     "category": "Game Breaking",
-    "last_updated": "2019-01-31 09:39:27",
+    "last_updated": "2019-02-16 15:02:23",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/32",
-    "last_verified": null
+    "last_verified": "3.4.106.2067"
   },
   {
     "card": "Shifty Doppelganger",
