@@ -3242,13 +3242,13 @@
     "card": "Semblance Anvil",
     "description": "Semblance Anvil imprinting a split card does not reduce any casting costs. ",
     "category": "Disadvantageous",
-    "last_updated": "2019-02-24 00:51:42",
+    "last_updated": "2019-02-24 03:07:58",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/55",
-    "last_verified": null
+    "last_verified": "3.4.106.2069"
   },
   {
     "card": "Athreos, God of Passage",
