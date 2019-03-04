@@ -1573,6 +1573,30 @@
     "last_verified": null
   },
   {
+    "card": "Cut",
+    "description": "Split cards such as Cut // Ribbons are reported as 3 cards in the chat log.",
+    "category": "Graphical",
+    "last_updated": "2019-03-04 22:38:23",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/444",
+    "last_verified": null
+  },
+  {
+    "card": "Ribbons",
+    "description": "Split cards such as Cut // Ribbons are reported as 3 cards in the chat log.",
+    "category": "Graphical",
+    "last_updated": "2019-03-04 22:38:23",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/444",
+    "last_verified": null
+  },
+  {
     "card": "Heir of Falkenrath",
     "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
     "category": "Advantageous",
