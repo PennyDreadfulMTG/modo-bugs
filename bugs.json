@@ -996,13 +996,12 @@
     "card": "Umbra Mystic",
     "description": "Enchantments granted Totem Armor by Umbra Mystic don't become sacrificed",
     "category": "Advantageous",
-    "last_updated": "2019-03-04 08:40:34",
+    "last_updated": "2019-03-07 19:00:14",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/586",
-    "help_wanted": true,
     "last_verified": null
   },
   {
