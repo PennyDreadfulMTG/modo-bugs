@@ -122,14 +122,26 @@
   {
     "card": "Umbilicus",
     "description": "Umbilicus doesn't let you return permanent to hand",
-    "category": "Unconfirmed",
-    "last_updated": "2019-02-20 21:38:20",
+    "category": "Advantageous",
+    "last_updated": "2019-03-07 21:38:38",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/689",
-    "last_verified": null
+    "last_verified": "3.4.106.2073"
+  },
+  {
+    "card": "Blood Clock",
+    "description": "Umbilicus doesn't let you return permanent to hand",
+    "category": "Advantageous",
+    "last_updated": "2019-03-07 21:38:38",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/689",
+    "last_verified": "3.4.106.2073"
   },
   {
     "card": "Jace, Cunning Castaway",
