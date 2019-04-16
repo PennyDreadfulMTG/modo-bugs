@@ -2,8 +2,8 @@
   {
     "card": "Guardian Project",
     "description": "Guardian Project does not draw a card if a face-down permanent (e.g. Morph) enters the battlefield.",
-    "category": "Unconfirmed",
-    "last_updated": "2019-04-13 01:13:20",
+    "category": "Disadvantageous",
+    "last_updated": "2019-04-13 01:41:31",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -201,6 +201,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/687",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -213,6 +214,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/686",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -225,6 +227,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/685",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -237,6 +240,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/685",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -249,6 +253,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/684",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -261,6 +266,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/683",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -273,6 +279,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/682",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -934,20 +941,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/582",
-    "last_verified": null
-  },
-  {
-    "card": "Fact or Fiction",
-    "description": "Fact or Fiction chooses an opponent before revealing in multiplayer",
-    "category": "Disadvantageous",
-    "last_updated": "2018-10-10 01:38:11",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/578",
-    "multiplayer_only": true,
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -1690,19 +1683,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/398",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Fiery Temper",
-    "description": "Some cards with the madness ability do not display the correct reminder text. Notably, this includes Fiery Temper.",
-    "category": "Unclassified",
-    "last_updated": "2019-01-31 09:38:44",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/397",
     "help_wanted": true,
     "last_verified": null
   },
