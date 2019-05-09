@@ -1,17 +1,5 @@
 [
   {
-    "card": "Deftblade Elite",
-    "description": "Deftblade Elite restarts the game when you attack",
-    "category": "Game Breaking",
-    "last_updated": "2019-05-07 01:34:21",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/711",
-    "last_verified": null
-  },
-  {
     "card": "Karn Liberated",
     "description": "Restarting the game with Karn Liberated restarts the game (But not in the good way)",
     "category": "Game Breaking",
