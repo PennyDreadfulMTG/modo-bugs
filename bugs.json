@@ -1046,45 +1046,6 @@
     "last_verified": "3.4.104.2027"
   },
   {
-    "card": "Graf Rats",
-    "description": "There is an issue adding meld cards to your deck",
-    "category": "Disadvantageous",
-    "last_updated": "2019-05-15 22:13:13",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/550",
-    "cade_bug": true,
-    "last_verified": "3.4.104.2026"
-  },
-  {
-    "card": "Gisela, the Broken Blade",
-    "description": "There is an issue adding meld cards to your deck",
-    "category": "Disadvantageous",
-    "last_updated": "2019-05-15 22:13:13",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/550",
-    "cade_bug": true,
-    "last_verified": "3.4.104.2026"
-  },
-  {
-    "card": "Hanweir Battlements",
-    "description": "There is an issue adding meld cards to your deck",
-    "category": "Disadvantageous",
-    "last_updated": "2019-05-15 22:13:13",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/550",
-    "cade_bug": true,
-    "last_verified": "3.4.104.2026"
-  },
-  {
     "card": "Hunted Dragon",
     "description": "The tokens created by Hunted Dragon have Banding in addition to first strike",
     "category": "Graphical",
