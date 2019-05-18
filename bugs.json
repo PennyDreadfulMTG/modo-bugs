@@ -3196,19 +3196,6 @@
     "last_verified": null
   },
   {
-    "card": "Zur's Weirding",
-    "description": "Zur's Weirding Reveals but doesn't allow you to pay",
-    "category": "Disadvantageous",
-    "last_updated": "2019-01-31 09:39:27",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/34",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2027"
-  },
-  {
     "card": "Whims of the Fates",
     "description": "Whims of the Fates Causes client crashes",
     "category": "Game Breaking",
