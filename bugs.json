@@ -1,5 +1,17 @@
 [
   {
+    "card": "Kruphix, God of Horizons",
+    "description": "Kruphix, God of Horizons causes a crash if you try to save mana with his ability",
+    "category": "Unconfirmed",
+    "last_updated": "2019-05-27 11:58:22",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/715",
+    "last_verified": null
+  },
+  {
     "card": "Zur's Weirding",
     "description": "If a player would draw from an empty library with Zur's Weirding in play, that player can't be made to lose, and the replacement effect stops functioning.",
     "category": "Unconfirmed",
