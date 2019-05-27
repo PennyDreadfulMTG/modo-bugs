@@ -2,12 +2,12 @@
   {
     "card": "Kruphix, God of Horizons",
     "description": "Kruphix, God of Horizons causes a crash if you try to save mana with his ability",
-    "category": "Unconfirmed",
-    "last_updated": "2019-05-27 11:58:23",
+    "category": "Game Breaking",
+    "last_updated": "2019-05-27 14:10:43",
     "pd_legal": false,
     "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
+    "breaking": true,
+    "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/715",
     "last_verified": null
   },
