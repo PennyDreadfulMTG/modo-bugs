@@ -1,5 +1,17 @@
 [
   {
+    "card": "Vivien, Champion of the Wilds",
+    "description": "If Vivien, Champion of the Wilds exiles a creature with flash, it incorrectly also displays that it has flash in blue text.",
+    "category": "Unclassified",
+    "last_updated": "2019-05-30 21:54:50",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/720",
+    "last_verified": null
+  },
+  {
     "card": "Kruphix, God of Horizons",
     "description": "Kruphix, God of Horizons causes a crash if you try to save mana with his ability",
     "category": "Game Breaking",
@@ -14,8 +26,8 @@
   {
     "card": "Zur's Weirding",
     "description": "If a player would draw from an empty library with Zur's Weirding in play, that player can't be made to lose, and the replacement effect stops functioning.",
-    "category": "Unconfirmed",
-    "last_updated": "2019-05-24 16:54:46",
+    "category": "Disadvantageous",
+    "last_updated": "2019-05-28 18:12:09",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -1288,19 +1300,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/488",
     "help_wanted": true,
     "last_verified": "3.4.103.2022"
-  },
-  {
-    "card": "Rancor",
-    "description": "If Rancor falls off a land that was a creature temporarily that turn, it will incorrectly trigger during the next turn's upkeep.",
-    "category": "Advantageous",
-    "last_updated": "2018-09-01 01:21:30",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/484",
-    "help_wanted": true,
-    "last_verified": null
   },
   {
     "card": "Skullbriar, the Walking Grave",
@@ -2691,6 +2690,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/213",
+    "help_wanted": true,
     "last_verified": "3.4.106.2073"
   },
   {
