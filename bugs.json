@@ -3,7 +3,7 @@
     "card": "Vivien, Champion of the Wilds",
     "description": "If Vivien, Champion of the Wilds exiles a creature with flash, it incorrectly also displays that it has flash in blue text.",
     "category": "Unclassified",
-    "last_updated": "2019-05-30 21:54:50",
+    "last_updated": "2019-05-30 21:54:52",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
