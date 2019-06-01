@@ -1,5 +1,17 @@
 [
   {
+    "card": "Verdeloth the Ancient",
+    "description": "Verdeloth the Ancient's kicker cost does not function.",
+    "category": "Non-Functional ability",
+    "last_updated": "2019-06-01 06:54:45",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/721",
+    "last_verified": null
+  },
+  {
     "card": "Vivien, Champion of the Wilds",
     "description": "If Vivien, Champion of the Wilds exiles a creature with flash, it incorrectly also displays that it has flash in blue text.",
     "category": "Unclassified",
