@@ -96,6 +96,30 @@
     "last_verified": null
   },
   {
+    "card": "Sphinx of Uthuun",
+    "description": "Sphinx of Uthuun's trigger does not allow you to order the cards going into your graveyard",
+    "category": "Disadvantageous",
+    "last_updated": "2019-06-06 23:09:34",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/709",
+    "last_verified": null
+  },
+  {
+    "card": "Vorlath's Shapeshifter",
+    "description": "Sphinx of Uthuun's trigger does not allow you to order the cards going into your graveyard",
+    "category": "Disadvantageous",
+    "last_updated": "2019-06-06 23:09:34",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/709",
+    "last_verified": null
+  },
+  {
     "card": "Guardian Project",
     "description": "Guardian Project does not draw a card if a face-down permanent (e.g. Morph) enters the battlefield.",
     "category": "Disadvantageous",
