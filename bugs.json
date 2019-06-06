@@ -96,30 +96,6 @@
     "last_verified": null
   },
   {
-    "card": "Sphinx of Uthuun",
-    "description": "Sphinx of Uthuun's trigger does not allow you to order the cards going into your graveyard",
-    "category": "Unconfirmed",
-    "last_updated": "2019-05-07 02:24:43",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/709",
-    "last_verified": null
-  },
-  {
-    "card": "Vorlath's Shapeshifter",
-    "description": "Sphinx of Uthuun's trigger does not allow you to order the cards going into your graveyard",
-    "category": "Unconfirmed",
-    "last_updated": "2019-05-07 02:24:43",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/709",
-    "last_verified": null
-  },
-  {
     "card": "Guardian Project",
     "description": "Guardian Project does not draw a card if a face-down permanent (e.g. Morph) enters the battlefield.",
     "category": "Disadvantageous",
@@ -312,19 +288,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/689",
     "help_wanted": true,
     "last_verified": "3.4.106.2073"
-  },
-  {
-    "card": "Jace, Cunning Castaway",
-    "description": "Illusion tokens created by Jace, Cunning Castaway have redundant blue text.",
-    "category": "Graphical",
-    "last_updated": "2019-02-16 15:03:26",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/688",
-    "help_wanted": true,
-    "last_verified": null
   },
   {
     "card": "Vedalken Shackles",
