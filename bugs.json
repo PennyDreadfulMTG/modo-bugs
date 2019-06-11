@@ -583,19 +583,6 @@
     "last_verified": null
   },
   {
-    "card": "Flamerush Rider",
-    "description": "The token created by Flamerush Rider does not enter the battlefield tapped and attacking.",
-    "category": "Unclassified",
-    "last_updated": "2019-02-04 21:46:35",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/656",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "The Great Aurora",
     "description": "The Great Aurora shuffles tokens into your library that you can then draw.",
     "category": "Unclassified",
@@ -1340,19 +1327,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/483",
     "help_wanted": true,
     "last_verified": "3.4.106.2073"
-  },
-  {
-    "card": "Quicksilver Fountain",
-    "description": "Quicksilver Fountain allows you to place flood counters on nonland permanents.",
-    "category": "Advantageous",
-    "last_updated": "2019-01-31 09:38:39",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/481",
-    "help_wanted": true,
-    "last_verified": "3.4.106.2065"
   },
   {
     "card": "Muldrotha, the Gravetide",
@@ -2629,19 +2603,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/221",
     "help_wanted": true,
     "last_verified": "3.4.103.2022"
-  },
-  {
-    "card": "Vesuvan Shapeshifter",
-    "description": "If Vesuvan Shapeshifter copies a Megamorph creature with it's face-up ability, it will retain the Megamorph ability in later turns, gaining +1/+1 counters.",
-    "category": "Advantageous",
-    "last_updated": "2019-01-31 09:39:12",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/220",
-    "help_wanted": true,
-    "last_verified": "3.4.102.2007"
   },
   {
     "card": "Sylvan Primordial",
