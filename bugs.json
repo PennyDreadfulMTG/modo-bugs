@@ -378,19 +378,6 @@
     "last_verified": null
   },
   {
-    "card": "Nullstone Gargoyle",
-    "description": "Nullstone Gargoyle functions incorrectly.",
-    "category": "Unclassified",
-    "last_updated": "2019-02-14 21:09:51",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/684",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Blade of Selves",
     "description": "There is an issue when creating multiple tokens from the myriad ability on cards such as Blade of Selves.",
     "category": "Unclassified",
@@ -855,13 +842,12 @@
     "card": "Nullstone Gargoyle",
     "description": "Nullstone Gargoyle counters all noncreature spells cast",
     "category": "Advantageous",
-    "last_updated": "2019-02-04 21:53:52",
+    "last_updated": "2019-06-12 08:54:54",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/615",
-    "help_wanted": true,
     "last_verified": null
   },
   {
