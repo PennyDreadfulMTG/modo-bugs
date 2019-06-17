@@ -1,5 +1,17 @@
 [
   {
+    "card": "Whispering Madness",
+    "description": "Whispering Madness, Cipher require to pay the spell cost",
+    "category": "Unconfirmed",
+    "last_updated": "2019-06-17 21:54:53",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/723",
+    "last_verified": null
+  },
+  {
     "card": "Verdeloth the Ancient",
     "description": "\"Kicker {X}\" costs do not allow you to spend mana on them correctly. ",
     "category": "Non-Functional ability",
