@@ -2837,19 +2837,6 @@
     "last_verified": "3.4.102.2007"
   },
   {
-    "card": "Torment of Hailfire",
-    "description": "The undo function works incorrectly with Torment of Hailfire.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-09-25 03:38:20",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/158",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Tomorrow, Azami's Familiar",
     "description": "Tomorrow, Azami's Familiar puts both unchosen cards back on top of the library.",
     "category": "Disadvantageous",
