@@ -1,5 +1,17 @@
 [
   {
+    "card": "Choice of Damnations",
+    "description": "Choice of Damnations lets opponent choose whether to sacrifice or lose life",
+    "category": "Unconfirmed",
+    "last_updated": "2019-06-18 06:54:44",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/724",
+    "last_verified": null
+  },
+  {
     "card": "Whispering Madness",
     "description": "Whispering Madness, Cipher require to pay the spell cost",
     "category": "Unconfirmed",
