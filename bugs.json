@@ -1806,14 +1806,13 @@
     "card": "Mana Reflection",
     "description": "Mana Reflection doesn't double mana produced by mana abilities that provide mana in any combination of colors",
     "category": "Disadvantageous",
-    "last_updated": "2018-06-02 08:32:47",
+    "last_updated": "2019-06-19 13:55:00",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/346",
-    "help_wanted": true,
-    "last_verified": "3.4.103.2022"
+    "last_verified": "3.4.109.2103"
   },
   {
     "card": "Kaya, Ghost Assassin",
