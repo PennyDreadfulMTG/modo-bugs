@@ -1,5 +1,29 @@
 [
   {
+    "card": "Tidal Warrior",
+    "description": "Tidal Warrior's activated ability causes the game to crash",
+    "category": "Game Breaking",
+    "last_updated": "2019-06-30 04:05:09",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/759",
+    "last_verified": null
+  },
+  {
+    "card": "Streambed Aquitects",
+    "description": "Tidal Warrior's activated ability causes the game to crash",
+    "category": "Game Breaking",
+    "last_updated": "2019-06-30 04:05:09",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/759",
+    "last_verified": null
+  },
+  {
     "card": "Yixlid Jailer",
     "description": "Yixlid Jailer allows some cards to be cast from the graveyard",
     "category": "Disadvantageous",
