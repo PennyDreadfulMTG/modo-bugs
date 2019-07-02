@@ -1890,19 +1890,6 @@
     "last_verified": "3.4.103.2022"
   },
   {
-    "card": "Skullbriar, the Walking Grave",
-    "description": "Skullbriar, the Walking Grave can cause the client to crash if it moves to the command zone with +1/+1 counters.",
-    "category": "Game Breaking",
-    "last_updated": "2019-03-21 21:19:40",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/483",
-    "help_wanted": true,
-    "last_verified": "3.4.106.2073"
-  },
-  {
     "card": "Muldrotha, the Gravetide",
     "description": "Muldrotha, the Gravetide does not allow you to cast cards from your graveyard with As Foretold.",
     "category": "Disadvantageous",
