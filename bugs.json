@@ -1979,6 +1979,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/455",
+    "help_wanted": true,
     "last_verified": "3.4.103.2011"
   },
   {
@@ -2668,6 +2669,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/305",
+    "help_wanted": true,
     "last_verified": "3.4.101.1115"
   },
   {
@@ -3109,6 +3111,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/241",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -3276,6 +3279,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/208",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -3808,6 +3812,7 @@
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/27",
+    "help_wanted": true,
     "last_verified": "3.4.103.2022"
   },
   {
@@ -3898,6 +3903,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/8",
+    "help_wanted": true,
     "last_verified": null
   },
   {
