@@ -3105,14 +3105,13 @@
     "card": "Sheltering Ancient",
     "description": "Sheltering Ancient's Cumulative Upkeep Stops Working After One Age Counter",
     "category": "Advantageous",
-    "last_updated": "2019-05-07 02:24:57",
+    "last_updated": "2019-07-07 17:55:26",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/241",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.110.2113"
   },
   {
     "card": "Vexing Sphinx",
