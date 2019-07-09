@@ -242,8 +242,8 @@
   {
     "card": "Crovax The Cursed",
     "description": "Crovax The Cursed loses old counters after sacrifice ",
-    "category": "Unconfirmed",
-    "last_updated": "2019-06-25 15:54:59",
+    "category": "Disadvantageous",
+    "last_updated": "2019-07-09 15:39:49",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -254,8 +254,8 @@
   {
     "card": "Ulamog's Despoiler",
     "description": "Creatures entering the battlefield as a copy of Ulamog's Despoiler do not trigger its ability.",
-    "category": "Unclassified",
-    "last_updated": "2019-06-25 16:54:49",
+    "category": "Disadvantageous",
+    "last_updated": "2019-07-09 15:38:40",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
