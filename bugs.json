@@ -1,9 +1,9 @@
 [
   {
     "card": "Consul's Lieutenant",
-    "description": "Consul's Lieutenant doesn't grant +1/+1",
+    "description": "Consul's Lieutenant doesn't grant +1/+1 to other attacking creatures.",
     "category": "Disadvantageous",
-    "last_updated": "2019-07-09 18:51:46",
+    "last_updated": "2019-07-09 19:19:54",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
