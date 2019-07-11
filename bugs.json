@@ -3052,14 +3052,14 @@
     "card": "Orcish Spy",
     "description": "Orcish Spy and cards with similar abilities show the cards in alphabetical order, not the actual order",
     "category": "Disadvantageous",
-    "last_updated": "2019-05-07 01:34:36",
+    "last_updated": "2019-07-11 17:49:22",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/251",
     "help_wanted": true,
-    "last_verified": "3.4.101.1115"
+    "last_verified": "3.4.110.2115"
   },
   {
     "card": "Compulsive Research",
