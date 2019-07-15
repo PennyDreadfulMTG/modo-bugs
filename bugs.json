@@ -1,5 +1,17 @@
 [
   {
+    "card": "Mage-Ring Network",
+    "description": "Mage-Ring Network. 3rd ability does not add mana.",
+    "category": "Unconfirmed",
+    "last_updated": "2019-07-15 17:17:11",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/762",
+    "last_verified": null
+  },
+  {
     "card": "Consul's Lieutenant",
     "description": "Consul's Lieutenant doesn't grant +1/+1 to other attacking creatures.",
     "category": "Disadvantageous",
