@@ -2201,14 +2201,13 @@
   {
     "card": "Ever After",
     "description": "Ever After resolves immediately upon selection of the second target instead of allowing the player to click a \"Done\" button.",
-    "category": "Unclassified",
-    "last_updated": "2019-01-31 09:38:42",
+    "category": "Graphical",
+    "last_updated": "2019-07-16 14:22:43",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/404",
-    "help_wanted": true,
     "last_verified": null
   },
   {
