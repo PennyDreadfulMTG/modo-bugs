@@ -612,6 +612,18 @@
     "last_verified": null
   },
   {
+    "card": "Last Rites",
+    "description": "Last Rites has graphical bug",
+    "category": "Graphical",
+    "last_updated": "2019-07-17 19:44:56",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/722",
+    "last_verified": null
+  },
+  {
     "card": "Verdeloth the Ancient",
     "description": "\"Kicker {X}\" costs do not allow you to spend mana on them correctly. ",
     "category": "Non-Functional ability",
