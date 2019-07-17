@@ -748,6 +748,19 @@
     "last_verified": null
   },
   {
+    "card": "Skinshifter",
+    "description": "The ability context menu of Skinshifter is displayed incorrectly.",
+    "category": "Unclassified",
+    "last_updated": "2019-04-05 11:16:33",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/700",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
     "card": "Soul Separator",
     "description": "The creature tokens created by Soul Separator have incorrect power and toughness.",
     "category": "Unclassified",
