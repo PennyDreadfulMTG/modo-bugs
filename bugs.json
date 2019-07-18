@@ -1481,18 +1481,6 @@
     "last_verified": null
   },
   {
-    "card": "Patrician's Scorn",
-    "description": "You can't pay the alternate cost of Patrician's Scorn",
-    "category": "Disadvantageous",
-    "last_updated": "2019-07-18 01:43:48",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/605",
-    "last_verified": null
-  },
-  {
     "card": "Containment Priest",
     "description": "If Containment Priest and any other creatures (not cast) ETB at the same time, all the other creatures get exiled",
     "category": "Disadvantageous",
