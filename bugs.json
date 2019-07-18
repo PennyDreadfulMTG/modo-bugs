@@ -1484,13 +1484,12 @@
     "card": "Patrician's Scorn",
     "description": "You can't pay the alternate cost of Patrician's Scorn",
     "category": "Disadvantageous",
-    "last_updated": "2019-05-07 01:34:27",
+    "last_updated": "2019-07-18 01:43:48",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/605",
-    "help_wanted": true,
     "last_verified": null
   },
   {
