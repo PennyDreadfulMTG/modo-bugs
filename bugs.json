@@ -588,18 +588,6 @@
     "last_verified": null
   },
   {
-    "card": "Choice of Damnations",
-    "description": "Choice of Damnations lets opponent choose whether to sacrifice or lose life",
-    "category": "Unconfirmed",
-    "last_updated": "2019-06-18 06:54:46",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/724",
-    "last_verified": null
-  },
-  {
     "card": "Whispering Madness",
     "description": "Whispering Madness, Cipher require to pay the spell cost",
     "category": "Unconfirmed",
@@ -756,19 +744,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/705",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Skinshifter",
-    "description": "The ability context menu of Skinshifter is displayed incorrectly.",
-    "category": "Unclassified",
-    "last_updated": "2019-04-05 11:16:33",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/700",
     "help_wanted": true,
     "last_verified": null
   },
