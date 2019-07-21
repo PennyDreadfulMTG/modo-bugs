@@ -1,5 +1,17 @@
 [
   {
+    "card": "Desecrated Tomb",
+    "description": "Desecrated Tomb creates two Bats instead of one.",
+    "category": "Unconfirmed",
+    "last_updated": "2019-07-21 15:43:22",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/767",
+    "last_verified": null
+  },
+  {
     "card": "Phantasmagorian",
     "description": "The order of cards discarded by Phantasmagorian's ability is random",
     "category": "Unconfirmed",
