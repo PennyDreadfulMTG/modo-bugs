@@ -314,8 +314,8 @@
   {
     "card": "Riders of Gavony",
     "description": "Riders of Gavony does not grant blue rules text indicating protection.",
-    "category": "Unclassified",
-    "last_updated": "2019-06-25 16:54:51",
+    "category": "Graphical",
+    "last_updated": "2019-07-22 18:48:17",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -326,8 +326,8 @@
   {
     "card": "Descendants' Path",
     "description": "Descendants' Path incorrectly allows players to cast noncreature tribal spells.",
-    "category": "Unclassified",
-    "last_updated": "2019-07-12 08:39:05",
+    "category": "Advantageous",
+    "last_updated": "2019-07-22 18:47:43",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -362,8 +362,8 @@
   {
     "card": "Evershrike",
     "description": "Evershrike can incorrectly return multiple auras from the graveyard.",
-    "category": "Unclassified",
-    "last_updated": "2019-06-25 16:55:02",
+    "category": "Advantageous",
+    "last_updated": "2019-07-22 18:49:02",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
