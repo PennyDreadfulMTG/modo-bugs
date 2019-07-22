@@ -327,7 +327,7 @@
     "card": "Descendants' Path",
     "description": "Descendants' Path incorrectly allows players to cast noncreature tribal spells.",
     "category": "Advantageous",
-    "last_updated": "2019-07-22 18:47:43",
+    "last_updated": "2019-07-22 18:54:45",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
