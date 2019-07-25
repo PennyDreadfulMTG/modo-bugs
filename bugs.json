@@ -2,8 +2,8 @@
   {
     "card": "City of Traitors",
     "description": "City of Traitors triggers by casting Zoetic Cavern as a Morph creature",
-    "category": "Unconfirmed",
-    "last_updated": "2019-07-24 21:12:30",
+    "category": "Disadvantageous",
+    "last_updated": "2019-07-25 01:16:26",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -14,13 +14,37 @@
   {
     "card": "Zoetic Cavern",
     "description": "City of Traitors triggers by casting Zoetic Cavern as a Morph creature",
-    "category": "Unconfirmed",
-    "last_updated": "2019-07-24 21:12:30",
+    "category": "Disadvantageous",
+    "last_updated": "2019-07-25 01:16:26",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/769",
+    "last_verified": null
+  },
+  {
+    "card": "Zoetic Cavern",
+    "description": "Mystic Forge does not allow casting Zoetic Cavern as a Morph creature from the top of your library",
+    "category": "Disadvantageous",
+    "last_updated": "2019-07-25 01:38:36",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/768",
+    "last_verified": null
+  },
+  {
+    "card": "Mystic Forge",
+    "description": "Mystic Forge does not allow casting Zoetic Cavern as a Morph creature from the top of your library",
+    "category": "Disadvantageous",
+    "last_updated": "2019-07-25 01:38:36",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/768",
     "last_verified": null
   },
   {
