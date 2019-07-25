@@ -24,30 +24,6 @@
     "last_verified": null
   },
   {
-    "card": "Zoetic Cavern",
-    "description": "Mystic Forge does not allow casting Zoetic Cavern as a Morph creature from the top of your library",
-    "category": "Unconfirmed",
-    "last_updated": "2019-07-24 21:13:16",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/768",
-    "last_verified": null
-  },
-  {
-    "card": "Mystic Forge",
-    "description": "Mystic Forge does not allow casting Zoetic Cavern as a Morph creature from the top of your library",
-    "category": "Unconfirmed",
-    "last_updated": "2019-07-24 21:13:16",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/768",
-    "last_verified": null
-  },
-  {
     "card": "Desecrated Tomb",
     "description": "Desecrated Tomb creates two Bats instead of one when a creature moves from graveyard to battlefield.",
     "category": "Advantageous",
