@@ -564,18 +564,6 @@
     "last_verified": null
   },
   {
-    "card": "Compost",
-    "description": "Split cards do not trigger Compost.",
-    "category": "Unclassified",
-    "last_updated": "2019-06-25 16:55:32",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/734",
-    "last_verified": null
-  },
-  {
     "card": "Clone",
     "description": "Players are prompted to choose the replacement effect of cards such as Clone during the resolution of Show and Tell.",
     "category": "Unclassified",
@@ -3481,9 +3469,9 @@
   },
   {
     "card": "Compost",
-    "description": "Compost The effect isn't triggered when an opponent only casts the nonblack half of a split card. ",
+    "description": "The effect isn't triggered when an opponent only casts the nonblack half of a split card. ",
     "category": "Disadvantageous",
-    "last_updated": "2019-05-07 02:25:02",
+    "last_updated": "2019-07-26 06:09:06",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
