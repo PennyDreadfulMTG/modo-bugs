@@ -1,5 +1,17 @@
 [
   {
+    "card": "Enduring Renewal",
+    "description": "Enduring Renewal prevents losing to decking",
+    "category": "Advantageous",
+    "last_updated": "2019-07-27 20:37:57",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/770",
+    "last_verified": null
+  },
+  {
     "card": "City of Traitors",
     "description": "City of Traitors triggers by casting Zoetic Cavern as a Morph creature",
     "category": "Disadvantageous",
