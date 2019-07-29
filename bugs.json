@@ -12,22 +12,10 @@
     "last_verified": null
   },
   {
-    "card": "City of Traitors",
-    "description": "City of Traitors triggers by casting Zoetic Cavern as a Morph creature",
-    "category": "Disadvantageous",
-    "last_updated": "2019-07-25 01:16:26",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/769",
-    "last_verified": null
-  },
-  {
     "card": "Zoetic Cavern",
     "description": "City of Traitors triggers by casting Zoetic Cavern as a Morph creature",
     "category": "Disadvantageous",
-    "last_updated": "2019-07-25 01:16:26",
+    "last_updated": "2019-07-29 12:28:30",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
