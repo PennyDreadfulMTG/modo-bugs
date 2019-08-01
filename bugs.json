@@ -945,13 +945,12 @@
     "card": "Thousand-Year Storm",
     "description": "There are various display issues with Thousand-Year Storm.",
     "category": "Unclassified",
-    "last_updated": "2019-02-28 18:55:39",
+    "last_updated": "2019-08-01 21:53:32",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/690",
-    "help_wanted": true,
     "last_verified": null
   },
   {
