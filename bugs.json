@@ -1,5 +1,29 @@
 [
   {
+    "card": "Primal Amulet",
+    "description": "Primal Wellspring's triggered ability has the text of Pyromancer's Goggles",
+    "category": "Unconfirmed",
+    "last_updated": "2019-08-05 22:36:15",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/771",
+    "last_verified": null
+  },
+  {
+    "card": "Primal Wellspring",
+    "description": "Primal Wellspring's triggered ability has the text of Pyromancer's Goggles",
+    "category": "Unconfirmed",
+    "last_updated": "2019-08-05 22:36:15",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/771",
+    "last_verified": null
+  },
+  {
     "card": "Enduring Renewal",
     "description": "Enduring Renewal prevents losing to decking",
     "category": "Advantageous",
