@@ -552,18 +552,6 @@
     "last_verified": null
   },
   {
-    "card": "Shifty Doppelganger",
-    "description": "Shifty Doppelganger does not function correctly.",
-    "category": "Unclassified",
-    "last_updated": "2019-06-25 16:55:20",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/740",
-    "last_verified": null
-  },
-  {
     "card": "Umbra Mystic",
     "description": "Umbra Mystic interacts incorrectly with creatures enchanted with multiple auras.",
     "category": "Unclassified",
@@ -3465,9 +3453,9 @@
   },
   {
     "card": "Compost",
-    "description": "The effect isn't triggered when an opponent only casts the nonblack half of a split card. ",
+    "description": "Compost isn't triggered when an opponent only casts the nonblack half of a split card. ",
     "category": "Disadvantageous",
-    "last_updated": "2019-07-26 06:09:06",
+    "last_updated": "2019-08-09 08:46:46",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -3802,13 +3790,12 @@
     "card": "Shifty Doppelganger",
     "description": "Shifty Doppelganger puts an \"ability\" onto the battlefield at end of turn, rather than itself.",
     "category": "Game Breaking",
-    "last_updated": "2019-05-07 02:25:05",
+    "last_updated": "2019-08-09 08:30:56",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/27",
-    "help_wanted": true,
     "last_verified": "3.4.103.2022"
   },
   {
@@ -3828,27 +3815,25 @@
     "card": "Odds",
     "description": "Odds restarts the game in buggy state on heads",
     "category": "Game Breaking",
-    "last_updated": "2019-03-31 20:23:06",
+    "last_updated": "2019-08-09 08:54:52",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17",
-    "help_wanted": true,
-    "last_verified": "3.4.106.2073"
+    "last_verified": "3.4.110.4002"
   },
   {
     "card": "Ends",
     "description": "Odds restarts the game in buggy state on heads",
     "category": "Game Breaking",
-    "last_updated": "2019-03-31 20:23:06",
+    "last_updated": "2019-08-09 08:54:52",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17",
-    "help_wanted": true,
-    "last_verified": "3.4.106.2073"
+    "last_verified": "3.4.110.4002"
   },
   {
     "card": "Null Chamber",
