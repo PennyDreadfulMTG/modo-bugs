@@ -2438,19 +2438,6 @@
     "last_verified": null
   },
   {
-    "card": "Reviving Vapors",
-    "description": "Reviving Vapors doesn't cause you to gain life.",
-    "category": "Disadvantageous",
-    "last_updated": "2019-01-31 09:38:46",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/340",
-    "help_wanted": true,
-    "last_verified": "3.4.105.2052"
-  },
-  {
     "card": "Eldrazi Spawn",
     "description": "Eldrazi Spawn and Scions created by cards from the Battle for Zendikar and Rise of the Eldrazi sets display \"Add {1} to your mana pool\" instead of \"Add {C} to your mana pool\"",
     "category": "Graphical",
