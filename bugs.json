@@ -1,5 +1,17 @@
 [
   {
+    "card": "Mist of Stagnation",
+    "description": "Mist of Stagnation doesn't allow players to choose untapped permanents",
+    "category": "Unconfirmed",
+    "last_updated": "2019-08-13 23:46:55",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/790",
+    "last_verified": null
+  },
+  {
     "card": "Repudiate // Replicate",
     "description": "If split cards such as Repudiate // Replicate are exiled face down, they are sometimes still revealed to all players.",
     "category": "Unclassified",
