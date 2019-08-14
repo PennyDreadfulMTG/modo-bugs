@@ -3,7 +3,7 @@
     "card": "Mist of Stagnation",
     "description": "Mist of Stagnation doesn't allow players to choose untapped permanents, will force the active player to concede if there are not enough tapped permanents in the field to fulfil the requirements, and in random cases requires less number of tapped permanents than what should normally be required",
     "category": "Unconfirmed",
-    "last_updated": "2019-08-14 00:31:43",
+    "last_updated": "2019-08-14 01:43:02",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
