@@ -204,18 +204,6 @@
     "last_verified": null
   },
   {
-    "card": "Consul's Lieutenant",
-    "description": "Consul's Lieutenant doesn't grant +1/+1 to other attacking creatures.",
-    "category": "Disadvantageous",
-    "last_updated": "2019-07-09 19:19:54",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/761",
-    "last_verified": null
-  },
-  {
     "card": "Assert Authority",
     "description": "Chromatic Sphere is not able to be activated during the mana ability window of casting a colored spell with Affinity for Artifacts.",
     "category": "Disadvantageous",
