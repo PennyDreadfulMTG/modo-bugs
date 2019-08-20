@@ -1487,14 +1487,13 @@
     "card": "Nullstone Gargoyle",
     "description": "Nullstone Gargoyle counters all noncreature spells cast",
     "category": "Advantageous",
-    "last_updated": "2019-06-12 08:54:54",
+    "last_updated": "2019-08-20 04:43:18",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/615",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.111.4003"
   },
   {
     "card": "Eldrazi Spawn",
