@@ -1,5 +1,17 @@
 [
   {
+    "card": "Daretti, Ingenious Iconoclast",
+    "description": "Daretti, Ingenious Iconoclast creates tokens with the wrong card image",
+    "category": "Unconfirmed",
+    "last_updated": "2019-08-21 22:00:58",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/791",
+    "last_verified": null
+  },
+  {
     "card": "Mist of Stagnation",
     "description": "Mist of Stagnation doesn't allow players to choose untapped permanents, will soft-lock the game if there are not enough tapped permanents in the field to fulfil the requirements, and in random cases requires less number of tapped permanents than what should normally be required",
     "category": "Game Breaking",
