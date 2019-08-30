@@ -1078,14 +1078,13 @@
     "card": "Tajuru Preserver",
     "description": "The chat log displays incorrect text when a player is to sacrifice permanents but cannot by controlling a card such as Tajuru Preserver.",
     "category": "Graphical",
-    "last_updated": "2019-06-25 21:05:35",
+    "last_updated": "2019-08-30 02:30:53",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/682",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.111.4007"
   },
   {
     "card": "Brothers Yamazaki",
