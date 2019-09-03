@@ -1257,14 +1257,13 @@
     "card": "Pollen Lullaby",
     "description": "Pollen Lullaby does not display the rules text stating that the creature doesn't untap.",
     "category": "Unclassified",
-    "last_updated": "2019-06-18 01:30:33",
+    "last_updated": "2019-09-03 01:04:54",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/654",
-    "help_wanted": true,
-    "last_verified": "3.4.109.2103"
+    "last_verified": "3.4.111.4007"
   },
   {
     "card": "Fleetwheel Cruiser",
