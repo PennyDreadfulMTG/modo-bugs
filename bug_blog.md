@@ -1,5 +1,5 @@
 ---
-title: Magic Online Bug Blog August 8, 2019
+title: Magic Online Bug Blog September 12, 2019
 redirect_to:
- - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-bug-blog-august-8-2019
+ - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-bug-blog-september-12-2019
 ---

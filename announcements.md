@@ -1,6 +1,6 @@
 ---
-title: Magic Online Announcements, August 27, 2019
+title: Magic Online Announcements, September 17, 2019
 redirect_to:
- - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-august-2019-08-27
+ - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-september-17-2019
 has_build_notes: False
 ---

@@ -1,5 +1,125 @@
 [
   {
+    "card": "Dream Halls",
+    "description": "Dream Halls does not function correctly with modal spells such as Mystic Confluence.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-17 18:54:38",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/797",
+    "last_verified": null
+  },
+  {
+    "card": "Mystic Confluence",
+    "description": "Dream Halls does not function correctly with modal spells such as Mystic Confluence.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-17 18:54:38",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/797",
+    "last_verified": null
+  },
+  {
+    "card": "Necra Sanctuary",
+    "description": "Necra Sanctuary does not cause a player to lose 3 life if you control both a green and white permanent.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-17 18:54:42",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/796",
+    "last_verified": null
+  },
+  {
+    "card": "Grafdigger's Cage",
+    "description": "With Grafdigger's Cage on the battlefield, the trigger of Matter Reshaper does not put the card into your hand.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-17 18:54:44",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/795",
+    "last_verified": null
+  },
+  {
+    "card": "Matter Reshaper",
+    "description": "With Grafdigger's Cage on the battlefield, the trigger of Matter Reshaper does not put the card into your hand.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-17 18:54:44",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/795",
+    "last_verified": null
+  },
+  {
+    "card": "Invert // Invent",
+    "description": "There are issues with split cards such as Invert // Invent interacting with Eye of the Storm and Knowledge Pool.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-17 18:54:47",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/794",
+    "last_verified": null
+  },
+  {
+    "card": "Eye of the Storm",
+    "description": "There are issues with split cards such as Invert // Invent interacting with Eye of the Storm and Knowledge Pool.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-17 18:54:47",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/794",
+    "last_verified": null
+  },
+  {
+    "card": "Knowledge Pool",
+    "description": "There are issues with split cards such as Invert // Invent interacting with Eye of the Storm and Knowledge Pool.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-17 18:54:47",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/794",
+    "last_verified": null
+  },
+  {
+    "card": "Kopala, Warden of Waves",
+    "description": "Kopala, Warden of Waves incorrectly increases the cost of spells by two\u00a0for each Merfolk that spell targets.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-17 18:54:50",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/793",
+    "last_verified": null
+  },
+  {
+    "card": "Wilderness Reclamation",
+    "description": "If No Possible Play: Yield All is set (F8) when an ability untaps all lands a player controls such as Wilderness Reclamation, one of the lands may be visually tapped, however, it can still be tapped.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-17 18:54:53",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/792",
+    "last_verified": null
+  },
+  {
     "card": "Daretti, Ingenious Iconoclast",
     "description": "Daretti, Ingenious Iconoclast creates tokens with the wrong card image",
     "category": "Graphical",
@@ -201,6 +321,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/765",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -213,6 +334,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/762",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -225,6 +347,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -237,6 +360,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -249,6 +373,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -261,6 +386,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -273,6 +399,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -285,6 +412,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -297,6 +425,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -309,6 +438,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -321,6 +451,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -333,6 +464,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -345,6 +477,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -357,6 +490,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -369,6 +503,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -381,6 +516,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -393,6 +529,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -405,6 +542,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -417,6 +555,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -455,6 +594,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/757",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -467,6 +607,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/755",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -673,13 +814,14 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/724",
+    "help_wanted": true,
     "last_verified": null
   },
   {
     "card": "Whispering Madness",
     "description": "Whispering Madness, Cipher require to pay the spell cost",
     "category": "Disadvantageous",
-    "last_updated": "2019-08-26 17:59:22",
+    "last_updated": "2019-09-15 20:26:14",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -697,6 +839,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/722",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -1162,6 +1305,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/669",
     "multiplayer_only": true,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -1174,6 +1318,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/668",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -1251,6 +1396,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/655",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -1301,6 +1447,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/650",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -1404,6 +1551,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/635",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -1746,14 +1894,14 @@
     "card": "Hunted Dragon",
     "description": "The tokens created by Hunted Dragon have Banding in addition to first strike",
     "category": "Graphical",
-    "last_updated": "2019-01-31 09:38:33",
+    "last_updated": "2019-09-10 18:46:48",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/548",
     "help_wanted": true,
-    "last_verified": "3.4.104.2027"
+    "last_verified": "3.4.111.4007"
   },
   {
     "card": "Courser of Kruphix",
@@ -2286,6 +2434,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/404",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2376,6 +2525,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/390",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2557,6 +2707,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/322",
     "cade_bug": true,
+    "help_wanted": true,
     "last_verified": "3.4.101.1120"
   },
   {
@@ -2570,6 +2721,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/322",
     "cade_bug": true,
+    "help_wanted": true,
     "last_verified": "3.4.101.1120"
   },
   {
@@ -2711,6 +2863,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/304",
+    "help_wanted": true,
     "last_verified": "3.4.101.1120"
   },
   {
@@ -2723,6 +2876,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
+    "help_wanted": true,
     "last_verified": "3.4.110.2115"
   },
   {
@@ -2735,6 +2889,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
+    "help_wanted": true,
     "last_verified": "3.4.110.2115"
   },
   {
@@ -2747,6 +2902,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
+    "help_wanted": true,
     "last_verified": "3.4.110.2115"
   },
   {
@@ -2759,6 +2915,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
+    "help_wanted": true,
     "last_verified": "3.4.110.2115"
   },
   {
@@ -2771,6 +2928,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
+    "help_wanted": true,
     "last_verified": "3.4.110.2115"
   },
   {
@@ -2900,6 +3058,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/291",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2924,6 +3083,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/279",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2975,6 +3135,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/269",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2987,6 +3148,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/269",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -3064,6 +3226,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/252",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -3088,6 +3251,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/249",
+    "help_wanted": true,
     "last_verified": "3.4.106.2079"
   },
   {
@@ -3100,6 +3264,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/247",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -3125,6 +3290,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/241",
+    "help_wanted": true,
     "last_verified": "3.4.110.2113"
   },
   {
@@ -3150,6 +3316,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/238",
+    "help_wanted": true,
     "last_verified": "3.4.104.2027"
   },
   {
@@ -3195,14 +3362,13 @@
     "card": "Scythe of the Wretched",
     "description": "While Scythe of the Wretched is unequipped, it reanimates any creature that happens to die.",
     "category": "Advantageous",
-    "last_updated": "2019-01-31 09:39:12",
+    "last_updated": "2019-09-15 14:10:11",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/221",
-    "help_wanted": true,
-    "last_verified": "3.4.103.2022"
+    "last_verified": "3.4.111.4007"
   },
   {
     "card": "Sylvan Primordial",
@@ -3304,6 +3470,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
+    "help_wanted": true,
     "last_verified": "3.4.110.2115"
   },
   {
@@ -3316,6 +3483,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
+    "help_wanted": true,
     "last_verified": "3.4.110.2115"
   },
   {
@@ -3328,6 +3496,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
+    "help_wanted": true,
     "last_verified": "3.4.110.2115"
   },
   {
@@ -3340,6 +3509,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
+    "help_wanted": true,
     "last_verified": "3.4.110.2115"
   },
   {
@@ -3455,6 +3625,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/155",
+    "help_wanted": true,
     "last_verified": "3.4.105.2044"
   },
   {
@@ -3467,6 +3638,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/153",
+    "help_wanted": true,
     "last_verified": "3.4.106.2073"
   },
   {
@@ -3492,6 +3664,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/148",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -3647,6 +3820,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/72",
+    "help_wanted": true,
     "last_verified": null
   },
   {
