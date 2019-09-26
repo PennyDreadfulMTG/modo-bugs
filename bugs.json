@@ -1,5 +1,125 @@
 [
   {
+    "card": "Keldon Marauders",
+    "description": "Certain creatures such as Keldon Marauders don't trigger abilities when they or other creatures die.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-26 15:54:41",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/804",
+    "last_verified": null
+  },
+  {
+    "card": "Rimrock Knight",
+    "description": "Adventure cards such as Rimrock Knight interact incorrectly with Feather, the Redeemed, Thief of Sanity, Lord of the Void, and Spell Queller.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-26 15:54:45",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/803",
+    "last_verified": null
+  },
+  {
+    "card": "Feather, the Redeemed",
+    "description": "Adventure cards such as Rimrock Knight interact incorrectly with Feather, the Redeemed, Thief of Sanity, Lord of the Void, and Spell Queller.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-26 15:54:45",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/803",
+    "last_verified": null
+  },
+  {
+    "card": "Thief of Sanity",
+    "description": "Adventure cards such as Rimrock Knight interact incorrectly with Feather, the Redeemed, Thief of Sanity, Lord of the Void, and Spell Queller.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-26 15:54:45",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/803",
+    "last_verified": null
+  },
+  {
+    "card": "Lord of the Void",
+    "description": "Adventure cards such as Rimrock Knight interact incorrectly with Feather, the Redeemed, Thief of Sanity, Lord of the Void, and Spell Queller.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-26 15:54:45",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/803",
+    "last_verified": null
+  },
+  {
+    "card": "Spell Queller",
+    "description": "Adventure cards such as Rimrock Knight interact incorrectly with Feather, the Redeemed, Thief of Sanity, Lord of the Void, and Spell Queller.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-26 15:54:45",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/803",
+    "last_verified": null
+  },
+  {
+    "card": "Lavinia, Azorius Renegade",
+    "description": "Copying an opponent's Lavinia, Azorius Renegade can cause the game to restart in specific instances.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-26 15:54:47",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/802",
+    "last_verified": null
+  },
+  {
+    "card": "Vraska, Golgari Queen",
+    "description": "Vraska, Golgari Queen will always draw a card with her first loyalty ability regardless of what her controller chooses.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-26 15:54:50",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/801",
+    "last_verified": null
+  },
+  {
+    "card": "Pithing Needle",
+    "description": "Avatars are incorrectly on the list of cards you can name with cards such as Pithing Needle.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-26 15:54:52",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/800",
+    "last_verified": null
+  },
+  {
+    "card": "Stolen Identity",
+    "description": "When a player casts a spell with cipher such as Stolen Identity, the caster incorrect gains priority before it finishes resolving.",
+    "category": "Unclassified",
+    "last_updated": "2019-09-26 15:54:55",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/799",
+    "last_verified": null
+  },
+  {
     "card": "Dream Halls",
     "description": "Dream Halls does not function correctly with modal spells such as Mystic Confluence.",
     "category": "Unclassified",
@@ -261,6 +381,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/770",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -285,6 +406,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/768",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -620,6 +742,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/754",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -639,14 +762,13 @@
     "card": "Pia's Revolution",
     "description": "Pia's Revolution creates an incorrect prompt.",
     "category": "Unclassified",
-    "last_updated": "2019-06-25 16:54:58",
+    "last_updated": "2019-09-22 12:16:46",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/751",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.111.4007"
   },
   {
     "card": "Life and Limb",
@@ -1545,13 +1667,12 @@
     "card": "Crackling Drake",
     "description": "Creatures with variable power and toughness such as Crackling Drake are not correctly updated in the reveal zone.",
     "category": "Graphical",
-    "last_updated": "2019-07-12 23:38:49",
+    "last_updated": "2019-09-24 04:02:49",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/635",
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -3434,19 +3555,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/216",
     "help_wanted": true,
     "last_verified": null
-  },
-  {
-    "card": "Death Pit Offering",
-    "description": "Death Pit Offering sacrifices all of its owner\u2019s permanents, not just creatures",
-    "category": "Disadvantageous",
-    "last_updated": "2019-03-31 03:55:16",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/213",
-    "help_wanted": true,
-    "last_verified": "3.4.106.2073"
   },
   {
     "card": "Icefall Regent",
