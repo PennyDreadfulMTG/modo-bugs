@@ -1539,26 +1539,24 @@
     "card": "Fleetwheel Cruiser",
     "description": "Fleetwheel Cruiser does not correctly display changes in power and toughness with Tempered Steel.",
     "category": "Graphical",
-    "last_updated": "2019-05-07 01:34:26",
+    "last_updated": "2019-10-09 19:05:21",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/652",
-    "help_wanted": true,
     "last_verified": null
   },
   {
     "card": "Tempered Steel",
     "description": "Fleetwheel Cruiser does not correctly display changes in power and toughness with Tempered Steel.",
     "category": "Graphical",
-    "last_updated": "2019-05-07 01:34:26",
+    "last_updated": "2019-10-09 19:05:21",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/652",
-    "help_wanted": true,
     "last_verified": null
   },
   {
