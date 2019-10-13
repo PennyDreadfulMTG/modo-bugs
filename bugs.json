@@ -1,5 +1,17 @@
 [
   {
+    "card": "Krark's Thumb",
+    "description": "Krark's Thumb prints all coin flips of its owner three times",
+    "category": "Graphical",
+    "last_updated": "2019-10-13 18:37:12",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/816",
+    "last_verified": null
+  },
+  {
     "card": "Rayami, First of the Fallen",
     "description": "Rayami, First of the Fallen can restart the game in certain situations when other creatures die.",
     "category": "Unclassified",
