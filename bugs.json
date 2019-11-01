@@ -1,5 +1,65 @@
 [
   {
+    "card": "Bludgeon Brawl",
+    "description": "There are various issues with Bludgeon Brawl.",
+    "category": "Unclassified",
+    "last_updated": "2019-11-01 00:38:13",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/822",
+    "last_verified": null
+  },
+  {
+    "card": "Undercity Scavenger",
+    "description": "Undercity Scavenger does not require a creature to be sacrificed for its ability.",
+    "category": "Unclassified",
+    "last_updated": "2019-11-01 00:38:17",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/821",
+    "last_verified": null
+  },
+  {
+    "card": "Trait Doctoring",
+    "description": "Cards that replace basic land types such as Trait Doctoring do not allow the newly chosen basic land type to add mana of the appropriate color.",
+    "category": "Unclassified",
+    "last_updated": "2019-11-01 00:38:20",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/820",
+    "last_verified": null
+  },
+  {
+    "card": "Command Tower",
+    "description": "Brawl preconstructed decks grant incorrect art for Command Tower.",
+    "category": "Unclassified",
+    "last_updated": "2019-11-01 00:38:25",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/818",
+    "last_verified": null
+  },
+  {
+    "card": "Turn // Burn",
+    "description": "Fuse cards such as Turn // Burn have a visual error when granted other abilities.",
+    "category": "Unclassified",
+    "last_updated": "2019-11-01 00:38:27",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/817",
+    "last_verified": null
+  },
+  {
     "card": "Krark's Thumb",
     "description": "Krark's Thumb prints all coin flips of its owner three times",
     "category": "Graphical",
