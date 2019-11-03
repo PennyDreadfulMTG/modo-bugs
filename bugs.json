@@ -1,5 +1,17 @@
 [
   {
+    "card": "Damping Engine",
+    "description": "Damping Engine activated ability is broken",
+    "category": "Unconfirmed",
+    "last_updated": "2019-11-03 17:10:38",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/825",
+    "last_verified": null
+  },
+  {
     "card": "Zombie Trailblazer",
     "description": "Zombie Trailblazer and Slimy Kavu turn lands into islands instead of swamps",
     "category": "Unconfirmed",
