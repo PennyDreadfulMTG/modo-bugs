@@ -1,5 +1,29 @@
 [
   {
+    "card": "Card Name",
+    "description": "Multani's presence also draws cards when a spell does not resolve because there is no more valid target.",
+    "category": "Unconfirmed",
+    "last_updated": "2019-11-10 00:05:50",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/826",
+    "last_verified": null
+  },
+  {
+    "card": "Second Card name",
+    "description": "Multani's presence also draws cards when a spell does not resolve because there is no more valid target.",
+    "category": "Unconfirmed",
+    "last_updated": "2019-11-10 00:05:50",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/826",
+    "last_verified": null
+  },
+  {
     "card": "Damping Engine",
     "description": "Damping Engine activated ability is broken",
     "category": "Unconfirmed",
