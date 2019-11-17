@@ -336,18 +336,6 @@
     "last_verified": null
   },
   {
-    "card": "Vraska, Golgari Queen",
-    "description": "Vraska, Golgari Queen will always draw a card with her first loyalty ability regardless of what her controller chooses.",
-    "category": "Unclassified",
-    "last_updated": "2019-11-16 17:21:09",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/801",
-    "last_verified": null
-  },
-  {
     "card": "Pithing Needle",
     "description": "Avatars are incorrectly on the list of cards you can name with cards such as Pithing Needle.",
     "category": "Unclassified",
