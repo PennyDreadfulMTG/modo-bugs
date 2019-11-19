@@ -659,18 +659,6 @@
     "last_verified": null
   },
   {
-    "card": "Desecrated Tomb",
-    "description": "Desecrated Tomb creates two Bats instead of one when a creature moves from graveyard to battlefield.",
-    "category": "Advantageous",
-    "last_updated": "2019-10-27 03:55:00",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/767",
-    "last_verified": null
-  },
-  {
     "card": "Phantasmagorian",
     "description": "The order of cards discarded by Phantasmagorian's ability is random",
     "category": "Unconfirmed",
