@@ -1,0 +1,24 @@
+name: CI
+
+on:
+  issues:
+    types: [opened, edited]
+   
+
+jobs:
+  build:
+    if: github.actor != 'vorpal-buildbot'
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        repository: PennyDreadfulMTG/Penny-Dreadful-Tools 
+        
+    - name: Install Pip Dependencies 
+      run: pip install -r requirements
+    - run: python3 run.py modo_bugs update commit
+      env: 
+        github_user: vorpal-buildbot
+        github_password: ${{ secrets.github_password }}
