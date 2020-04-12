@@ -3582,18 +3582,6 @@
     "last_verified": "3.4.110.4002"
   },
   {
-    "card": "Harsh Mentor",
-    "description": "Harsh Mentor's triggered ability also affects abilities activated from creatures in the graveyard.",
-    "category": "Advantageous",
-    "last_updated": "2020-04-11 15:44:51",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/216",
-    "last_verified": null
-  },
-  {
     "card": "Icefall Regent",
     "description": "If you target an Icefall Regent with a fused split card, you must pay {2} for each side of the split card, for a total of {4}",
     "category": "Advantageous",
