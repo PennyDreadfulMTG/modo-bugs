@@ -1,29 +1,5 @@
 [
   {
-    "card": "Oathsworn Knight",
-    "description": "Pyroclasm and Oathsworn Knight",
-    "category": "Unconfirmed",
-    "last_updated": "2020-04-13 11:23:55",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/834",
-    "last_verified": null
-  },
-  {
-    "card": "Pyroclasm",
-    "description": "Pyroclasm and Oathsworn Knight",
-    "category": "Unconfirmed",
-    "last_updated": "2020-04-13 11:23:55",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/834",
-    "last_verified": null
-  },
-  {
     "card": "Gift of Tusks",
     "description": "Whenever an ability is granted to a creature and then get removed, graphically MTGO will still shows the abilities on the creature",
     "category": "Graphical",
