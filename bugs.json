@@ -1,5 +1,29 @@
 [
   {
+    "card": "Card Name",
+    "description": "Volrath's shapeshifter",
+    "category": "Unconfirmed",
+    "last_updated": "2020-04-19 22:54:32",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/836",
+    "last_verified": null
+  },
+  {
+    "card": "Second Card name",
+    "description": "Volrath's shapeshifter",
+    "category": "Unconfirmed",
+    "last_updated": "2020-04-19 22:54:32",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/836",
+    "last_verified": null
+  },
+  {
     "card": "Gift of Tusks",
     "description": "Whenever an ability is granted to a creature and then get removed, graphically MTGO will still shows the abilities on the creature",
     "category": "Graphical",
