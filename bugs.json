@@ -1,5 +1,17 @@
 [
   {
+    "card": "Evra, Halcyon Witness",
+    "description": "Evra activation crashes MTGO",
+    "category": "Unconfirmed",
+    "last_updated": "2020-04-22 08:54:31",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/838",
+    "last_verified": null
+  },
+  {
     "card": "Volrath's shapeshifter",
     "description": "Volrath's shapeshifter",
     "category": "Unconfirmed",
