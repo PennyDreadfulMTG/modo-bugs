@@ -2233,13 +2233,12 @@
     "card": "Courser of Kruphix",
     "description": "Courser of Kruphix incorrectly shows the top card with shocklands",
     "category": "Advantageous",
-    "last_updated": "2018-07-11 03:59:10",
+    "last_updated": "2020-04-24 15:54:41",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/547",
-    "help_wanted": true,
     "last_verified": "3.4.104.2026"
   },
   {
