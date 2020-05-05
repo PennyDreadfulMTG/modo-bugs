@@ -1,9 +1,81 @@
 [
   {
-    "card": "Evra, Halcyon Witness",
-    "description": "Evra activation crashes MTGO",
+    "card": "Panoptic Mirror",
+    "description": "Panoptic Mirror Breaks after exiling a second card",
     "category": "Unconfirmed",
-    "last_updated": "2020-04-24 06:54:39",
+    "last_updated": "2020-05-05 15:54:38",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/845",
+    "last_verified": null
+  },
+  {
+    "card": "Chainer, Nightmare Adept",
+    "description": "Chainer, Nightmare Adept can't cast cards using its ability during opponents turn when Vedalken Orrery is also in play.",
+    "category": "Unconfirmed",
+    "last_updated": "2020-04-29 02:49:54",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/842",
+    "last_verified": null
+  },
+  {
+    "card": "Vedalken Orrery",
+    "description": "Chainer, Nightmare Adept can't cast cards using its ability during opponents turn when Vedalken Orrery is also in play.",
+    "category": "Unconfirmed",
+    "last_updated": "2020-04-29 02:49:54",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/842",
+    "last_verified": null
+  },
+  {
+    "card": "Card Name",
+    "description": "Charmed Pendant",
+    "category": "Unconfirmed",
+    "last_updated": "2020-04-27 22:23:47",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/841",
+    "last_verified": null
+  },
+  {
+    "card": "Second Card name",
+    "description": "Charmed Pendant",
+    "category": "Unconfirmed",
+    "last_updated": "2020-04-27 22:23:47",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/841",
+    "last_verified": null
+  },
+  {
+    "card": "Scrap Trawler",
+    "description": "Scrap Trawler",
+    "category": "Non-Functional ability",
+    "last_updated": "2020-05-05 15:54:45",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/839",
+    "last_verified": null
+  },
+  {
+    "card": "Evra, Halcyon Witness",
+    "description": "Evra activation restarts the game in a buggy state",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2020-04-27 14:40:43",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -13,9 +85,9 @@
   },
   {
     "card": "Volrath's shapeshifter",
-    "description": "Volrath's shapeshifter",
+    "description": "Volrath's shapeshifter does not function as intended",
     "category": "Unconfirmed",
-    "last_updated": "2020-04-20 04:54:31",
+    "last_updated": "2020-04-27 14:23:57",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -33,18 +105,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/833",
-    "last_verified": null
-  },
-  {
-    "card": "Thryx, the Sudden Storm",
-    "description": "Thryx, the Sudden Storm doesn't make spells with X in cost uncounterable",
-    "category": "Disadvantageous",
-    "last_updated": "2020-04-24 07:54:35",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/832",
     "last_verified": null
   },
   {
@@ -768,8 +828,8 @@
   {
     "card": "Kopala, Warden of Waves",
     "description": "Kopala, Warden of Waves incorrectly increases the cost of spells by two\u00a0for each Merfolk that spell targets.",
-    "category": "Unclassified",
-    "last_updated": "2020-04-24 06:54:47",
+    "category": "Advantageous",
+    "last_updated": "2020-04-26 14:10:29",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -2699,18 +2759,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/400",
-    "last_verified": null
-  },
-  {
-    "card": "Odric, Lunarch Marshal",
-    "description": "Odric, Lunarch Marshal's triggered ability ignores the hexproof ability on a creature if it only has it temporarily.",
-    "category": "Unclassified",
-    "last_updated": "2020-04-24 06:55:27",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/398",
     "last_verified": null
   },
   {
