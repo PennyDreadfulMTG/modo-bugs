@@ -61,9 +61,9 @@
   },
   {
     "card": "Scrap Trawler",
-    "description": "Scrap Trawler",
+    "description": "Scrap Trawler does not trigger",
     "category": "Non-Functional ability",
-    "last_updated": "2020-05-05 15:54:45",
+    "last_updated": "2020-05-18 22:07:25",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
