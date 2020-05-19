@@ -12,6 +12,18 @@
     "last_verified": null
   },
   {
+    "card": "Vengeful Pharaoh",
+    "description": "Vengeful Pharaoh mistakes opponents for you and you for opponents",
+    "category": "Unconfirmed",
+    "last_updated": "2020-05-19 22:54:30",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/844",
+    "last_verified": null
+  },
+  {
     "card": "Chainer, Nightmare Adept",
     "description": "Chainer, Nightmare Adept can't cast cards using its ability during opponents turn when Vedalken Orrery is also in play.",
     "category": "Unconfirmed",
@@ -60,6 +72,18 @@
     "last_verified": null
   },
   {
+    "card": "Chandra, Pyromaster",
+    "description": "Chandra, Pyromaster's ultimate resolves without copying the selected spell.",
+    "category": "Non-Functional ability",
+    "last_updated": "2020-05-19 22:54:30",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/840",
+    "last_verified": null
+  },
+  {
     "card": "Scrap Trawler",
     "description": "Scrap Trawler does not trigger",
     "category": "Non-Functional ability",
@@ -87,12 +111,24 @@
     "card": "Volrath's shapeshifter",
     "description": "Volrath's shapeshifter does not function as intended",
     "category": "Unconfirmed",
-    "last_updated": "2020-05-12 03:54:33",
+    "last_updated": "2020-05-19 22:19:24",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/836",
+    "last_verified": null
+  },
+  {
+    "card": "Mogis's Marauder",
+    "description": "Mogis's Marauder restarts the game on etb",
+    "category": "Game Breaking",
+    "last_updated": "2020-05-19 22:54:31",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/835",
     "last_verified": null
   },
   {
