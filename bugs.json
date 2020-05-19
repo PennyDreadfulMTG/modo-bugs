@@ -24,6 +24,18 @@
     "last_verified": null
   },
   {
+    "card": "Primal Command",
+    "description": "Primal Command prints wrong owner for noncreature permanents it puts on top",
+    "category": "Graphical",
+    "last_updated": "2020-05-19 23:54:33",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/843",
+    "last_verified": null
+  },
+  {
     "card": "Chainer, Nightmare Adept",
     "description": "Chainer, Nightmare Adept can't cast cards using its ability during opponents turn when Vedalken Orrery is also in play.",
     "category": "Unconfirmed",
@@ -108,11 +120,11 @@
     "last_verified": null
   },
   {
-    "card": "Volrath's shapeshifter",
-    "description": "Volrath's shapeshifter does not function as intended",
+    "card": "Volrath's Shapeshifter",
+    "description": "Volrath's Shapeshifter does not function as intended.",
     "category": "Unconfirmed",
-    "last_updated": "2020-05-19 22:19:24",
-    "pd_legal": false,
+    "last_updated": "2020-05-19 23:54:34",
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
