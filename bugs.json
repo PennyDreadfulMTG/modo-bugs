@@ -1138,9 +1138,9 @@
   },
   {
     "card": "Pia's Revolution",
-    "description": "Pia's Revolution creates an incorrect prompt.",
-    "category": "Unclassified",
-    "last_updated": "2020-05-19 02:54:42",
+    "description": "Pia's Revolution creates an incorrect prompt while also being nonfunctional.",
+    "category": "Disadvantageous",
+    "last_updated": "2020-05-19 05:02:57",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
