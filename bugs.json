@@ -84,18 +84,6 @@
     "last_verified": null
   },
   {
-    "card": "Scrap Trawler",
-    "description": "Scrap Trawler does not trigger",
-    "category": "Non-Functional ability",
-    "last_updated": "2020-05-19 02:54:29",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/839",
-    "last_verified": null
-  },
-  {
     "card": "Evra, Halcyon Witness",
     "description": "Evra activation restarts the game in a buggy state",
     "category": "Avoidable Game Breaking",
