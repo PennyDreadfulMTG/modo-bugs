@@ -75,7 +75,7 @@
     "card": "Chandra, Pyromaster",
     "description": "Chandra, Pyromaster's ultimate resolves without copying the selected spell.",
     "category": "Non-Functional ability",
-    "last_updated": "2020-05-19 22:54:30",
+    "last_updated": "2020-05-20 05:09:54",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -940,13 +940,13 @@
     "card": "Kazuul, Tyrant of the Cliffs",
     "description": "Kazuul, Tyrant of the Cliffs makes an Ogre creature token even if its triggered ability cost is paid.",
     "category": "Advantageous",
-    "last_updated": "2020-05-20 03:54:02",
+    "last_updated": "2020-05-20 05:41:42",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/784",
-    "last_verified": null
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Ugin, the Spirit Dragon",
