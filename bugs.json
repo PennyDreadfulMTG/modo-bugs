@@ -60,23 +60,11 @@
     "last_verified": null
   },
   {
-    "card": "Card Name",
-    "description": "Charmed Pendant",
-    "category": "Unconfirmed",
-    "last_updated": "2020-05-05 16:54:36",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/841",
-    "last_verified": null
-  },
-  {
-    "card": "Second Card name",
-    "description": "Charmed Pendant",
-    "category": "Unconfirmed",
-    "last_updated": "2020-05-05 16:54:36",
-    "pd_legal": false,
+    "card": "Charmed Pendant",
+    "description": "Charmed Pendant's ability doesn't add mana to mana pool",
+    "category": "Disadvantageous",
+    "last_updated": "2020-05-20 01:54:34",
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -3676,18 +3664,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217",
     "last_verified": "3.4.110.4002"
-  },
-  {
-    "card": "Icefall Regent",
-    "description": "If you target an Icefall Regent with a fused split card, you must pay {2} for each side of the split card, for a total of {4}",
-    "category": "Advantageous",
-    "last_updated": "2020-05-19 02:55:28",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/208",
-    "last_verified": "3.4.112.4019"
   },
   {
     "card": "Ever After",
