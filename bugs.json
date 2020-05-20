@@ -38,8 +38,8 @@
   {
     "card": "Chainer, Nightmare Adept",
     "description": "Chainer, Nightmare Adept can't cast cards using its ability during opponents turn when Vedalken Orrery is also in play.",
-    "category": "Unconfirmed",
-    "last_updated": "2020-05-05 16:54:33",
+    "category": "Disadvantageous",
+    "last_updated": "2020-05-20 04:03:03",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -50,8 +50,8 @@
   {
     "card": "Vedalken Orrery",
     "description": "Chainer, Nightmare Adept can't cast cards using its ability during opponents turn when Vedalken Orrery is also in play.",
-    "category": "Unconfirmed",
-    "last_updated": "2020-05-05 16:54:33",
+    "category": "Disadvantageous",
+    "last_updated": "2020-05-20 04:03:03",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
