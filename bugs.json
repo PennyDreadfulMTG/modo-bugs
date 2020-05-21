@@ -108,18 +108,6 @@
     "last_verified": null
   },
   {
-    "card": "Mogis's Marauder",
-    "description": "Mogis's Marauder restarts the game on etb",
-    "category": "Game Breaking",
-    "last_updated": "2020-05-19 22:54:31",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/835",
-    "last_verified": null
-  },
-  {
     "card": "Gift of Tusks",
     "description": "Whenever an ability is granted to a creature and then get removed, graphically MTGO will still shows the abilities on the creature",
     "category": "Graphical",
