@@ -4141,9 +4141,9 @@
   },
   {
     "card": "Profane Command",
-    "description": "If a player gains shroud in response to Profane Command, the first mode will still resolve if the other mode still have legal target",
+    "description": "If a player gains shroud in response to Profane Command, the first mode will still resolve if the other mode still have legal target  / choosing to give creatures fear when you control no creatures sometimes prompts a large number",
     "category": "Advantageous",
-    "last_updated": "2020-05-22 00:06:19",
+    "last_updated": "2020-05-22 06:19:26",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
