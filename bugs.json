@@ -4178,25 +4178,13 @@
     "card": "High Seas",
     "description": "High Seas only affects red creature spells.",
     "category": "Disadvantageous",
-    "last_updated": "2020-04-11 16:55:50",
+    "last_updated": "2020-05-23 06:09:22",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/8",
-    "last_verified": "3.4.112.4019"
-  },
-  {
-    "card": "Harness the Storm",
-    "description": "Harness the Storm Doesn't trigger when casting split cards.",
-    "category": "Disadvantageous",
-    "last_updated": "2020-05-19 02:55:38",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/7",
-    "last_verified": "3.4.112.4019"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Cryptic Gateway",
@@ -4215,36 +4203,36 @@
     "card": "Concerted Effort",
     "description": "Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared",
     "category": "Disadvantageous",
-    "last_updated": "2020-05-19 02:55:38",
+    "last_updated": "2020-05-23 06:35:09",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/4",
-    "last_verified": "3.4.112.4019"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Death-Mask Duplicant",
     "description": "Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared",
     "category": "Disadvantageous",
-    "last_updated": "2020-05-19 02:55:38",
+    "last_updated": "2020-05-23 06:35:09",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/4",
-    "last_verified": "3.4.112.4019"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Cairn Wanderer",
     "description": "Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared",
     "category": "Disadvantageous",
-    "last_updated": "2020-05-19 02:55:38",
+    "last_updated": "2020-05-23 06:35:09",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/4",
-    "last_verified": "3.4.112.4019"
+    "last_verified": "3.4.114.4044"
   }
 ]
