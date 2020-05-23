@@ -1209,18 +1209,6 @@
     "last_verified": null
   },
   {
-    "card": "High Seas",
-    "description": "High Seas does not affect green creatures.",
-    "category": "Unclassified",
-    "last_updated": "2020-04-11 16:54:54",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/741",
-    "last_verified": null
-  },
-  {
     "card": "Umbra Mystic",
     "description": "Umbra Mystic interacts incorrectly with creatures enchanted with multiple auras.",
     "category": "Unclassified",
@@ -3807,25 +3795,25 @@
     "card": "Tomorrow, Azami's Familiar",
     "description": "Tomorrow, Azami's Familiar puts both unchosen cards back on top of the library.",
     "category": "Disadvantageous",
-    "last_updated": "2020-05-19 02:55:31",
+    "last_updated": "2020-05-23 07:20:02",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/155",
-    "last_verified": "3.4.105.2044"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Booby Trap",
     "description": "Booby Trap does not let you name anything other than non-basic lands.",
     "category": "Disadvantageous",
-    "last_updated": "2020-05-19 02:55:31",
+    "last_updated": "2020-05-23 07:34:52",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/153",
-    "last_verified": "3.4.106.2073"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Compost",
