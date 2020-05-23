@@ -4120,7 +4120,7 @@
     "card": "Freyalise's Winds",
     "description": "Anytime a permanent with a wind counter would be untapped outside of the untap step with Freyalise's Winds in play, a wind counter is removed rather than it becoming untapped wrongly",
     "category": "Disadvantageous",
-    "last_updated": "2020-05-23 14:53:49",
+    "last_updated": "2020-05-23 14:54:38",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -4132,7 +4132,7 @@
     "card": "Structural Collapse",
     "description": "Structural Collapse doesn't cause target to sacrifice either an artifact or land.",
     "category": "Disadvantageous",
-    "last_updated": "2020-05-23 14:46:57",
+    "last_updated": "2020-05-23 14:54:39",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -4194,15 +4194,15 @@
   },
   {
     "card": "Storage Matrix",
-    "description": "Storage Matrix Selecting yes to anything other than artifacts with two Storage Matrices in play causes the game to soft lock.",
+    "description": "Selecting yes to anything other than artifacts with two Storage Matrix in play causes the game to soft lock.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2020-05-19 02:55:34",
+    "last_updated": "2020-05-23 15:01:35",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/73",
-    "last_verified": null
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Gideon's Intervention",
