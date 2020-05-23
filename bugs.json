@@ -4000,7 +4000,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/72",
-    "last_verified": null
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "The Gitrog Monster",
@@ -4019,13 +4019,13 @@
     "card": "Unscythe, Killer of Kings",
     "description": "Unscythe, Killer of Kings's effect procs when unequipped.",
     "category": "Advantageous",
-    "last_updated": "2020-05-19 02:55:35",
+    "last_updated": "2020-05-23 01:58:47",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/62",
-    "last_verified": "3.4.104.2038"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Island Sanctuary",
@@ -4044,13 +4044,13 @@
     "card": "Semblance Anvil",
     "description": "Semblance Anvil does not function when a split card is imprinted.",
     "category": "Disadvantageous",
-    "last_updated": "2020-05-19 02:55:35",
+    "last_updated": "2020-05-23 02:01:07",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/55",
-    "last_verified": "3.4.112.4019"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Athreos, God of Passage",
@@ -4069,13 +4069,13 @@
     "card": "Riptide Replicator",
     "description": "Riptide Replicator tokens use incorrect art and incorrectly display they have the changeling ability.",
     "category": "Graphical",
-    "last_updated": "2020-05-19 02:55:36",
+    "last_updated": "2020-05-23 02:54:39",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/51",
-    "last_verified": null
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Reflecting Pool",
@@ -4103,29 +4103,16 @@
     "last_verified": null
   },
   {
-    "card": "Primitive Justice",
-    "description": "Primitive Justice will either not cast/restart the game with a single target.",
-    "category": "Game Breaking",
-    "last_updated": "2019-11-30 09:08:51",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/36",
-    "help_wanted": true,
-    "last_verified": "3.4.112.4019"
-  },
-  {
     "card": "Whims of the Fates",
     "description": "Whims of the Fates Causes client crashes",
     "category": "Game Breaking",
-    "last_updated": "2020-05-19 02:55:37",
+    "last_updated": "2020-05-23 02:33:55",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/32",
-    "last_verified": "3.4.106.2067"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Shifty Doppelganger",
@@ -4137,7 +4124,7 @@
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/27",
-    "last_verified": "3.4.112.4019"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Profane Command",
@@ -4149,46 +4136,43 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/20",
-    "last_verified": "3.4.112.4019"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Odds",
     "description": "Odds restarts the game in buggy state on heads",
     "category": "Game Breaking",
-    "last_updated": "2019-11-30 05:15:23",
+    "last_updated": "2020-05-23 02:44:28",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17",
-    "help_wanted": true,
-    "last_verified": "3.4.112.4019"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Ends",
     "description": "Odds restarts the game in buggy state on heads",
     "category": "Game Breaking",
-    "last_updated": "2019-11-30 05:15:23",
+    "last_updated": "2020-05-23 02:44:28",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17",
-    "help_wanted": true,
-    "last_verified": "3.4.112.4019"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Null Chamber",
-    "description": "[Null Chamber]'s Controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.",
+    "description": "Null Chamber's controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.",
     "category": "Advantageous",
-    "last_updated": "2019-11-30 06:06:43",
+    "last_updated": "2020-05-23 02:54:40",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/16",
-    "help_wanted": true,
-    "last_verified": "3.4.112.4019"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "High Seas",
