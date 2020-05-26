@@ -4220,7 +4220,7 @@
     "card": "The Gitrog Monster",
     "description": "Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of The Gitrog Monster when put into the graveyard ",
     "category": "Disadvantageous",
-    "last_updated": "2018-09-25 03:38:27",
+    "last_updated": "2020-05-25 23:58:31",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
