@@ -3229,7 +3229,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/294",
-    "last_verified": "3.4.102.2007"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Sindbad",
@@ -3241,7 +3241,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/294",
-    "last_verified": "3.4.102.2007"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Nazahn, Revered Bladesmith",
@@ -3452,19 +3452,19 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/251",
-    "last_verified": "3.4.110.2115"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Compulsive Research",
     "description": "Dredging rather than drawing can let you avoid discarding",
     "category": "Advantageous",
-    "last_updated": "2020-04-11 16:55:35",
+    "last_updated": "2020-05-27 04:54:34",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/249",
-    "last_verified": "3.4.106.2079"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Volcano Hellion",
