@@ -2564,19 +2564,6 @@
     "last_verified": null
   },
   {
-    "card": "Cavern of Souls",
-    "description": "When casting a spell, if there is any mana already in the player's pool, the most recently produced colored mana is automatically applied to the spell first. For example, if a player taps a Cavern of Souls (naming Human), then an Island, then casts Delver of Secrets, the blue mana applied to the Delver's mana cost will be that from the Island. If the player tapped the Island, then the Cavern, the Cavern's mana would be applied to the spell, and it would be appropriately uncounterable.",
-    "category": "Unclassified",
-    "last_updated": "2018-08-25 15:37:33",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/428",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Door of Destinies",
     "description": "If a permanent enters the battlefield as a copy of a permanent that had a choice made as it entered (such as Door of Destinies or Painter's Servant), the copy correctly allows the controller to make a new choice, but the abilities of the copy that refer to that choice do not function correctly.",
     "category": "Disadvantageous",
@@ -3456,9 +3443,9 @@
   },
   {
     "card": "Compulsive Research",
-    "description": "Dredging rather than drawing can let you avoid discarding",
+    "description": "Dredging rather than drawing can let you avoid discarding in a specific case",
     "category": "Advantageous",
-    "last_updated": "2020-05-27 04:54:34",
+    "last_updated": "2020-05-27 04:55:20",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -3476,20 +3463,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/247",
-    "last_verified": null
-  },
-  {
-    "card": "Mishra's Workshop",
-    "description": "When there are floating generic mana and restricted mana (such as [Mishra's Workshop] mana) that are same color (or same colorless), MTGO will always use generic mana first before using the restricted mana. Workaround: don't float the generic mana if you want to use the restricted mana first",
-    "category": "Disadvantageous",
-    "last_updated": "2018-02-21 19:35:44",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/245",
-    "help_wanted": true,
-    "last_verified": "3.4.101.1120"
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Sheltering Ancient",
