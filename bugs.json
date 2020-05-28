@@ -3033,7 +3033,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/305",
     "help_wanted": true,
-    "last_verified": "3.4.110.4002"
+    "last_verified": "3.4.114.4046"
   },
   {
     "card": "Glamerdye",
@@ -3045,7 +3045,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/304",
-    "last_verified": "3.4.101.1120"
+    "last_verified": "3.4.114.4046"
   },
   {
     "card": "Mire's Toll",
@@ -3431,9 +3431,9 @@
   },
   {
     "card": "Sheltering Ancient",
-    "description": "Sheltering Ancient's Cumulative Upkeep Stops Working After One Age Counter",
+    "description": "Sheltering Ancient's cumulative upkeep won't put the +1/+1 counter on a creature that already have +1/+1 counter, but you can still choose them",
     "category": "Advantageous",
-    "last_updated": "2020-04-11 16:55:35",
+    "last_updated": "2020-05-28 07:31:42",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
