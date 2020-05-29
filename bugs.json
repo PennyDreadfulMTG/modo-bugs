@@ -3281,16 +3281,15 @@
   },
   {
     "card": "Godsire",
-    "description": "The art for the tokens created by Godsire is incorrect.",
+    "description": "The tokens created by Godsire doesn't clearly stating nor indicating its colors",
     "category": "Graphical",
-    "last_updated": "2019-10-04 12:55:27",
+    "last_updated": "2020-05-29 02:06:23",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/291",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.114.4046"
   },
   {
     "card": "Sages of the Anima",
@@ -3302,7 +3301,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/288",
-    "last_verified": "3.4.110.4002"
+    "last_verified": "3.4.114.4046"
   },
   {
     "card": "Thran Turbine",
