@@ -3167,7 +3167,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/298",
     "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.114.4046"
   },
   {
     "card": "Overwhelming Splendor",
@@ -3180,7 +3180,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/297",
     "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.114.4046"
   },
   {
     "card": "Mind Bend",
@@ -3277,7 +3277,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/292",
-    "last_verified": "3.4.104.2027"
+    "last_verified": "3.4.114.4046"
   },
   {
     "card": "Godsire",
