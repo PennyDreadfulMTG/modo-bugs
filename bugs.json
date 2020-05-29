@@ -3304,19 +3304,6 @@
     "last_verified": "3.4.114.4046"
   },
   {
-    "card": "Thran Turbine",
-    "description": "Thran Turbine mana is able to be used to cast spells",
-    "category": "Advantageous",
-    "last_updated": "2019-10-04 12:55:27",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/279",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Entreat the Angels",
     "description": "When Entreat the Angels is on the stack with 0 chosen for X, the blue text that typically indicates the value of X does not appear.",
     "category": "Graphical",
