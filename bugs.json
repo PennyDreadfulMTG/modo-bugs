@@ -2862,26 +2862,13 @@
     "card": "Barren Glory",
     "description": "Barren Glory does not check intervening if clause during resolution ",
     "category": "Advantageous",
-    "last_updated": "2020-05-19 02:55:14",
+    "last_updated": "2020-05-31 05:54:37",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/343",
-    "last_verified": null
-  },
-  {
-    "card": "Eldrazi Spawn",
-    "description": "Eldrazi Spawn and Scions created by cards from the Battle for Zendikar and Rise of the Eldrazi sets display \"Add {1} to your mana pool\" instead of \"Add {C} to your mana pool\"",
-    "category": "Graphical",
-    "last_updated": "2018-10-05 18:42:16",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/339",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Pox",
