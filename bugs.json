@@ -1,5 +1,17 @@
 [
   {
+    "card": "Szadek, Lord of Secrets",
+    "description": "Szadek, Lord of Secrets won't deal any damage at all nor get its replacement effect when a \"Damage can't be prevented\" ability is active",
+    "category": "Disadvantageous",
+    "last_updated": "2020-06-01 03:54:35",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/849",
+    "last_verified": null
+  },
+  {
     "card": "Swirl the Mists",
     "description": "Swirl the Mists will randomly restart the game",
     "category": "Game Breaking",
@@ -2968,7 +2980,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/313",
-    "last_verified": "3.4.113.4036"
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Rogue Skycaptain",
