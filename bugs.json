@@ -2651,97 +2651,97 @@
     "card": "Atarka's Command",
     "description": "The \"can't gain life\" or \"damage can't be prevented\" effect doesn't appear in the Effect zone after the spell/ability resolves.",
     "category": "Graphical",
-    "last_updated": "2020-06-01 12:54:40",
+    "last_updated": "2020-06-01 12:54:41",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
-    "last_verified": null
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Skullcrack",
     "description": "The \"can't gain life\" or \"damage can't be prevented\" effect doesn't appear in the Effect zone after the spell/ability resolves.",
     "category": "Graphical",
-    "last_updated": "2020-06-01 12:54:40",
+    "last_updated": "2020-06-01 12:54:41",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
-    "last_verified": null
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Stigma Lasher",
     "description": "The \"can't gain life\" or \"damage can't be prevented\" effect doesn't appear in the Effect zone after the spell/ability resolves.",
     "category": "Graphical",
-    "last_updated": "2020-06-01 12:54:40",
+    "last_updated": "2020-06-01 12:54:41",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
-    "last_verified": null
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Bonecrusher Giant",
     "description": "The \"can't gain life\" or \"damage can't be prevented\" effect doesn't appear in the Effect zone after the spell/ability resolves.",
     "category": "Graphical",
-    "last_updated": "2020-06-01 12:54:40",
+    "last_updated": "2020-06-01 12:54:41",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
-    "last_verified": null
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Flames of the Blood Hand",
     "description": "The \"can't gain life\" or \"damage can't be prevented\" effect doesn't appear in the Effect zone after the spell/ability resolves.",
     "category": "Graphical",
-    "last_updated": "2020-06-01 12:54:40",
+    "last_updated": "2020-06-01 12:54:41",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
-    "last_verified": null
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Flaring Pain",
     "description": "The \"can't gain life\" or \"damage can't be prevented\" effect doesn't appear in the Effect zone after the spell/ability resolves.",
     "category": "Graphical",
-    "last_updated": "2020-06-01 12:54:40",
+    "last_updated": "2020-06-01 12:54:41",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
-    "last_verified": null
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Unstable Footing",
     "description": "The \"can't gain life\" or \"damage can't be prevented\" effect doesn't appear in the Effect zone after the spell/ability resolves.",
     "category": "Graphical",
-    "last_updated": "2020-06-01 12:54:40",
+    "last_updated": "2020-06-01 12:54:41",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
-    "last_verified": null
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Wild Slash",
     "description": "The \"can't gain life\" or \"damage can't be prevented\" effect doesn't appear in the Effect zone after the spell/ability resolves.",
     "category": "Graphical",
-    "last_updated": "2020-06-01 12:54:40",
+    "last_updated": "2020-06-01 12:54:41",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
-    "last_verified": null
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Ulamog, the Ceaseless Hunger",
@@ -2771,15 +2771,63 @@
   },
   {
     "card": "Fork in the Road",
-    "description": "Fork in the Road fails to display the destination zones of the chosen lands in the game log.",
-    "category": "Unclassified",
-    "last_updated": "2020-05-19 02:55:11",
+    "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
+    "category": "Graphical",
+    "last_updated": "2020-06-01 13:54:38",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
-    "last_verified": null
+    "last_verified": "3.4.114.4047"
+  },
+  {
+    "card": "Cultivate",
+    "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
+    "category": "Graphical",
+    "last_updated": "2020-06-01 13:54:38",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "last_verified": "3.4.114.4047"
+  },
+  {
+    "card": "Kodama's Reach",
+    "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
+    "category": "Graphical",
+    "last_updated": "2020-06-01 13:54:38",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "last_verified": "3.4.114.4047"
+  },
+  {
+    "card": "Peregrination",
+    "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
+    "category": "Graphical",
+    "last_updated": "2020-06-01 13:54:38",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "last_verified": "3.4.114.4047"
+  },
+  {
+    "card": "Realms Uncharted",
+    "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
+    "category": "Graphical",
+    "last_updated": "2020-06-01 13:54:38",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Silverfur Partisan",
