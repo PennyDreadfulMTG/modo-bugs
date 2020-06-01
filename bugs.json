@@ -2588,30 +2588,6 @@
     "last_verified": null
   },
   {
-    "card": "Door of Destinies",
-    "description": "If a permanent enters the battlefield as a copy of a permanent that had a choice made as it entered (such as Door of Destinies or Painter's Servant), the copy correctly allows the controller to make a new choice, but the abilities of the copy that refer to that choice do not function correctly.",
-    "category": "Disadvantageous",
-    "last_updated": "2020-05-19 02:55:09",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/416",
-    "last_verified": null
-  },
-  {
-    "card": "Painter's Servant",
-    "description": "If a permanent enters the battlefield as a copy of a permanent that had a choice made as it entered (such as Door of Destinies or Painter's Servant), the copy correctly allows the controller to make a new choice, but the abilities of the copy that refer to that choice do not function correctly.",
-    "category": "Disadvantageous",
-    "last_updated": "2020-05-19 02:55:09",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/416",
-    "last_verified": null
-  },
-  {
     "card": "Progenitus",
     "description": "Abilities that generate replacement effects preventing specific cards from being put into graveyards (such as those found on Progenitus or Blightsteel Colossus) do not function properly while resolving Grenzo, Dungeon Warden's activated ability.",
     "category": "Unclassified",
