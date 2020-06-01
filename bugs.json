@@ -2625,27 +2625,27 @@
   },
   {
     "card": "Life's Legacy",
-    "description": "Cards cast with conspire that require a player to sacrifice a creature as an additional cost to cast, such as Life's Legacy and Momentous Fall, incorrectly look at the power and toughness of the last creature clicked for conspire.",
+    "description": "Cards cast with conspire that require a player to sacrifice a creature as an additional cost to cast, incorrectly use the power and toughness of the last creature clicked for conspire instead of the sacrificed creature",
     "category": "Disadvantageous",
-    "last_updated": "2020-05-19 02:55:10",
+    "last_updated": "2020-06-01 07:13:35",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/414",
-    "last_verified": null
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Momentous Fall",
-    "description": "Cards cast with conspire that require a player to sacrifice a creature as an additional cost to cast, such as Life's Legacy and Momentous Fall, incorrectly look at the power and toughness of the last creature clicked for conspire.",
+    "description": "Cards cast with conspire that require a player to sacrifice a creature as an additional cost to cast, incorrectly use the power and toughness of the last creature clicked for conspire instead of the sacrificed creature",
     "category": "Disadvantageous",
-    "last_updated": "2020-05-19 02:55:10",
+    "last_updated": "2020-06-01 07:13:35",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/414",
-    "last_verified": null
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Atarka's Command",
