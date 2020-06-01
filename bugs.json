@@ -2887,13 +2887,13 @@
     "card": "Concerted Effort",
     "description": "Some protection abilities granted by Concerted Effort are not shown visually on creatures",
     "category": "Graphical",
-    "last_updated": "2020-05-19 02:55:14",
+    "last_updated": "2020-06-01 02:54:43",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/327",
-    "last_verified": "3.4.102.2007"
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Grave Betrayal",
