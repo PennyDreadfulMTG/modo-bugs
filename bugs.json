@@ -3,7 +3,7 @@
     "card": "Szadek, Lord of Secrets",
     "description": "Szadek, Lord of Secrets won't deal any damage at all nor get its replacement effect when a \"Damage can't be prevented\" ability is active",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-01 03:54:35",
+    "last_updated": "2020-06-01 03:54:36",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -2932,32 +2932,6 @@
     "last_verified": "3.4.104.2027"
   },
   {
-    "card": "Zodiac Rooster",
-    "description": "Cards that are only common in the PRM set can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards",
-    "category": "Disadvantageous",
-    "last_updated": "2020-05-19 02:55:16",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/322",
-    "cade_bug": true,
-    "last_verified": "3.4.101.1120"
-  },
-  {
-    "card": "Headless Horseman",
-    "description": "Cards that are only common in the PRM set can be added to Pauper decks, but you can't join a Pauper match with decks that have those cards",
-    "category": "Disadvantageous",
-    "last_updated": "2020-05-19 02:55:16",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/322",
-    "cade_bug": true,
-    "last_verified": "3.4.101.1120"
-  },
-  {
     "card": "Null Profusion",
     "description": "Null Profusion triggers when another player casts its owner's cards",
     "category": "Advantageous",
@@ -2992,7 +2966,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/312",
-    "last_verified": "3.4.104.2038"
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Overabundance",
