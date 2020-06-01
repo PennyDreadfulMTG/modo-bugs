@@ -2625,9 +2625,9 @@
   },
   {
     "card": "Life's Legacy",
-    "description": "Cards cast with conspire that require a player to sacrifice a creature as an additional cost to cast, incorrectly use the power and toughness of the last creature clicked for conspire instead of the sacrificed creature",
+    "description": "Cards cast with conspire that require a player to sacrifice a creature as an additional cost to cast, incorrectly use the power and toughness of the either one of the creatures tapped for conspire instead of the sacrificed creature",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-01 07:13:35",
+    "last_updated": "2020-06-01 08:07:05",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
@@ -2637,9 +2637,9 @@
   },
   {
     "card": "Momentous Fall",
-    "description": "Cards cast with conspire that require a player to sacrifice a creature as an additional cost to cast, incorrectly use the power and toughness of the last creature clicked for conspire instead of the sacrificed creature",
+    "description": "Cards cast with conspire that require a player to sacrifice a creature as an additional cost to cast, incorrectly use the power and toughness of the either one of the creatures tapped for conspire instead of the sacrificed creature",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-01 07:13:35",
+    "last_updated": "2020-06-01 08:07:05",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
