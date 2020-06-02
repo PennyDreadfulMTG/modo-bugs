@@ -2830,42 +2830,6 @@
     "last_verified": "3.4.114.4047"
   },
   {
-    "card": "Silverfur Partisan",
-    "description": "Abilities that trigger from a permanent becoming the target of a spell or ability (such as that of Silverfur Partisan) are not triggered by copies of spells automatically put onto the stack. For example: if a player controls Zada, Hedron Grinder and casts a spell on Zada, when Zada's triggered ability resolves, the player will be prompted to choose targets for the copies made by Zada. If the player chooses targets for the copies individually, Silverfur Partisan's ability will trigger correctly. If the player clicks OK to automatically choose the targets, the Partisan's ability won't trigger.",
-    "category": "Unclassified",
-    "last_updated": "2020-05-19 02:55:12",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/400",
-    "last_verified": null
-  },
-  {
-    "card": "Zada, Hedron Grinder",
-    "description": "Abilities that trigger from a permanent becoming the target of a spell or ability (such as that of Silverfur Partisan) are not triggered by copies of spells automatically put onto the stack. For example: if a player controls Zada, Hedron Grinder and casts a spell on Zada, when Zada's triggered ability resolves, the player will be prompted to choose targets for the copies made by Zada. If the player chooses targets for the copies individually, Silverfur Partisan's ability will trigger correctly. If the player clicks OK to automatically choose the targets, the Partisan's ability won't trigger.",
-    "category": "Unclassified",
-    "last_updated": "2020-05-19 02:55:12",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/400",
-    "last_verified": null
-  },
-  {
-    "card": "Silverfur Partisan",
-    "description": "Abilities that trigger from a permanent becoming the target of a spell or ability (such as that of Silverfur Partisan) are not triggered by copies of spells automatically put onto the stack. For example: if a player controls Zada, Hedron Grinder and casts a spell on Zada, when Zada's triggered ability resolves, the player will be prompted to choose targets for the copies made by Zada. If the player chooses targets for the copies individually, Silverfur Partisan's ability will trigger correctly. If the player clicks OK to automatically choose the targets, the Partisan's ability won't trigger.",
-    "category": "Unclassified",
-    "last_updated": "2020-05-19 02:55:12",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/400",
-    "last_verified": null
-  },
-  {
     "card": "Undergrowth Scavenger",
     "description": "Creatures that enter the battlefield with counters based on the number of creatures in the graveyard (for example, Undergrowth Scavenger) do not count themselves if they are put onto the battlefield directly from the graveyard.",
     "category": "Unclassified",
