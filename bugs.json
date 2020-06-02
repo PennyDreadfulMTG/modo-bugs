@@ -2833,13 +2833,13 @@
     "card": "Nahiri's Wrath",
     "description": "The prompt box for the additional cost of Nahiri's Wrath contains a grammatical error when selecting a single target.",
     "category": "Graphical",
-    "last_updated": "2020-04-11 16:55:24",
+    "last_updated": "2020-06-02 02:11:31",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/390",
-    "last_verified": null
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Emrakul, the Promised End",
