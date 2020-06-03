@@ -2413,15 +2413,15 @@
   },
   {
     "card": "Meteor Storm",
-    "description": "Meteor Storm only discards one card if you have exactly two",
+    "description": "Meteor Storm only discards one card",
     "category": "Advantageous",
-    "last_updated": "2020-05-19 02:55:07",
+    "last_updated": "2020-06-03 05:58:24",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/489",
-    "last_verified": null
+    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Muldrotha, the Gravetide",
