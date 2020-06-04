@@ -2166,27 +2166,15 @@
   },
   {
     "card": "Solemnity",
-    "description": "Solemnity does not prevent a player from paying tribute from cards such as Oracle of Bones.",
-    "category": "Unclassified",
-    "last_updated": "2020-05-19 02:55:02",
+    "description": "Solemnity does not prevent a player from paying tribute cost, but the creature won't get the +1/+1 counter",
+    "category": "Advantageous",
+    "last_updated": "2020-06-04 06:54:42",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/599",
-    "last_verified": null
-  },
-  {
-    "card": "Oracle of Bones",
-    "description": "Solemnity does not prevent a player from paying tribute from cards such as Oracle of Bones.",
-    "category": "Unclassified",
-    "last_updated": "2020-05-19 02:55:02",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/599",
-    "last_verified": null
+    "last_verified": "3.4.114.4048"
   },
   {
     "card": "Release the Ants",
@@ -2202,15 +2190,14 @@
   },
   {
     "card": "Umbral Mantle",
-    "description": "When you untap a mana-producing creature as part of cost to activate an ability, MTGO wrongly allows you to tap that creature for mana in the middle of payng the cost",
+    "description": "When you untap a mana-producing creature as part of cost to activate an ability, MTGO wrongly allows you to tap that creature for mana in the middle of paying the cost",
     "category": "Advantageous",
-    "last_updated": "2019-10-04 12:55:21",
+    "last_updated": "2020-06-04 06:42:06",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/594",
-    "help_wanted": true,
     "last_verified": "3.4.104.2032"
   },
   {
@@ -2396,7 +2383,7 @@
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/531",
-    "last_verified": "3.4.103.2018"
+    "last_verified": "3.4.114.4048"
   },
   {
     "card": "Tromokratis",
@@ -2515,9 +2502,9 @@
   },
   {
     "card": "Phyrexian Revoker",
-    "description": "If a card such as Phyrexian Revoker that asks you to name a card is manifested, you are asked to name the card as it enters the battlefield.",
+    "description": "If a card is manifested and would normally require a choice as it enters the battlefield, it incorrectly prompts you for that choice",
     "category": "Advantageous",
-    "last_updated": "2020-06-04 01:54:40",
+    "last_updated": "2020-06-04 06:54:44",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
