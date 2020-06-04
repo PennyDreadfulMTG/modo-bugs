@@ -2562,19 +2562,6 @@
     "last_verified": "3.4.114.4048"
   },
   {
-    "card": "Oath of Nissa",
-    "description": "If a player makes a selection, then reverses that selection with the \"undo\" keyboard shortcut (default: CTRL+Z), the game log will sometimes incorrectly show both cards the player selected. Notably, this includes Oath of Nissa and similar effects that ask a player to put one of a small number of cards into their hand.",
-    "category": "Unclassified",
-    "last_updated": "2018-08-25 08:35:07",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/430",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Progenitus",
     "description": "Abilities that generate replacement effects preventing specific cards from being put into graveyards (such as those found on Progenitus or Blightsteel Colossus) do not function properly while resolving Grenzo, Dungeon Warden's activated ability.",
     "category": "Unclassified",
