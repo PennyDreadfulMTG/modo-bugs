@@ -2501,18 +2501,6 @@
     "last_verified": "3.4.103.2011"
   },
   {
-    "card": "Animation Module",
-    "description": "Animation Module does not trigger off of cards with unleash such as Gore-House Chainwalker.",
-    "category": "Disadvantageous",
-    "last_updated": "2020-05-19 02:55:09",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/449",
-    "last_verified": null
-  },
-  {
     "card": "Gaddock Teeg",
     "description": "Gaddock Teeg incorrectly does not allow cards with converted mana cost 4 or greater to be spliced onto other cards.",
     "category": "Advantageous",
@@ -2528,15 +2516,14 @@
   {
     "card": "Phyrexian Revoker",
     "description": "If a card such as Phyrexian Revoker that asks you to name a card is manifested, you are asked to name the card as it enters the battlefield.",
-    "category": "Unclassified",
-    "last_updated": "2018-04-18 07:35:31",
+    "category": "Advantageous",
+    "last_updated": "2020-06-04 01:54:40",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/446",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.114.4048"
   },
   {
     "card": "Cut",
@@ -2572,7 +2559,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/441",
-    "last_verified": null
+    "last_verified": "3.4.114.4048"
   },
   {
     "card": "Oath of Nissa",
