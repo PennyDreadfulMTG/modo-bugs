@@ -2226,18 +2226,6 @@
     "last_verified": null
   },
   {
-    "card": "Liu Bei, Lord of Shu",
-    "description": "The ability of Liu Bei, Lord of Shu does not function.",
-    "category": "Non-Functional ability",
-    "last_updated": "2020-05-19 02:55:04",
-    "pd_legal": true,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/582",
-    "last_verified": null
-  },
-  {
     "card": "Karn Liberated",
     "description": "Restarting the game with Karn Liberated does not remove the City's Blessing.",
     "category": "Unclassified",
