@@ -3,7 +3,7 @@
     "card": "Phyrexian Portal",
     "description": "Phyrexian Portal's prompt message is ambiguous whether it's the pile to be exiled or to be searched for, and the rest of the searched pile is put on the bottom instead of being shuffled back in",
     "category": "Unconfirmed",
-    "last_updated": "2020-06-05 07:54:39",
+    "last_updated": "2020-06-05 07:54:41",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
