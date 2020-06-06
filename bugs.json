@@ -2272,7 +2272,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/553",
-    "last_verified": "3.4.104.2027"
+    "last_verified": "3.4.114.4048"
   },
   {
     "card": "Hunted Dragon",
@@ -2289,9 +2289,9 @@
   },
   {
     "card": "Courser of Kruphix",
-    "description": "Courser of Kruphix incorrectly shows the top card with shocklands",
+    "description": "Courser of Kruphix incorrectly shows the top card with shocklands before the land's controller decides to pay two life or not",
     "category": "Advantageous",
-    "last_updated": "2020-04-24 15:54:41",
+    "last_updated": "2020-06-06 01:51:26",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
