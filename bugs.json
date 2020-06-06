@@ -2253,27 +2253,14 @@
   {
     "card": "Mutiny",
     "description": "Mutiny doesn't have clear targeting information. Workaround: the game log displays targets matching the order written on the card, and will highlight the appropriate creature when its name is hovered over with the mouse.",
-    "category": "Unclassified",
-    "last_updated": "2020-05-19 02:55:04",
+    "category": "Graphical",
+    "last_updated": "2020-06-06 00:15:51",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/568",
-    "last_verified": null
-  },
-  {
-    "card": "Stabwhisker the Odious",
-    "description": "Kamigawa Flip cards are displayed as enchantments and do not respect the attack with all function or changes to power and toughness.",
-    "category": "Unclassified",
-    "last_updated": "2018-09-20 14:55:51",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/567",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.114.4048"
   },
   {
     "card": "Evershrike",
@@ -2298,7 +2285,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/548",
     "help_wanted": true,
-    "last_verified": "3.4.112.4019"
+    "last_verified": "3.4.114.4048"
   },
   {
     "card": "Courser of Kruphix",
