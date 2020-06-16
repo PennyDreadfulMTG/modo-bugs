@@ -3297,19 +3297,6 @@
     "last_verified": "3.4.114.4046"
   },
   {
-    "card": "Vesuva",
-    "description": "If Vesuva copies a land with a static ability and then is later turned into a basic land (perhaps by a Blood Moon or Spreading Seas), that static ability will not be removed. Triggered and activated abilities are correctly removed.",
-    "category": "Advantageous",
-    "last_updated": "2018-09-27 08:09:25",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/272",
-    "help_wanted": true,
-    "last_verified": "3.4.102.2007"
-  },
-  {
     "card": "Sound the Call",
     "description": "The art for the token created by Sound the Call is incorrect. ",
     "category": "Graphical",
@@ -3333,19 +3320,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/263",
     "help_wanted": true,
     "last_verified": "3.4.114.4046"
-  },
-  {
-    "card": "Terastodon",
-    "description": "If some (not all) of Terastodon's targets are indestructible permanent(s), it will incorrectly create elephant token(s) for the owner of those permanents.",
-    "category": "Advantageous",
-    "last_updated": "2018-09-25 03:38:06",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/260",
-    "help_wanted": true,
-    "last_verified": null
   },
   {
     "card": "Austere Command",
