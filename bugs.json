@@ -4094,16 +4094,15 @@
   },
   {
     "card": "Mirror Match",
-    "description": "Mirror Match Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies",
+    "description": "Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies",
     "category": "Advantageous",
-    "last_updated": "2018-09-25 03:38:25",
+    "last_updated": "2020-06-16 03:54:41",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/74",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.114.4050"
   },
   {
     "card": "Storage Matrix",
