@@ -2461,19 +2461,6 @@
     "last_verified": null
   },
   {
-    "card": "Doubling Season",
-    "description": "Doubling Season incorrectly doubles lore counters on sagas placed during the draw step.",
-    "category": "Advantageous",
-    "last_updated": "2018-05-01 07:34:01",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/466",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Mogg Assassin",
     "description": "Mogg Assassin doesn't kill the opponent's creature on a won flip and doesn't always let both players select a target",
     "category": "Disadvantageous",
