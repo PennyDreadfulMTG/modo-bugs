@@ -4093,19 +4093,6 @@
     "last_verified": null
   },
   {
-    "card": "Koth of the Hammer",
-    "description": "When controlling the Emblem of Koth of the Hammer, lands do not display the blue text they have.",
-    "category": "Graphical",
-    "last_updated": "2018-09-25 03:38:25",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/77",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Mirror Match",
     "description": "Mirror Match Non-creature permanents that become creatures temporarily are incorrectly considered blocked by the token copies",
     "category": "Advantageous",
@@ -4221,7 +4208,7 @@
     "card": "Reflecting Pool",
     "description": "Reflecting Pool does not get the ability to add any color of mana to your mana pool from Crumbling Vestige.",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-16 00:44:13",
+    "last_updated": "2020-06-16 00:54:44",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -4325,19 +4312,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/8",
     "last_verified": "3.4.114.4044"
-  },
-  {
-    "card": "Cryptic Gateway",
-    "description": "Cryptic Gateway does not let you select a card from your hand",
-    "category": "Non-Functional ability",
-    "last_updated": "2019-11-30 04:13:49",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/5",
-    "help_wanted": true,
-    "last_verified": "3.4.112.4019"
   },
   {
     "card": "Concerted Effort",
