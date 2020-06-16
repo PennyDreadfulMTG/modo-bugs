@@ -4129,19 +4129,6 @@
     "last_verified": "3.4.114.4044"
   },
   {
-    "card": "The Gitrog Monster",
-    "description": "Non-land permanents that have become lands due to an enchantment, such as Imprisoned in the Moon, do not trigger the third ability of The Gitrog Monster when put into the graveyard ",
-    "category": "Disadvantageous",
-    "last_updated": "2020-05-25 23:58:31",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/69",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Unscythe, Killer of Kings",
     "description": "Unscythe, Killer of Kings's effect procs when unequipped.",
     "category": "Advantageous",
@@ -4177,19 +4164,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/55",
     "last_verified": "3.4.114.4044"
-  },
-  {
-    "card": "Athreos, God of Passage",
-    "description": "Athreos, God of Passage does not associate its triggers with specific creatures.",
-    "category": "Graphical",
-    "last_updated": "2018-09-25 03:38:28",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/52",
-    "help_wanted": true,
-    "last_verified": null
   },
   {
     "card": "Riptide Replicator",
