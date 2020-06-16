@@ -3631,16 +3631,15 @@
   },
   {
     "card": "As Foretold",
-    "description": "As Foretold does not apply to cards able to be cast due to Abandoned Sarcophagus.",
+    "description": "As Foretold does not apply to cards able to be cast due to permission granted by other cards, such as Abandoned Sarcophagus and Harness the Storm",
     "category": "Disadvantageous",
-    "last_updated": "2018-08-25 08:35:19",
+    "last_updated": "2020-06-16 07:53:20",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/181",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.114.4050"
   },
   {
     "card": "Goblin Game",
