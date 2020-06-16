@@ -3493,18 +3493,6 @@
     "last_verified": null
   },
   {
-    "card": "Phantom Tiger",
-    "description": "If Phantom Tiger dies in combat, blue text abilities it had been granted do not apply to that combat's damage.",
-    "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:37",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/230",
-    "last_verified": null
-  },
-  {
     "card": "Words of Waste",
     "description": "Words of Waste does not function.",
     "category": "Non-Functional ability",
