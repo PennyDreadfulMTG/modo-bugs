@@ -2966,16 +2966,15 @@
   },
   {
     "card": "Overabundance",
-    "description": "[Overabundance] can't add colorless mana, therefore keeping players from using lands that only tap for colorless",
+    "description": "Overabundance can't add the additional colorless mana, therefore keeping players from tapping lands for colorless mana",
     "category": "Advantageous",
-    "last_updated": "2018-02-26 00:12:54",
+    "last_updated": "2020-06-16 11:54:47",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/310",
-    "help_wanted": true,
-    "last_verified": "3.4.104.2027"
+    "last_verified": "3.4.114.4050"
   },
   {
     "card": "Primal Wellspring",
@@ -3283,7 +3282,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/276",
     "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.114.4050"
   },
   {
     "card": "Rosheen Meanderer",
@@ -3309,18 +3308,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/272",
     "help_wanted": true,
     "last_verified": "3.4.102.2007"
-  },
-  {
-    "card": "The Scarab God",
-    "description": "The Scarab God and God-Pharaoh's Gift do not respect 706.9d and replaces characteristic defining abilities when creating copies of creatures.",
-    "category": "Unclassified",
-    "last_updated": "2020-05-30 01:54:36",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/269",
-    "last_verified": null
   },
   {
     "card": "Sound the Call",
