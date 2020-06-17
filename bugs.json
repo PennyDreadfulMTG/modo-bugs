@@ -2373,15 +2373,15 @@
   },
   {
     "card": "Battlefield Thaumaturge",
-    "description": "Battlefield Thaumaturge wrongly handle how must discount a spliced spell works if it being targeted more than once",
-    "category": "Disadvantageous",
-    "last_updated": "2020-06-17 01:54:42",
+    "description": "Battlefield Thaumaturge wrongly handle how much discount a spell get if it being targeted more than once by that spell",
+    "category": "Advantageous",
+    "last_updated": "2020-06-17 07:54:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/533",
-    "last_verified": null
+    "last_verified": "3.4.114.4050"
   },
   {
     "card": "Holistic Wisdom",
