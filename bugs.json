@@ -2445,20 +2445,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/468",
     "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Teferi's Realm",
-    "description": "Teferi\u2019s Realm forces you to phase everything out",
-    "category": "Unconfirmed",
-    "last_updated": "2018-07-24 04:36:29",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/467",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.114.4050"
   },
   {
     "card": "Mogg Assassin",
@@ -2472,19 +2459,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/455",
     "help_wanted": true,
     "last_verified": "3.4.103.2011"
-  },
-  {
-    "card": "Gaddock Teeg",
-    "description": "Gaddock Teeg incorrectly does not allow cards with converted mana cost 4 or greater to be spliced onto other cards.",
-    "category": "Advantageous",
-    "last_updated": "2018-05-30 18:53:37",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/447",
-    "help_wanted": true,
-    "last_verified": null
   },
   {
     "card": "Phyrexian Revoker",
