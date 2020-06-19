@@ -2691,19 +2691,6 @@
     "last_verified": null
   },
   {
-    "card": "Kozilek, the Great Distortion",
-    "description": "When a player casts Kozilek, the Great Distortion, its triggered ability incorrectly triggers if the casting player has seven or more cards in hand. Upon resolution, the player will not draw cards if he or she already has seven or more cards in hand.",
-    "category": "Unclassified",
-    "last_updated": "2018-09-20 14:59:59",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/408",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Fork in the Road",
     "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
     "category": "Graphical",
