@@ -2248,17 +2248,16 @@
     "last_verified": null
   },
   {
-    "card": "Collected Company",
-    "description": "If metallic mimic and a creature of the chosen type enter the battlefield through collected company, the system will incorrectly give that creature a +1/+1 counter",
+    "card": "Metallic Mimic",
+    "description": "If Metallic Mimic and a creature of the chosen type enter the battlefield at the same time, the system will incorrectly give that creature a +1/+1 counter",
     "category": "Advantageous",
-    "last_updated": "2018-08-05 11:48:51",
+    "last_updated": "2020-06-20 06:54:42",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/583",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.114.4050"
   },
   {
     "card": "Karn Liberated",
