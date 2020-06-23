@@ -1135,9 +1135,9 @@
   },
   {
     "card": "Tidal Warrior",
-    "description": "Tidal Warrior's activated ability causes the game to crash",
+    "description": "Tidal Warrior's activated ability removes all abilities from the targetted land",
     "category": "Advantageous",
-    "last_updated": "2020-06-22 19:54:46",
+    "last_updated": "2020-06-23 14:15:28",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -1147,9 +1147,9 @@
   },
   {
     "card": "Streambed Aquitects",
-    "description": "Tidal Warrior's activated ability causes the game to crash",
+    "description": "Tidal Warrior's activated ability removes all abilities from the targetted land",
     "category": "Advantageous",
-    "last_updated": "2020-06-22 19:54:46",
+    "last_updated": "2020-06-23 14:15:28",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
