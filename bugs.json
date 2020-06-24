@@ -3026,61 +3026,61 @@
     "card": "Mire's Toll",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:29",
+    "last_updated": "2020-06-24 23:02:42",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
-    "last_verified": "3.4.112.4014"
+    "last_verified": "3.4.115.4051"
   },
   {
     "card": "Thieving Sprite",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:29",
+    "last_updated": "2020-06-24 23:02:42",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
-    "last_verified": "3.4.112.4014"
+    "last_verified": "3.4.115.4051"
   },
   {
     "card": "Bala Ged Thief",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:29",
+    "last_updated": "2020-06-24 23:02:42",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
-    "last_verified": "3.4.112.4014"
+    "last_verified": "3.4.115.4051"
   },
   {
     "card": "Disciple of Phenax",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:29",
+    "last_updated": "2020-06-24 23:02:42",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
-    "last_verified": "3.4.112.4014"
+    "last_verified": "3.4.115.4051"
   },
   {
     "card": "Distended Mindbender",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:29",
+    "last_updated": "2020-06-24 23:02:42",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
-    "last_verified": "3.4.112.4014"
+    "last_verified": "3.4.115.4051"
   },
   {
     "card": "Angelic Field Marshal",
