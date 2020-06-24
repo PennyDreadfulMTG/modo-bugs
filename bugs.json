@@ -1,5 +1,17 @@
 [
   {
+    "card": "Pattern Matcher",
+    "description": "Pattern Matcher Fails to find valid matches ",
+    "category": "Unconfirmed",
+    "last_updated": "2020-06-24 20:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/852",
+    "last_verified": null
+  },
+  {
     "card": "Phyrexian Portal",
     "description": "Phyrexian Portal's prompt message is ambiguous whether it's the pile to be exiled or to be searched for, and the rest of the searched pile is put on the bottom instead of being shuffled back in",
     "category": "Unconfirmed",
