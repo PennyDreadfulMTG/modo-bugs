@@ -1926,14 +1926,13 @@
     "card": "Pollen Lullaby",
     "description": "Pollen Lullaby does not display the rules text stating that the creature doesn't untap.",
     "category": "Unclassified",
-    "last_updated": "2020-04-11 16:55:09",
+    "last_updated": "2020-07-10 18:37:14",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/654",
-    "help_wanted": true,
-    "last_verified": "3.4.111.4007"
+    "last_verified": "3.4.115.4054"
   },
   {
     "card": "Nahiri's Wrath",
