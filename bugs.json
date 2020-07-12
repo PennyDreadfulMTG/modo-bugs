@@ -12,6 +12,18 @@
     "last_verified": null
   },
   {
+    "card": "Phyrexian Portal",
+    "description": "Phyrexian Portal's prompt message is ambiguous whether it's the pile to be exiled or to be searched for, and the rest of the searched pile is put on the bottom instead of being shuffled back in",
+    "category": "Disadvantageous",
+    "last_updated": "2020-07-12 05:46:03",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/851",
+    "last_verified": null
+  },
+  {
     "card": "Szadek, Lord of Secrets",
     "description": "Szadek, Lord of Secrets won't deal any damage at all nor get its replacement effect when a \"Damage can't be prevented\" ability is active",
     "category": "Disadvantageous",
