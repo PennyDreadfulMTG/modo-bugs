@@ -3286,8 +3286,8 @@
   {
     "card": "Austere Command",
     "description": "This card does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.",
-    "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:33",
+    "category": "Advantageous",
+    "last_updated": "2020-07-22 15:57:30",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -3298,8 +3298,8 @@
   {
     "card": "Culling Sun",
     "description": "This card does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.",
-    "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:33",
+    "category": "Advantageous",
+    "last_updated": "2020-07-22 15:57:30",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -3310,8 +3310,8 @@
   {
     "card": "Consume the Meek",
     "description": "This card does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.",
-    "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:33",
+    "category": "Advantageous",
+    "last_updated": "2020-07-22 15:57:30",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -4158,6 +4158,7 @@
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17",
+    "help_wanted": true,
     "last_verified": "3.4.114.4044"
   },
   {
@@ -4170,6 +4171,7 @@
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17",
+    "help_wanted": true,
     "last_verified": "3.4.114.4044"
   },
   {
@@ -4182,6 +4184,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/16",
+    "help_wanted": true,
     "last_verified": "3.4.114.4044"
   },
   {
