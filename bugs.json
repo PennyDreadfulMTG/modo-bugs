@@ -137,13 +137,13 @@
     "card": "Chandra, Pyromaster",
     "description": "Chandra, Pyromaster's ultimate resolves without copying the selected spell.",
     "category": "Non-Functional ability",
-    "last_updated": "2020-06-11 11:54:45",
+    "last_updated": "2020-07-23 21:23:15",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/840",
-    "last_verified": null
+    "last_verified": "3.4.115.4054"
   },
   {
     "card": "Evra, Halcyon Witness",
