@@ -1,9 +1,9 @@
 [
   {
     "card": "Card Name",
-    "description": "Doubling Cube",
+    "description": "Doubling Cube effect does not work",
     "category": "Unconfirmed",
-    "last_updated": "2020-07-26 03:54:42",
+    "last_updated": "2020-07-26 04:33:33",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -13,9 +13,9 @@
   },
   {
     "card": "Second Card name",
-    "description": "Doubling Cube",
+    "description": "Doubling Cube effect does not work",
     "category": "Unconfirmed",
-    "last_updated": "2020-07-26 03:54:42",
+    "last_updated": "2020-07-26 04:33:33",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
