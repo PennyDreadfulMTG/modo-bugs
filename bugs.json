@@ -1,21 +1,9 @@
 [
   {
-    "card": "Card Name",
+    "card": "Doubling Cube",
     "description": "Doubling Cube effect does not work",
-    "category": "Unconfirmed",
-    "last_updated": "2020-07-26 04:33:33",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/854",
-    "last_verified": null
-  },
-  {
-    "card": "Second Card name",
-    "description": "Doubling Cube effect does not work",
-    "category": "Unconfirmed",
-    "last_updated": "2020-07-26 04:33:33",
+    "category": "Non-Functional ability",
+    "last_updated": "2020-07-26 12:54:43",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
