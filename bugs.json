@@ -1,5 +1,17 @@
 [
   {
+    "card": "Olivia Voldaren",
+    "description": "Olivia Voldaren can target herself with her first ability.",
+    "category": "Advantageous",
+    "last_updated": "2020-07-26 02:54:50",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/853",
+    "last_verified": null
+  },
+  {
     "card": "Pattern Matcher",
     "description": "Pattern Matcher Fails to find valid matches ",
     "category": "Disadvantageous",
