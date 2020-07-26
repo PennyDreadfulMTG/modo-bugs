@@ -1,9 +1,33 @@
 [
   {
+    "card": "Card Name",
+    "description": "Doubling Cube",
+    "category": "Unconfirmed",
+    "last_updated": "2020-07-26 03:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/854",
+    "last_verified": null
+  },
+  {
+    "card": "Second Card name",
+    "description": "Doubling Cube",
+    "category": "Unconfirmed",
+    "last_updated": "2020-07-26 03:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/854",
+    "last_verified": null
+  },
+  {
     "card": "Olivia Voldaren",
     "description": "Olivia Voldaren can target herself with her first ability.",
     "category": "Advantageous",
-    "last_updated": "2020-07-26 02:54:50",
+    "last_updated": "2020-07-26 02:54:51",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
