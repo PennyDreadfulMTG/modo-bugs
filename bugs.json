@@ -1578,8 +1578,8 @@
   {
     "card": "Teferi, Mage of Zhalfir",
     "description": "Teferi, Mage of Zhalfir incorrectly allows opponents to cast spells with Omen Machine.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:55:06",
+    "category": "Disadvantageous",
+    "last_updated": "2020-07-26 14:52:24",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -1590,8 +1590,8 @@
   {
     "card": "Omen Machine",
     "description": "Teferi, Mage of Zhalfir incorrectly allows opponents to cast spells with Omen Machine.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:55:06",
+    "category": "Disadvantageous",
+    "last_updated": "2020-07-26 14:52:24",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
