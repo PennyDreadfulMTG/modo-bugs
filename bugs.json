@@ -4143,13 +4143,13 @@
     "card": "Shifty Doppelganger",
     "description": "Shifty Doppelganger puts an \"ability\" onto the battlefield at end of turn, rather than itself.",
     "category": "Game Breaking",
-    "last_updated": "2020-06-11 11:55:46",
+    "last_updated": "2020-07-30 04:53:53",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/27",
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.116.4058"
   },
   {
     "card": "Profane Command",
