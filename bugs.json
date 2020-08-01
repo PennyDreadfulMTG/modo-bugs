@@ -1,5 +1,29 @@
 [
   {
+    "card": "Sunbird's Invocation",
+    "description": "Sunbird's Invocation issues with the size of library",
+    "category": "Unconfirmed",
+    "last_updated": "2020-08-01 07:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/855",
+    "last_verified": null
+  },
+  {
+    "card": "Beacon of Tomorrows",
+    "description": "Sunbird's Invocation issues with the size of library",
+    "category": "Unconfirmed",
+    "last_updated": "2020-08-01 07:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/855",
+    "last_verified": null
+  },
+  {
     "card": "Doubling Cube",
     "description": "Doubling Cube effect does not work",
     "category": "Non-Functional ability",
