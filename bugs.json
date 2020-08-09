@@ -1,5 +1,17 @@
 [
   {
+    "card": "Omen Machine",
+    "description": "Omen Machine forces previously exiled spells to be used when a target becomes available",
+    "category": "Unconfirmed",
+    "last_updated": "2020-08-09 02:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/856",
+    "last_verified": null
+  },
+  {
     "card": "Sunbird's Invocation",
     "description": "Sunbird's Invocation issues with the size of library",
     "category": "Unconfirmed",
