@@ -2886,66 +2886,61 @@
     "card": "Fork in the Road",
     "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
     "category": "Graphical",
-    "last_updated": "2020-06-11 11:55:25",
+    "last_updated": "2020-08-15 14:12:43",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4047"
+    "last_verified": "3.4.116.4061"
   },
   {
     "card": "Cultivate",
     "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
     "category": "Graphical",
-    "last_updated": "2020-06-11 11:55:25",
+    "last_updated": "2020-08-15 14:12:43",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4047"
+    "last_verified": "3.4.116.4061"
   },
   {
     "card": "Kodama's Reach",
     "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
     "category": "Graphical",
-    "last_updated": "2020-06-11 11:55:25",
+    "last_updated": "2020-08-15 14:12:43",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4047"
+    "last_verified": "3.4.116.4061"
   },
   {
     "card": "Peregrination",
     "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
     "category": "Graphical",
-    "last_updated": "2020-06-11 11:55:25",
+    "last_updated": "2020-08-15 14:12:43",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4047"
+    "last_verified": "3.4.116.4061"
   },
   {
     "card": "Realms Uncharted",
     "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
     "category": "Graphical",
-    "last_updated": "2020-06-11 11:55:25",
+    "last_updated": "2020-08-15 14:12:43",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4047"
+    "last_verified": "3.4.116.4061"
   },
   {
     "card": "Nahiri's Wrath",
@@ -4363,6 +4358,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/44",
+    "help_wanted": true,
     "last_verified": "3.4.114.4050"
   },
   {
