@@ -1268,13 +1268,12 @@
     "card": "Chromatic Sphere",
     "description": "Chromatic Sphere's ability is not considered as mana ability",
     "category": "Disadvantageous",
-    "last_updated": "2019-11-30 02:26:56",
+    "last_updated": "2020-08-15 22:38:08",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
-    "help_wanted": true,
     "last_verified": "3.4.112.4019"
   },
   {
