@@ -1629,27 +1629,25 @@
     "card": "Sphinx of Uthuun",
     "description": "Sphinx of Uthuun's trigger does not allow you to order the cards going into your graveyard",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:05",
+    "last_updated": "2020-08-20 07:38:08",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/709",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.116.4061"
   },
   {
     "card": "Volrath's Shapeshifter",
     "description": "Sphinx of Uthuun's trigger does not allow you to order the cards going into your graveyard",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:05",
+    "last_updated": "2020-08-20 07:38:08",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/709",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.116.4061"
   },
   {
     "card": "Guardian Project",
