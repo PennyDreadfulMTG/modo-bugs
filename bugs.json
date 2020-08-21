@@ -1,5 +1,17 @@
 [
   {
+    "card": "Laquatus's Creativity",
+    "description": "Laquatus' Creativity doesn't discard",
+    "category": "Unconfirmed",
+    "last_updated": "2020-08-21 22:54:39",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/858",
+    "last_verified": null
+  },
+  {
     "card": "Cruel Reality",
     "description": "Cruel Reality does not cause enchanted player to lose 5 life if they cannot sacrifice a creature",
     "category": "Disadvantageous",
