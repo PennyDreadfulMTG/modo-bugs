@@ -3669,14 +3669,13 @@
     "card": "Scythe of the Wretched",
     "description": "While Scythe of the Wretched is unequipped, it reanimates any creature that happens to die.",
     "category": "Advantageous",
-    "last_updated": "2020-06-11 11:55:37",
+    "last_updated": "2020-08-28 13:18:47",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/221",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.116.4065"
   },
   {
     "card": "Sylvan Primordial",
