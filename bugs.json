@@ -1910,13 +1910,12 @@
     "card": "Blade of Selves",
     "description": "Myriad tokens are not exiled at the end of combat",
     "category": "Unclassified",
-    "last_updated": "2019-12-31 18:54:56",
+    "last_updated": "2020-08-30 00:47:38",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/683",
-    "help_wanted": true,
     "last_verified": null
   },
   {
