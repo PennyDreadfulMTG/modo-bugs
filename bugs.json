@@ -2493,14 +2493,14 @@
     "card": "Hunted Dragon",
     "description": "The tokens created by Hunted Dragon display Banding in addition to first strike",
     "category": "Graphical",
-    "last_updated": "2020-08-02 01:03:30",
+    "last_updated": "2020-08-31 19:22:47",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/548",
     "help_wanted": true,
-    "last_verified": "3.4.116.4059"
+    "last_verified": "3.4.116.4065"
   },
   {
     "card": "Secret Salvage",
