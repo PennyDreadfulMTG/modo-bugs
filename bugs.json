@@ -3838,14 +3838,13 @@
     "card": "Tomorrow, Azami's Familiar",
     "description": "Tomorrow, Azami's Familiar puts both unchosen cards back on top of the library.",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:41",
+    "last_updated": "2020-09-02 20:35:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/155",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.116.4065"
   },
   {
     "card": "Booby Trap",
