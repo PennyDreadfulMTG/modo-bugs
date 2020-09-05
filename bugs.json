@@ -2325,13 +2325,12 @@
     "card": "Containment Priest",
     "description": "If Containment Priest and any other creatures (not cast) ETB at the same time, all the other creatures get exiled",
     "category": "Disadvantageous",
-    "last_updated": "2018-10-02 02:39:29",
+    "last_updated": "2020-09-05 20:58:26",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/603",
-    "help_wanted": true,
     "last_verified": null
   },
   {
