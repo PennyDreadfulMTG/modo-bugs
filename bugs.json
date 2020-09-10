@@ -2647,22 +2647,10 @@
     "last_verified": "3.4.114.4048"
   },
   {
-    "card": "Cut",
+    "card": "Cut // Ribbons",
     "description": "Split cards such as Cut // Ribbons are reported as 3 cards in the chat log.",
     "category": "Graphical",
-    "last_updated": "2020-07-24 13:21:40",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/444",
-    "last_verified": "3.4.115.4054"
-  },
-  {
-    "card": "Ribbons",
-    "description": "Split cards such as Cut // Ribbons are reported as 3 cards in the chat log.",
-    "category": "Graphical",
-    "last_updated": "2020-07-24 13:21:40",
+    "last_updated": "2020-09-10 16:54:42",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
