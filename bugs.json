@@ -1444,19 +1444,6 @@
     "last_verified": null
   },
   {
-    "card": "Zur's Weirding",
-    "description": "Zur's Weirding fails to function when a player has an empty library.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:55:00",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/731",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Sound the Call",
     "description": "The token created by Sound the Call has incorrect art.",
     "category": "Unclassified",
@@ -1557,19 +1544,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/720",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Zur's Weirding",
-    "description": "If a player would draw from an empty library with Zur's Weirding in play, that player can't be made to lose, and the replacement effect stops functioning.",
-    "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:04",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/714",
     "help_wanted": true,
     "last_verified": null
   },
