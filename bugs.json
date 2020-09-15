@@ -127,14 +127,13 @@
     "card": "Panoptic Mirror",
     "description": "Panoptic Mirror's second ability stop working after exiling more than one card",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:54:41",
+    "last_updated": "2020-09-15 05:10:41",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/845",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.116.4065"
   },
   {
     "card": "Vengeful Pharaoh",
