@@ -1,5 +1,17 @@
 [
   {
+    "card": "Watcher for Tomorrow",
+    "description": "Watcher for Tomorrow's reminder text in the game log implies it is a land (Hideaway ability)",
+    "category": "Graphical",
+    "last_updated": "2020-09-17 18:10:30",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/859",
+    "last_verified": null
+  },
+  {
     "card": "Laquatus's Creativity",
     "description": "Laquatus' Creativity doesn't discard",
     "category": "Unconfirmed",
