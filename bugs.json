@@ -1898,14 +1898,13 @@
     "card": "Sekki, Seasons' Guide",
     "description": "Spirit tokens created by Sekki, Seasons' Guide are not considered to have the same name.",
     "category": "Unclassified",
-    "last_updated": "2020-06-11 11:55:11",
+    "last_updated": "2020-09-17 23:51:37",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/676",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.117.4069"
   },
   {
     "card": "Relic Crush",
