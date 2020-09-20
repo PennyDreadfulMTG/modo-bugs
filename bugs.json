@@ -1552,13 +1552,12 @@
     "card": "Explorer's Scope",
     "description": "Attacking with Explorer's Scope restarts the game (but not in the good way)",
     "category": "Game Breaking",
-    "last_updated": "2020-06-11 11:55:04",
+    "last_updated": "2020-09-20 02:59:41",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/713",
-    "help_wanted": true,
     "last_verified": null
   },
   {
