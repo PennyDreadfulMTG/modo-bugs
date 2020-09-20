@@ -1549,18 +1549,6 @@
     "last_verified": null
   },
   {
-    "card": "Explorer's Scope",
-    "description": "Attacking with Explorer's Scope restarts the game (but not in the good way)",
-    "category": "Game Breaking",
-    "last_updated": "2020-09-20 02:59:41",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/713",
-    "last_verified": null
-  },
-  {
     "card": "Descendants' Path",
     "description": "Descendants' Path allows you to play noncreature Tribal spells",
     "category": "Advantageous",
