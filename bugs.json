@@ -24,6 +24,18 @@
     "last_verified": null
   },
   {
+    "card": "Laquatus's Creativity",
+    "description": "Laquatus' Creativity doesn't discard",
+    "category": "Advantageous",
+    "last_updated": "2020-09-21 22:23:19",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/858",
+    "last_verified": null
+  },
+  {
     "card": "Cruel Reality",
     "description": "Cruel Reality does not cause enchanted player to lose 5 life if they cannot sacrifice a creature",
     "category": "Disadvantageous",
@@ -1983,18 +1995,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/663",
     "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Tooth and Nail",
-    "description": "Using the undo function with an entwined Tooth and Nail does not allow you to put two creatures onto the battlefield.",
-    "category": "Unclassified",
-    "last_updated": "2020-09-21 18:27:34",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/660",
     "last_verified": null
   },
   {
