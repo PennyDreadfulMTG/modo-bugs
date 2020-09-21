@@ -1,5 +1,17 @@
 [
   {
+    "card": "Tooth and Nail",
+    "description": "Using the Undo function during the second function of an entwined Tooth and Nail will restart the game when one or less creatures is tutored and at least one creature is in hand.",
+    "category": "Unconfirmed",
+    "last_updated": "2020-09-21 19:24:17",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/860",
+    "last_verified": null
+  },
+  {
     "card": "Watcher for Tomorrow",
     "description": "Watcher for Tomorrow's reminder text in the game log implies it is a land (Hideaway ability)",
     "category": "Graphical",
@@ -1977,13 +1989,12 @@
     "card": "Tooth and Nail",
     "description": "Using the undo function with an entwined Tooth and Nail does not allow you to put two creatures onto the battlefield.",
     "category": "Unclassified",
-    "last_updated": "2019-01-07 18:05:26",
+    "last_updated": "2020-09-21 18:27:34",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/660",
-    "help_wanted": true,
     "last_verified": null
   },
   {
