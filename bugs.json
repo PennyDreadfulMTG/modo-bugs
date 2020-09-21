@@ -12,18 +12,6 @@
     "last_verified": null
   },
   {
-    "card": "Laquatus's Creativity",
-    "description": "Laquatus' Creativity doesn't discard",
-    "category": "Unconfirmed",
-    "last_updated": "2020-08-21 22:54:40",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/858",
-    "last_verified": null
-  },
-  {
     "card": "Cruel Reality",
     "description": "Cruel Reality does not cause enchanted player to lose 5 life if they cannot sacrifice a creature",
     "category": "Disadvantageous",
@@ -570,19 +558,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/820",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Turn // Burn",
-    "description": "Fuse cards such as Turn // Burn have a visual error when granted other abilities.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:54:49",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/817",
     "help_wanted": true,
     "last_verified": null
   },
