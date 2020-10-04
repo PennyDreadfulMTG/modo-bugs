@@ -1233,14 +1233,13 @@
     "card": "Phantasmagorian",
     "description": "The order of cards discarded by Phantasmagorian's ability is random",
     "category": "Unconfirmed",
-    "last_updated": "2020-04-11 16:54:51",
+    "last_updated": "2020-10-03 23:55:35",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/766",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.117.4073"
   },
   {
     "card": "Bloodlord of Vaasgoth",
