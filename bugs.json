@@ -153,13 +153,13 @@
     "card": "Vengeful Pharaoh",
     "description": "Vengeful Pharaoh mistakes opponents for you and you for opponents",
     "category": "Disadvantageous",
-    "last_updated": "2020-08-29 12:53:09",
+    "last_updated": "2020-10-05 08:32:13",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/844",
-    "last_verified": "3.4.116.4065"
+    "last_verified": "3.4.117.4073"
   },
   {
     "card": "Primal Command",
@@ -2123,13 +2123,12 @@
     "card": "Gideon Jura",
     "description": "Certain effect shields, such as the indestructible one created by Gideon Jura, sometimes display slightly longer than they should.",
     "category": "Unclassified",
-    "last_updated": "2020-06-11 11:55:14",
+    "last_updated": "2020-10-05 08:19:54",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/636",
-    "help_wanted": true,
     "last_verified": null
   },
   {
