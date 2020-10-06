@@ -1,5 +1,17 @@
 [
   {
+    "card": "Damping Engine",
+    "description": "Damping Engine activated ability is broken. Sacrificing a permanent pops up another trigger to sac another permanent.",
+    "category": "Unconfirmed",
+    "last_updated": "2020-10-06 20:54:41",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/862",
+    "last_verified": null
+  },
+  {
     "card": "Tooth and Nail",
     "description": "Using the Undo function during the second function of an entwined Tooth and Nail will restart the game when one or less creatures is tutored and at least one creature is in hand.",
     "category": "Unconfirmed",
