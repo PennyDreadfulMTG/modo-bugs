@@ -1,5 +1,29 @@
 [
   {
+    "card": "Zhur-Taa Druid",
+    "description": "Zhur-Taa Druid does not deal damage when tapped for its ability",
+    "category": "Unconfirmed",
+    "last_updated": "2020-10-07 07:54:46",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/863",
+    "last_verified": null
+  },
+  {
+    "card": "Second Card name",
+    "description": "Zhur-Taa Druid does not deal damage when tapped for its ability",
+    "category": "Unconfirmed",
+    "last_updated": "2020-10-07 07:54:46",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/863",
+    "last_verified": null
+  },
+  {
     "card": "Damping Engine",
     "description": "Damping Engine activated ability is broken. Sacrificing a permanent pops up another trigger to sac another permanent.",
     "category": "Unconfirmed",
