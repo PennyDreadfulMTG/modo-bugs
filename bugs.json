@@ -1,5 +1,29 @@
 [
   {
+    "card": "Blood Clock",
+    "description": "Blood Clock bug",
+    "category": "Unconfirmed",
+    "last_updated": "2020-10-07 21:54:50",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/865",
+    "last_verified": null
+  },
+  {
+    "card": "Blood Clock",
+    "description": "Blood Clock won't let owner return a permanent to it's owners hand",
+    "category": "Unconfirmed",
+    "last_updated": "2020-10-07 21:54:53",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/864",
+    "last_verified": null
+  },
+  {
     "card": "Zhur-Taa Druid",
     "description": "Zhur-Taa Druid does not deal damage when tapped for its ability",
     "category": "Unconfirmed",
