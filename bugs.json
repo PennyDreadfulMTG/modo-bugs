@@ -1,5 +1,17 @@
 [
   {
+    "card": "Umori, the Collector",
+    "description": "The deckbuilder incorrectly shows that is Umori ineligible to be the companion for a Tribal-type deck.",
+    "category": "Unconfirmed",
+    "last_updated": "2020-10-08 22:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/866",
+    "last_verified": null
+  },
+  {
     "card": "Blood Clock",
     "description": "Blood Clock won't let owner return a permanent to it's owners hand",
     "category": "Advantageous",
@@ -276,14 +288,13 @@
     "card": "Chandra, Pyromaster",
     "description": "Chandra, Pyromaster's ultimate resolves without copying the selected spell.",
     "category": "Non-Functional ability",
-    "last_updated": "2020-07-23 21:23:15",
+    "last_updated": "2020-10-08 22:43:18",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/840",
-    "help_wanted": true,
-    "last_verified": "3.4.115.4054"
+    "last_verified": "3.4.117.4073"
   },
   {
     "card": "Evra, Halcyon Witness",
