@@ -1,5 +1,41 @@
 [
   {
+    "card": "Wormfang Newt",
+    "description": "Double-sided lands are returned on their backside (as a land) with Wormfang Newt/Turtle",
+    "category": "Unconfirmed",
+    "last_updated": "2020-10-10 14:54:40",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/867",
+    "last_verified": null
+  },
+  {
+    "card": "Wormfang Turtle",
+    "description": "Double-sided lands are returned on their backside (as a land) with Wormfang Newt/Turtle",
+    "category": "Unconfirmed",
+    "last_updated": "2020-10-10 14:54:40",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/867",
+    "last_verified": null
+  },
+  {
+    "card": "Umara Wizard",
+    "description": "Double-sided lands are returned on their backside (as a land) with Wormfang Newt/Turtle",
+    "category": "Unconfirmed",
+    "last_updated": "2020-10-10 14:54:40",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/867",
+    "last_verified": null
+  },
+  {
     "card": "Umori, the Collector",
     "description": "The deckbuilder incorrectly shows that is Umori ineligible to be the companion for a Tribal-type deck.",
     "category": "Unconfirmed",
