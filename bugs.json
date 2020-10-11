@@ -1855,13 +1855,12 @@
     "card": "Wolf-Skull Shaman",
     "description": "Wolf-Skull Shaman automatically reveals the top card of your library without a prompt.",
     "category": "Unclassified",
-    "last_updated": "2020-04-11 16:55:04",
+    "last_updated": "2020-10-11 21:35:09",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/692",
-    "help_wanted": true,
     "last_verified": null
   },
   {
