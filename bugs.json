@@ -1,5 +1,17 @@
 [
   {
+    "card": "Epic Experiment",
+    "description": "Epic Experiment allows you to play the land side of MDFCs.",
+    "category": "Unconfirmed",
+    "last_updated": "2020-10-12 15:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/868",
+    "last_verified": null
+  },
+  {
     "card": "Wormfang Newt",
     "description": "Double-sided lands are returned on their backside (as a land) with Wormfang Newt/Turtle",
     "category": "Unconfirmed",
