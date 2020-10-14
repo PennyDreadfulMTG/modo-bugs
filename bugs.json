@@ -1,5 +1,17 @@
 [
   {
+    "card": "Phytotitan",
+    "description": "Own Phytotitan Controlled By Opponent Returns Incorrectly",
+    "category": "Unconfirmed",
+    "last_updated": "2020-10-14 17:54:47",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/870",
+    "last_verified": null
+  },
+  {
     "card": "Epic Experiment",
     "description": "Epic Experiment allows you to play the land side of MDFCs.",
     "category": "Unconfirmed",
