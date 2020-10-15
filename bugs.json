@@ -1,9 +1,9 @@
 [
   {
     "card": "Phytotitan",
-    "description": "Own Phytotitan Controlled By Opponent Returns Incorrectly",
-    "category": "Unconfirmed",
-    "last_updated": "2020-10-14 17:54:48",
+    "description": "Phytotitan returns to the battlefield under it's controller's control, rather than its owner's control.",
+    "category": "Disadvantageous",
+    "last_updated": "2020-10-15 05:10:13",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -14,8 +14,8 @@
   {
     "card": "Epic Experiment",
     "description": "Epic Experiment allows you to play the land side of MDFCs.",
-    "category": "Unconfirmed",
-    "last_updated": "2020-10-12 15:54:45",
+    "category": "Advantageous",
+    "last_updated": "2020-10-15 05:10:37",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -25,9 +25,9 @@
   },
   {
     "card": "Wormfang Newt",
-    "description": "Double-sided lands are returned on their backside (as a land) with Wormfang Newt/Turtle",
-    "category": "Unconfirmed",
-    "last_updated": "2020-10-10 14:54:41",
+    "description": "Wormfang Newt/Turtle returns MDFCs on their land side, rather than their front side.",
+    "category": "Disadvantageous",
+    "last_updated": "2020-10-15 05:54:40",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -37,21 +37,9 @@
   },
   {
     "card": "Wormfang Turtle",
-    "description": "Double-sided lands are returned on their backside (as a land) with Wormfang Newt/Turtle",
-    "category": "Unconfirmed",
-    "last_updated": "2020-10-10 14:54:41",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/867",
-    "last_verified": null
-  },
-  {
-    "card": "Umara Wizard",
-    "description": "Double-sided lands are returned on their backside (as a land) with Wormfang Newt/Turtle",
-    "category": "Unconfirmed",
-    "last_updated": "2020-10-10 14:54:41",
+    "description": "Wormfang Newt/Turtle returns MDFCs on their land side, rather than their front side.",
+    "category": "Disadvantageous",
+    "last_updated": "2020-10-15 05:54:40",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -62,13 +50,14 @@
   {
     "card": "Umori, the Collector",
     "description": "The deckbuilder incorrectly shows that is Umori ineligible to be the companion for a Tribal-type deck.",
-    "category": "Unconfirmed",
-    "last_updated": "2020-10-08 22:54:43",
+    "category": "Graphical",
+    "last_updated": "2020-10-15 05:13:51",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/866",
+    "cade_bug": true,
     "last_verified": null
   },
   {
@@ -120,10 +109,10 @@
     "last_verified": null
   },
   {
-    "card": "Jester\u2019s Sceptre",
-    "description": "Jester\u2019s Sceptre Cannot Be Used To Counter Spells",
+    "card": "Jester's Scepter",
+    "description": "Jester's Scepter Cannot Be Used To Counter Spells",
     "category": "Non-Functional ability",
-    "last_updated": "2020-10-08 10:54:41",
+    "last_updated": "2020-10-15 05:54:41",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -134,8 +123,8 @@
   {
     "card": "Tooth and Nail",
     "description": "Using the Undo function during the second function of an entwined Tooth and Nail will restart the game when one or less creatures is tutored and at least one creature is in hand.",
-    "category": "Unconfirmed",
-    "last_updated": "2020-09-21 19:24:19",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2020-10-15 05:08:17",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
