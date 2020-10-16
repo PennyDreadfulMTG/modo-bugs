@@ -1224,13 +1224,12 @@
     "card": "Kazuul, Tyrant of the Cliffs",
     "description": "Kazuul, Tyrant of the Cliffs makes an Ogre creature token even if its triggered ability cost is paid.",
     "category": "Advantageous",
-    "last_updated": "2020-06-11 11:54:54",
+    "last_updated": "2020-10-16 16:15:37",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/784",
-    "help_wanted": true,
     "last_verified": "3.4.114.4044"
   },
   {
