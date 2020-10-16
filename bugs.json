@@ -3179,14 +3179,14 @@
     "card": "Primal Wellspring",
     "description": "If you cast a card you don't own with Primal Wellspring, the copy is cast by the card's owner.",
     "category": "Disadvantageous",
-    "last_updated": "2018-05-30 04:17:01",
+    "last_updated": "2020-10-16 11:54:46",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/309",
     "help_wanted": true,
-    "last_verified": "3.4.101.1120"
+    "last_verified": "3.4.117.4076"
   },
   {
     "card": "Mindclaw Shaman",
