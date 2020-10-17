@@ -1,5 +1,17 @@
 [
   {
+    "card": "World Queller",
+    "description": "World Queller allows you to sac opponents permanents",
+    "category": "Unconfirmed",
+    "last_updated": "2020-10-17 10:54:41",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/871",
+    "last_verified": null
+  },
+  {
     "card": "Phytotitan",
     "description": "Phytotitan returns to the battlefield under it's controller's control, rather than its owner's control.",
     "category": "Disadvantageous",
