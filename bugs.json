@@ -1647,26 +1647,24 @@
     "card": "Verdeloth the Ancient",
     "description": "\"Kicker {X}\" costs do not allow you to spend mana on them correctly. ",
     "category": "Non-Functional ability",
-    "last_updated": "2020-06-11 11:55:03",
+    "last_updated": "2020-10-18 07:48:16",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/721",
-    "help_wanted": true,
     "last_verified": null
   },
   {
     "card": "Emblazoned Golem",
     "description": "\"Kicker {X}\" costs do not allow you to spend mana on them correctly. ",
     "category": "Non-Functional ability",
-    "last_updated": "2020-06-11 11:55:03",
+    "last_updated": "2020-10-18 07:48:16",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/721",
-    "help_wanted": true,
     "last_verified": null
   },
   {
