@@ -3150,14 +3150,13 @@
     "card": "Buried Alive",
     "description": "The order of cards put into the graveyard by Buried Alive is random",
     "category": "Disadvantageous",
-    "last_updated": "2020-08-11 14:16:12",
+    "last_updated": "2020-10-22 14:09:12",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/313",
-    "help_wanted": true,
-    "last_verified": "3.4.116.4060"
+    "last_verified": "3.4.117.4077"
   },
   {
     "card": "Rogue Skycaptain",
