@@ -1233,18 +1233,6 @@
     "last_verified": null
   },
   {
-    "card": "Kazuul, Tyrant of the Cliffs",
-    "description": "Kazuul, Tyrant of the Cliffs makes an Ogre creature token even if its triggered ability cost is paid.",
-    "category": "Advantageous",
-    "last_updated": "2020-10-16 16:15:37",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/784",
-    "last_verified": "3.4.114.4044"
-  },
-  {
     "card": "Ugin, the Spirit Dragon",
     "description": "Ugin, the Spirit Dragon interacts incorrectly with tokens that exile permanents.",
     "category": "Unclassified",
