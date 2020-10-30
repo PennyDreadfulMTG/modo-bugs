@@ -2252,14 +2252,13 @@
     "card": "Crackling Drake",
     "description": "Creatures with variable power and toughness such as Crackling Drake are not correctly updated in the reveal zone.",
     "category": "Graphical",
-    "last_updated": "2020-08-15 12:55:02",
+    "last_updated": "2020-10-30 21:26:05",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/635",
-    "help_wanted": true,
-    "last_verified": "3.4.116.4061"
+    "last_verified": "3.4.117.4077"
   },
   {
     "card": "Terminus",
