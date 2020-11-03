@@ -1,6 +1,6 @@
 ---
-title: Magic Online Announcements, October 27, 2020
+title: Magic Online Announcements, November 3, 2020
 redirect_to:
- - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-october-27-2020
-has_build_notes: True
+ - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-november-3-2020
+has_build_notes: False
 ---
