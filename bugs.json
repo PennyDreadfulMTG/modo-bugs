@@ -109,18 +109,6 @@
     "last_verified": null
   },
   {
-    "card": "Damping Engine",
-    "description": "Damping Engine activated ability is broken. Sacrificing a permanent pops up another trigger to sac another permanent.",
-    "category": "Unconfirmed",
-    "last_updated": "2020-10-06 20:54:42",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/862",
-    "last_verified": null
-  },
-  {
     "card": "Jester's Scepter",
     "description": "Jester's Scepter Cannot Be Used To Counter Spells",
     "category": "Non-Functional ability",
@@ -382,19 +370,6 @@
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/836",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Gift of Tusks",
-    "description": "Whenever an ability is granted to a creature and then get removed, graphically MTGO will still shows the abilities on the creature",
-    "category": "Graphical",
-    "last_updated": "2020-06-11 11:54:46",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/833",
     "help_wanted": true,
     "last_verified": null
   },
