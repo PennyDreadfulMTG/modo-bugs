@@ -374,6 +374,19 @@
     "last_verified": null
   },
   {
+    "card": "Gift of Tusks",
+    "description": "Whenever an ability is granted to a creature and then get removed, graphically MTGO will still shows the abilities on the creature",
+    "category": "Graphical",
+    "last_updated": "2020-06-11 11:54:46",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/833",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
     "card": "Briarbridge Patrol",
     "description": "When a Clue token lose its artifact type, it still retain its Clue subtype",
     "category": "Advantageous",
