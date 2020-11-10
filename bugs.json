@@ -1,5 +1,17 @@
 [
   {
+    "card": "Moonring Mirror",
+    "description": "Moonring Mirror Bug",
+    "category": "Unconfirmed",
+    "last_updated": "2020-11-10 05:54:45",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/873",
+    "last_verified": null
+  },
+  {
     "card": "Stone Haven Outfitter",
     "description": "Stone Haven Outfitter buffs 0/0 germ tokens from Mortar Pod even if equipment is destroyed prior to living weapon trigger",
     "category": "Unconfirmed",
@@ -2639,6 +2651,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/444",
+    "help_wanted": true,
     "last_verified": "3.4.115.4054"
   },
   {
