@@ -1,5 +1,17 @@
 [
   {
+    "card": "Ethersworn Canonist",
+    "description": "Ethersworn Canonist does not prevent morphs from being cast",
+    "category": "Unconfirmed",
+    "last_updated": "2020-11-11 05:55:10",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/874",
+    "last_verified": null
+  },
+  {
     "card": "Moonring Mirror",
     "description": "Moonring Mirror Bug",
     "category": "Unconfirmed",
