@@ -121,6 +121,30 @@
     "last_verified": null
   },
   {
+    "card": "Zhur-Taa Druid",
+    "description": "Zhur-Taa Druid does not deal damage when tapped for its ability",
+    "category": "Advantageous",
+    "last_updated": "2020-11-11 03:55:29",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/863",
+    "last_verified": null
+  },
+  {
+    "card": "Damping Engine",
+    "description": "Damping Engine activated ability is broken. Sacrificing a permanent pops up another trigger to sac another permanent.",
+    "category": "Advantageous",
+    "last_updated": "2020-11-11 03:32:22",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/862",
+    "last_verified": null
+  },
+  {
     "card": "Jester's Scepter",
     "description": "Jester's Scepter Cannot Be Used To Counter Spells",
     "category": "Non-Functional ability",
