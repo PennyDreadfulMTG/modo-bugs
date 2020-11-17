@@ -1986,6 +1986,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/676",
+    "help_wanted": true,
     "last_verified": "3.4.117.4069"
   },
   {
