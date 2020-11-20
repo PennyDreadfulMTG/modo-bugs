@@ -1,5 +1,29 @@
 [
   {
+    "card": "Deranged Assistant",
+    "description": "Ctrl+Z two Deranged Assistants can soft-lock the game",
+    "category": "Unconfirmed",
+    "last_updated": "2020-11-20 23:54:49",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/877",
+    "last_verified": null
+  },
+  {
+    "card": "Deranged Assistant",
+    "description": "Ctrl+Z two Deranged Assistants can soft-lock the game",
+    "category": "Unconfirmed",
+    "last_updated": "2020-11-20 23:54:49",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/877",
+    "last_verified": null
+  },
+  {
     "card": "Curse of the Pierced Heart",
     "description": "Curse of the Pierced Heart triggers on each players' upkeep",
     "category": "Disadvantageous",
