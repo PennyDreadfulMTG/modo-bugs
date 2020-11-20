@@ -1,17 +1,5 @@
 [
   {
-    "card": "Apostle's Blessing",
-    "description": "Apostle's Blessing affects everything, even cards in hand.",
-    "category": "Unconfirmed",
-    "last_updated": "2020-11-19 19:54:51",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/875",
-    "last_verified": null
-  },
-  {
     "card": "Ethersworn Canonist",
     "description": "Ethersworn Canonist does not prevent morphs from being cast",
     "category": "Advantageous",
