@@ -1,5 +1,17 @@
 [
   {
+    "card": "Curse of the Pierced Heart",
+    "description": "Curse of the Pierced Heart triggers on each players' upkeep",
+    "category": "Disadvantageous",
+    "last_updated": "2020-11-20 12:54:50",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/876",
+    "last_verified": null
+  },
+  {
     "card": "Ethersworn Canonist",
     "description": "Ethersworn Canonist does not prevent morphs from being cast",
     "category": "Advantageous",
