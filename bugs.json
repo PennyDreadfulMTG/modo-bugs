@@ -363,6 +363,32 @@
     "last_verified": null
   },
   {
+    "card": "Chainer, Nightmare Adept",
+    "description": "Chainer, Nightmare Adept can't cast cards using its ability during opponents turn when Vedalken Orrery is also in play.",
+    "category": "Disadvantageous",
+    "last_updated": "2020-05-20 04:03:03",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/842",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
+    "card": "Vedalken Orrery",
+    "description": "Chainer, Nightmare Adept can't cast cards using its ability during opponents turn when Vedalken Orrery is also in play.",
+    "category": "Disadvantageous",
+    "last_updated": "2020-05-20 04:03:03",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/842",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
     "card": "Charmed Pendant",
     "description": "Charmed Pendant's ability doesn't add mana to mana pool",
     "category": "Disadvantageous",
