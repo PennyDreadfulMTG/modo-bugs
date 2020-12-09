@@ -1,5 +1,41 @@
 [
   {
+    "card": "Command the Dreadhorde",
+    "description": "Kunoros, Hound of Athreos Reanimation Bug",
+    "category": "Unconfirmed",
+    "last_updated": "2020-12-09 15:54:53",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/878",
+    "last_verified": null
+  },
+  {
+    "card": "Eerie Ultimatum",
+    "description": "Kunoros, Hound of Athreos Reanimation Bug",
+    "category": "Unconfirmed",
+    "last_updated": "2020-12-09 15:54:53",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/878",
+    "last_verified": null
+  },
+  {
+    "card": "Rise of the Dark Realms",
+    "description": "Kunoros, Hound of Athreos Reanimation Bug",
+    "category": "Unconfirmed",
+    "last_updated": "2020-12-09 15:54:53",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/878",
+    "last_verified": null
+  },
+  {
     "card": "Deranged Assistant",
     "description": "Ctrl+Z two Deranged Assistants can soft-lock the game",
     "category": "Unconfirmed",
