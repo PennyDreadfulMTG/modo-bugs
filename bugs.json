@@ -60,18 +60,6 @@
     "last_verified": null
   },
   {
-    "card": "Moonring Mirror",
-    "description": "Moonring Mirror Bug",
-    "category": "Unconfirmed",
-    "last_updated": "2020-11-10 05:54:46",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/873",
-    "last_verified": null
-  },
-  {
     "card": "Stone Haven Outfitter",
     "description": "Stone Haven Outfitter buffs 0/0 germ tokens from Mortar Pod even if equipment is destroyed prior to living weapon trigger",
     "category": "Advantageous",
@@ -372,19 +360,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/844",
     "help_wanted": true,
     "last_verified": "3.4.117.4073"
-  },
-  {
-    "card": "Primal Command",
-    "description": "Primal Command prints wrong owner for noncreature permanents it puts on top",
-    "category": "Graphical",
-    "last_updated": "2020-09-03 19:45:34",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/843",
-    "help_wanted": true,
-    "last_verified": null
   },
   {
     "card": "Chainer, Nightmare Adept",
