@@ -362,6 +362,19 @@
     "last_verified": "3.4.117.4073"
   },
   {
+    "card": "Primal Command",
+    "description": "Primal Command prints wrong owner for noncreature permanents it puts on top",
+    "category": "Graphical",
+    "last_updated": "2020-09-03 19:45:34",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/843",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
     "card": "Chainer, Nightmare Adept",
     "description": "Chainer, Nightmare Adept can't cast cards using its ability during opponents turn when Vedalken Orrery is also in play.",
     "category": "Disadvantageous",
