@@ -2,8 +2,8 @@
   {
     "card": "Kinsbaile Borderguard",
     "description": "Kinsbaile Borderguard",
-    "category": "Unconfirmed",
-    "last_updated": "2020-12-11 12:54:52",
+    "category": "Disadvantageous",
+    "last_updated": "2020-12-11 13:04:33",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -26,8 +26,8 @@
   {
     "card": "Deranged Assistant",
     "description": "Ctrl+Z two Deranged Assistants can soft-lock the game",
-    "category": "Unconfirmed",
-    "last_updated": "2020-11-21 00:54:49",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2020-12-11 13:04:47",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -38,8 +38,8 @@
   {
     "card": "Deranged Assistant",
     "description": "Ctrl+Z two Deranged Assistants can soft-lock the game",
-    "category": "Unconfirmed",
-    "last_updated": "2020-11-21 00:54:49",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2020-12-11 13:04:47",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
