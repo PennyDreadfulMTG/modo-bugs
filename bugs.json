@@ -336,19 +336,6 @@
     "last_verified": null
   },
   {
-    "card": "Panoptic Mirror",
-    "description": "Panoptic Mirror's second ability stop working after exiling more than one card",
-    "category": "Disadvantageous",
-    "last_updated": "2020-09-15 05:10:41",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/845",
-    "help_wanted": true,
-    "last_verified": "3.4.116.4065"
-  },
-  {
     "card": "Vengeful Pharaoh",
     "description": "Vengeful Pharaoh mistakes opponents for you and you for opponents",
     "category": "Disadvantageous",
@@ -360,6 +347,19 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/844",
     "help_wanted": true,
     "last_verified": "3.4.117.4073"
+  },
+  {
+    "card": "Panoptic Mirror",
+    "description": "Panoptic Mirror's second ability stop working after exiling more than one card",
+    "category": "Disadvantageous",
+    "last_updated": "2020-09-15 05:10:41",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/845",
+    "help_wanted": true,
+    "last_verified": "3.4.116.4065"
   },
   {
     "card": "Primal Command",
@@ -1724,19 +1724,6 @@
     "last_verified": "3.4.116.4061"
   },
   {
-    "card": "Guardian Project",
-    "description": "Guardian Project does not draw a card if a face-down permanent (e.g. Morph) enters the battlefield.",
-    "category": "Disadvantageous",
-    "last_updated": "2019-10-04 12:55:17",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/707",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Kess, Dissident Mage",
     "description": "Kess, Dissident Mage has issues with casting spells through alternative methods.",
     "category": "Unclassified",
@@ -1759,6 +1746,19 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/700",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
+    "card": "Guardian Project",
+    "description": "Guardian Project does not draw a card if a face-down permanent (e.g. Morph) enters the battlefield.",
+    "category": "Disadvantageous",
+    "last_updated": "2019-10-04 12:55:17",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/707",
     "help_wanted": true,
     "last_verified": null
   },
