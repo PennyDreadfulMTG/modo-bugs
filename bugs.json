@@ -1,5 +1,17 @@
 [
   {
+    "card": "Kinsbaile Borderguard",
+    "description": "Kinsbaile Borderguard",
+    "category": "Unconfirmed",
+    "last_updated": "2020-12-11 12:54:52",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/879",
+    "last_verified": null
+  },
+  {
     "card": "Kunoros, Hound of Athreos",
     "description": "Kunoros, Hound of Athreos Reanimation Bug",
     "category": "Advantageous",
