@@ -221,13 +221,12 @@
     "card": "Watcher for Tomorrow",
     "description": "Watcher for Tomorrow's reminder text in the game log implies it is a land (Hideaway ability)",
     "category": "Graphical",
-    "last_updated": "2020-09-17 18:10:31",
+    "last_updated": "2020-12-12 16:36:16",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/859",
-    "help_wanted": true,
     "last_verified": null
   },
   {
