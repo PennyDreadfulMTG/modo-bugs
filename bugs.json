@@ -1,9 +1,9 @@
 [
   {
     "card": "Kinsbaile Borderguard",
-    "description": "Kinsbaile Borderguard",
+    "description": "Kinsbaile Borderguard does not give you the tokens when it dies",
     "category": "Disadvantageous",
-    "last_updated": "2020-12-11 14:54:51",
+    "last_updated": "2020-12-12 15:29:03",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
