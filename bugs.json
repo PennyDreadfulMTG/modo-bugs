@@ -72,6 +72,18 @@
     "last_verified": null
   },
   {
+    "card": "Moonring Mirror",
+    "description": "Moonring Mirror Gives lets you switch back on the same upkeep",
+    "category": "Advantageous",
+    "last_updated": "2020-12-13 16:17:47",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/873",
+    "last_verified": null
+  },
+  {
     "card": "Stone Haven Outfitter",
     "description": "Stone Haven Outfitter buffs 0/0 germ tokens from Mortar Pod even if equipment is destroyed prior to living weapon trigger",
     "category": "Advantageous",
