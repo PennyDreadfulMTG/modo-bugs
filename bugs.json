@@ -1501,14 +1501,13 @@
     "card": "Pia's Revolution",
     "description": "Pia's Revolution creates an incorrect prompt while also being nonfunctional.",
     "category": "Disadvantageous",
-    "last_updated": "2020-09-07 19:16:47",
+    "last_updated": "2020-12-23 00:31:26",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/751",
-    "help_wanted": true,
-    "last_verified": "3.4.111.4007"
+    "last_verified": "3.4.118.4088"
   },
   {
     "card": "Life and Limb",
