@@ -1,5 +1,17 @@
 [
   {
+    "card": "Young Pyromancer",
+    "description": "Tokens created by Young Pyromancer have wrong text",
+    "category": "Graphical",
+    "last_updated": "2020-12-24 13:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/880",
+    "last_verified": null
+  },
+  {
     "card": "Kinsbaile Borderguard",
     "description": "Kinsbaile Borderguard does not give you the tokens when it dies",
     "category": "Disadvantageous",
