@@ -1,5 +1,17 @@
 [
   {
+    "card": "Champion of Wits",
+    "description": "Embalmed cards' CMC is treated as 0 instead of the original card's cmc",
+    "category": "Unconfirmed",
+    "last_updated": "2020-12-31 09:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/881",
+    "last_verified": null
+  },
+  {
     "card": "Young Pyromancer",
     "description": "Tokens created by Young Pyromancer have wrong text",
     "category": "Graphical",
