@@ -3,7 +3,7 @@
     "card": "Champion of Wits",
     "description": "Embalmed cards' CMC is treated as 0 instead of the original card's cmc",
     "category": "Unconfirmed",
-    "last_updated": "2020-12-31 09:54:44",
+    "last_updated": "2020-12-31 09:54:45",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
