@@ -2175,14 +2175,13 @@
     "card": "The Great Aurora",
     "description": "The Great Aurora shuffles tokens into your library that you can then draw.",
     "category": "Unclassified",
-    "last_updated": "2020-10-10 19:43:50",
+    "last_updated": "2021-01-08 05:01:45",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/655",
-    "help_wanted": true,
-    "last_verified": "3.4.117.4073"
+    "last_verified": "3.4.118.4088"
   },
   {
     "card": "Pollen Lullaby",
