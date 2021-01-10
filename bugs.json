@@ -2082,19 +2082,6 @@
     "last_verified": null
   },
   {
-    "card": "Sigarda, Heron's Grace",
-    "description": "Sigarda, Heron's Grace doesn't grant you hexproof",
-    "category": "Disadvantageous",
-    "last_updated": "2020-10-17 01:39:01",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/670",
-    "help_wanted": true,
-    "last_verified": "3.4.106.2073"
-  },
-  {
     "card": "Tangleclaw Werewolf",
     "description": "Fibrous Entangler (Flipped Tangleclaw Werewolf) tries to force players who it is not attacking in multiplayer to block it, locking the game as they cannot make a legal block",
     "category": "Game Breaking",
