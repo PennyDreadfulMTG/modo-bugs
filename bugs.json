@@ -1,5 +1,29 @@
 [
   {
+    "card": "Growth-Chamber Guardian",
+    "description": "Neoform and Growth-Chamber Guardian interact incorrectly",
+    "category": "Unconfirmed",
+    "last_updated": "2021-01-24 17:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/882",
+    "last_verified": null
+  },
+  {
+    "card": "Neoform",
+    "description": "Neoform and Growth-Chamber Guardian interact incorrectly",
+    "category": "Unconfirmed",
+    "last_updated": "2021-01-24 17:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/882",
+    "last_verified": null
+  },
+  {
     "card": "Young Pyromancer",
     "description": "Tokens created by Young Pyromancer have wrong text",
     "category": "Graphical",
