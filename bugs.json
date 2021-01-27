@@ -1,5 +1,17 @@
 [
   {
+    "card": "Zur's Weirding",
+    "description": "Zur's Weirding forces dredging to occur.",
+    "category": "Unconfirmed",
+    "last_updated": "2021-01-27 23:54:46",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/883",
+    "last_verified": null
+  },
+  {
     "card": "Growth-Chamber Guardian",
     "description": "Neoform and Growth-Chamber Guardian interact incorrectly",
     "category": "Unconfirmed",
