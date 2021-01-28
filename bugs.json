@@ -1,5 +1,17 @@
 [
   {
+    "card": "Animate Dead",
+    "description": "Animate Dead's LTB trigger restarts the game",
+    "category": "Unconfirmed",
+    "last_updated": "2021-01-28 12:54:46",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/884",
+    "last_verified": null
+  },
+  {
     "card": "Zur's Weirding",
     "description": "Zur's Weirding forces dredging to occur.",
     "category": "Unconfirmed",
