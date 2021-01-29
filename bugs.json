@@ -2,12 +2,12 @@
   {
     "card": "Animate Dead",
     "description": "Animate Dead's LTB trigger restarts the game",
-    "category": "Unconfirmed",
-    "last_updated": "2021-01-28 12:55:01",
+    "category": "Game Breaking",
+    "last_updated": "2021-01-29 02:49:37",
     "pd_legal": false,
     "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
+    "breaking": true,
+    "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/884",
     "last_verified": null
   },
