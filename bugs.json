@@ -1,5 +1,41 @@
 [
   {
+    "card": "Vivien's Arkbow",
+    "description": "Vivien's Arkbow occasionally doesn't work",
+    "category": "Unconfirmed",
+    "last_updated": "2021-01-30 16:54:41",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/885",
+    "last_verified": null
+  },
+  {
+    "card": "Ravenous Chupacabra",
+    "description": "Vivien's Arkbow occasionally doesn't work",
+    "category": "Unconfirmed",
+    "last_updated": "2021-01-30 16:54:41",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/885",
+    "last_verified": null
+  },
+  {
+    "card": "Jokulhaups",
+    "description": "Vivien's Arkbow occasionally doesn't work",
+    "category": "Unconfirmed",
+    "last_updated": "2021-01-30 16:54:41",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/885",
+    "last_verified": null
+  },
+  {
     "card": "Animate Dead",
     "description": "Animate Dead's LTB trigger restarts the game",
     "category": "Game Breaking",
