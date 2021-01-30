@@ -509,18 +509,6 @@
     "last_verified": null
   },
   {
-    "card": "Chandra, Pyromaster",
-    "description": "Chandra, Pyromaster's ultimate resolves without copying the selected spell.",
-    "category": "Non-Functional ability",
-    "last_updated": "2021-01-29 15:10:36",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/840",
-    "last_verified": "3.4.117.4073"
-  },
-  {
     "card": "Evra, Halcyon Witness",
     "description": "Evra activation restarts the game in a buggy state",
     "category": "Avoidable Game Breaking",
