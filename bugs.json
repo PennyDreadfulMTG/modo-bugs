@@ -1,5 +1,17 @@
 [
   {
+    "card": "Distended Mindbender",
+    "description": "Distended Mindbender lets you skip choosing cards even if appropriate cards are available.",
+    "category": "Unconfirmed",
+    "last_updated": "2021-02-05 01:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/888",
+    "last_verified": null
+  },
+  {
     "card": "Infernal Darkness",
     "description": "Infernal Darkness remembers the life loss payment for future mana payments",
     "category": "Unconfirmed",
