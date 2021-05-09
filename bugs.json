@@ -1,5 +1,456 @@
 [
   {
+    "card": "Shatterskull Smashing",
+    "description": "Shatterskull Smashing ignores Reidane when calculating cost",
+    "category": "Advantageous",
+    "last_updated": "2021-05-08 19:54:53",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/918",
+    "last_verified": null
+  },
+  {
+    "card": "Reidane, God of the Worthy",
+    "description": "Shatterskull Smashing ignores Reidane when calculating cost",
+    "category": "Advantageous",
+    "last_updated": "2021-05-08 19:54:53",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/918",
+    "last_verified": null
+  },
+  {
+    "card": "Kiora, Master of the Depths",
+    "description": "Kiora, Master of the depths",
+    "category": "Advantageous",
+    "last_updated": "2021-05-03 16:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/917",
+    "last_verified": null
+  },
+  {
+    "card": "Bala Ged Recovery",
+    "description": "Kiora, Master of the depths",
+    "category": "Advantageous",
+    "last_updated": "2021-05-03 16:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/917",
+    "last_verified": null
+  },
+  {
+    "card": "Guardian of the Guildpact",
+    "description": "Guardian of the Guildpact is untargettable by the triggered abilities of multicolored permanents.",
+    "category": "Advantageous",
+    "last_updated": "2021-05-03 01:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/916",
+    "last_verified": null
+  },
+  {
+    "card": "Golden Egg",
+    "description": "Undoing some abilities restarts the game",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2021-05-08 19:54:54",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/915",
+    "last_verified": null
+  },
+  {
+    "card": "Guild Globe",
+    "description": "Undoing some abilities restarts the game",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2021-05-08 19:54:54",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/915",
+    "last_verified": null
+  },
+  {
+    "card": "Skirk Prospector",
+    "description": "Undoing some abilities restarts the game",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2021-05-08 19:54:54",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/915",
+    "last_verified": null
+  },
+  {
+    "card": "Sylvan Library",
+    "description": "Undoing some abilities restarts the game",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2021-05-08 19:54:54",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/915",
+    "last_verified": null
+  },
+  {
+    "card": "Recross the Paths",
+    "description": "Recross the Paths doesn't let you order the revealed cards.",
+    "category": "Disadvantageous",
+    "last_updated": "2021-04-30 18:54:47",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/912",
+    "last_verified": null
+  },
+  {
+    "card": "Sliver Queen",
+    "description": "Lavabelly Sliver triggers with slivers that \"comes into play\" but does not trigger with slivers that are \"put into play\"",
+    "category": "Disadvantageous",
+    "last_updated": "2021-04-21 16:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/911",
+    "last_verified": null
+  },
+  {
+    "card": "Lavabelly Sliver",
+    "description": "Lavabelly Sliver triggers with slivers that \"comes into play\" but does not trigger with slivers that are \"put into play\"",
+    "category": "Disadvantageous",
+    "last_updated": "2021-04-21 16:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/911",
+    "last_verified": null
+  },
+  {
+    "card": "Tainted Specter",
+    "description": "Tainted Specter's ability locks the game for the chosen player.",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2021-04-07 15:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/910",
+    "last_verified": null
+  },
+  {
+    "card": "Student of Warfare",
+    "description": "If a level-up card would gain an ability that it would through leveling, it won't show it has gained that ability.",
+    "category": "Graphical",
+    "last_updated": "2021-04-06 17:55:00",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/909",
+    "last_verified": null
+  },
+  {
+    "card": "Caravan Escort",
+    "description": "If a level-up card would gain an ability that it would through leveling, it won't show it has gained that ability.",
+    "category": "Graphical",
+    "last_updated": "2021-04-06 17:55:00",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/909",
+    "last_verified": null
+  },
+  {
+    "card": "Coralhelm Commander",
+    "description": "If a level-up card would gain an ability that it would through leveling, it won't show it has gained that ability.",
+    "category": "Graphical",
+    "last_updated": "2021-04-06 17:55:00",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/909",
+    "last_verified": null
+  },
+  {
+    "card": "Grafdigger's Cage",
+    "description": "Grafdigger's Cage and Weathered Runestone don't prevent cards from entering the battlefield from the library if the cards are revealed from the top.",
+    "category": "Disadvantageous",
+    "last_updated": "2021-03-27 13:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/908",
+    "last_verified": null
+  },
+  {
+    "card": "Weathered Runestone",
+    "description": "Grafdigger's Cage and Weathered Runestone don't prevent cards from entering the battlefield from the library if the cards are revealed from the top.",
+    "category": "Disadvantageous",
+    "last_updated": "2021-03-27 13:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/908",
+    "last_verified": null
+  },
+  {
+    "card": "Agitator Ant",
+    "description": "Agitator Ant gives itself 4 +1 counters",
+    "category": "Advantageous",
+    "last_updated": "2021-03-16 17:54:45",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/906",
+    "last_verified": null
+  },
+  {
+    "card": "Esper Sojourners",
+    "description": "Esper Sojourners's ability does not trigger on cycling",
+    "category": "Disadvantageous",
+    "last_updated": "2021-03-12 11:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/904",
+    "last_verified": null
+  },
+  {
+    "card": "Gaea's Blessing",
+    "description": "Gaea's Blessing doesn't shuffle opponent's library if no cards in their graveyard are targeted",
+    "category": "Disadvantageous",
+    "last_updated": "2021-03-27 12:28:13",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/902",
+    "last_verified": null
+  },
+  {
+    "card": "Dripping Dead",
+    "description": "Creatures with an ability that destroys creatures that they deal combat damage to ignore Phasing.",
+    "category": "Advantageous",
+    "last_updated": "2021-03-12 11:24:38",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
+    "last_verified": null
+  },
+  {
+    "card": "Grotesque Hybrid",
+    "description": "Creatures with an ability that destroys creatures that they deal combat damage to ignore Phasing.",
+    "category": "Advantageous",
+    "last_updated": "2021-03-12 11:24:38",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
+    "last_verified": null
+  },
+  {
+    "card": "Mephitic Ooze",
+    "description": "Creatures with an ability that destroys creatures that they deal combat damage to ignore Phasing.",
+    "category": "Advantageous",
+    "last_updated": "2021-03-12 11:24:38",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
+    "last_verified": null
+  },
+  {
+    "card": "Phage the Untouchable",
+    "description": "Creatures with an ability that destroys creatures that they deal combat damage to ignore Phasing.",
+    "category": "Advantageous",
+    "last_updated": "2021-03-12 11:24:38",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
+    "last_verified": null
+  },
+  {
+    "card": "Stinkweed Imp",
+    "description": "Creatures with an ability that destroys creatures that they deal combat damage to ignore Phasing.",
+    "category": "Advantageous",
+    "last_updated": "2021-03-12 11:24:38",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
+    "last_verified": null
+  },
+  {
+    "card": "Voracious Cobra",
+    "description": "Creatures with an ability that destroys creatures that they deal combat damage to ignore Phasing.",
+    "category": "Advantageous",
+    "last_updated": "2021-03-12 11:24:38",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
+    "last_verified": null
+  },
+  {
+    "card": "Cairn Wanderer",
+    "description": "Instead of looking at GY, Cairn Wanderer looking at creatures on battlefield",
+    "category": "Advantageous",
+    "last_updated": "2021-02-27 01:54:40",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/899",
+    "help_wanted": true,
+    "last_verified": "3.4.119.4098"
+  },
+  {
+    "card": "First Response",
+    "description": "First Response does not trigger from self-inflicted life-loss",
+    "category": "Disadvantageous",
+    "last_updated": "2021-02-26 03:54:40",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/898",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
+    "card": "Necromantic Selection",
+    "description": "Necromantic Selection causes a game reset in multiplayer ",
+    "category": "Game Breaking",
+    "last_updated": "2021-02-27 01:04:27",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/897",
+    "multiplayer_only": true,
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
+    "card": "Svella, Ice Shaper",
+    "description": "Svella, Ice Shaper's second ability shows incorrect text (but works correctly)",
+    "category": "Graphical",
+    "last_updated": "2021-02-19 19:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/896",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
+    "card": "Possibility Storm",
+    "description": "Possibility Storm doesn't return Adventure cards to the library when you cast the Adventure spell.",
+    "category": "Advantageous",
+    "last_updated": "2021-03-27 12:10:32",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/895",
+    "last_verified": null
+  },
+  {
+    "card": "Auspicious Starrix",
+    "description": "Auspicious Starrix Bug",
+    "category": "Disadvantageous",
+    "last_updated": "2021-03-27 12:11:36",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/894",
+    "last_verified": null
+  },
+  {
+    "card": "Grafdigger's Cage",
+    "description": "Grafdigger's Cage does not stop Oath of Druids from putting creatures on the battlefield",
+    "category": "Disadvantageous",
+    "last_updated": "2021-03-17 07:54:46",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/893",
+    "last_verified": null
+  },
+  {
+    "card": "Oath of Druids",
+    "description": "Grafdigger's Cage does not stop Oath of Druids from putting creatures on the battlefield",
+    "category": "Disadvantageous",
+    "last_updated": "2021-03-17 07:54:46",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/893",
+    "last_verified": null
+  },
+  {
+    "card": "Astral Drift",
+    "description": "Astral Drift activates when an opponent cycles a card.",
+    "category": "Advantageous",
+    "last_updated": "2021-03-05 01:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/892",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
+    "card": "Kunoros, Hound of Athreos",
+    "description": "Kunoros's static ability prevents cards below it in the graveyard from entering the battlefield when reanimated together.",
+    "category": "Disadvantageous",
+    "last_updated": "2021-02-12 01:36:35",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/890",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
     "card": "Retribution of the Ancients",
     "description": "Retribution of the Ancients requires at least one +1 counter to function",
     "category": "Disadvantageous",
@@ -9,6 +460,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/889",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -21,13 +473,14 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/888",
+    "help_wanted": true,
     "last_verified": null
   },
   {
     "card": "Infernal Darkness",
     "description": "Infernal Darkness remembers the life loss payment for future mana payments",
-    "category": "Unconfirmed",
-    "last_updated": "2021-02-03 20:13:06",
+    "category": "Disadvantageous",
+    "last_updated": "2021-03-27 12:44:04",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -38,8 +491,8 @@
   {
     "card": "Vivien's Arkbow",
     "description": "Vivien's Arkbow occasionally doesn't work",
-    "category": "Unconfirmed",
-    "last_updated": "2021-02-03 19:54:43",
+    "category": "Disadvantageous",
+    "last_updated": "2021-03-27 13:11:40",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -50,8 +503,8 @@
   {
     "card": "Zur's Weirding",
     "description": "Zur's Weirding forces dredging to occur.",
-    "category": "Unconfirmed",
-    "last_updated": "2021-02-03 19:54:44",
+    "category": "Advantageous",
+    "last_updated": "2021-03-27 21:06:04",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -61,9 +514,9 @@
   },
   {
     "card": "Growth-Chamber Guardian",
-    "description": "Neoform and Growth-Chamber Guardian interact incorrectly",
-    "category": "Unconfirmed",
-    "last_updated": "2021-01-24 17:54:45",
+    "description": "Neoform and creatures with +1/+1 counter abilities interact incorrectly",
+    "category": "Disadvantageous",
+    "last_updated": "2021-04-22 00:54:43",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -73,9 +526,21 @@
   },
   {
     "card": "Neoform",
-    "description": "Neoform and Growth-Chamber Guardian interact incorrectly",
-    "category": "Unconfirmed",
-    "last_updated": "2021-01-24 17:54:45",
+    "description": "Neoform and creatures with +1/+1 counter abilities interact incorrectly",
+    "category": "Disadvantageous",
+    "last_updated": "2021-04-22 00:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/882",
+    "last_verified": null
+  },
+  {
+    "card": "Fathom Mage",
+    "description": "Neoform and creatures with +1/+1 counter abilities interact incorrectly",
+    "category": "Disadvantageous",
+    "last_updated": "2021-04-22 00:54:43",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -93,6 +558,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/880",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -105,18 +571,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/879",
-    "last_verified": null
-  },
-  {
-    "card": "Kunoros, Hound of Athreos",
-    "description": "Kunoros, Hound of Athreos Reanimation Bug",
-    "category": "Advantageous",
-    "last_updated": "2020-12-10 22:54:50",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/878",
     "help_wanted": true,
     "last_verified": null
   },
@@ -124,20 +578,7 @@
     "card": "Deranged Assistant",
     "description": "Ctrl+Z two Deranged Assistants can soft-lock the game",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2020-12-11 13:04:47",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/877",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Deranged Assistant",
-    "description": "Ctrl+Z two Deranged Assistants can soft-lock the game",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2020-12-11 13:04:47",
+    "last_updated": "2021-02-15 20:54:49",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -169,6 +610,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/873",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -325,6 +767,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/859",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -354,30 +797,17 @@
     "last_verified": null
   },
   {
-    "card": "Doubling Cube",
-    "description": "Doubling Cube effect does not work",
-    "category": "Non-Functional ability",
-    "last_updated": "2020-07-26 12:54:44",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/854",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Olivia Voldaren",
     "description": "Olivia Voldaren can target herself with her first ability.",
     "category": "Advantageous",
-    "last_updated": "2020-09-27 00:18:09",
+    "last_updated": "2021-02-13 16:49:23",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/853",
     "help_wanted": true,
-    "last_verified": "3.4.117.4072"
+    "last_verified": "3.4.119.4098"
   },
   {
     "card": "Pattern Matcher",
@@ -448,27 +878,13 @@
     "card": "Vengeful Pharaoh",
     "description": "Vengeful Pharaoh mistakes opponents for you and you for opponents",
     "category": "Disadvantageous",
-    "last_updated": "2020-10-05 08:32:13",
+    "last_updated": "2021-03-15 22:14:25",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/844",
-    "help_wanted": true,
     "last_verified": "3.4.117.4073"
-  },
-  {
-    "card": "Panoptic Mirror",
-    "description": "Panoptic Mirror's second ability stop working after exiling more than one card",
-    "category": "Disadvantageous",
-    "last_updated": "2020-09-15 05:10:41",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/845",
-    "help_wanted": true,
-    "last_verified": "3.4.116.4065"
   },
   {
     "card": "Primal Command",
@@ -480,6 +896,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/843",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -797,14 +1214,13 @@
   {
     "card": "Turn // Burn",
     "description": "Fuse cards such as Turn // Burn have a visual error when granted other abilities.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:54:49",
+    "category": "Graphical",
+    "last_updated": "2021-03-27 21:07:14",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/817",
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -1402,6 +1818,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/771",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -1444,19 +1861,6 @@
     "last_verified": null
   },
   {
-    "card": "Phantasmagorian",
-    "description": "The order of cards discarded by Phantasmagorian's ability is random",
-    "category": "Unconfirmed",
-    "last_updated": "2020-10-03 23:55:35",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/766",
-    "help_wanted": true,
-    "last_verified": "3.4.117.4073"
-  },
-  {
     "card": "Bloodlord of Vaasgoth",
     "description": "Bloodlord of Vaasgoth does not display the blue text it grants other vampires.",
     "category": "Graphical",
@@ -1481,32 +1885,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
     "help_wanted": true,
     "last_verified": "3.4.112.4019"
-  },
-  {
-    "card": "Tidal Warrior",
-    "description": "Tidal Warrior's activated ability removes all abilities from the targetted land",
-    "category": "Advantageous",
-    "last_updated": "2020-06-23 14:15:28",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/759",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Streambed Aquitects",
-    "description": "Tidal Warrior's activated ability removes all abilities from the targetted land",
-    "category": "Advantageous",
-    "last_updated": "2020-06-23 14:15:28",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/759",
-    "help_wanted": true,
-    "last_verified": null
   },
   {
     "card": "Crovax The Cursed",
@@ -1570,6 +1948,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/751",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -1781,19 +2160,6 @@
     "last_verified": null
   },
   {
-    "card": "Karn Liberated",
-    "description": "Restarting the game with Karn Liberated restarts the game (But not in the good way)",
-    "category": "Game Breaking",
-    "last_updated": "2019-04-21 04:13:52",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/710",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Sphinx of Uthuun",
     "description": "Sphinx of Uthuun's trigger does not allow you to order the cards going into your graveyard",
     "category": "Disadvantageous",
@@ -1836,14 +2202,13 @@
     "card": "Skinshifter",
     "description": "The ability context menu of Skinshifter is displayed incorrectly.",
     "category": "Unclassified",
-    "last_updated": "2020-06-11 11:55:05",
+    "last_updated": "2021-03-25 23:51:07",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/700",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.119.4098"
   },
   {
     "card": "Guardian Project",
@@ -2220,6 +2585,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/655",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -2258,19 +2624,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/648",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Verdant Eidolon",
-    "description": "There is a known issue with Verdant Eidolon creating too much mana.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:55:13",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/647",
     "help_wanted": true,
     "last_verified": null
   },
@@ -2707,7 +3060,7 @@
     "card": "Holistic Wisdom",
     "description": "Holistic Wisdom restarts the game when you activate it",
     "category": "Game Breaking",
-    "last_updated": "2020-06-11 11:55:21",
+    "last_updated": "2021-02-28 00:44:08",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
@@ -2826,7 +3179,7 @@
     "card": "Heir of Falkenrath",
     "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
     "category": "Advantageous",
-    "last_updated": "2020-04-11 16:55:20",
+    "last_updated": "2021-03-03 12:13:15",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -3027,6 +3380,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -3039,6 +3393,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -3051,6 +3406,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -3063,6 +3419,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -3075,6 +3432,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -3296,13 +3654,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/306",
     "help_wanted": true,
-    "last_verified": "3.4.112.4019"
+    "last_verified": "3.4.119.4098"
   },
   {
     "card": "Fire Covenant",
     "description": "If Fire Covenant is cast for x=0 and you pay the 1 extra mana that MTGO asks you to (which is the bug), the game will restarts. Workaround: Undo the process if you encounter this bug, and never cast it for x=0",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2019-08-09 09:01:04",
+    "last_updated": "2021-02-26 15:50:07",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -3360,6 +3718,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -3372,6 +3731,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -3384,6 +3744,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -3396,6 +3757,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -3408,6 +3770,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -3440,14 +3803,14 @@
     "card": "Overwhelming Splendor",
     "description": "Creatures with ascend can still grant the City's Blessing with Overwhelming Splendor on the battlefield.",
     "category": "Disadvantageous",
-    "last_updated": "2018-04-08 13:23:59",
+    "last_updated": "2021-02-26 15:54:49",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/297",
     "help_wanted": true,
-    "last_verified": "3.4.114.4046"
+    "last_verified": "3.4.119.4098"
   },
   {
     "card": "Mind Bend",
@@ -3726,14 +4089,14 @@
     "card": "Volcano Hellion",
     "description": "Volcano Hellion's damage is capped at 255",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:35",
+    "last_updated": "2021-02-13 22:38:49",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/247",
     "help_wanted": true,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.119.4098"
   },
   {
     "card": "Sheltering Ancient",
@@ -4020,7 +4383,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/148",
     "help_wanted": true,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.119.4098"
   },
   {
     "card": "Vizier of Many Faces",
@@ -4416,14 +4779,13 @@
     "card": "Gideon's Intervention",
     "description": "Casting a second copy of Gideon's Intervention causes the first to become become partially non-functional, allowing the named card to deal damage",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:44",
+    "last_updated": "2021-04-11 09:08:08",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/72",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.119.4098"
   },
   {
     "card": "Unscythe, Killer of Kings",
@@ -4462,7 +4824,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/55",
     "help_wanted": true,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.119.4098"
   },
   {
     "card": "Riptide Replicator",
@@ -4543,45 +4905,6 @@
     "last_verified": "3.4.114.4044"
   },
   {
-    "card": "Odds",
-    "description": "Odds restarts the game in buggy state on heads",
-    "category": "Game Breaking",
-    "last_updated": "2020-05-23 02:44:28",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4044"
-  },
-  {
-    "card": "Ends",
-    "description": "Odds restarts the game in buggy state on heads",
-    "category": "Game Breaking",
-    "last_updated": "2020-05-23 02:44:28",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/17",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4044"
-  },
-  {
-    "card": "Null Chamber",
-    "description": "Null Chamber's controller is asked to name two non-basic lands, rather than each player naming a card that's not a basic land.",
-    "category": "Advantageous",
-    "last_updated": "2020-05-23 02:54:40",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/16",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4044"
-  },
-  {
     "card": "High Seas",
     "description": "High Seas only affects red creature spells.",
     "category": "Disadvantageous",
@@ -4592,45 +4915,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/8",
     "help_wanted": true,
-    "last_verified": "3.4.114.4044"
-  },
-  {
-    "card": "Concerted Effort",
-    "description": "Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared",
-    "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:47",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/4",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4044"
-  },
-  {
-    "card": "Death-Mask Duplicant",
-    "description": "Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared",
-    "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:47",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/4",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4044"
-  },
-  {
-    "card": "Cairn Wanderer",
-    "description": "Some specific protections (Snow or specificially spectra ward) are not counted as protections to be gained or shared",
-    "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:47",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/4",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.119.4098"
   }
 ]
