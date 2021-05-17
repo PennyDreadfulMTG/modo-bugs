@@ -25,9 +25,9 @@
   },
   {
     "card": "Kiora, Master of the Depths",
-    "description": "Kiora, Master of the depths",
+    "description": "Kiora allows you to take MDFCs where the reverse side is a land, and does not count it toward the total taken",
     "category": "Advantageous",
-    "last_updated": "2021-05-03 16:54:44",
+    "last_updated": "2021-05-11 00:45:42",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -37,9 +37,9 @@
   },
   {
     "card": "Bala Ged Recovery",
-    "description": "Kiora, Master of the depths",
+    "description": "Kiora allows you to take MDFCs where the reverse side is a land, and does not count it toward the total taken",
     "category": "Advantageous",
-    "last_updated": "2021-05-03 16:54:44",
+    "last_updated": "2021-05-11 00:45:42",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -225,6 +225,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/906",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -237,6 +238,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/904",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -261,6 +263,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -273,6 +276,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -285,6 +289,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -297,6 +302,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -309,6 +315,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -321,6 +328,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -410,6 +418,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/893",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -422,6 +431,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/893",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -884,6 +894,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/844",
+    "help_wanted": true,
     "last_verified": "3.4.117.4073"
   },
   {
