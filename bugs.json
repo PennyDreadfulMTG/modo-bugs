@@ -500,9 +500,9 @@
   },
   {
     "card": "Vivien's Arkbow",
-    "description": "Vivien's Arkbow occasionally doesn't work",
+    "description": "Vivien's Arkbow acts as if X-1 was paid for the activation.",
     "category": "Disadvantageous",
-    "last_updated": "2021-03-27 13:11:40",
+    "last_updated": "2021-05-18 23:29:42",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
