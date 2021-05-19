@@ -398,9 +398,9 @@
   },
   {
     "card": "Auspicious Starrix",
-    "description": "Auspicious Starrix Bug",
+    "description": "Auspicious Starrix can exile cards permanently.",
     "category": "Disadvantageous",
-    "last_updated": "2021-03-27 12:11:36",
+    "last_updated": "2021-05-19 00:06:49",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
