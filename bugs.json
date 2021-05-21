@@ -27,7 +27,7 @@
     "card": "Kiora, Master of the Depths",
     "description": "Kiora, Master of the Depths incorrectly allows taking MDFCs where one side is a land, and does not count it toward the total taken",
     "category": "Advantageous",
-    "last_updated": "2021-05-21 01:54:43",
+    "last_updated": "2021-05-21 07:50:30",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
