@@ -25,21 +25,9 @@
   },
   {
     "card": "Kiora, Master of the Depths",
-    "description": "Kiora allows you to take MDFCs where the reverse side is a land, and does not count it toward the total taken",
+    "description": "Kiora, Master of the Depths incorrectly allows taking MDFCs where one side is a land, and does not count it toward the total taken",
     "category": "Advantageous",
-    "last_updated": "2021-05-11 00:45:42",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/917",
-    "last_verified": null
-  },
-  {
-    "card": "Bala Ged Recovery",
-    "description": "Kiora allows you to take MDFCs where the reverse side is a land, and does not count it toward the total taken",
-    "category": "Advantageous",
-    "last_updated": "2021-05-11 00:45:42",
+    "last_updated": "2021-05-21 01:54:43",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
