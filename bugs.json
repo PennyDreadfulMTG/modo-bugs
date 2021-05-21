@@ -876,13 +876,12 @@
     "card": "Vengeful Pharaoh",
     "description": "Vengeful Pharaoh mistakes opponents for you and you for opponents",
     "category": "Disadvantageous",
-    "last_updated": "2021-03-15 22:14:25",
+    "last_updated": "2021-05-21 02:41:59",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/844",
-    "help_wanted": true,
     "last_verified": "3.4.117.4073"
   },
   {
