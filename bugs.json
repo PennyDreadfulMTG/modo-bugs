@@ -1,5 +1,65 @@
 [
   {
+    "card": "Esper Sojourners",
+    "description": "Sojourners cycle from Alara don't trigger when cycled",
+    "category": "Unconfirmed",
+    "last_updated": "2021-05-22 22:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/920",
+    "last_verified": null
+  },
+  {
+    "card": "Jund Sojourners",
+    "description": "Sojourners cycle from Alara don't trigger when cycled",
+    "category": "Unconfirmed",
+    "last_updated": "2021-05-22 22:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/920",
+    "last_verified": null
+  },
+  {
+    "card": "Grixis Sojourners",
+    "description": "Sojourners cycle from Alara don't trigger when cycled",
+    "category": "Unconfirmed",
+    "last_updated": "2021-05-22 22:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/920",
+    "last_verified": null
+  },
+  {
+    "card": "Bant Sojourners",
+    "description": "Sojourners cycle from Alara don't trigger when cycled",
+    "category": "Unconfirmed",
+    "last_updated": "2021-05-22 22:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/920",
+    "last_verified": null
+  },
+  {
+    "card": "Naya Sojourners",
+    "description": "Sojourners cycle from Alara don't trigger when cycled",
+    "category": "Unconfirmed",
+    "last_updated": "2021-05-22 22:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/920",
+    "last_verified": null
+  },
+  {
     "card": "Bear Umbra",
     "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
     "category": "Disadvantageous",
