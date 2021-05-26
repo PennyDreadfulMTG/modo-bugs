@@ -1,5 +1,17 @@
 [
   {
+    "card": "Expressive Iteration",
+    "description": "Expressive Iteration behaves incorrectly if you Undo your selection",
+    "category": "Advantageous",
+    "last_updated": "2021-05-26 02:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/921",
+    "last_verified": null
+  },
+  {
     "card": "Esper Sojourners",
     "description": "Sojourners cycle from Alara don't trigger its own triggered ability when cycled",
     "category": "Disadvantageous",
