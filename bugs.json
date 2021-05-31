@@ -694,14 +694,13 @@
     "card": "Astral Drift",
     "description": "Astral Drift activates when an opponent cycles a card.",
     "category": "Advantageous",
-    "last_updated": "2021-03-05 01:54:48",
+    "last_updated": "2021-05-31 02:40:20",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/892",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.120.4117"
   },
   {
     "card": "Kunoros, Hound of Athreos",
