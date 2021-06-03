@@ -1,5 +1,17 @@
 [
   {
+    "card": "Knowledge Pool",
+    "description": "Knowledge Pool doesn't let you cast spells exiled under it unless you have an untapped mana source.",
+    "category": "Advantageous",
+    "last_updated": "2021-06-03 01:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/922",
+    "last_verified": null
+  },
+  {
     "card": "Expressive Iteration",
     "description": "Expressive Iteration behaves incorrectly if you undo your selection",
     "category": "Advantageous",
