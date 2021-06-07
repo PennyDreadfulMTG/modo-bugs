@@ -1,5 +1,17 @@
 [
   {
+    "card": "Ashiok's Erasure",
+    "description": "Ashiok's Erasure bug",
+    "category": "Unconfirmed",
+    "last_updated": "2021-06-07 00:54:45",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/923",
+    "last_verified": null
+  },
+  {
     "card": "Knowledge Pool",
     "description": "Knowledge Pool doesn't let you cast spells exiled under it unless you have an untapped mana source.",
     "category": "Advantageous",
