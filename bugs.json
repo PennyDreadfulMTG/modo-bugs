@@ -1,5 +1,41 @@
 [
   {
+    "card": "Fatestitcher",
+    "description": "Conceding the game during the cleanup step after having activating Unearth will restart the game.",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2021-06-09 17:54:47",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/925",
+    "last_verified": null
+  },
+  {
+    "card": "Hellspark Elemental",
+    "description": "Conceding the game during the cleanup step after having activating Unearth will restart the game.",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2021-06-09 17:54:47",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/925",
+    "last_verified": null
+  },
+  {
+    "card": "Sedraxis Specter",
+    "description": "Conceding the game during the cleanup step after having activating Unearth will restart the game.",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2021-06-09 17:54:47",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/925",
+    "last_verified": null
+  },
+  {
     "card": "Victim of Night",
     "description": "Victim of Night doesn't function",
     "category": "Disadvantageous",
