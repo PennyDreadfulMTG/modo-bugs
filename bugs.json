@@ -2765,26 +2765,24 @@
     "card": "Drain Power",
     "description": "Drain Power does not function correctly when the targeted player controls City of Brass.",
     "category": "Unclassified",
-    "last_updated": "2019-02-14 21:09:48",
+    "last_updated": "2021-06-12 19:41:32",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/685",
-    "help_wanted": true,
     "last_verified": null
   },
   {
     "card": "City of Brass",
     "description": "Drain Power does not function correctly when the targeted player controls City of Brass.",
     "category": "Unclassified",
-    "last_updated": "2019-02-14 21:09:48",
+    "last_updated": "2021-06-12 19:41:32",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/685",
-    "help_wanted": true,
     "last_verified": null
   },
   {
