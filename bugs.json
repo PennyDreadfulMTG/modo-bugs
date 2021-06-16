@@ -907,14 +907,13 @@
     "card": "Young Pyromancer",
     "description": "Tokens created by Young Pyromancer have wrong text",
     "category": "Graphical",
-    "last_updated": "2020-12-24 13:54:42",
+    "last_updated": "2021-06-16 01:39:02",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/880",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.121.4123"
   },
   {
     "card": "Kinsbaile Borderguard",
