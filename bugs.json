@@ -4442,14 +4442,13 @@
     "card": "Volcano Hellion",
     "description": "Volcano Hellion's damage is capped at 255",
     "category": "Disadvantageous",
-    "last_updated": "2021-02-13 22:38:49",
+    "last_updated": "2021-06-17 03:23:44",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/247",
-    "help_wanted": true,
-    "last_verified": "3.4.119.4098"
+    "last_verified": "3.4.121.4123"
   },
   {
     "card": "Sheltering Ancient",
