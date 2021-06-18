@@ -1,9 +1,21 @@
 [
   {
+    "card": "Ixalan's Binding",
+    "description": "Ixalan's Binding doesn't prevent opponent's from casting other copies of the exiled card.",
+    "category": "Disadvantageous",
+    "last_updated": "2021-06-18 17:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/926",
+    "last_verified": null
+  },
+  {
     "card": "Fatestitcher",
-    "description": "Conceding the game during the cleanup step after having activating Unearth will restart the game.",
+    "description": "Conceding the game during the cleanup step after having activated Unearth will restart the game.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2021-06-09 17:54:47",
+    "last_updated": "2021-06-18 17:45:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -13,9 +25,9 @@
   },
   {
     "card": "Hellspark Elemental",
-    "description": "Conceding the game during the cleanup step after having activating Unearth will restart the game.",
+    "description": "Conceding the game during the cleanup step after having activated Unearth will restart the game.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2021-06-09 17:54:47",
+    "last_updated": "2021-06-18 17:45:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -25,9 +37,9 @@
   },
   {
     "card": "Sedraxis Specter",
-    "description": "Conceding the game during the cleanup step after having activating Unearth will restart the game.",
+    "description": "Conceding the game during the cleanup step after having activated Unearth will restart the game.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2021-06-09 17:54:47",
+    "last_updated": "2021-06-18 17:45:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
