@@ -1,17 +1,5 @@
 [
   {
-    "card": "Kaya's Ghostform",
-    "description": "Kaya's Ghostform",
-    "category": "Unconfirmed",
-    "last_updated": "2021-06-19 08:54:45",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/927",
-    "last_verified": null
-  },
-  {
     "card": "Ixalan's Binding",
     "description": "Ixalan's Binding doesn't prevent opponent's from casting other copies of the exiled card.",
     "category": "Disadvantageous",
