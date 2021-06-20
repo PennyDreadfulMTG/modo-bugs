@@ -1256,13 +1256,12 @@
     "card": "Primal Command",
     "description": "Primal Command prints wrong owner for noncreature permanents it puts on top",
     "category": "Graphical",
-    "last_updated": "2021-02-06 23:08:06",
+    "last_updated": "2021-06-20 19:36:14",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/843",
-    "help_wanted": true,
     "last_verified": null
   },
   {
