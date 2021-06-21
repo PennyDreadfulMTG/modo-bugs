@@ -50,8 +50,8 @@
   {
     "card": "Victim of Night",
     "description": "Victim of Night doesn't function",
-    "category": "Disadvantageous",
-    "last_updated": "2021-06-07 07:54:44",
+    "category": "Non-Functional ability",
+    "last_updated": "2021-06-21 16:57:30",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
