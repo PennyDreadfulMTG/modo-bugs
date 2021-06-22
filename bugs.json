@@ -1,9 +1,45 @@
 [
   {
     "card": "Harmonic Prodigy",
+    "description": "Harmonic Prodigy causes Masked Vandal to trigger three times.",
+    "category": "Advantageous",
+    "last_updated": "2021-06-22 18:54:47",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/930",
+    "last_verified": null
+  },
+  {
+    "card": "Masked Vandal",
+    "description": "Harmonic Prodigy causes Masked Vandal to trigger three times.",
+    "category": "Advantageous",
+    "last_updated": "2021-06-22 18:54:47",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/930",
+    "last_verified": null
+  },
+  {
+    "card": "Realmwalker",
+    "description": "Realmwalker allows you to see the top card of your deck before you choose a creature type.",
+    "category": "Advantageous",
+    "last_updated": "2021-06-22 18:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/929",
+    "last_verified": null
+  },
+  {
+    "card": "Harmonic Prodigy",
     "description": "Harmonic Prodigy doesn't cause Exalted to trigger twice.",
     "category": "Disadvantageous",
-    "last_updated": "2021-06-22 17:54:47",
+    "last_updated": "2021-06-22 18:54:48",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -12,10 +48,10 @@
     "last_verified": null
   },
   {
-    "card": "Ignoble Hierach",
+    "card": "Ignoble Hierarch",
     "description": "Harmonic Prodigy doesn't cause Exalted to trigger twice.",
     "category": "Disadvantageous",
-    "last_updated": "2021-06-22 17:54:47",
+    "last_updated": "2021-06-22 18:54:48",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
