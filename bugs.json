@@ -1,5 +1,29 @@
 [
   {
+    "card": "Harmonic Prodigy",
+    "description": "Harmonic Prodigy doesn't cause Exalted to trigger twice.",
+    "category": "Disadvantageous",
+    "last_updated": "2021-06-22 17:54:47",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/928",
+    "last_verified": null
+  },
+  {
+    "card": "Ignoble Hierach",
+    "description": "Harmonic Prodigy doesn't cause Exalted to trigger twice.",
+    "category": "Disadvantageous",
+    "last_updated": "2021-06-22 17:54:47",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/928",
+    "last_verified": null
+  },
+  {
     "card": "Ixalan's Binding",
     "description": "Ixalan's Binding doesn't prevent opponent's from casting other copies of the exiled card.",
     "category": "Disadvantageous",
