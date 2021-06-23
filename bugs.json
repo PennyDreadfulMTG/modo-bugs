@@ -1318,18 +1318,6 @@
     "last_verified": "3.4.121.4123"
   },
   {
-    "card": "Primal Command",
-    "description": "Primal Command prints wrong owner for noncreature permanents it puts on top",
-    "category": "Graphical",
-    "last_updated": "2021-06-20 19:36:14",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/843",
-    "last_verified": null
-  },
-  {
     "card": "Chainer, Nightmare Adept",
     "description": "Chainer, Nightmare Adept can't cast cards using its ability during opponents turn when Vedalken Orrery is also in play.",
     "category": "Disadvantageous",
@@ -2237,19 +2225,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/777",
     "help_wanted": true,
     "last_verified": null
-  },
-  {
-    "card": "Primal Amulet",
-    "description": "Primal Wellspring's triggered ability has the text of Pyromancer's Goggles",
-    "category": "Graphical",
-    "last_updated": "2021-01-05 17:54:58",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/771",
-    "help_wanted": true,
-    "last_verified": "3.4.118.4088"
   },
   {
     "card": "Enduring Renewal",
