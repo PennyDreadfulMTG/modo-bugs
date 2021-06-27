@@ -1,17 +1,5 @@
 [
   {
-    "card": "Erayo, Soratami Ascendant",
-    "description": "Erayo, Soratami Ascendant's other side is considered illegal in PD by PDBot",
-    "category": "Unconfirmed",
-    "last_updated": "2021-06-27 13:54:44",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/931",
-    "last_verified": null
-  },
-  {
     "card": "Harmonic Prodigy",
     "description": "Harmonic Prodigy causes Masked Vandal to trigger three times.",
     "category": "Advantageous",
