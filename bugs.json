@@ -920,9 +920,9 @@
   },
   {
     "card": "Vivien's Arkbow",
-    "description": "Vivien's Arkbow acts as if X-1 was paid for the activation.",
+    "description": "Vivien's Arkbow can only put creatures less than X onto the battlefield",
     "category": "Disadvantageous",
-    "last_updated": "2021-07-01 04:16:21",
+    "last_updated": "2021-07-03 11:59:28",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
