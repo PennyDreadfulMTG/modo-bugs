@@ -1,5 +1,29 @@
 [
   {
+    "card": "Second Sunrise",
+    "description": "Second Sunrise bringing back a Weathered Runestone will fail to return things below Weathered Runestone in the graveyard.",
+    "category": "Advantageous",
+    "last_updated": "2021-07-10 22:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/932",
+    "last_verified": null
+  },
+  {
+    "card": "Weathered Runestone",
+    "description": "Second Sunrise bringing back a Weathered Runestone will fail to return things below Weathered Runestone in the graveyard.",
+    "category": "Advantageous",
+    "last_updated": "2021-07-10 22:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/932",
+    "last_verified": null
+  },
+  {
     "card": "Harmonic Prodigy",
     "description": "Harmonic Prodigy causes Masked Vandal to trigger three times.",
     "category": "Advantageous",
