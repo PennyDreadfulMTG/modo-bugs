@@ -3150,19 +3150,6 @@
     "last_verified": "3.4.117.4077"
   },
   {
-    "card": "Terminus",
-    "description": "Cards with the miracle mechanic such as Terminus incorrectly retain their miracle blue text reminder when they are not cast.",
-    "category": "Unclassified",
-    "last_updated": "2018-11-16 00:56:02",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/633",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Harm's Way",
     "description": "Harm's Way cannot redirect combat damage to planeswalkers.",
     "category": "Unclassified",
