@@ -1,5 +1,346 @@
 [
   {
+    "card": "Worship",
+    "description": "Worship, Lofty Denial and Stubborn Denial fail under unknown circumstances",
+    "category": "Disadvantageous",
+    "last_updated": "2021-09-20 16:54:49",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/944",
+    "last_verified": null
+  },
+  {
+    "card": "Lofty Denial",
+    "description": "Worship, Lofty Denial and Stubborn Denial fail under unknown circumstances",
+    "category": "Disadvantageous",
+    "last_updated": "2021-09-20 16:54:49",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/944",
+    "last_verified": null
+  },
+  {
+    "card": "Stubborn Denial",
+    "description": "Worship, Lofty Denial and Stubborn Denial fail under unknown circumstances",
+    "category": "Disadvantageous",
+    "last_updated": "2021-09-20 16:54:49",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/944",
+    "last_verified": null
+  },
+  {
+    "card": "Fiery Justice",
+    "description": "Fiery Justice doesn't give the opponent life",
+    "category": "Advantageous",
+    "last_updated": "2021-09-19 17:54:45",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/943",
+    "last_verified": null
+  },
+  {
+    "card": "Siphon Insight",
+    "description": "Siphon Insight makes the targeted player skip their next draw step",
+    "category": "Advantageous",
+    "last_updated": "2021-09-20 14:56:39",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/942",
+    "last_verified": null
+  },
+  {
+    "card": "Glimmerpost",
+    "description": "Some forms of gaining and losing life break the game",
+    "category": "Game Breaking",
+    "last_updated": "2021-09-16 15:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/941",
+    "last_verified": null
+  },
+  {
+    "card": "An-Havva Inn",
+    "description": "Some forms of gaining and losing life break the game",
+    "category": "Game Breaking",
+    "last_updated": "2021-09-16 15:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/941",
+    "last_verified": null
+  },
+  {
+    "card": "Search for Glory",
+    "description": "Some forms of gaining and losing life break the game",
+    "category": "Game Breaking",
+    "last_updated": "2021-09-16 15:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/941",
+    "last_verified": null
+  },
+  {
+    "card": "Champion of Dusk",
+    "description": "Some forms of gaining and losing life break the game",
+    "category": "Game Breaking",
+    "last_updated": "2021-09-16 15:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/941",
+    "last_verified": null
+  },
+  {
+    "card": "Alert Heedbonder",
+    "description": "Some forms of gaining and losing life break the game",
+    "category": "Game Breaking",
+    "last_updated": "2021-09-16 15:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/941",
+    "last_verified": null
+  },
+  {
+    "card": "Fumigate",
+    "description": "Some forms of gaining and losing life break the game",
+    "category": "Game Breaking",
+    "last_updated": "2021-09-16 15:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/941",
+    "last_verified": null
+  },
+  {
+    "card": "Take Heart",
+    "description": "Some forms of gaining and losing life break the game",
+    "category": "Game Breaking",
+    "last_updated": "2021-09-16 15:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/941",
+    "last_verified": null
+  },
+  {
+    "card": "Graveborn Muse",
+    "description": "Some forms of gaining and losing life break the game",
+    "category": "Game Breaking",
+    "last_updated": "2021-09-16 15:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/941",
+    "last_verified": null
+  },
+  {
+    "card": "Skeletal Scrying",
+    "description": "Some forms of gaining and losing life break the game",
+    "category": "Game Breaking",
+    "last_updated": "2021-09-16 15:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/941",
+    "last_verified": null
+  },
+  {
+    "card": "Gnaw to the Bone",
+    "description": "Some forms of gaining and losing life break the game",
+    "category": "Game Breaking",
+    "last_updated": "2021-09-16 15:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/941",
+    "last_verified": null
+  },
+  {
+    "card": "Tempt with Discovery",
+    "description": "Tempt with Discovery only fetches you one land",
+    "category": "Disadvantageous",
+    "last_updated": "2021-09-14 02:54:46",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/940",
+    "last_verified": null
+  },
+  {
+    "card": "Dreams of the Dead",
+    "description": "Dreams of the Dead giving Cumulative Upkeep isn't reflected on a creature",
+    "category": "Graphical",
+    "last_updated": "2021-09-08 17:54:49",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/939",
+    "last_verified": null
+  },
+  {
+    "card": "Gideon's Intervention",
+    "description": "Gideon's Intervention and Runed Halo do not prevent damage from tokens with the same name as card named with it",
+    "category": "Disadvantageous",
+    "last_updated": "2021-08-20 14:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/938",
+    "last_verified": null
+  },
+  {
+    "card": "Runed Halo",
+    "description": "Gideon's Intervention and Runed Halo do not prevent damage from tokens with the same name as card named with it",
+    "category": "Disadvantageous",
+    "last_updated": "2021-08-20 14:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/938",
+    "last_verified": null
+  },
+  {
+    "card": "Anointed Procession",
+    "description": "Anointed Procession can replace card draw when a card with Dredge is in the graveyard, restarting the game",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2021-08-12 22:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/937",
+    "last_verified": null
+  },
+  {
+    "card": "Conspiracy Theorist",
+    "description": "Conspiracy Theorist can exile cards with madness and then they can be played until end of the turn",
+    "category": "Advantageous",
+    "last_updated": "2021-08-03 21:32:54",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/936",
+    "last_verified": null
+  },
+  {
+    "card": "Possibility Storm",
+    "description": "Possibility Storm will check for both types on an Adventure card.",
+    "category": "Disadvantageous",
+    "last_updated": "2021-08-13 01:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/935",
+    "last_verified": null
+  },
+  {
+    "card": "God-Pharaoh's Gift",
+    "description": "God-Pharaoh's Gift doesn't give the token haste.",
+    "category": "Disadvantageous",
+    "last_updated": "2021-07-30 16:54:46",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/934",
+    "last_verified": null
+  },
+  {
+    "card": "Exhume",
+    "description": "Exhume doesn't allow you to pick targets for Clones.",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2021-07-23 01:54:45",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/933",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
+    "card": "Clone",
+    "description": "Exhume doesn't allow you to pick targets for Clones.",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2021-07-23 01:54:45",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/933",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
+    "card": "Phyrexian Metamorph",
+    "description": "Exhume doesn't allow you to pick targets for Clones.",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2021-07-23 01:54:45",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/933",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
+    "card": "Vizier of Many Faces",
+    "description": "Exhume doesn't allow you to pick targets for Clones.",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2021-07-23 01:54:45",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/933",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
+    "card": "Vesuvan Shapeshifter",
+    "description": "Exhume doesn't allow you to pick targets for Clones.",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2021-07-23 01:54:45",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/933",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
     "card": "Second Sunrise",
     "description": "Second Sunrise bringing back a Weathered Runestone will fail to return things below Weathered Runestone in the graveyard.",
     "category": "Advantageous",
@@ -9,6 +350,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/932",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -21,13 +363,26 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/932",
+    "help_wanted": true,
     "last_verified": null
   },
   {
     "card": "Harmonic Prodigy",
-    "description": "Harmonic Prodigy causes Masked Vandal to trigger three times.",
+    "description": "Harmonic Prodigy causes Changelings to trigger three times.",
     "category": "Advantageous",
-    "last_updated": "2021-06-22 18:54:47",
+    "last_updated": "2021-08-16 01:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/930",
+    "last_verified": null
+  },
+  {
+    "card": "Guardian Gladewalker",
+    "description": "Harmonic Prodigy causes Changelings to trigger three times.",
+    "category": "Advantageous",
+    "last_updated": "2021-08-16 01:54:43",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -37,9 +392,57 @@
   },
   {
     "card": "Masked Vandal",
-    "description": "Harmonic Prodigy causes Masked Vandal to trigger three times.",
+    "description": "Harmonic Prodigy causes Changelings to trigger three times.",
     "category": "Advantageous",
-    "last_updated": "2021-06-22 18:54:47",
+    "last_updated": "2021-08-16 01:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/930",
+    "last_verified": null
+  },
+  {
+    "card": "Graveshifter",
+    "description": "Harmonic Prodigy causes Changelings to trigger three times.",
+    "category": "Advantageous",
+    "last_updated": "2021-08-16 01:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/930",
+    "last_verified": null
+  },
+  {
+    "card": "Irregular Cohort",
+    "description": "Harmonic Prodigy causes Changelings to trigger three times.",
+    "category": "Advantageous",
+    "last_updated": "2021-08-16 01:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/930",
+    "last_verified": null
+  },
+  {
+    "card": "Littjara Kinseekers",
+    "description": "Harmonic Prodigy causes Changelings to trigger three times.",
+    "category": "Advantageous",
+    "last_updated": "2021-08-16 01:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/930",
+    "last_verified": null
+  },
+  {
+    "card": "Webweaver Changeling",
+    "description": "Harmonic Prodigy causes Changelings to trigger three times.",
+    "category": "Advantageous",
+    "last_updated": "2021-08-16 01:54:43",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -57,6 +460,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/929",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -69,6 +473,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/928",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -81,19 +486,20 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/928",
+    "help_wanted": true,
     "last_verified": null
   },
   {
     "card": "Ixalan's Binding",
     "description": "Ixalan's Binding doesn't prevent opponent's from casting other copies of the exiled card.",
     "category": "Disadvantageous",
-    "last_updated": "2021-06-18 17:54:44",
+    "last_updated": "2021-07-30 11:46:19",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/926",
-    "last_verified": null
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Fatestitcher",
@@ -105,6 +511,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/925",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -117,6 +524,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/925",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -129,18 +537,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/925",
-    "last_verified": null
-  },
-  {
-    "card": "Victim of Night",
-    "description": "Victim of Night doesn't function",
-    "category": "Non-Functional ability",
-    "last_updated": "2021-06-21 16:57:30",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/924",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -153,6 +550,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/923",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -165,6 +563,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/922",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -177,6 +576,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/921",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -246,211 +646,195 @@
   },
   {
     "card": "Bear Umbra",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Boar Umbra",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Crab Umbra",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Drake Umbra",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Eel Umbra",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Eland Umbra",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Estrid, the Masked",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Felidar Umbra",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Hyena Umbra",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Indrik Umbra",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Mammoth Umbra",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Octopus Umbra",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Snake Umbra",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Spider Umbra",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Treefolk Umbra",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Umbra Mystic",
-    "description": "Totem Armor ability mistakenly being given to the enchanted creature, instead of on the aura itself",
+    "description": "Removing all abilities from the creature enchanted by an aura with Totem Armor removes the Totem Armor too",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-22 21:54:40",
+    "last_updated": "2021-09-17 17:46:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Shatterskull Smashing",
@@ -488,6 +872,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/917",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -513,6 +898,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/915",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -525,6 +911,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/915",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -537,6 +924,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/915",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -549,6 +937,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/915",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -561,6 +950,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/915",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -573,18 +963,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/915",
-    "last_verified": null
-  },
-  {
-    "card": "Recross the Paths",
-    "description": "Recross the Paths doesn't let you order the revealed cards.",
-    "category": "Disadvantageous",
-    "last_updated": "2021-04-30 18:54:47",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/912",
     "help_wanted": true,
     "last_verified": null
   },
@@ -631,40 +1009,37 @@
     "card": "Student of Warfare",
     "description": "If a level-up card would gain an ability that it would through leveling, it won't show it has gained that ability.",
     "category": "Graphical",
-    "last_updated": "2021-04-06 17:55:00",
+    "last_updated": "2021-09-07 13:48:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/909",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Caravan Escort",
     "description": "If a level-up card would gain an ability that it would through leveling, it won't show it has gained that ability.",
     "category": "Graphical",
-    "last_updated": "2021-04-06 17:55:00",
+    "last_updated": "2021-09-07 13:48:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/909",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Coralhelm Commander",
     "description": "If a level-up card would gain an ability that it would through leveling, it won't show it has gained that ability.",
     "category": "Graphical",
-    "last_updated": "2021-04-06 17:55:00",
+    "last_updated": "2021-09-07 13:48:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/909",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Grafdigger's Cage",
@@ -865,14 +1240,13 @@
   {
     "card": "Possibility Storm",
     "description": "Possibility Storm doesn't return Adventure cards to the library when you cast the Adventure spell.",
-    "category": "Advantageous",
-    "last_updated": "2021-03-27 12:10:32",
+    "category": "Disadvantageous",
+    "last_updated": "2021-08-03 21:29:21",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/895",
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -924,6 +1298,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/892",
+    "help_wanted": true,
     "last_verified": "3.4.120.4117"
   },
   {
@@ -988,6 +1363,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/885",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -1052,6 +1428,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/880",
+    "help_wanted": true,
     "last_verified": "3.4.121.4123"
   },
   {
@@ -1254,14 +1631,13 @@
     "card": "Watcher for Tomorrow",
     "description": "Watcher for Tomorrow's reminder text in the game log implies it is a land (Hideaway ability)",
     "category": "Graphical",
-    "last_updated": "2020-12-12 16:36:16",
+    "last_updated": "2021-08-07 01:02:53",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/859",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Laquatus's Creativity",
@@ -1377,6 +1753,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/844",
+    "help_wanted": true,
     "last_verified": "3.4.121.4123"
   },
   {
@@ -1714,6 +2091,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/816",
+    "help_wanted": true,
     "last_verified": "3.4.121.4122"
   },
   {
@@ -2409,14 +2787,13 @@
     "card": "Pia's Revolution",
     "description": "Pia's Revolution creates an incorrect prompt while also being nonfunctional.",
     "category": "Disadvantageous",
-    "last_updated": "2020-12-23 00:31:26",
+    "last_updated": "2021-08-28 10:06:17",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/751",
-    "help_wanted": true,
-    "last_verified": "3.4.118.4088"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Life and Limb",
@@ -2577,7 +2954,7 @@
   {
     "card": "Verdeloth the Ancient",
     "description": "\"Kicker {X}\" costs do not allow you to spend mana on them correctly. ",
-    "category": "Non-Functional ability",
+    "category": "Disadvantageous",
     "last_updated": "2020-10-18 07:48:16",
     "pd_legal": false,
     "bug_blog": false,
@@ -2590,7 +2967,7 @@
   {
     "card": "Emblazoned Golem",
     "description": "\"Kicker {X}\" costs do not allow you to spend mana on them correctly. ",
-    "category": "Non-Functional ability",
+    "category": "Disadvantageous",
     "last_updated": "2020-10-18 07:48:16",
     "pd_legal": false,
     "bug_blog": false,
@@ -2883,6 +3260,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/685",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2895,6 +3273,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/685",
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -3266,14 +3645,14 @@
     "card": "Nullstone Gargoyle",
     "description": "Nullstone Gargoyle counters all noncreature spells cast",
     "category": "Advantageous",
-    "last_updated": "2020-09-06 23:38:21",
+    "last_updated": "2021-07-24 23:19:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/615",
     "help_wanted": true,
-    "last_verified": "3.4.116.4065"
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Eldrazi Spawn",
@@ -3357,13 +3736,12 @@
     "card": "Umbral Mantle",
     "description": "When you untap a mana-producing creature as part of cost to activate an ability, MTGO wrongly allows you to tap that creature for mana in the middle of paying the cost",
     "category": "Advantageous",
-    "last_updated": "2020-06-04 06:42:06",
+    "last_updated": "2021-09-24 15:54:53",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/594",
-    "help_wanted": true,
     "last_verified": "3.4.114.4048"
   },
   {
@@ -3833,6 +4211,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -3845,6 +4224,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -3857,6 +4237,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -3869,6 +4250,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -3881,6 +4263,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -4120,7 +4503,7 @@
   {
     "card": "Glamerdye",
     "description": "When you change the color in a card's text, the card won't show the new chosen color in the cards itself, in the tooltip, and not in the zoomed version",
-    "category": "Graphical",
+    "category": "Disadvantageous",
     "last_updated": "2020-06-11 11:55:29",
     "pd_legal": false,
     "bug_blog": false,
@@ -4133,7 +4516,7 @@
   {
     "card": "Alter Reality",
     "description": "When you change the color in a card's text, the card won't show the new chosen color in the cards itself, in the tooltip, and not in the zoomed version",
-    "category": "Graphical",
+    "category": "Disadvantageous",
     "last_updated": "2020-06-11 11:55:29",
     "pd_legal": false,
     "bug_blog": false,
@@ -4146,7 +4529,7 @@
   {
     "card": "Spectral Shift",
     "description": "When you change the color in a card's text, the card won't show the new chosen color in the cards itself, in the tooltip, and not in the zoomed version",
-    "category": "Graphical",
+    "category": "Disadvantageous",
     "last_updated": "2020-06-11 11:55:29",
     "pd_legal": false,
     "bug_blog": false,
@@ -4157,68 +4540,51 @@
     "last_verified": "3.4.114.4046"
   },
   {
-    "card": "Mire's Toll",
-    "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
-    "category": "Graphical",
-    "last_updated": "2021-02-05 15:06:02",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
-    "help_wanted": true,
-    "last_verified": "3.4.118.4088"
-  },
-  {
     "card": "Thieving Sprite",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
     "category": "Graphical",
-    "last_updated": "2021-02-05 15:06:02",
+    "last_updated": "2021-08-17 02:54:48",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
-    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
     "card": "Bala Ged Thief",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
     "category": "Graphical",
-    "last_updated": "2021-02-05 15:06:02",
+    "last_updated": "2021-08-17 02:54:48",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
-    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
     "card": "Disciple of Phenax",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
     "category": "Graphical",
-    "last_updated": "2021-02-05 15:06:02",
+    "last_updated": "2021-08-17 02:54:48",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
-    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
     "card": "Distended Mindbender",
     "description": "When only some cards from an opponent's hand are revealed, they do not appear in the revealed zone",
     "category": "Graphical",
-    "last_updated": "2021-02-05 15:06:02",
+    "last_updated": "2021-08-17 02:54:48",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
-    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
@@ -4543,6 +4909,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/247",
+    "help_wanted": true,
     "last_verified": "3.4.121.4123"
   },
   {
@@ -4753,6 +5120,18 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/180",
     "help_wanted": true,
     "last_verified": "3.4.117.4078"
+  },
+  {
+    "card": "Oriss, Samite Guardian",
+    "description": "Using Oriss, Samite Guardian's Grandeur ability during controller's precombat main phase will not allow controller to attack that turn.",
+    "category": "Disadvantageous",
+    "last_updated": "2021-08-16 01:52:13",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/177",
+    "last_verified": null
   },
   {
     "card": "Elesh Norn, Grand Cenobite",
