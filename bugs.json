@@ -4413,7 +4413,7 @@
     "card": "Null Profusion",
     "description": "Null Profusion triggers when another player casts its owner's cards",
     "category": "Advantageous",
-    "last_updated": "2020-06-11 11:55:27",
+    "last_updated": "2021-09-26 02:11:54",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -4976,20 +4976,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/221",
     "help_wanted": true,
     "last_verified": "3.4.116.4065"
-  },
-  {
-    "card": "Sylvan Primordial",
-    "description": "Casting Sylvan Primordial causes the game to be soft-locked in a multiplayer game if there are no legal targets for one player.",
-    "category": "Game Breaking",
-    "last_updated": "2020-06-11 11:55:38",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": true,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/219",
-    "multiplayer_only": true,
-    "help_wanted": true,
-    "last_verified": "3.4.101.1115"
   },
   {
     "card": "Wall of Roots",
