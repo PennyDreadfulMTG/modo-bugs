@@ -3971,14 +3971,13 @@
     "card": "Mogg Assassin",
     "description": "Mogg Assassin doesn't kill the opponent's creature on a won flip and doesn't always let both players select a target",
     "category": "Disadvantageous",
-    "last_updated": "2020-04-11 16:55:20",
+    "last_updated": "2021-09-26 02:51:37",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/455",
-    "help_wanted": true,
-    "last_verified": "3.4.103.2011"
+    "last_verified": "3.4.123.4147"
   },
   {
     "card": "Phyrexian Revoker",
@@ -4413,14 +4412,13 @@
     "card": "Null Profusion",
     "description": "Null Profusion triggers when another player casts its owner's cards",
     "category": "Advantageous",
-    "last_updated": "2021-09-26 02:11:54",
+    "last_updated": "2021-09-26 02:47:45",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/315",
-    "help_wanted": true,
-    "last_verified": "3.4.101.1120"
+    "last_verified": "3.4.123.4147"
   },
   {
     "card": "Buried Alive",
