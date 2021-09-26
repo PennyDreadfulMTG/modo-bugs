@@ -5133,19 +5133,6 @@
     "last_verified": null
   },
   {
-    "card": "Prince of Thralls",
-    "description": "Prince of Thralls\u00a0asks its owner to pay life instead of the opponent.",
-    "category": "Advantageous",
-    "last_updated": "2020-06-11 11:55:40",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/160",
-    "help_wanted": true,
-    "last_verified": "3.4.102.2007"
-  },
-  {
     "card": "Tomorrow, Azami's Familiar",
     "description": "Tomorrow, Azami's Familiar puts both unchosen cards back on top of the library.",
     "category": "Disadvantageous",
