@@ -1,5 +1,29 @@
 [
   {
+    "card": "Shaman of the Great hunt",
+    "description": "Shaman of the Great Hunt is bugged with harmonic prodigy ",
+    "category": "Unconfirmed",
+    "last_updated": "2021-09-29 03:54:40",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/946",
+    "last_verified": null
+  },
+  {
+    "card": "Harmonic prodigy",
+    "description": "Shaman of the Great Hunt is bugged with harmonic prodigy ",
+    "category": "Unconfirmed",
+    "last_updated": "2021-09-29 03:54:40",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/946",
+    "last_verified": null
+  },
+  {
     "card": "Architects of Will",
     "description": "Architects of Will allows the targeted player to rearrange the top of their deck, rather than the player who cast it",
     "category": "Disadvantageous",
