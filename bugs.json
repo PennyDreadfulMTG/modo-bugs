@@ -1219,19 +1219,6 @@
     "last_verified": null
   },
   {
-    "card": "Astral Drift",
-    "description": "Astral Drift activates when an opponent cycles a card.",
-    "category": "Advantageous",
-    "last_updated": "2021-05-31 02:40:20",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/892",
-    "help_wanted": true,
-    "last_verified": "3.4.120.4117"
-  },
-  {
     "card": "Kunoros, Hound of Athreos",
     "description": "Kunoros's static ability prevents cards below it in the graveyard from entering the battlefield when reanimated together.",
     "category": "Disadvantageous",
