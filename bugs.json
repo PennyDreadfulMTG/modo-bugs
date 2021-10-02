@@ -1,5 +1,17 @@
 [
   {
+    "card": "Yidaro, Wandering Monster",
+    "description": "Yidaro, Wandering Monster's reanimation ability does not function",
+    "category": "Disadvantageous",
+    "last_updated": "2021-10-02 09:54:36",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/948",
+    "last_verified": null
+  },
+  {
     "card": "Deathmist Raptor",
     "description": "Deathmist Raptor doesn't trigger when it's discarded to pay the morph cost of a creature",
     "category": "Disadvantageous",
