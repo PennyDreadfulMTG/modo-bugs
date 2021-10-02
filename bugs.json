@@ -169,9 +169,21 @@
   },
   {
     "card": "Anointed Procession",
-    "description": "Anointed Procession can replace card draw when a card with Dredge is in the graveyard, restarting the game",
+    "description": "Anointed Procession and Retriver Phoenix can replace card draw when a card with Dredge is in the graveyard, restarting the game",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2021-08-12 22:54:48",
+    "last_updated": "2021-10-02 10:54:37",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/937",
+    "last_verified": null
+  },
+  {
+    "card": "Retriever Phoenix",
+    "description": "Anointed Procession and Retriver Phoenix can replace card draw when a card with Dredge is in the graveyard, restarting the game",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2021-10-02 10:54:37",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
