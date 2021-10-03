@@ -1,5 +1,17 @@
 [
   {
+    "card": "Riders of Gavony",
+    "description": "Riders of Gavony gives protection to all permanents.",
+    "category": "Unconfirmed",
+    "last_updated": "2021-10-03 14:54:37",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/949",
+    "last_verified": null
+  },
+  {
     "card": "Yidaro, Wandering Monster",
     "description": "Yidaro, Wandering Monster's reanimation ability does not function",
     "category": "Disadvantageous",
