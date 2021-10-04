@@ -3,7 +3,7 @@
     "card": "Riders of Gavony",
     "description": "Riders of Gavony gives protection to all permanents.",
     "category": "Unconfirmed",
-    "last_updated": "2021-10-03 14:54:37",
+    "last_updated": "2021-10-04 20:08:38",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -2708,19 +2708,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/755",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Riders of Gavony",
-    "description": "Riders of Gavony does not grant blue rules text indicating protection.",
-    "category": "Graphical",
-    "last_updated": "2020-08-25 04:59:14",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/754",
     "help_wanted": true,
     "last_verified": null
   },
