@@ -1,5 +1,17 @@
 [
   {
+    "card": "Desolate Lighthouse",
+    "description": "Dredging using Desolate Lighthouse's ability while empty-handed lets the player avoid discarding",
+    "category": "Unconfirmed",
+    "last_updated": "2021-10-06 10:54:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/950",
+    "last_verified": null
+  },
+  {
     "card": "Riders of Gavony",
     "description": "Riders of Gavony gives protection to all permanents.",
     "category": "Unconfirmed",
