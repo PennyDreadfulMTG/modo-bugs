@@ -1,9 +1,21 @@
 [
   {
+    "card": "Academic Dispute",
+    "description": "If you choose not to give targeted creature reach with Academic Dispute, you do not learn",
+    "category": "Unconfirmed",
+    "last_updated": "2021-10-07 18:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/952",
+    "last_verified": null
+  },
+  {
     "card": "Curse of Leeches",
-    "description": "Curse of Leeches dies if it's played during Night when it becomes Day",
+    "description": "Curse of Leeches dies when it becomes Day if it's played during Night",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-07 17:54:42",
+    "last_updated": "2021-10-07 18:00:27",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -26,8 +38,8 @@
   {
     "card": "Riders of Gavony",
     "description": "Riders of Gavony gives protection to all permanents.",
-    "category": "Unconfirmed",
-    "last_updated": "2021-10-04 20:08:38",
+    "category": "Advantageous",
+    "last_updated": "2021-10-07 17:58:30",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -135,7 +147,7 @@
     "card": "Fiery Justice",
     "description": "Fiery Justice doesn't give the opponent life",
     "category": "Advantageous",
-    "last_updated": "2021-09-19 17:54:45",
+    "last_updated": "2021-10-07 18:54:45",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
