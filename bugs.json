@@ -1634,13 +1634,13 @@
     "card": "Watcher for Tomorrow",
     "description": "Watcher for Tomorrow's reminder text in the game log implies it is a land (Hideaway ability)",
     "category": "Graphical",
-    "last_updated": "2021-10-07 23:29:37",
+    "last_updated": "2021-10-08 00:27:54",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/859",
-    "last_verified": "3.4.122.4137"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Laquatus's Creativity",
