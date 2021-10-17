@@ -3183,6 +3183,18 @@
     "last_verified": null
   },
   {
+    "card": "Amoeboid Changeling",
+    "description": "Removing all creature types from a creature is displayed as if only the two leftmost creature types were removed",
+    "category": "Unclassified",
+    "last_updated": "2021-10-17 10:54:41",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/691",
+    "last_verified": null
+  },
+  {
     "card": "Umbilicus",
     "description": "Umbilicus doesn't let you return permanent to hand",
     "category": "Advantageous",
