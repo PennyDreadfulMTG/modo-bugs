@@ -3,7 +3,7 @@
     "card": "Myriad Construct",
     "description": "When Myriad Construct is the only legal target of a storm card, it only produces tokens once, no matter how many times it is targeted.",
     "category": "Unconfirmed",
-    "last_updated": "2021-10-17 19:54:41",
+    "last_updated": "2021-10-17 19:54:42",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -4113,13 +4113,12 @@
     "card": "Nahiri's Wrath",
     "description": "The prompt box for the additional cost of Nahiri's Wrath contains a grammatical error when selecting a single target.",
     "category": "Graphical",
-    "last_updated": "2020-06-02 02:11:31",
+    "last_updated": "2021-10-17 20:28:07",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/390",
-    "help_wanted": true,
     "last_verified": "3.4.114.4047"
   },
   {
@@ -4580,14 +4579,13 @@
     "card": "Godsire",
     "description": "The tokens created by Godsire doesn't clearly stating nor indicating its colors",
     "category": "Graphical",
-    "last_updated": "2020-05-29 02:06:23",
+    "last_updated": "2021-10-17 20:14:17",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/291",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4046"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Sages of the Anima",
@@ -4645,13 +4643,12 @@
     "card": "Samurai of the Pale Curtain",
     "description": "Samurai of the Pale Curtain does not exile tokens.",
     "category": "Disadvantageous",
-    "last_updated": "2020-04-11 16:55:33",
+    "last_updated": "2021-10-17 20:01:34",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/263",
-    "help_wanted": true,
     "last_verified": "3.4.114.4046"
   },
   {
