@@ -1,5 +1,17 @@
 [
   {
+    "card": "Myriad Construct",
+    "description": "When Myriad Construct is the only legal target of a storm card, it only produces tokens once, no matter how many times it is targeted.",
+    "category": "Unconfirmed",
+    "last_updated": "2021-10-17 19:54:41",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/955",
+    "last_verified": null
+  },
+  {
     "card": "Academic Dispute",
     "description": "If you choose not to give targeted creature reach with Academic Dispute, you do not learn",
     "category": "Disadvantageous",
@@ -1651,18 +1663,6 @@
     "last_verified": "3.4.123.4152"
   },
   {
-    "card": "Laquatus's Creativity",
-    "description": "Laquatus' Creativity doesn't discard",
-    "category": "Advantageous",
-    "last_updated": "2021-10-17 17:47:33",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/858",
-    "last_verified": null
-  },
-  {
     "card": "Omen Machine",
     "description": "Omen Machine forces previously exiled spells to be used when a target becomes available",
     "category": "Advantageous",
@@ -1805,18 +1805,6 @@
     "last_verified": null
   },
   {
-    "card": "Evra, Halcyon Witness",
-    "description": "Evra activation restarts the game in a buggy state",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2021-10-17 17:56:42",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/838",
-    "last_verified": null
-  },
-  {
     "card": "Volrath's Shapeshifter",
     "description": "Volrath's Shapeshifter does not function as intended.",
     "category": "Game Breaking",
@@ -1947,32 +1935,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/826",
-    "last_verified": null
-  },
-  {
-    "card": "Zombie Trailblazer",
-    "description": "Zombie Trailblazer and Slimy Kavu turn lands into islands instead of swamps",
-    "category": "Disadvantageous",
-    "last_updated": "2020-04-11 16:54:44",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/824",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Slimy Kavu",
-    "description": "Zombie Trailblazer and Slimy Kavu turn lands into islands instead of swamps",
-    "category": "Disadvantageous",
-    "last_updated": "2020-04-11 16:54:44",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/824",
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2744,14 +2706,13 @@
     "card": "Ulamog's Despoiler",
     "description": "Creatures entering the battlefield as a copy of Ulamog's Despoiler do not trigger its ability.",
     "category": "Disadvantageous",
-    "last_updated": "2020-04-11 16:54:52",
+    "last_updated": "2021-10-17 19:31:13",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/755",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Pia's Revolution",
@@ -3553,19 +3514,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/626",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Necromantic Summons",
-    "description": "The spell mastery ability of Necromantic Summons does not function.",
-    "category": "Unclassified",
-    "last_updated": "2020-04-11 16:55:13",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/624",
     "help_wanted": true,
     "last_verified": null
   },
@@ -4372,14 +4320,14 @@
     "card": "Mindclaw Shaman",
     "description": "You are unable to cast split cards with Mindclaw Shaman's ability.",
     "category": "Disadvantageous",
-    "last_updated": "2020-04-11 16:55:29",
+    "last_updated": "2021-10-17 19:54:20",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/306",
     "help_wanted": true,
-    "last_verified": "3.4.119.4098"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Fire Covenant",
