@@ -3742,18 +3742,6 @@
     "last_verified": "3.4.114.4048"
   },
   {
-    "card": "Bonds of Mortality",
-    "description": "Bonds of Mortality gives everything hexproof?",
-    "category": "Disadvantageous",
-    "last_updated": "2021-10-17 03:05:53",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/587",
-    "last_verified": null
-  },
-  {
     "card": "Metallic Mimic",
     "description": "If Metallic Mimic and a creature of the chosen type enter the battlefield at the same time, the system will incorrectly give that creature a +1/+1 counter",
     "category": "Advantageous",
