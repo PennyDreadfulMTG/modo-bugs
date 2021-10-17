@@ -3209,19 +3209,6 @@
     "last_verified": "3.4.117.4073"
   },
   {
-    "card": "Jace, Cunning Castaway",
-    "description": "Illusion tokens created by Jace, Cunning Castaway have redundant blue text.",
-    "category": "Graphical",
-    "last_updated": "2019-02-16 15:03:26",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/688",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Vedalken Shackles",
     "description": "Vedalken Shackles interacts incorrectly with creatures that enter the battlefield tapped and attacking.",
     "category": "Unclassified",
@@ -3652,19 +3639,6 @@
     "last_verified": "3.4.122.4137"
   },
   {
-    "card": "Eldrazi Spawn",
-    "description": "Eldrazi Spawn and Scions created by cards from the Battle for Zendikar and Rise of the Eldrazi sets display \"Add {1} to your mana pool\" instead of \"Add {C} to your mana pool\" upon zoom. As this change in template was not a functional change, these tokens continue to function correctly.",
-    "category": "Unclassified",
-    "last_updated": "2018-10-18 14:52:51",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/613",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Containment Priest",
     "description": "If Containment Priest and any other creatures (not cast) ETB at the same time, all the other creatures get exiled",
     "category": "Disadvantageous",
@@ -3733,7 +3707,7 @@
     "card": "Umbral Mantle",
     "description": "When you untap a mana-producing creature as part of cost to activate an ability, MTGO wrongly allows you to tap that creature for mana in the middle of paying the cost",
     "category": "Advantageous",
-    "last_updated": "2021-09-24 15:54:53",
+    "last_updated": "2021-10-17 08:58:49",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -3794,19 +3768,6 @@
     "last_verified": "3.4.114.4048"
   },
   {
-    "card": "Hunted Dragon",
-    "description": "The tokens created by Hunted Dragon display Banding in addition to first strike",
-    "category": "Graphical",
-    "last_updated": "2020-08-31 19:22:47",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/548",
-    "help_wanted": true,
-    "last_verified": "3.4.116.4065"
-  },
-  {
     "card": "Secret Salvage",
     "description": "Secret Salvage does not add the cards found from the library to the revealed zone.",
     "category": "Graphical",
@@ -3833,43 +3794,16 @@
     "last_verified": "3.4.115.4051"
   },
   {
-    "card": "Dreampod Druid",
-    "description": "Spells and non-static abilities that care whether a permanent is enchanted, will see equipped permanent as enchanted",
-    "category": "Advantageous",
-    "last_updated": "2020-06-11 11:55:21",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/535",
-    "help_wanted": true,
-    "last_verified": "3.4.112.4019"
-  },
-  {
-    "card": "Krond the Dawn-Clad",
-    "description": "Spells and non-static abilities that care whether a permanent is enchanted, will see equipped permanent as enchanted",
-    "category": "Advantageous",
-    "last_updated": "2020-06-11 11:55:21",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/535",
-    "help_wanted": true,
-    "last_verified": "3.4.112.4019"
-  },
-  {
     "card": "Battlefield Thaumaturge",
     "description": "Battlefield Thaumaturge wrongly handle how much discount a spell get if it being targeted more than once by that spell",
     "category": "Advantageous",
-    "last_updated": "2020-06-17 07:54:46",
+    "last_updated": "2021-10-17 09:08:11",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/533",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4050"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Holistic Wisdom",
