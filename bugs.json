@@ -1654,13 +1654,12 @@
     "card": "Laquatus's Creativity",
     "description": "Laquatus' Creativity doesn't discard",
     "category": "Advantageous",
-    "last_updated": "2020-09-21 22:23:19",
+    "last_updated": "2021-10-17 17:47:33",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/858",
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -1745,14 +1744,13 @@
     "card": "Distant Memories",
     "description": "Distant Memories lock the game at opponent's priority",
     "category": "Game Breaking",
-    "last_updated": "2020-06-11 11:54:41",
+    "last_updated": "2021-10-17 17:53:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/847",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Vengeful Pharaoh",
@@ -2745,13 +2743,12 @@
     "card": "Crovax The Cursed",
     "description": "Crovax The Cursed loses old counters after sacrifice ",
     "category": "Disadvantageous",
-    "last_updated": "2019-07-09 15:39:49",
+    "last_updated": "2021-10-17 17:35:41",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/757",
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2764,19 +2761,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/755",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Primitive Justice",
-    "description": "Primitive Justice does not function correctly when targeting a single artifact.",
-    "category": "Unclassified",
-    "last_updated": "2019-06-25 16:54:56",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/752",
     "help_wanted": true,
     "last_verified": null
   },
