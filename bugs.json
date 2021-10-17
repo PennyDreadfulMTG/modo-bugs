@@ -3745,13 +3745,12 @@
     "card": "Bonds of Mortality",
     "description": "Bonds of Mortality gives everything hexproof?",
     "category": "Disadvantageous",
-    "last_updated": "2020-04-11 16:55:16",
+    "last_updated": "2021-10-17 03:05:53",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/587",
-    "help_wanted": true,
     "last_verified": null
   },
   {
