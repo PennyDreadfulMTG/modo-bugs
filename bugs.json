@@ -1413,19 +1413,6 @@
     "last_verified": null
   },
   {
-    "card": "Vivien's Arkbow",
-    "description": "Vivien's Arkbow can only put creatures less than X onto the battlefield",
-    "category": "Disadvantageous",
-    "last_updated": "2021-07-03 11:59:28",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/885",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Zur's Weirding",
     "description": "Zur's Weirding forces dredging to occur.",
     "category": "Advantageous",
@@ -2157,71 +2144,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
-    "last_verified": null
-  },
-  {
-    "card": "Rimrock Knight",
-    "description": "Adventure cards such as Rimrock Knight interact incorrectly with Feather, the Redeemed, Thief of Sanity, Lord of the Void, and Spell Queller.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:54:51",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/803",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Feather, the Redeemed",
-    "description": "Adventure cards such as Rimrock Knight interact incorrectly with Feather, the Redeemed, Thief of Sanity, Lord of the Void, and Spell Queller.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:54:51",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/803",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Thief of Sanity",
-    "description": "Adventure cards such as Rimrock Knight interact incorrectly with Feather, the Redeemed, Thief of Sanity, Lord of the Void, and Spell Queller.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:54:51",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/803",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Lord of the Void",
-    "description": "Adventure cards such as Rimrock Knight interact incorrectly with Feather, the Redeemed, Thief of Sanity, Lord of the Void, and Spell Queller.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:54:51",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/803",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Spell Queller",
-    "description": "Adventure cards such as Rimrock Knight interact incorrectly with Feather, the Redeemed, Thief of Sanity, Lord of the Void, and Spell Queller.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:54:51",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/803",
-    "help_wanted": true,
     "last_verified": null
   },
   {
