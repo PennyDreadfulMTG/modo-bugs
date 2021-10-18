@@ -1,5 +1,29 @@
 [
   {
+    "card": "Snapcaster Mage",
+    "description": "Splits cards can't gain flashback.",
+    "category": "Disadvantageous",
+    "last_updated": "2021-10-18 16:54:40",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/957",
+    "last_verified": null
+  },
+  {
+    "card": "Recoup",
+    "description": "Splits cards can't gain flashback.",
+    "category": "Disadvantageous",
+    "last_updated": "2021-10-18 16:54:40",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/957",
+    "last_verified": null
+  },
+  {
     "card": "Willow Geist",
     "description": "Willow Geist's ability triggers for each card removed from your graveyard, instead of triggering once per time cards are removed from your graveyard.",
     "category": "Advantageous",
