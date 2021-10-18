@@ -1824,7 +1824,7 @@
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/836",
-    "last_verified": null
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Multani's Presence",
@@ -2342,19 +2342,6 @@
     "last_verified": null
   },
   {
-    "card": "Kopala, Warden of Waves",
-    "description": "Kopala, Warden of Waves incorrectly increases the cost of spells by two\u00a0for each Merfolk that spell targets.",
-    "category": "Advantageous",
-    "last_updated": "2020-06-11 11:54:53",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/793",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Wilderness Reclamation",
     "description": "If No Possible Play: Yield All is set (F8) when an ability untaps all lands a player controls such as Wilderness Reclamation, one of the lands may be visually tapped, however, it can still be tapped.",
     "category": "Unclassified",
@@ -2468,19 +2455,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/778",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Imprisoned in the Moon",
-    "description": "There are display issues involving planeswalkers interacting with Imprisoned in the Moon.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:54:55",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/777",
     "help_wanted": true,
     "last_verified": null
   },
@@ -2663,19 +2637,6 @@
     "last_verified": null
   },
   {
-    "card": "Sound the Call",
-    "description": "The token created by Sound the Call has incorrect art.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:55:01",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/730",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Pyxis of Pandemonium",
     "description": "If multiple copies of Pyxis of Pandemonium are on the battlefield, it is difficult to determine where cards are associated.",
     "category": "Unclassified",
@@ -2839,18 +2800,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/707",
-    "last_verified": null
-  },
-  {
-    "card": "Soul Separator",
-    "description": "The creature tokens created by Soul Separator have incorrect power and toughness.",
-    "category": "Unclassified",
-    "last_updated": "2021-10-17 23:14:35",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/697",
     "last_verified": null
   },
   {
@@ -3960,7 +3909,7 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/390",
-    "last_verified": "3.4.114.4047"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Emrakul, the Promised End",
@@ -4460,19 +4409,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/274",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4046"
-  },
-  {
-    "card": "Sound the Call",
-    "description": "The art for the token created by Sound the Call is incorrect. ",
-    "category": "Graphical",
-    "last_updated": "2020-06-11 11:55:33",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/268",
     "help_wanted": true,
     "last_verified": "3.4.114.4046"
   },
