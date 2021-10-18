@@ -1038,32 +1038,6 @@
     "last_verified": null
   },
   {
-    "card": "Sliver Queen",
-    "description": "Lavabelly Sliver triggers with slivers that \"comes into play\" but does not trigger with slivers that are \"put into play\"",
-    "category": "Disadvantageous",
-    "last_updated": "2021-04-21 16:54:44",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/911",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Lavabelly Sliver",
-    "description": "Lavabelly Sliver triggers with slivers that \"comes into play\" but does not trigger with slivers that are \"put into play\"",
-    "category": "Disadvantageous",
-    "last_updated": "2021-04-21 16:54:44",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/911",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Tainted Specter",
     "description": "Tainted Specter's ability locks the game for the chosen player.",
     "category": "Avoidable Game Breaking",
@@ -4170,13 +4144,12 @@
     "card": "Sages of the Anima",
     "description": "Sages of the Anima puts the non-creature cards on top of the library instead of the bottom.",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:31",
+    "last_updated": "2021-10-18 22:11:27",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/288",
-    "help_wanted": true,
     "last_verified": "3.4.114.4046"
   },
   {
@@ -4247,14 +4220,13 @@
     "card": "Orcish Spy",
     "description": "Orcish Spy and cards with similar abilities show the cards in alphabetical order, not the actual order",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:35",
+    "last_updated": "2021-10-18 22:15:45",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/251",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Compulsive Research",
@@ -4348,27 +4320,25 @@
     "card": "Wall of Roots",
     "description": "The mana abilities of Wall of Roots and Kozilek's Translator cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:39",
+    "last_updated": "2021-10-18 22:14:41",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Kozilek's Translator",
     "description": "The mana abilities of Wall of Roots and Kozilek's Translator cannot be activated while paying the mana cost of a spell or ability. Players can still activate these abilities at any time that player has priority.",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:39",
+    "last_updated": "2021-10-18 22:14:41",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Ever After",
