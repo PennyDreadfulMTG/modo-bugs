@@ -2308,13 +2308,12 @@
     "card": "Necra Sanctuary",
     "description": "Necra Sanctuary does not cause a player to lose 3 life if you control both a green and white permanent.",
     "category": "Unclassified",
-    "last_updated": "2020-06-11 11:54:52",
+    "last_updated": "2021-10-18 00:11:29",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/796",
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2886,15 +2885,14 @@
   },
   {
     "card": "Guardian Project",
-    "description": "Guardian Project does not draw a card if a face-down permanent (e.g. Morph) enters the battlefield.",
+    "description": "Guardian Project does not draw a card if a face-down permanent (e.g. Morph) enters the battlefield if another is already in play.",
     "category": "Disadvantageous",
-    "last_updated": "2019-10-04 12:55:17",
+    "last_updated": "2021-10-18 00:53:05",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/707",
-    "help_wanted": true,
     "last_verified": null
   },
   {
