@@ -2640,14 +2640,13 @@
     "card": "Pyxis of Pandemonium",
     "description": "If multiple copies of Pyxis of Pandemonium are on the battlefield, it is difficult to determine where cards are associated.",
     "category": "Unclassified",
-    "last_updated": "2020-06-11 11:55:02",
+    "last_updated": "2021-10-18 06:08:53",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/725",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Choice of Damnations",
@@ -2659,19 +2658,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/724",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Whispering Madness",
-    "description": "Whispering Madness, Cipher require to pay the spell cost",
-    "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:03",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/723",
     "help_wanted": true,
     "last_verified": null
   },
