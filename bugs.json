@@ -1827,18 +1827,6 @@
     "last_verified": null
   },
   {
-    "card": "Gift of Tusks",
-    "description": "Whenever an ability is granted to a creature and then get removed, graphically MTGO will still shows the abilities on the creature",
-    "category": "Graphical",
-    "last_updated": "2021-10-18 02:22:29",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/833",
-    "last_verified": null
-  },
-  {
     "card": "Multani's Presence",
     "description": "Multani's presence also draws cards when a spell does not resolve because there is no more valid target.",
     "category": "Advantageous",
@@ -1861,18 +1849,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/823",
     "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Undercity Scavenger",
-    "description": "If you doesn't sacrifice a creature to Undercity Scavenger's ETB ability, you still get to scry 2",
-    "category": "Advantageous",
-    "last_updated": "2021-10-18 02:48:59",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/821",
     "last_verified": null
   },
   {
@@ -2551,13 +2527,12 @@
     "card": "Bloodlord of Vaasgoth",
     "description": "Bloodlord of Vaasgoth does not display the blue text it grants other vampires.",
     "category": "Graphical",
-    "last_updated": "2020-06-11 11:54:56",
+    "last_updated": "2021-10-18 02:56:46",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/765",
-    "help_wanted": true,
     "last_verified": null
   },
   {
