@@ -2624,19 +2624,6 @@
     "last_verified": null
   },
   {
-    "card": "Umbra Mystic",
-    "description": "Umbra Mystic interacts incorrectly with creatures enchanted with multiple auras.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:54:59",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/738",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Grave Betrayal",
     "description": "If Grave Betrayal changes owners with its trigger on the stack, the new controller incorrectly becomes the owner of the trigger.",
     "category": "Unclassified",
