@@ -2665,14 +2665,13 @@
     "card": "Last Rites",
     "description": "Last Rites has graphical bug",
     "category": "Graphical",
-    "last_updated": "2020-04-11 16:54:58",
+    "last_updated": "2021-10-18 07:05:51",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/722",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Verdeloth the Ancient",
