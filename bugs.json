@@ -1611,41 +1611,26 @@
     "card": "Umori, the Collector",
     "description": "The deckbuilder incorrectly shows that is Umori ineligible to be the companion for a Tribal-type deck.",
     "category": "Graphical",
-    "last_updated": "2020-10-15 05:13:51",
+    "last_updated": "2021-10-18 21:19:30",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/866",
     "cade_bug": true,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Blood Clock",
-    "description": "Blood Clock won't let owner return a permanent to it's owners hand",
-    "category": "Advantageous",
-    "last_updated": "2020-10-08 10:16:03",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/864",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Zhur-Taa Druid",
     "description": "Zhur-Taa Druid does not deal damage when tapped for its ability",
     "category": "Advantageous",
-    "last_updated": "2020-11-11 03:55:29",
+    "last_updated": "2021-10-18 21:52:53",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/863",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Damping Engine",
@@ -2658,19 +2643,6 @@
     "last_verified": "3.4.123.4152"
   },
   {
-    "card": "Descendants' Path",
-    "description": "Descendants' Path allows you to play noncreature Tribal spells",
-    "category": "Advantageous",
-    "last_updated": "2020-06-11 11:55:04",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/712",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Sphinx of Uthuun",
     "description": "Sphinx of Uthuun's trigger does not allow you to order the cards going into your graveyard",
     "category": "Disadvantageous",
@@ -2811,28 +2783,26 @@
   },
   {
     "card": "Umbilicus",
-    "description": "Umbilicus doesn't let you return permanent to hand",
+    "description": "Blood Clock and Umbilicus don't let you return permanent to hand",
     "category": "Advantageous",
-    "last_updated": "2020-10-07 18:07:58",
+    "last_updated": "2021-10-18 21:35:35",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/689",
-    "help_wanted": true,
     "last_verified": "3.4.117.4073"
   },
   {
     "card": "Blood Clock",
-    "description": "Umbilicus doesn't let you return permanent to hand",
+    "description": "Blood Clock and Umbilicus don't let you return permanent to hand",
     "category": "Advantageous",
-    "last_updated": "2020-10-07 18:07:58",
+    "last_updated": "2021-10-18 21:35:35",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/689",
-    "help_wanted": true,
     "last_verified": "3.4.117.4073"
   },
   {
@@ -3240,19 +3210,6 @@
     "last_verified": null
   },
   {
-    "card": "Xathrid Slyblade",
-    "description": "Xathrid Slyblade does not lose hexproof when its ability is activated.",
-    "category": "Advantageous",
-    "last_updated": "2020-06-11 11:55:18",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/602",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Brisela, Voice of Nightmares",
     "description": "Brisela, Voice of Nightmares incorrectly has a converted mana cost of 13.",
     "category": "Unclassified",
@@ -3424,14 +3381,13 @@
     "card": "Meteor Storm",
     "description": "Meteor Storm only discards one card",
     "category": "Advantageous",
-    "last_updated": "2020-06-11 11:55:22",
+    "last_updated": "2021-10-18 21:17:23",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/489",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4047"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Muldrotha, the Gravetide",
@@ -3934,15 +3890,14 @@
   },
   {
     "card": "Rogue Skycaptain",
-    "description": "Rogue Skycaptain's upkeep cost is {0}.",
+    "description": "Rogue Skycaptain's upkeep cost is always {2}.",
     "category": "Advantageous",
-    "last_updated": "2020-06-11 11:55:29",
+    "last_updated": "2021-10-18 21:25:45",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/312",
-    "help_wanted": true,
     "last_verified": "3.4.114.4047"
   },
   {
@@ -4175,32 +4130,6 @@
     "last_verified": "3.4.114.4046"
   },
   {
-    "card": "Fa'adiyah Seer",
-    "description": "Fa'adiyah Seer and Sindbad's ability won't discard non-land card drawn if there is any dredge card in your graveyard",
-    "category": "Advantageous",
-    "last_updated": "2020-06-11 11:55:30",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/294",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4044"
-  },
-  {
-    "card": "Sindbad",
-    "description": "Fa'adiyah Seer and Sindbad's ability won't discard non-land card drawn if there is any dredge card in your graveyard",
-    "category": "Advantageous",
-    "last_updated": "2020-06-11 11:55:30",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/294",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4044"
-  },
-  {
     "card": "Nazahn, Revered Bladesmith",
     "description": "Nazahn, Revered Bladesmith will sometimes give the equipment it finds to another player's hand.",
     "category": "Disadvantageous",
@@ -4217,14 +4146,13 @@
     "card": "Floodtide Serpent",
     "description": "Instead of bouncing an enchantment, attacking with Floodtide Serpent shows you all zones.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2020-06-11 11:55:31",
+    "last_updated": "2021-10-18 21:29:39",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/292",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4046"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Godsire",
@@ -4288,45 +4216,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/263",
     "last_verified": "3.4.114.4046"
-  },
-  {
-    "card": "Austere Command",
-    "description": "This card does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.",
-    "category": "Advantageous",
-    "last_updated": "2020-07-22 15:57:30",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/258",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4047"
-  },
-  {
-    "card": "Culling Sun",
-    "description": "This card does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.",
-    "category": "Advantageous",
-    "last_updated": "2020-07-22 15:57:30",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/258",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4047"
-  },
-  {
-    "card": "Consume the Meek",
-    "description": "This card does not respect 711.4b and treats the converted mana cost of the back side of double-faced permanents as 0.",
-    "category": "Advantageous",
-    "last_updated": "2020-07-22 15:57:30",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/258",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4047"
   },
   {
     "card": "Yisan, the Wanderer Bard",
@@ -4408,14 +4297,13 @@
     "card": "Vexing Sphinx",
     "description": "Vexing Sphinx's cumulative upkeep make you discard only one card regardless of the amount of age counters it has",
     "category": "Advantageous",
-    "last_updated": "2020-06-11 11:55:36",
+    "last_updated": "2021-10-18 21:42:07",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/240",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Lurking Evil",
