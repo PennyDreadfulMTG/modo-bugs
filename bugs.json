@@ -1806,14 +1806,13 @@
     "card": "Charmed Pendant",
     "description": "Charmed Pendant's ability doesn't add mana to mana pool",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:54:44",
+    "last_updated": "2021-10-18 01:27:19",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/841",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Volrath's Shapeshifter",
@@ -1862,19 +1861,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/823",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Bludgeon Brawl",
-    "description": "There are various issues with Bludgeon Brawl.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:54:47",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/822",
     "help_wanted": true,
     "last_verified": null
   },
