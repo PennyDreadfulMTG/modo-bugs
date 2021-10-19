@@ -1138,19 +1138,6 @@
     "last_verified": null
   },
   {
-    "card": "Esper Sojourners",
-    "description": "Esper Sojourners's ability does not trigger on cycling",
-    "category": "Disadvantageous",
-    "last_updated": "2021-03-12 11:54:43",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/904",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Gaea's Blessing",
     "description": "Gaea's Blessing doesn't shuffle opponent's library if no cards in their graveyard are targeted",
     "category": "Disadvantageous",
