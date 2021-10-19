@@ -575,13 +575,12 @@
     "card": "Ixalan's Binding",
     "description": "Ixalan's Binding doesn't prevent opponent's from casting other copies of the exiled card.",
     "category": "Disadvantageous",
-    "last_updated": "2021-07-30 11:46:19",
+    "last_updated": "2021-10-19 16:01:29",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/926",
-    "help_wanted": true,
     "last_verified": "3.4.122.4137"
   },
   {
@@ -1360,15 +1359,14 @@
   },
   {
     "card": "Retribution of the Ancients",
-    "description": "Retribution of the Ancients requires at least one +1 counter to function",
+    "description": "Retribution of the Ancients doesn't allow X to be zero.",
     "category": "Disadvantageous",
-    "last_updated": "2021-02-08 19:54:43",
+    "last_updated": "2021-10-19 16:54:40",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/889",
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -1821,15 +1819,14 @@
   },
   {
     "card": "Mana Bloom",
-    "description": "If you activare Mana Bloom after you determine the total cost of the spell or ability, you can't cancel the process of casting the spell or ability",
+    "description": "If you activate Mana Bloom after you determine the total cost of the spell or ability, you can't cancel the process of casting the spell or ability",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:54:47",
+    "last_updated": "2021-10-19 16:03:13",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/823",
-    "help_wanted": true,
     "last_verified": null
   },
   {
