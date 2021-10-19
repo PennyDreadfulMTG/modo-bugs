@@ -1,5 +1,17 @@
 [
   {
+    "card": "Dire-Strain Rampage",
+    "description": "Targeting an indestructible land with Dire-Strain Rampage allows the controller of the land to search for two lands.",
+    "category": "Advantageous",
+    "last_updated": "2021-10-19 05:54:37",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/958",
+    "last_verified": null
+  },
+  {
     "card": "Snapcaster Mage",
     "description": "Splits cards can't gain flashback.",
     "category": "Disadvantageous",
@@ -1149,6 +1161,18 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/902",
     "help_wanted": true,
+    "last_verified": null
+  },
+  {
+    "card": "Skull Raid",
+    "description": "Skull raid draws cards if the discarded cards go to the battlefield",
+    "category": "Advantageous",
+    "last_updated": "2021-10-19 05:54:39",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/901",
     "last_verified": null
   },
   {
