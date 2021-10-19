@@ -1926,7 +1926,7 @@
     "card": "Rhythm of the Wild",
     "description": "Rhythm of the Wild incorrectly grants riot to creature cards that enter the battlefield as noncreatures such as Keranos, God of Storms.",
     "category": "Advantageous",
-    "last_updated": "2021-10-19 17:35:26",
+    "last_updated": "2021-10-19 17:54:41",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -1938,7 +1938,7 @@
     "card": "Keranos, God of Storms",
     "description": "Rhythm of the Wild incorrectly grants riot to creature cards that enter the battlefield as noncreatures such as Keranos, God of Storms.",
     "category": "Advantageous",
-    "last_updated": "2021-10-19 17:35:26",
+    "last_updated": "2021-10-19 17:54:41",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -2203,42 +2203,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/795",
     "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Invert // Invent",
-    "description": "There are issues with split cards such as Invert // Invent interacting with Eye of the Storm and Knowledge Pool.",
-    "category": "Unclassified",
-    "last_updated": "2021-10-19 17:45:08",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/794",
-    "last_verified": null
-  },
-  {
-    "card": "Eye of the Storm",
-    "description": "There are issues with split cards such as Invert // Invent interacting with Eye of the Storm and Knowledge Pool.",
-    "category": "Unclassified",
-    "last_updated": "2021-10-19 17:45:08",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/794",
-    "last_verified": null
-  },
-  {
-    "card": "Knowledge Pool",
-    "description": "There are issues with split cards such as Invert // Invent interacting with Eye of the Storm and Knowledge Pool.",
-    "category": "Unclassified",
-    "last_updated": "2021-10-19 17:45:08",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/794",
     "last_verified": null
   },
   {
@@ -2675,9 +2639,9 @@
   },
   {
     "card": "Necromancer's Covenant",
-    "description": "Necromancer's Covenant and Archdemon of Unx create incorrect token assets.",
+    "description": "Archdemon of Unx creates incorrect token assets.",
     "category": "Graphical",
-    "last_updated": "2021-10-19 17:53:02",
+    "last_updated": "2021-10-19 18:09:35",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -2687,9 +2651,9 @@
   },
   {
     "card": "Archdemon of Unx",
-    "description": "Necromancer's Covenant and Archdemon of Unx create incorrect token assets.",
+    "description": "Archdemon of Unx creates incorrect token assets.",
     "category": "Graphical",
-    "last_updated": "2021-10-19 17:53:02",
+    "last_updated": "2021-10-19 18:09:35",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -2812,19 +2776,6 @@
     "last_verified": null
   },
   {
-    "card": "Tajuru Preserver",
-    "description": "The chat log displays incorrect text when a player is to sacrifice permanents but cannot by controlling a card such as Tajuru Preserver.",
-    "category": "Graphical",
-    "last_updated": "2020-06-11 11:55:09",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/682",
-    "help_wanted": true,
-    "last_verified": "3.4.111.4007"
-  },
-  {
     "card": "Brothers Yamazaki",
     "description": "If one player controls two Brothers Yamazaki, and another player controls one, the \"legend rule\" continues to not apply.",
     "category": "Unclassified",
@@ -2853,15 +2804,14 @@
   {
     "card": "Relic Crush",
     "description": "Relic Crush can target the same permanent twice.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:55:11",
+    "category": "Advantageous",
+    "last_updated": "2021-10-19 18:07:05",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/675",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Tangleclaw Werewolf",
@@ -3396,13 +3346,12 @@
     "card": "Cut // Ribbons",
     "description": "Split cards such as Cut // Ribbons are reported as 3 cards in the chat log.",
     "category": "Graphical",
-    "last_updated": "2020-09-10 16:54:42",
+    "last_updated": "2021-10-19 18:22:14",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/444",
-    "help_wanted": true,
     "last_verified": "3.4.115.4054"
   },
   {
@@ -4209,14 +4158,13 @@
     "card": "Volcano Hellion",
     "description": "Volcano Hellion's damage is capped at 255",
     "category": "Disadvantageous",
-    "last_updated": "2021-06-17 03:23:44",
+    "last_updated": "2021-10-19 18:54:43",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/247",
-    "help_wanted": true,
-    "last_verified": "3.4.121.4123"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Sheltering Ancient",
@@ -4797,9 +4745,9 @@
   },
   {
     "card": "Structural Collapse",
-    "description": "Structural Collapse doesn't sacrifice the chosen permenents",
+    "description": "Structural Collapse doesn't sacrifice the chosen permanents",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-19 17:12:15",
+    "last_updated": "2021-10-19 17:57:35",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
