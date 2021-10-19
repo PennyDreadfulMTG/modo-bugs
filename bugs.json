@@ -942,14 +942,13 @@
     "card": "Kiora, Master of the Depths",
     "description": "Kiora, Master of the Depths incorrectly allows taking MDFCs where one side is a land, and does not count it toward the total taken",
     "category": "Advantageous",
-    "last_updated": "2021-05-23 03:42:45",
+    "last_updated": "2021-10-19 20:10:08",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/917",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Guardian of the Guildpact",
@@ -1455,19 +1454,6 @@
     "last_verified": "3.4.121.4123"
   },
   {
-    "card": "Kinsbaile Borderguard",
-    "description": "Kinsbaile Borderguard does not give you the tokens when it dies",
-    "category": "Disadvantageous",
-    "last_updated": "2020-12-12 15:29:03",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/879",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Deranged Assistant",
     "description": "Ctrl+Z two Deranged Assistants can soft-lock the game",
     "category": "Avoidable Game Breaking",
@@ -1542,19 +1528,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/870",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Epic Experiment",
-    "description": "Epic Experiment allows you to play the land side of MDFCs.",
-    "category": "Advantageous",
-    "last_updated": "2020-10-15 05:10:37",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/868",
     "help_wanted": true,
     "last_verified": null
   },
@@ -1815,7 +1788,7 @@
     "card": "Mana Bloom",
     "description": "If you activate Mana Bloom after you determine the total cost of the spell or ability, you can't cancel the process of casting the spell or ability",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-19 16:03:13",
+    "last_updated": "2021-10-19 20:19:28",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -4083,14 +4056,13 @@
     "card": "Rosheen Meanderer",
     "description": "Rosheen Meanderer is unable to contribute mana to spells that ask an opponent to pay X, such as Condescend.",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:32",
+    "last_updated": "2021-10-19 20:32:57",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/274",
-    "help_wanted": true,
-    "last_verified": "3.4.114.4046"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Samurai of the Pale Curtain",
@@ -4200,19 +4172,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/237",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Words of Waste",
-    "description": "Words of Waste does not function.",
-    "category": "Non-Functional ability",
-    "last_updated": "2019-01-25 09:41:31",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/228",
     "help_wanted": true,
     "last_verified": null
   },
