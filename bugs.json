@@ -15,7 +15,7 @@
     "card": "Snapcaster Mage",
     "description": "Splits cards can't gain flashback.",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-18 17:54:39",
+    "last_updated": "2021-10-19 08:23:51",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -27,7 +27,7 @@
     "card": "Recoup",
     "description": "Splits cards can't gain flashback.",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-18 17:54:39",
+    "last_updated": "2021-10-19 08:23:51",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -1974,26 +1974,24 @@
     "card": "Electrodominance",
     "description": "Electrodominance is incorrectly unable to cast either side of split cards such as Fire // Ice when X equals 2.",
     "category": "Unclassified",
-    "last_updated": "2019-10-10 21:49:01",
+    "last_updated": "2021-10-19 08:24:23",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/811",
-    "help_wanted": true,
     "last_verified": null
   },
   {
     "card": "Fire // Ice",
     "description": "Electrodominance is incorrectly unable to cast either side of split cards such as Fire // Ice when X equals 2.",
     "category": "Unclassified",
-    "last_updated": "2019-10-10 21:49:01",
+    "last_updated": "2021-10-19 08:24:23",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/811",
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2371,19 +2369,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/781",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Repudiate // Replicate",
-    "description": "If you choose to exile a split card such as Repudiate // Replicate, you will be given three options, but they all perform the same function.",
-    "category": "Unclassified",
-    "last_updated": "2019-10-04 12:55:15",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/778",
     "help_wanted": true,
     "last_verified": null
   },
@@ -3068,13 +3053,12 @@
     "card": "Porphyry Nodes",
     "description": "Porphyry Nodes allows a creature to regenerate if it's tied for the least power.",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:14",
+    "last_updated": "2021-10-19 08:07:56",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/639",
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -3133,14 +3117,13 @@
     "card": "Fireball",
     "description": "Fireball cannot be cast with 0 targets when X = 0.",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:16",
+    "last_updated": "2021-10-19 08:11:44",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/626",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Shared Fate",
@@ -4498,14 +4481,13 @@
     "card": "Tomorrow, Azami's Familiar",
     "description": "Tomorrow, Azami's Familiar puts both unchosen cards back on top of the library.",
     "category": "Disadvantageous",
-    "last_updated": "2020-09-02 20:35:55",
+    "last_updated": "2021-10-19 08:36:33",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/155",
-    "help_wanted": true,
-    "last_verified": "3.4.116.4065"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Booby Trap",
@@ -4537,14 +4519,13 @@
     "card": "Liquid Fire",
     "description": "Liquid Fire doesn't let you choose how to deal damage - it all goes to player",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:42",
+    "last_updated": "2021-10-19 08:14:39",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/148",
-    "help_wanted": true,
-    "last_verified": "3.4.119.4098"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Vizier of Many Faces",
@@ -4861,13 +4842,12 @@
     "card": "Structural Collapse",
     "description": "Structural Collapse doesn't cause target to sacrifice either an artifact or land.",
     "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:43",
+    "last_updated": "2021-10-19 08:23:13",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/123",
-    "help_wanted": true,
     "last_verified": "3.4.114.4044"
   },
   {
