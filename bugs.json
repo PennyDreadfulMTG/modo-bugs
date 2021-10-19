@@ -1,9 +1,9 @@
 [
   {
-    "card": "Elderscale wurm",
+    "card": "Elderscale Wurm",
     "description": "Elderscale Wurm doesn't work if you are above 7 life",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-19 22:54:39",
+    "last_updated": "2021-10-19 23:54:37",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
