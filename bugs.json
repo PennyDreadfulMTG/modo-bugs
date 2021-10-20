@@ -181,9 +181,9 @@
   },
   {
     "card": "Worship",
-    "description": "Some cards that check life total or board state fail under unknown circumstances",
+    "description": "Some cards that check board state fail under unknown circumstances",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-19 22:54:40",
+    "last_updated": "2021-10-20 14:29:35",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -193,9 +193,9 @@
   },
   {
     "card": "Lofty Denial",
-    "description": "Some cards that check life total or board state fail under unknown circumstances",
+    "description": "Some cards that check board state fail under unknown circumstances",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-19 22:54:40",
+    "last_updated": "2021-10-20 14:29:35",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -205,9 +205,9 @@
   },
   {
     "card": "Stubborn Denial",
-    "description": "Some cards that check life total or board state fail under unknown circumstances",
+    "description": "Some cards that check board state fail under unknown circumstances",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-19 22:54:40",
+    "last_updated": "2021-10-20 14:29:35",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -4191,14 +4191,13 @@
     "card": "Scythe of the Wretched",
     "description": "While Scythe of the Wretched is unequipped, it reanimates any creature that happens to die.",
     "category": "Advantageous",
-    "last_updated": "2020-08-28 13:18:47",
+    "last_updated": "2021-10-20 14:39:58",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/221",
-    "help_wanted": true,
-    "last_verified": "3.4.116.4065"
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Wall of Roots",
