@@ -2752,13 +2752,12 @@
     "card": "Sekki, Seasons' Guide",
     "description": "Spirit tokens created by Sekki, Seasons' Guide are not considered to have the same name.",
     "category": "Unclassified",
-    "last_updated": "2020-09-17 23:51:37",
+    "last_updated": "2021-10-20 18:18:35",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/676",
-    "help_wanted": true,
     "last_verified": "3.4.117.4069"
   },
   {
@@ -2784,19 +2783,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/669",
     "multiplayer_only": true,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Sword-Point Diplomacy",
-    "description": "A player can pay more life than they have with Sword-Point Diplomacy, but they will still most likely lose the game.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:55:11",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/664",
     "help_wanted": true,
     "last_verified": null
   },
