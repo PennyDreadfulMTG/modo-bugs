@@ -2588,14 +2588,13 @@
   {
     "card": "Skinshifter",
     "description": "The ability context menu of Skinshifter is displayed incorrectly.",
-    "category": "Unclassified",
-    "last_updated": "2021-03-25 23:51:07",
+    "category": "Graphical",
+    "last_updated": "2021-10-20 15:30:10",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/700",
-    "help_wanted": true,
     "last_verified": "3.4.119.4098"
   },
   {
@@ -2646,19 +2645,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/693",
-    "last_verified": null
-  },
-  {
-    "card": "Wolf-Skull Shaman",
-    "description": "Wolf-Skull Shaman automatically reveals the top card of your library without a prompt.",
-    "category": "Unclassified",
-    "last_updated": "2020-10-11 21:35:09",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/692",
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2746,19 +2732,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/685",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Blade of Selves",
-    "description": "Myriad tokens are not exiled at the end of combat",
-    "category": "Unclassified",
-    "last_updated": "2020-08-30 00:47:38",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/683",
     "help_wanted": true,
     "last_verified": null
   },
@@ -2983,19 +2956,6 @@
     "last_verified": "3.4.117.4077"
   },
   {
-    "card": "Harm's Way",
-    "description": "Harm's Way cannot redirect combat damage to planeswalkers.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:55:15",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/632",
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Sorin, Lord of Innistrad",
     "description": "If Sorin, Lord of Innistrad somehow becomes a creature, he cannot target himself with his ultimate ability.",
     "category": "Unclassified",
@@ -3048,15 +3008,74 @@
   },
   {
     "card": "Broodbirth Viper",
-    "description": "Broodbirth Viper's token(s) don't get exiled at the end of combat",
+    "description": "Myriad token(s) don't get exiled at the end of combat",
     "category": "Advantageous",
-    "last_updated": "2020-04-11 16:55:14",
+    "last_updated": "2021-10-20 15:54:43",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/616",
-    "help_wanted": true,
+    "last_verified": null
+  },
+  {
+    "card": "Blade of Selves",
+    "description": "Myriad token(s) don't get exiled at the end of combat",
+    "category": "Advantageous",
+    "last_updated": "2021-10-20 15:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/616",
+    "last_verified": null
+  },
+  {
+    "card": "Banshee of the Dread Choir",
+    "description": "Myriad token(s) don't get exiled at the end of combat",
+    "category": "Advantageous",
+    "last_updated": "2021-10-20 15:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/616",
+    "last_verified": null
+  },
+  {
+    "card": "Warchief Giant",
+    "description": "Myriad token(s) don't get exiled at the end of combat",
+    "category": "Advantageous",
+    "last_updated": "2021-10-20 15:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/616",
+    "last_verified": null
+  },
+  {
+    "card": "Herald of the Host",
+    "description": "Myriad token(s) don't get exiled at the end of combat",
+    "category": "Advantageous",
+    "last_updated": "2021-10-20 15:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/616",
+    "last_verified": null
+  },
+  {
+    "card": "Caller of the Pack",
+    "description": "Myriad token(s) don't get exiled at the end of combat",
+    "category": "Advantageous",
+    "last_updated": "2021-10-20 15:54:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/616",
     "last_verified": null
   },
   {
