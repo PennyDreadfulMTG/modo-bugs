@@ -1,5 +1,29 @@
 [
   {
+    "card": "Faerie Miscreant",
+    "description": "Faerie Miscreant draws a card even if there isn't another one in play.",
+    "category": "Advantageous",
+    "last_updated": "2021-10-20 19:54:38",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/961",
+    "last_verified": null
+  },
+  {
+    "card": "Portent",
+    "description": "Portent doesn't show whether the player shuffled",
+    "category": "Advantageous",
+    "last_updated": "2021-10-20 19:54:40",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/960",
+    "last_verified": null
+  },
+  {
     "card": "Elderscale Wurm",
     "description": "Elderscale Wurm doesn't work if you are above 7 life",
     "category": "Disadvantageous",
