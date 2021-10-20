@@ -1388,6 +1388,18 @@
     "last_verified": null
   },
   {
+    "card": "Astral Drift",
+    "description": "Astral Drift doesn't trigger when cycled",
+    "category": "Disadvantageous",
+    "last_updated": "2021-10-20 03:54:36",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/887",
+    "last_verified": null
+  },
+  {
     "card": "Infernal Darkness",
     "description": "Infernal Darkness remembers the life loss payment for future mana payments",
     "category": "Disadvantageous",
