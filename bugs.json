@@ -367,40 +367,40 @@
     "card": "Worship",
     "description": "Some cards that check board state fail under unknown circumstances",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-20 14:29:35",
+    "last_updated": "2021-10-21 21:29:35",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/944",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": "3.4.123.4153"
   },
   {
     "card": "Lofty Denial",
     "description": "Some cards that check board state fail under unknown circumstances",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-20 14:29:35",
+    "last_updated": "2021-10-21 21:29:35",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/944",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": "3.4.123.4153"
   },
   {
     "card": "Stubborn Denial",
     "description": "Some cards that check board state fail under unknown circumstances",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-20 14:29:35",
+    "last_updated": "2021-10-21 21:29:35",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/944",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": "3.4.123.4153"
   },
   {
     "card": "Fiery Justice",
