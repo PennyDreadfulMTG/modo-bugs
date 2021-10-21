@@ -261,9 +261,9 @@
   },
   {
     "card": "Curse of Leeches",
-    "description": "Curse of Leeches dies when it becomes Day if it's played during Night",
+    "description": "Curse of Leeches dies when it transforms into the front side.",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-21 11:12:13",
+    "last_updated": "2021-10-21 15:56:12",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
