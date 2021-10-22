@@ -1727,43 +1727,40 @@
     "card": "Growth-Chamber Guardian",
     "description": "Neoform and creatures with +1/+1 counter abilities interact incorrectly",
     "category": "Disadvantageous",
-    "last_updated": "2021-04-22 00:54:43",
+    "last_updated": "2021-10-22 17:55:11",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/882",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.123.4153"
   },
   {
     "card": "Neoform",
     "description": "Neoform and creatures with +1/+1 counter abilities interact incorrectly",
     "category": "Disadvantageous",
-    "last_updated": "2021-04-22 00:54:43",
+    "last_updated": "2021-10-22 17:55:11",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/882",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.123.4153"
   },
   {
     "card": "Fathom Mage",
     "description": "Neoform and creatures with +1/+1 counter abilities interact incorrectly",
     "category": "Disadvantageous",
-    "last_updated": "2021-04-22 00:54:43",
+    "last_updated": "2021-10-22 17:55:11",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/882",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.123.4153"
   },
   {
     "card": "Young Pyromancer",
