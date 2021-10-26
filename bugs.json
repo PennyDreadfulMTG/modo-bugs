@@ -3396,8 +3396,8 @@
   {
     "card": "Pyxis of Pandemonium",
     "description": "If multiple copies of Pyxis of Pandemonium are on the battlefield, it is difficult to determine where cards are associated.",
-    "category": "Unclassified",
-    "last_updated": "2021-10-18 18:54:42",
+    "category": "Graphical",
+    "last_updated": "2021-10-26 15:17:41",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -3816,20 +3816,6 @@
     "last_verified": null
   },
   {
-    "card": "Pyxis of Pandemonium",
-    "description": "When multiple Pyxis of Pandemonium are in the battlefield, there is no indicator how many cards are exiled by each Pyxis, or which cards are exiled by each Pyxis",
-    "category": "Graphical",
-    "last_updated": "2020-06-11 11:55:13",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/645",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Kalitas, Traitor of Ghet",
     "description": "If you control Kalitas, Traitor of Ghet, you create a zombie creature token when a creature you control owned by an opponent dies.",
     "category": "Unclassified",
@@ -4049,14 +4035,13 @@
     "card": "Containment Priest",
     "description": "If Containment Priest and any other creatures (not cast) ETB at the same time, all the other creatures get exiled",
     "category": "Disadvantageous",
-    "last_updated": "2020-09-05 20:58:26",
+    "last_updated": "2021-10-26 15:19:53",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/603",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -5362,20 +5347,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/177",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Elesh Norn, Grand Cenobite",
-    "description": "If Containment Priest and Elesh Norn, Grand Cenobite are both Exhumed, Elesh Norn, Grand Cenobite is exiled and her effect lasts indefinitely.",
-    "category": "Advantageous",
-    "last_updated": "2018-09-25 03:38:19",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/176",
     "support_thread": null,
     "help_wanted": true,
     "last_verified": null
