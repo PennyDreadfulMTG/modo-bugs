@@ -1,5 +1,18 @@
 [
   {
+    "card": "Diabolic Servitude",
+    "description": "Diabolic Servitude's second ability does not function. (When the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner\u2019s hand.)",
+    "category": "Unconfirmed",
+    "last_updated": "2021-10-26 20:56:10",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/964",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Hopeful Eidolon",
     "description": "Bestowed auras remain on creaturelands",
     "category": "Advantageous",
