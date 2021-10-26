@@ -1,5 +1,18 @@
 [
   {
+    "card": "Hopeful Eidolon",
+    "description": "Bestowed auras remain on creaturelands",
+    "category": "Advantageous",
+    "last_updated": "2021-10-26 18:56:07",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/963",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Battle for Bretagard",
     "description": "Battle for Bretagard doesn't let you choose different tokens that share certain creature types.",
     "category": "Disadvantageous",
@@ -2746,7 +2759,7 @@
     "card": "Turn // Burn",
     "description": "Fuse cards such as Turn // Burn have a visual error when granted other abilities.",
     "category": "Graphical",
-    "last_updated": "2021-10-26 17:18:54",
+    "last_updated": "2021-10-26 17:56:03",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
