@@ -1,5 +1,18 @@
 [
   {
+    "card": "Gallia of the Endless Dance",
+    "description": "Gallia of the Endless Dance draws two cards when you trigger it's ability when empty-handed",
+    "category": "Unconfirmed",
+    "last_updated": "2021-10-27 15:56:10",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/965",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Diabolic Servitude",
     "description": "Diabolic Servitude's second ability does not function. (When the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner\u2019s hand.)",
     "category": "Unconfirmed",
