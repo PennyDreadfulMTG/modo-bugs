@@ -3129,8 +3129,8 @@
   {
     "card": "Necra Sanctuary",
     "description": "Necra Sanctuary does not cause a player to lose 3 life if you control both a green and white permanent.",
-    "category": "Unclassified",
-    "last_updated": "2021-10-18 00:11:29",
+    "category": "Disadvantageous",
+    "last_updated": "2021-10-28 15:32:17",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -3501,8 +3501,8 @@
   {
     "card": "Vivien, Champion of the Wilds",
     "description": "If Vivien, Champion of the Wilds exiles a creature with flash, it incorrectly also displays that it has flash in blue text.",
-    "category": "Unclassified",
-    "last_updated": "2021-10-18 18:54:43",
+    "category": "Graphical",
+    "last_updated": "2021-10-28 15:31:32",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -3621,8 +3621,8 @@
   {
     "card": "Amoeboid Changeling",
     "description": "Removing all creature types from a creature is displayed as if only the two leftmost creature types were removed",
-    "category": "Unclassified",
-    "last_updated": "2021-10-17 10:54:41",
+    "category": "Graphical",
+    "last_updated": "2021-10-28 15:33:36",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
@@ -3827,15 +3827,14 @@
   {
     "card": "Pollen Lullaby",
     "description": "Pollen Lullaby does not display the rules text stating that the creature doesn't untap.",
-    "category": "Unclassified",
-    "last_updated": "2020-07-10 18:37:14",
+    "category": "Graphical",
+    "last_updated": "2021-10-28 15:37:48",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/654",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": "3.4.115.4054"
   },
   {
