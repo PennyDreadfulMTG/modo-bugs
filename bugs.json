@@ -2442,20 +2442,6 @@
     "last_verified": null
   },
   {
-    "card": "Stone Haven Outfitter",
-    "description": "Stone Haven Outfitter buffs 0/0 germ tokens from Mortar Pod even if equipment is destroyed prior to living weapon trigger",
-    "category": "Advantageous",
-    "last_updated": "2020-12-10 05:54:45",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/872",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "World Queller",
     "description": "World Queller allows you to sac opponents permanents",
     "category": "Advantageous",
@@ -4356,17 +4342,42 @@
   },
   {
     "card": "Heir of Falkenrath",
-    "description": "If Heir of Falkenrath's ability is used to transform it into Heir to the Night, then it transforms back into Heir of Falkenrath in the same turn in some way, its activated ability can be used again.",
+    "description": "If Heir to Falkenrath, Ecstatic Awakener, or Wolfbitten Captive activate their ability, then transform and transform back to the front side in some way, their ability can be activated again in the same turn.",
     "category": "Advantageous",
-    "last_updated": "2021-03-03 12:13:15",
+    "last_updated": "2021-10-28 20:56:04",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/441",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.114.4048"
+    "last_verified": "3.4.123.4153"
+  },
+  {
+    "card": "Ecstatic Awakener",
+    "description": "If Heir to Falkenrath, Ecstatic Awakener, or Wolfbitten Captive activate their ability, then transform and transform back to the front side in some way, their ability can be activated again in the same turn.",
+    "category": "Advantageous",
+    "last_updated": "2021-10-28 20:56:04",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/441",
+    "support_thread": null,
+    "last_verified": "3.4.123.4153"
+  },
+  {
+    "card": "Wolfbitten Captive",
+    "description": "If Heir to Falkenrath, Ecstatic Awakener, or Wolfbitten Captive activate their ability, then transform and transform back to the front side in some way, their ability can be activated again in the same turn.",
+    "category": "Advantageous",
+    "last_updated": "2021-10-28 20:56:04",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/441",
+    "support_thread": null,
+    "last_verified": "3.4.123.4153"
   },
   {
     "card": "Grenzo, Dungeon Warden",
