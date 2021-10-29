@@ -2350,7 +2350,7 @@
     "card": "Neoform",
     "description": "Neoform and creatures with +1/+1 counter abilities interact incorrectly",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-29 04:56:07",
+    "last_updated": "2021-10-29 06:56:01",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
