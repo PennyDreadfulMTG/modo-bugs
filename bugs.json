@@ -2347,36 +2347,10 @@
     "last_verified": null
   },
   {
-    "card": "Growth-Chamber Guardian",
-    "description": "Neoform and creatures with +1/+1 counter abilities interact incorrectly",
-    "category": "Disadvantageous",
-    "last_updated": "2021-10-22 17:55:11",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/882",
-    "support_thread": null,
-    "last_verified": "3.4.123.4153"
-  },
-  {
     "card": "Neoform",
     "description": "Neoform and creatures with +1/+1 counter abilities interact incorrectly",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-22 17:55:11",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/882",
-    "support_thread": null,
-    "last_verified": "3.4.123.4153"
-  },
-  {
-    "card": "Fathom Mage",
-    "description": "Neoform and creatures with +1/+1 counter abilities interact incorrectly",
-    "category": "Disadvantageous",
-    "last_updated": "2021-10-22 17:55:11",
+    "last_updated": "2021-10-29 00:56:10",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
