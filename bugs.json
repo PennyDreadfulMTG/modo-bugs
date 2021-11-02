@@ -1,5 +1,18 @@
 [
   {
+    "card": "Painful Truths",
+    "description": "Painful Truths gets stuck on OK if no colors of mana was spent to cast it.",
+    "category": "Unconfirmed",
+    "last_updated": "2021-11-02 08:55:57",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/968",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Adeline, Resplendent Cathar",
     "description": "When Adeline, Resplendent Cathar's ability creates tokens, those tokens can't enter attacking a planeswalker",
     "category": "Disadvantageous",
