@@ -1,5 +1,18 @@
 [
   {
+    "card": "Nether Traitor",
+    "description": "Nether Traitor triggers when it goes to the graveyard alongside other creatures.",
+    "category": "Advantageous",
+    "last_updated": "2021-11-09 00:55:57",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/969",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Adeline, Resplendent Cathar",
     "description": "When Adeline, Resplendent Cathar's ability creates tokens, those tokens can't enter attacking a planeswalker",
     "category": "Disadvantageous",
