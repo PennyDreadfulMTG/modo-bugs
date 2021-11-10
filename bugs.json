@@ -1422,34 +1422,6 @@
     "last_verified": null
   },
   {
-    "card": "Harmonic Prodigy",
-    "description": "Harmonic Prodigy doesn't cause Exalted to trigger twice.",
-    "category": "Disadvantageous",
-    "last_updated": "2021-06-22 18:54:48",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/928",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Ignoble Hierarch",
-    "description": "Harmonic Prodigy doesn't cause Exalted to trigger twice.",
-    "category": "Disadvantageous",
-    "last_updated": "2021-06-22 18:54:48",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/928",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Ixalan's Binding",
     "description": "Ashiok's Erasure and Ixalan's Binding don't prevent the opponent from casting copies of the spells they've exiled.",
     "category": "Disadvantageous",
