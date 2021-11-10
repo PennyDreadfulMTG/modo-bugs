@@ -312,45 +312,6 @@
     "last_verified": null
   },
   {
-    "card": "Worship",
-    "description": "Some cards that check board state fail under unknown circumstances",
-    "category": "Disadvantageous",
-    "last_updated": "2021-10-21 21:29:35",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/944",
-    "support_thread": null,
-    "last_verified": "3.4.123.4153"
-  },
-  {
-    "card": "Lofty Denial",
-    "description": "Some cards that check board state fail under unknown circumstances",
-    "category": "Disadvantageous",
-    "last_updated": "2021-10-21 21:29:35",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/944",
-    "support_thread": null,
-    "last_verified": "3.4.123.4153"
-  },
-  {
-    "card": "Stubborn Denial",
-    "description": "Some cards that check board state fail under unknown circumstances",
-    "category": "Disadvantageous",
-    "last_updated": "2021-10-21 21:29:35",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/944",
-    "support_thread": null,
-    "last_verified": "3.4.123.4153"
-  },
-  {
     "card": "Fiery Justice",
     "description": "Fiery Justice doesn't give the opponent life",
     "category": "Advantageous",
@@ -1572,20 +1533,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/873",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "World Queller",
-    "description": "World Queller allows you to sac opponents permanents",
-    "category": "Advantageous",
-    "last_updated": "2020-10-17 11:20:14",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/871",
     "support_thread": null,
     "help_wanted": true,
     "last_verified": null
@@ -4328,20 +4275,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/240",
     "support_thread": null,
     "last_verified": "3.4.123.4152"
-  },
-  {
-    "card": "Lurking Evil",
-    "description": "Lurking Evil makes you pay life equal to half of your opponent's life total",
-    "category": "Advantageous",
-    "last_updated": "2020-06-11 11:55:37",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/237",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
   },
   {
     "card": "Wall of Roots",
