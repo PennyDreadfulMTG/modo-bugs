@@ -1132,31 +1132,16 @@
     "last_verified": null
   },
   {
-    "card": "Gideon's Intervention",
-    "description": "Gideon's Intervention and Runed Halo do not prevent damage from tokens with the same name as card named with it",
-    "category": "Disadvantageous",
-    "last_updated": "2021-08-20 14:54:48",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/938",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Runed Halo",
-    "description": "Gideon's Intervention and Runed Halo do not prevent damage from tokens with the same name as card named with it",
+    "description": "Runed Halo do not prevent damage from tokens with the same name as card named with it",
     "category": "Disadvantageous",
-    "last_updated": "2021-08-20 14:54:48",
+    "last_updated": "2021-11-10 01:55:58",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/938",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -5705,16 +5690,15 @@
   },
   {
     "card": "Gideon's Intervention",
-    "description": "Casting a second copy of Gideon's Intervention causes the first to become become partially non-functional, allowing the named card to deal damage",
+    "description": "Gideon's Intervention does not prevent damage from tokens with the same name as the named card, and casting a second copy causes the first to allow the named card to deal damage.",
     "category": "Disadvantageous",
-    "last_updated": "2021-04-11 09:08:08",
+    "last_updated": "2021-11-10 01:56:04",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/72",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": "3.4.119.4098"
   },
   {
