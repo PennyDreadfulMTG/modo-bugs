@@ -1,5 +1,31 @@
 [
   {
+    "card": "Forbidden Ritual",
+    "description": "Forbidden RItual only allows you to do the first option: if you choose not to do the first effect, you do the effect you chose, and then have to choose again",
+    "category": "Advantageous",
+    "last_updated": "2021-11-11 04:55:58",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/972",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
+    "card": "Mindblaze",
+    "description": "Mindblaze allows you to choose zero",
+    "category": "Advantageous",
+    "last_updated": "2021-11-11 04:55:59",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/971",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Nether Traitor",
     "description": "Nether Traitor triggers when it goes to the graveyard alongside other creatures.",
     "category": "Advantageous",
