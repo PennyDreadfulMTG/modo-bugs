@@ -434,14 +434,13 @@
     "card": "Possibility Storm",
     "description": "Possibility Storm will check for both types on an Adventure card.",
     "category": "Disadvantageous",
-    "last_updated": "2021-08-13 01:54:43",
+    "last_updated": "2021-11-11 00:28:35",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/935",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -1326,20 +1325,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/896",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Possibility Storm",
-    "description": "Possibility Storm doesn't return Adventure cards to the library when you cast the Adventure spell.",
-    "category": "Disadvantageous",
-    "last_updated": "2021-08-03 21:29:21",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/895",
     "support_thread": null,
     "help_wanted": true,
     "last_verified": null
