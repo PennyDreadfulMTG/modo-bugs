@@ -380,14 +380,13 @@
     "card": "Tempt with Discovery",
     "description": "Tempt with Discovery only fetches you one land",
     "category": "Disadvantageous",
-    "last_updated": "2021-09-14 02:54:46",
+    "last_updated": "2021-11-13 22:13:36",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/940",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": null
   },
   {
