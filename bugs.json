@@ -1,5 +1,18 @@
 [
   {
+    "card": "Illusionary Mask",
+    "description": "Illusionary Mask doesn't function.",
+    "category": "Disadvantageous",
+    "last_updated": "2021-11-19 15:55:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/975",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Patchwork Crawler",
     "description": "Patchwork Crawler doesn't have the activated abilities of cards it exiles.",
     "category": "Disadvantageous",
