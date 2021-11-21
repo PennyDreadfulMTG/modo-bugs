@@ -4436,20 +4436,6 @@
     "last_verified": null
   },
   {
-    "card": "Commandeer",
-    "description": "Commandeer does not gain control of the targeted noncreature spell.",
-    "category": "Disadvantageous",
-    "last_updated": "2018-09-25 03:38:16",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/192",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "As Foretold",
     "description": "As Foretold does not apply to cards able to be cast due to permission granted by other cards, such as Abandoned Sarcophagus and Harness the Storm",
     "category": "Disadvantageous",
