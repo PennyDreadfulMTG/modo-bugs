@@ -3179,14 +3179,13 @@
     "card": "Nullstone Gargoyle",
     "description": "Nullstone Gargoyle counters all noncreature spells cast",
     "category": "Advantageous",
-    "last_updated": "2021-07-24 23:19:55",
+    "last_updated": "2021-11-25 22:42:13",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/615",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": "3.4.122.4137"
   },
   {
