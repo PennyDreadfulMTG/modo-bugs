@@ -1,9 +1,9 @@
 [
   {
     "card": "Channel",
-    "description": "Channel last until the end of your next turn, instead of the end of the current turn",
-    "category": "Unconfirmed",
-    "last_updated": "2021-11-26 00:55:44",
+    "description": "Casting or copying Channel on your opponent's turn lets you use the emblem on your next turn.",
+    "category": "Advantageous",
+    "last_updated": "2021-11-26 01:15:38",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
