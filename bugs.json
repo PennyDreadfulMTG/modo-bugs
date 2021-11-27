@@ -1577,6 +1577,19 @@
     "last_verified": "3.4.121.4123"
   },
   {
+    "card": "Kunoros, Hound of Athreos",
+    "description": "Kunoros, Hound of Athreos does not prevent reanimation spells that affect multiple creatures at the same time depending on graveyard order",
+    "category": "Unconfirmed",
+    "last_updated": "2021-11-27 17:55:49",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/878",
+    "support_thread": "https://feedback.wizards.com/forums/918667-mtg-arena-bugs-product-suggestions/suggestions/39654034-kunoros-hound-of-athreos-command-the-dreadhorde",
+    "last_verified": null
+  },
+  {
     "card": "Deranged Assistant",
     "description": "Ctrl+Z two Deranged Assistants can soft-lock the game",
     "category": "Avoidable Game Breaking",
