@@ -1580,7 +1580,7 @@
     "card": "Kunoros, Hound of Athreos",
     "description": "Kunoros, Hound of Athreos does not prevent reanimation spells that affect multiple creatures at the same time depending on graveyard order",
     "category": "Unconfirmed",
-    "last_updated": "2021-11-27 17:55:49",
+    "last_updated": "2021-11-27 17:55:50",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
