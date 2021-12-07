@@ -1,6 +1,6 @@
 ---
-title: Magic Online Announcements, November 30, 2021
+title: Magic Online Announcements, December 7, 2021
 redirect_to:
- - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-november-30-2021
+ - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-december-7-2021
 has_build_notes: False
 ---
