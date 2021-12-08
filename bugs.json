@@ -1,5 +1,18 @@
 [
   {
+    "card": "Abandoned Sarcophagus",
+    "description": "Abandoned Sarcophagus is bugged",
+    "category": "Unconfirmed",
+    "last_updated": "2021-12-08 08:55:37",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/979",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Soulflayer",
     "description": "Soulflayer doesn't show that it has gained variations of abilities, such as \"Hexproof from Black\".",
     "category": "Graphical",
@@ -283,6 +296,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/952",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
