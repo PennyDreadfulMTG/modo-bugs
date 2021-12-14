@@ -2,8 +2,8 @@
   {
     "card": "Nylea, Keen-Eyed",
     "description": "Nylea, Keen-Eyed doesn't put revealed card into hand",
-    "category": "Unconfirmed",
-    "last_updated": "2021-12-14 19:55:43",
+    "category": "Disadvantageous",
+    "last_updated": "2021-12-14 20:50:23",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
