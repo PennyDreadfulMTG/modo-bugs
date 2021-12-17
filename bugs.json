@@ -1985,6 +1985,7 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/847",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": "3.4.123.4152"
   },
   {
@@ -2686,6 +2687,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/757",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
