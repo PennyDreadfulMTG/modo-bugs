@@ -1,5 +1,31 @@
 [
   {
+    "card": "Greater Gargadon",
+    "description": "Greater Gargadon and Nihilith don't get cast when last suspend time counter is removed by their abilities",
+    "category": "Disadvantageous",
+    "last_updated": "2021-12-18 18:55:39",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/983",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
+    "card": "Nihilith",
+    "description": "Greater Gargadon and Nihilith don't get cast when last suspend time counter is removed by their abilities",
+    "category": "Disadvantageous",
+    "last_updated": "2021-12-18 18:55:39",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/983",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Consuming Tide",
     "description": "Consuming Tide Sometimes Draws a Card When it Should Not",
     "category": "Unconfirmed",
@@ -1458,6 +1484,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/901",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
