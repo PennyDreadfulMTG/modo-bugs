@@ -1,5 +1,18 @@
 [
   {
+    "card": "Varchild's War-Riders",
+    "description": "Varchild's War-Riders does not create the opponent tokens",
+    "category": "Advantageous",
+    "last_updated": "2021-12-20 14:55:42",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/984",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Greater Gargadon",
     "description": "Greater Gargadon and Nihilith don't get cast when last suspend time counter is removed by their abilities",
     "category": "Disadvantageous",
