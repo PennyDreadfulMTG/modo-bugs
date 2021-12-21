@@ -3070,20 +3070,6 @@
     "last_verified": "3.4.117.4073"
   },
   {
-    "card": "Vedalken Shackles",
-    "description": "Vedalken Shackles interacts incorrectly with creatures that enter the battlefield tapped and attacking.",
-    "category": "Unclassified",
-    "last_updated": "2019-02-14 21:09:44",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/687",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Gauntlets of Chaos",
     "description": "Gauntlets of Chaos allows you to target illegal targets.",
     "category": "Unclassified",
