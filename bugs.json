@@ -1,5 +1,18 @@
 [
   {
+    "card": "Laelia, the Blade Reforged",
+    "description": "Laelia, the Blade Reforged doesn't trigger on Hideaway",
+    "category": "Disadvantageous",
+    "last_updated": "2021-12-24 15:55:40",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/987",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Synthetic Destiny",
     "description": "Synthetic Destiny only puts one creature into play",
     "category": "Disadvantageous",
