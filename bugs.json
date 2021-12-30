@@ -66,9 +66,9 @@
   },
   {
     "card": "Consuming Tide",
-    "description": "Consuming Tide Sometimes Draws a Card When it Should Not",
-    "category": "Unconfirmed",
-    "last_updated": "2021-12-18 02:55:39",
+    "description": "Consuming Tide counts tokens that were bounced as in your hand for purposes of card draw.",
+    "category": "Advantageous",
+    "last_updated": "2021-12-30 06:31:25",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -2984,6 +2984,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/709",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": "3.4.116.4061"
   },
   {
