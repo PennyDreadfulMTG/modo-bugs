@@ -992,29 +992,27 @@
     "card": "Ixalan's Binding",
     "description": "Ashiok's Erasure and Ixalan's Binding don't prevent the opponent from casting copies of the spells they've exiled.",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-19 17:54:39",
+    "last_updated": "2021-12-31 03:19:30",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/926",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.122.4137"
+    "last_verified": "3.4.124.4162"
   },
   {
     "card": "Ashiok's Erasure",
     "description": "Ashiok's Erasure and Ixalan's Binding don't prevent the opponent from casting copies of the spells they've exiled.",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-19 17:54:39",
+    "last_updated": "2021-12-31 03:19:30",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/926",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.122.4137"
+    "last_verified": "3.4.124.4162"
   },
   {
     "card": "Fatestitcher",
