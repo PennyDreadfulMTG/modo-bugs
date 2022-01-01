@@ -565,15 +565,14 @@
     "card": "Riders of Gavony",
     "description": "Riders of Gavony gives protection to all permanents.",
     "category": "Advantageous",
-    "last_updated": "2021-10-07 17:58:30",
+    "last_updated": "2022-01-01 22:04:24",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/949",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.124.4162"
   },
   {
     "card": "Yidaro, Wandering Monster",
