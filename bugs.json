@@ -1,5 +1,18 @@
 [
   {
+    "card": "Entrails Feaster",
+    "description": "Entrails Feaster",
+    "category": "Unconfirmed",
+    "last_updated": "2022-01-05 17:55:50",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/989",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Laelia, the Blade Reforged",
     "description": "Laelia, the Blade Reforged doesn't trigger on Hideaway",
     "category": "Disadvantageous",
