@@ -1,9 +1,9 @@
 [
   {
     "card": "Entrails Feaster",
-    "description": "Entrails Feaster",
-    "category": "Unconfirmed",
-    "last_updated": "2022-01-05 17:55:51",
+    "description": "Entrails Feaster only puts a counter on itself the first time you exile a creature",
+    "category": "Disadvantageous",
+    "last_updated": "2022-01-06 04:38:22",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
