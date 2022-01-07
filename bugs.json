@@ -1,9 +1,9 @@
 [
   {
     "card": "Entrails Feaster",
-    "description": "Entrails Feaster only puts a counter on itself the first time you exile a creature",
+    "description": "Entrails Feaster's ability sets the number of counters on it to one rather than adding one counter",
     "category": "Disadvantageous",
-    "last_updated": "2022-01-06 04:38:22",
+    "last_updated": "2022-01-07 22:55:42",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -234,6 +234,19 @@
     "last_verified": null
   },
   {
+    "card": "Abandoned Sarcophagus",
+    "description": "Abandoned Sarcophagus exiles cards that you cycle",
+    "category": "Disadvantageous",
+    "last_updated": "2022-01-07 22:55:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/979",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Soulflayer",
     "description": "Soulflayer doesn't show that it has gained variations of abilities, such as \"Hexproof from Black\".",
     "category": "Graphical",
@@ -250,7 +263,7 @@
     "card": "Channel",
     "description": "Casting or copying Channel on your opponent's turn lets you use the emblem on your next turn.",
     "category": "Advantageous",
-    "last_updated": "2021-11-26 01:15:38",
+    "last_updated": "2022-01-07 22:55:44",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -544,6 +557,20 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/951",
     "support_thread": "https://feedback.wizards.com/forums/926092-mtgo-issues/suggestions/44157729-curse-of-leeches-does-not-attatch-when-tranformed",
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
+    "card": "Desolate Lighthouse",
+    "description": "Dredging using Desolate Lighthouse's ability while empty-handed lets the player avoid discarding",
+    "category": "Advantageous",
+    "last_updated": "2021-10-07 17:45:02",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/950",
+    "support_thread": null,
     "help_wanted": true,
     "last_verified": null
   },
