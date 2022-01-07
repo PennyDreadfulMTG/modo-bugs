@@ -1,5 +1,18 @@
 [
   {
+    "card": "Grist, the Hunger Tide",
+    "description": "Kaheera can be your companion if Grist is in your deck",
+    "category": "Advantageous",
+    "last_updated": "2022-01-07 23:55:39",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/990",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Entrails Feaster",
     "description": "Entrails Feaster's ability sets the number of counters on it to one rather than adding one counter",
     "category": "Disadvantageous",
