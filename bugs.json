@@ -1,5 +1,18 @@
 [
   {
+    "card": "Play with Fire",
+    "description": "Play with Fire lets you scry when damage is prevented",
+    "category": "Advantageous",
+    "last_updated": "2022-01-10 15:55:41",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/992",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Foul-Tongue Shriek",
     "description": "Foul-tongue Shriek doesnt gain life",
     "category": "Disadvantageous",
@@ -4964,6 +4977,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/72",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": "3.4.119.4098"
   },
   {
