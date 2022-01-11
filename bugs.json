@@ -40,9 +40,22 @@
   },
   {
     "card": "Entrails Feaster",
-    "description": "Entrails Feaster's ability sets the number of counters on it to one rather than adding one counter",
+    "description": "Certain card's abilities set the number of counters on them to one rather than adding one counter",
     "category": "Disadvantageous",
-    "last_updated": "2022-01-07 22:55:42",
+    "last_updated": "2022-01-11 20:55:41",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/989",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
+    "card": "Crovax the Cursed",
+    "description": "Certain card's abilities set the number of counters on them to one rather than adding one counter",
+    "category": "Disadvantageous",
+    "last_updated": "2022-01-11 20:55:41",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -2856,20 +2869,6 @@
     "support_thread": null,
     "help_wanted": true,
     "last_verified": "3.4.112.4019"
-  },
-  {
-    "card": "Crovax The Cursed",
-    "description": "Crovax The Cursed loses old counters after sacrifice ",
-    "category": "Disadvantageous",
-    "last_updated": "2021-10-17 17:35:41",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/757",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
   },
   {
     "card": "Ulamog's Despoiler",
