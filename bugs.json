@@ -1962,20 +1962,6 @@
     "last_verified": null
   },
   {
-    "card": "Phytotitan",
-    "description": "Phytotitan returns to the battlefield under it's controller's control, rather than its owner's control.",
-    "category": "Disadvantageous",
-    "last_updated": "2020-10-15 05:10:13",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/870",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Umori, the Collector",
     "description": "The deckbuilder incorrectly shows that is Umori ineligible to be the companion for a Tribal-type deck.",
     "category": "Graphical",
@@ -2927,20 +2913,6 @@
     "last_verified": "3.4.123.4152"
   },
   {
-    "card": "Choice of Damnations",
-    "description": "Choice of Damnations lets opponent choose whether to sacrifice or lose life",
-    "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:55:02",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/724",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Last Rites",
     "description": "Last Rites has graphical bug",
     "category": "Graphical",
@@ -3107,20 +3079,6 @@
     "support_thread": null,
     "help_wanted": true,
     "last_verified": "3.4.117.4073"
-  },
-  {
-    "card": "Gauntlets of Chaos",
-    "description": "Gauntlets of Chaos allows you to target illegal targets.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:55:09",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/686",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
   },
   {
     "card": "Drain Power",
