@@ -1,5 +1,18 @@
 [
   {
+    "card": "Profaner of the Dead",
+    "description": "Profaner of the Dead's exploit trigger doesn't function.",
+    "category": "Disadvantageous",
+    "last_updated": "2022-01-17 23:55:39",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/997",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Kamahl's Summons",
     "description": "Kamahl's Summons doesn't allow you to reselect a card to reveal if you deselect it",
     "category": "Disadvantageous",
