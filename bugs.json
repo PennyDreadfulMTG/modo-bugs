@@ -2353,15 +2353,14 @@
     "card": "Krark's Thumb",
     "description": "Krark's Thumb prints all coin flips of its owner three times",
     "category": "Graphical",
-    "last_updated": "2021-10-03 00:02:24",
+    "last_updated": "2022-01-20 20:39:07",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/816",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.123.4147"
+    "last_verified": "3.4.124.4165"
   },
   {
     "card": "Rayami, First of the Fallen",
