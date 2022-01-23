@@ -2885,15 +2885,14 @@
     "card": "Pia's Revolution",
     "description": "Pia's Revolution creates an incorrect prompt while also being nonfunctional.",
     "category": "Disadvantageous",
-    "last_updated": "2021-08-28 10:06:17",
+    "last_updated": "2022-01-23 17:52:58",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/751",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.122.4137"
+    "last_verified": "3.4.124.4165"
   },
   {
     "card": "Grave Betrayal",
