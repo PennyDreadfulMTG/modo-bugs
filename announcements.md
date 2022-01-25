@@ -1,6 +1,6 @@
 ---
-title: Magic Online Announcements, January 18, 2022
+title: Magic Online Announcements, January 25, 2022
 redirect_to:
- - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-january-18-2022
+ - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-january-25-2022
 has_build_notes: False
 ---
