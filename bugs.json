@@ -2159,15 +2159,14 @@
     "card": "Phyrexian Portal",
     "description": "Phyrexian Portal's prompt message is ambiguous whether it's the pile to be exiled or to be searched for, and the rest of the searched pile is put on the bottom instead of being shuffled back in",
     "category": "Disadvantageous",
-    "last_updated": "2020-07-12 05:46:03",
+    "last_updated": "2022-02-02 21:17:53",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/851",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.124.4166"
   },
   {
     "card": "Szadek, Lord of Secrets",
