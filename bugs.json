@@ -1,5 +1,18 @@
 [
   {
+    "card": "Narset, Enlightened Master",
+    "description": "Narset, Enlightened Master's ability allows you to cast creature spells.",
+    "category": "Advantageous",
+    "last_updated": "2022-02-03 18:55:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1001",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Chancellor of the Forge",
     "description": "Simultaneous Chancellor of the Forge triggers can cause the game to restart.",
     "category": "Game Breaking",
