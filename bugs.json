@@ -3278,15 +3278,14 @@
   {
     "card": "The Great Aurora",
     "description": "The Great Aurora shuffles tokens into your library that you can then draw.",
-    "category": "Unclassified",
-    "last_updated": "2021-01-08 05:01:45",
+    "category": "Advantageous",
+    "last_updated": "2022-02-03 03:06:12",
     "pd_legal": false,
-    "bug_blog": true,
+    "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/655",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": "3.4.118.4088"
   },
   {
