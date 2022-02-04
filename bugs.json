@@ -2,8 +2,8 @@
   {
     "card": "Opposition Agent",
     "description": "Opposition Agent has no effect on Conflux",
-    "category": "Non-Functional ability",
-    "last_updated": "2022-02-04 17:55:41",
+    "category": "Disadvantageous",
+    "last_updated": "2022-02-04 21:00:42",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -15,8 +15,8 @@
   {
     "card": "Conflux",
     "description": "Opposition Agent has no effect on Conflux",
-    "category": "Non-Functional ability",
-    "last_updated": "2022-02-04 17:55:41",
+    "category": "Disadvantageous",
+    "last_updated": "2022-02-04 21:00:42",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
