@@ -1,5 +1,31 @@
 [
   {
+    "card": "Opposition Agent",
+    "description": "Opposition Agent has no effect on Conflux",
+    "category": "Non-Functional ability",
+    "last_updated": "2022-02-04 17:55:41",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1002",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
+    "card": "Conflux",
+    "description": "Opposition Agent has no effect on Conflux",
+    "category": "Non-Functional ability",
+    "last_updated": "2022-02-04 17:55:41",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1002",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Narset, Enlightened Master",
     "description": "Narset, Enlightened Master's ability allows you to cast creature spells.",
     "category": "Advantageous",
