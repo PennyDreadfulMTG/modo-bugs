@@ -2811,20 +2811,6 @@
     "last_verified": null
   },
   {
-    "card": "City of Traitors",
-    "description": "Opponents playing lands owned by the controller of City of Traitors will incorrectly trigger it.",
-    "category": "Unclassified",
-    "last_updated": "2019-08-08 19:55:06",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/782",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Scheming Symmetry",
     "description": "Players do not have to select a card when Scheming Symmetry is cast, but they will still shuffle their library.",
     "category": "Unclassified",
@@ -2848,20 +2834,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/770",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Zoetic Cavern",
-    "description": "City of Traitors triggers by casting Zoetic Cavern as a Morph creature",
-    "category": "Disadvantageous",
-    "last_updated": "2020-06-11 11:54:56",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/769",
     "support_thread": null,
     "help_wanted": true,
     "last_verified": null
