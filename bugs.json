@@ -1877,14 +1877,13 @@
     "card": "Auspicious Starrix",
     "description": "Auspicious Starrix can exile cards permanently.",
     "category": "Disadvantageous",
-    "last_updated": "2021-05-19 00:06:49",
+    "last_updated": "2022-02-08 00:40:11",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/894",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": null
   },
   {
