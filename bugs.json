@@ -1,5 +1,31 @@
 [
   {
+    "card": "Vivien's Grizzly",
+    "description": "If you don't put the card into your hand with Vivien's Grizzlies, the card dissapears.",
+    "category": "Disadvantageous",
+    "last_updated": "2022-02-08 04:55:49",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1004",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
+    "card": "Reyhan, Last of the Abzan",
+    "description": "When Reyhan dies, it puts zero +1/+1 counters on target creature",
+    "category": "Unconfirmed",
+    "last_updated": "2022-02-08 04:55:51",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1003",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Opposition Agent",
     "description": "Opposition Agent has no effect on Conflux",
     "category": "Disadvantageous",
@@ -1871,19 +1897,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/896",
     "support_thread": null,
     "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Auspicious Starrix",
-    "description": "Auspicious Starrix can exile cards permanently.",
-    "category": "Disadvantageous",
-    "last_updated": "2022-02-08 00:40:11",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/894",
-    "support_thread": null,
     "last_verified": null
   },
   {
