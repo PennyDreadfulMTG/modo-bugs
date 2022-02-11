@@ -1,5 +1,31 @@
 [
   {
+    "card": "Nylea, Keen-Eyed",
+    "description": "Nylea, Keen-Eyed mills all non-creatures it reveals and does not put creatures it reveals into your hand",
+    "category": "Disadvantageous",
+    "last_updated": "2022-02-11 07:55:41",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1006",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
+    "card": "Containment Construct",
+    "description": "Containment construct's ability that allows you to cast exiled cards does not function",
+    "category": "Non-Functional ability",
+    "last_updated": "2022-02-11 07:55:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1005",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Vivien's Grizzly",
     "description": "If you don't put the card into your hand with Vivien's Grizzlies, the card dissapears.",
     "category": "Disadvantageous",
@@ -295,19 +321,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/982",
-    "support_thread": null,
-    "last_verified": null
-  },
-  {
-    "card": "Nylea, Keen-Eyed",
-    "description": "Nylea, Keen-Eyed doesn't put revealed card into hand",
-    "category": "Disadvantageous",
-    "last_updated": "2021-12-14 20:50:23",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/981",
     "support_thread": null,
     "last_verified": null
   },
