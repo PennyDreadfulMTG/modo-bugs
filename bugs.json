@@ -13,19 +13,6 @@
     "last_verified": null
   },
   {
-    "card": "Containment Construct",
-    "description": "Containment construct's ability that allows you to cast exiled cards does not function",
-    "category": "Non-Functional ability",
-    "last_updated": "2022-02-11 07:55:43",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1005",
-    "support_thread": null,
-    "last_verified": null
-  },
-  {
     "card": "Vivien's Grizzly",
     "description": "If you don't put the card into your hand with Vivien's Grizzlies, the card dissapears.",
     "category": "Disadvantageous",
