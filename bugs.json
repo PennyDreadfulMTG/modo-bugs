@@ -1,5 +1,31 @@
 [
   {
+    "card": "Tinder Wall",
+    "description": "Tinder Wall allows you to sacrifice it to pay for it's own effect",
+    "category": "Advantageous",
+    "last_updated": "2022-02-19 04:55:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1009",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
+    "card": "Sphinx Ambassador",
+    "description": "Sphinx Ambassador only lets you choose from avatar cards and cards from Oath of the Gatewatch",
+    "category": "Advantageous",
+    "last_updated": "2022-02-19 04:55:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1008",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Nylea, Keen-Eyed",
     "description": "Nylea, Keen-Eyed mills all non-creatures it reveals and does not put creatures it reveals into your hand",
     "category": "Disadvantageous",
@@ -270,6 +296,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/984",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
