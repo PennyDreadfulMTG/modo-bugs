@@ -535,6 +535,20 @@
     "last_verified": null
   },
   {
+    "card": "Commander's Plate",
+    "description": "Commander's Plate gives protection from all colors outside of Commander.",
+    "category": "Advantageous",
+    "last_updated": "2021-11-13 21:56:00",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/973",
+    "support_thread": null,
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
     "card": "Forbidden Ritual",
     "description": "Forbidden RItual only allows you to do the first option: if you choose not to do the first effect, you do the effect you chose, and then have to choose again",
     "category": "Advantageous",
