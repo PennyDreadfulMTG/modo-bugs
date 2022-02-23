@@ -1650,43 +1650,40 @@
     "card": "Student of Warfare",
     "description": "If a level-up card would gain an ability that it would through leveling, it won't show it has gained that ability.",
     "category": "Graphical",
-    "last_updated": "2021-09-07 13:48:55",
+    "last_updated": "2022-02-23 20:53:12",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/909",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.122.4137"
+    "last_verified": "3.4.125.4171"
   },
   {
     "card": "Caravan Escort",
     "description": "If a level-up card would gain an ability that it would through leveling, it won't show it has gained that ability.",
     "category": "Graphical",
-    "last_updated": "2021-09-07 13:48:55",
+    "last_updated": "2022-02-23 20:53:12",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/909",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.122.4137"
+    "last_verified": "3.4.125.4171"
   },
   {
     "card": "Coralhelm Commander",
     "description": "If a level-up card would gain an ability that it would through leveling, it won't show it has gained that ability.",
     "category": "Graphical",
-    "last_updated": "2021-09-07 13:48:55",
+    "last_updated": "2022-02-23 20:53:12",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/909",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.122.4137"
+    "last_verified": "3.4.125.4171"
   },
   {
     "card": "Grafdigger's Cage",
