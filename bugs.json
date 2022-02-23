@@ -169,6 +169,19 @@
     "last_verified": null
   },
   {
+    "card": "Glimpse of Tomorrow",
+    "description": "Glimpse of tomorrow doesn't reveal nonpermanent cards.",
+    "category": "Unconfirmed",
+    "last_updated": "2022-02-23 01:28:37",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/994",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Warbreak Trumpeter",
     "description": "Warbreak Trumpeter's unmorph ability doesn't create tokens.",
     "category": "Disadvantageous",
