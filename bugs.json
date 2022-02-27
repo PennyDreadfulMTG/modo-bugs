@@ -662,15 +662,14 @@
     "card": "Gallia of the Endless Dance",
     "description": "Gallia of the Endless Dance draws two cards when you trigger it's ability when empty-handed",
     "category": "Advantageous",
-    "last_updated": "2021-10-27 18:18:25",
+    "last_updated": "2022-02-27 19:22:05",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/965",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.125.4171"
   },
   {
     "card": "Diabolic Servitude",
