@@ -1,9 +1,9 @@
 [
   {
     "card": "Ad Nauseam",
-    "description": "While at -3 life or less, ad nauseam doesnt make you lose life equal to the mana value of the revealed card unless that card's mana value is 1.",
+    "description": "While at -3 life or less, Ad Nauseam does not make you lose life equal to the mana value of the revealed card unless that card's mana value is 1.",
     "category": "Advantageous",
-    "last_updated": "2022-02-27 12:55:39",
+    "last_updated": "2022-02-27 13:15:29",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
