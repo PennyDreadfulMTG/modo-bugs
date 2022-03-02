@@ -649,15 +649,14 @@
     "card": "Sacred Ground",
     "description": "Sacred Ground triggers regardless of if the opponent causes the lands to enter the graveyard.",
     "category": "Advantageous",
-    "last_updated": "2021-10-27 18:12:24",
+    "last_updated": "2022-03-02 10:56:44",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/966",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.125.4171"
   },
   {
     "card": "Gallia of the Endless Dance",
