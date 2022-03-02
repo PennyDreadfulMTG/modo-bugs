@@ -3394,14 +3394,13 @@
     "card": "Gideon Jura",
     "description": "Certain effect shields, such as the indestructible one created by Gideon Jura, sometimes display slightly longer than they should.",
     "category": "Unclassified",
-    "last_updated": "2020-10-05 08:19:54",
+    "last_updated": "2022-03-02 17:45:09",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/636",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": null
   },
   {
