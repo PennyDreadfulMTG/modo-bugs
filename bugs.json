@@ -1,5 +1,18 @@
 [
   {
+    "card": "Akiri, Fearless Voyager",
+    "description": "Akiri, Fearless Voyager triggers when it attacks with no attached equipment",
+    "category": "Advantageous",
+    "last_updated": "2022-03-03 06:55:46",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1014",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Ad Nauseam",
     "description": "While at -3 life or less, Ad Nauseam does not make you lose life equal to the mana value of the revealed card unless that card's mana value is 1.",
     "category": "Advantageous",
