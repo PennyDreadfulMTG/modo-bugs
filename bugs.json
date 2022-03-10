@@ -524,6 +524,20 @@
     "last_verified": null
   },
   {
+    "card": "Soulflayer",
+    "description": "Soulflayer doesn't show that it has gained variations of abilities, such as \"Hexproof from Black\".",
+    "category": "Graphical",
+    "last_updated": "2021-11-30 14:55:43",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/978",
+    "support_thread": null,
+    "help_wanted": true,
+    "last_verified": null
+  },
+  {
     "card": "Channel",
     "description": "Casting or copying Channel on your opponent's turn lets you use the emblem on your next turn.",
     "category": "Advantageous",
