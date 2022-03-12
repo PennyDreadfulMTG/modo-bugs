@@ -747,15 +747,14 @@
     "card": "Dire-Strain Rampage",
     "description": "Targeting an indestructible land with Dire-Strain Rampage allows the controller of the land to search for two lands.",
     "category": "Advantageous",
-    "last_updated": "2021-10-27 05:56:10",
+    "last_updated": "2022-03-12 01:58:11",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/958",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.125.4174"
   },
   {
     "card": "Snapcaster Mage",
