@@ -91,6 +91,19 @@
     "last_verified": null
   },
   {
+    "card": "Reyhan, Last of the Abzan",
+    "description": "When Reyhan dies, it puts zero +1/+1 counters on target creature",
+    "category": "Disadvantageous",
+    "last_updated": "2022-03-12 05:57:51",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1003",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Opposition Agent",
     "description": "Opposition Agent has no effect on Conflux",
     "category": "Disadvantageous",
@@ -197,8 +210,8 @@
   {
     "card": "Glimpse of Tomorrow",
     "description": "Glimpse of tomorrow doesn't reveal nonpermanent cards.",
-    "category": "Unconfirmed",
-    "last_updated": "2022-02-23 01:28:37",
+    "category": "Advantageous",
+    "last_updated": "2022-03-12 05:58:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
