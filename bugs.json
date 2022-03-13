@@ -2015,15 +2015,14 @@
     "card": "Astral Drift",
     "description": "Astral Drift doesn't trigger when cycled",
     "category": "Disadvantageous",
-    "last_updated": "2021-11-20 14:45:38",
+    "last_updated": "2022-03-13 02:41:00",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/887",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.124.4157"
+    "last_verified": "3.4.125.4174"
   },
   {
     "card": "Infernal Darkness",
