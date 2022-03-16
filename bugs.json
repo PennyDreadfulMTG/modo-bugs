@@ -891,15 +891,14 @@
     "card": "Yidaro, Wandering Monster",
     "description": "Yidaro, Wandering Monster's reanimation ability does not function",
     "category": "Disadvantageous",
-    "last_updated": "2021-12-08 10:26:37",
+    "last_updated": "2022-03-16 18:57:44",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/948",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.124.4160"
+    "last_verified": "3.4.125.4175"
   },
   {
     "card": "Deathmist Raptor",
