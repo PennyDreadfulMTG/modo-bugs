@@ -1,5 +1,18 @@
 [
   {
+    "card": "The First Eruption",
+    "description": "The First Eruption Chapter III is Treated as a \"may\" ability but it is mandatory",
+    "category": "Advantageous",
+    "last_updated": "2022-03-28 03:55:49",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1018",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Hateful Eidolon",
     "description": "Bestowed creatures dont trigger Hateful Eidolon",
     "category": "Disadvantageous",
@@ -1122,6 +1135,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/936",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": "3.4.124.4165"
   },
   {
@@ -2237,6 +2251,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/859",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": "3.4.124.4165"
   },
   {
@@ -2333,6 +2348,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/844",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": "3.4.121.4123"
   },
   {
@@ -2612,6 +2628,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2625,6 +2642,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2638,6 +2656,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2651,6 +2670,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2664,6 +2684,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2677,6 +2698,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2690,6 +2712,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2703,6 +2726,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2716,6 +2740,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2729,6 +2754,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -3008,6 +3034,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/751",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": "3.4.124.4165"
   },
   {
