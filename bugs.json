@@ -1156,71 +1156,66 @@
     "card": "Exhume",
     "description": "Exhume doesn't allow you to pick targets for Clones.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2021-07-23 01:54:45",
+    "last_updated": "2022-03-29 01:50:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/933",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.125.4176"
   },
   {
     "card": "Clone",
     "description": "Exhume doesn't allow you to pick targets for Clones.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2021-07-23 01:54:45",
+    "last_updated": "2022-03-29 01:50:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/933",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.125.4176"
   },
   {
     "card": "Phyrexian Metamorph",
     "description": "Exhume doesn't allow you to pick targets for Clones.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2021-07-23 01:54:45",
+    "last_updated": "2022-03-29 01:50:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/933",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.125.4176"
   },
   {
     "card": "Vizier of Many Faces",
     "description": "Exhume doesn't allow you to pick targets for Clones.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2021-07-23 01:54:45",
+    "last_updated": "2022-03-29 01:50:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/933",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.125.4176"
   },
   {
     "card": "Vesuvan Shapeshifter",
     "description": "Exhume doesn't allow you to pick targets for Clones.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2021-07-23 01:54:45",
+    "last_updated": "2022-03-29 01:50:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/933",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.125.4176"
   },
   {
     "card": "Second Sunrise",
@@ -3279,29 +3274,27 @@
     "card": "Drain Power",
     "description": "Drain Power does not function correctly when the targeted player controls City of Brass.",
     "category": "Unclassified",
-    "last_updated": "2021-06-12 19:41:32",
+    "last_updated": "2022-03-29 01:49:59",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/685",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.125.4176"
   },
   {
     "card": "City of Brass",
     "description": "Drain Power does not function correctly when the targeted player controls City of Brass.",
     "category": "Unclassified",
-    "last_updated": "2021-06-12 19:41:32",
+    "last_updated": "2022-03-29 01:49:59",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/685",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.125.4176"
   },
   {
     "card": "Brothers Yamazaki",
