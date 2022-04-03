@@ -1,5 +1,18 @@
 [
   {
+    "card": "Archfiend of Depravity",
+    "description": "Archfiend of Depravity causes the game to restart when it's trigger resolves",
+    "category": "Game Breaking",
+    "last_updated": "2022-04-03 20:55:40",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1020",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Toxic Deluge",
     "description": "Bloodbraid Elf cascading into toxic deluge restarts the game",
     "category": "Avoidable Game Breaking",
