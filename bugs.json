@@ -1432,14 +1432,13 @@
     "card": "Knowledge Pool",
     "description": "Knowledge Pool doesn't let you cast spells exiled under it unless you have an untapped mana source.",
     "category": "Advantageous",
-    "last_updated": "2021-06-03 01:54:44",
+    "last_updated": "2022-04-10 21:02:35",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/922",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": null
   },
   {
