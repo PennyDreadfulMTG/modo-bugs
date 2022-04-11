@@ -3830,7 +3830,7 @@
     "card": "Skullbriar, the Walking Grave",
     "description": "Skullbriar, the Walking Grave can cause the client to crash if it moves to the command zone with +1/+1 counters.",
     "category": "Game Breaking",
-    "last_updated": "2022-04-04 23:16:26",
+    "last_updated": "2022-04-11 21:31:59",
     "pd_legal": false,
     "bug_blog": true,
     "breaking": true,
