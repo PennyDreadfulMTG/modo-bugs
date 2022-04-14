@@ -757,15 +757,14 @@
     "card": "Adeline, Resplendent Cathar",
     "description": "When Adeline, Resplendent Cathar's ability creates tokens, those tokens can't enter attacking a planeswalker",
     "category": "Disadvantageous",
-    "last_updated": "2021-10-27 18:55:59",
+    "last_updated": "2022-04-14 15:59:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/967",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.125.4181"
   },
   {
     "card": "Sacred Ground",
