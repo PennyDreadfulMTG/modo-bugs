@@ -127,6 +127,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1010",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -154,6 +155,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1008",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -459,6 +461,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/983",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": "3.4.125.4170"
   },
   {
@@ -472,6 +475,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/983",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": "3.4.125.4170"
   },
   {
@@ -1818,6 +1822,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/909",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": "3.4.125.4171"
   },
   {
@@ -1831,6 +1836,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/909",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": "3.4.125.4171"
   },
   {
@@ -1844,6 +1850,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/909",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": "3.4.125.4171"
   },
   {
@@ -2284,16 +2291,16 @@
   },
   {
     "card": "Watcher for Tomorrow",
-    "description": "Watcher for Tomorrow's reminder text in the game log implies it is a land (Hideaway ability)",
+    "description": "Watcher for Tomorrow's reminder text in the game log says \"This land\" (Hideaway ability)",
     "category": "Graphical",
-    "last_updated": "2022-04-05 17:03:32",
+    "last_updated": "2022-04-26 05:16:43",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/859",
     "support_thread": null,
-    "last_verified": "3.4.125.4178"
+    "last_verified": "3.4.125.4181"
   },
   {
     "card": "Omen Machine",
@@ -4374,15 +4381,14 @@
     "card": "Buried Alive",
     "description": "The order of cards put into the graveyard by Buried Alive is random",
     "category": "Disadvantageous",
-    "last_updated": "2020-10-22 14:09:12",
+    "last_updated": "2022-04-22 18:18:34",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/313",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.117.4077"
+    "last_verified": "3.4.125.4181"
   },
   {
     "card": "Rogue Skycaptain",
