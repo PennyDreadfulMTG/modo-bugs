@@ -4495,15 +4495,14 @@
     "card": "Fire Covenant",
     "description": "If Fire Covenant is cast for x=0 and you pay the 1 extra mana that MTGO asks you to (which is the bug), the game will restarts. Workaround: Undo the process if you encounter this bug, and never cast it for x=0",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2021-02-26 15:50:07",
+    "last_updated": "2022-05-03 15:10:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/305",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.114.4046"
+    "last_verified": "3.4.126.4187"
   },
   {
     "card": "Glamerdye",
