@@ -1,5 +1,18 @@
 [
   {
+    "card": "Gallia of the Endless Dance",
+    "description": "Gallia of the Endless Dance will never draw cards if you use the ability",
+    "category": "Disadvantageous",
+    "last_updated": "2022-05-08 06:55:39",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1024",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Chill Haunting",
     "description": "Cards that require an additional cost involving X can't be cast without paying its mana cost",
     "category": "Disadvantageous",
@@ -1034,7 +1047,7 @@
     "card": "Gallia of the Endless Dance",
     "description": "Gallia of the Endless Dance draws two cards when you trigger it's ability when empty-handed",
     "category": "Advantageous",
-    "last_updated": "2022-05-06 06:55:48",
+    "last_updated": "2022-05-08 06:34:51",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
