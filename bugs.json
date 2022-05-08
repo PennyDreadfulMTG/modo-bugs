@@ -1288,19 +1288,6 @@
     "last_verified": null
   },
   {
-    "card": "Fiery Justice",
-    "description": "Fiery Justice doesn't give the opponent life",
-    "category": "Advantageous",
-    "last_updated": "2022-05-06 06:55:53",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/943",
-    "support_thread": null,
-    "last_verified": "3.4.123.4152"
-  },
-  {
     "card": "Siphon Insight",
     "description": "Siphon Insight makes the targeted player skip their next draw step",
     "category": "Advantageous",
