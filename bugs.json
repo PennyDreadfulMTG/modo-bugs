@@ -392,19 +392,6 @@
     "last_verified": null
   },
   {
-    "card": "Sphinx Ambassador",
-    "description": "Sphinx Ambassador only lets you choose from avatar cards and cards from Oath of the Gatewatch",
-    "category": "Advantageous",
-    "last_updated": "2022-05-06 06:55:38",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1008",
-    "support_thread": null,
-    "last_verified": null
-  },
-  {
     "card": "Nylea, Keen-Eyed",
     "description": "Nylea, Keen-Eyed mills all non-creatures it reveals and does not put creatures it reveals into your hand",
     "category": "Disadvantageous",
