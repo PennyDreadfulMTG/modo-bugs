@@ -3,7 +3,7 @@
     "card": "Terrarion",
     "description": "Terrarion can be sacrificed as part of the cost of the spell, but if the spell is undone before casting, terrarion will no longer provide a card when it goes to the graveyard.",
     "category": "Disadvantageous",
-    "last_updated": "2022-05-20 14:55:40",
+    "last_updated": "2022-05-20 15:22:06",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
