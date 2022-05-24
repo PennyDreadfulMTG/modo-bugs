@@ -2481,19 +2481,6 @@
     "last_verified": "3.4.123.4152"
   },
   {
-    "card": "Vengeful Pharaoh",
-    "description": "Vengeful Pharaoh mistakes opponents for you and you for opponents",
-    "category": "Disadvantageous",
-    "last_updated": "2022-05-06 06:56:13",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/844",
-    "support_thread": null,
-    "last_verified": "3.4.121.4123"
-  },
-  {
     "card": "Chainer, Nightmare Adept",
     "description": "Chainer, Nightmare Adept can't cast cards using its ability during opponents turn when Vedalken Orrery is also in play.",
     "category": "Disadvantageous",
