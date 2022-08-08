@@ -1,5 +1,18 @@
 [
   {
+    "card": "Choice of Damnations",
+    "description": "Choice of Damnation allows the opponent to choose whether to sacrifice or lose life, except they cant choose to sacrifice.",
+    "category": "Non-Functional ability",
+    "last_updated": "2022-08-08 12:54:55",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1038",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Rite of the Serpent",
     "description": "Casting Rite of the Serpent restarts the game",
     "category": "Game Breaking",
