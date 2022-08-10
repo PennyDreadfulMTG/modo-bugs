@@ -1323,14 +1323,13 @@
     "card": "Yidaro, Wandering Monster",
     "description": "Yidaro, Wandering Monster's reanimation ability does not function",
     "category": "Disadvantageous",
-    "last_updated": "2022-05-06 06:55:51",
+    "last_updated": "2022-08-10 13:33:58",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/948",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": "3.4.126.4187"
   },
   {
