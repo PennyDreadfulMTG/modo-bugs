@@ -1,10 +1,23 @@
 [
   {
-    "card": "Card Name",
+    "card": "Monster Manual",
+    "description": "Monster Manual doesn't let you cast the adventure",
+    "category": "Disadvantageous",
+    "last_updated": "2022-08-11 07:54:57",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1040",
+    "support_thread": "https://feedback.wizards.com/forums/926092-mtgo-issues/suggestions/45411052-monster-manual-does-not-allow-casting-zoological-s",
+    "last_verified": null
+  },
+  {
+    "card": "Linessa, Zephyr Mage",
     "description": "Linessa, Zephyr Mage allows Opp to choose the same card for artifact and creature.",
     "category": "Disadvantageous",
-    "last_updated": "2022-08-11 03:54:55",
-    "pd_legal": false,
+    "last_updated": "2022-08-11 07:54:59",
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
