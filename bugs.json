@@ -1,5 +1,18 @@
 [
   {
+    "card": "Card Name",
+    "description": "Linessa, Zephyr Mage allows Opp to choose the same card for artifact and creature.",
+    "category": "Disadvantageous",
+    "last_updated": "2022-08-11 03:54:55",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1039",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Choice of Damnations",
     "description": "Choice of Damnation allows the opponent to choose whether to sacrifice or lose life, except they cant choose to sacrifice.",
     "category": "Non-Functional ability",
