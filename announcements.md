@@ -1,6 +1,6 @@
 ---
-title: Magic Online Announcements, August 9, 2022
+title: Magic Online Announcements, August 16, 2022
 redirect_to:
- - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-august-9-2022
+ - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-august-16-2022
 has_build_notes: False
 ---
