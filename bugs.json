@@ -1457,19 +1457,6 @@
     "last_verified": null
   },
   {
-    "card": "Runed Halo",
-    "description": "Runed Halo do not prevent damage from tokens with the same name as card named with it",
-    "category": "Disadvantageous",
-    "last_updated": "2022-08-25 03:07:31",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/938",
-    "support_thread": null,
-    "last_verified": null
-  },
-  {
     "card": "Anointed Procession",
     "description": "Some cards with replacement effects can replace card draw when a card with Dredge is in the graveyard with various consequences",
     "category": "Avoidable Game Breaking",
@@ -2538,15 +2525,14 @@
     "card": "Ethersworn Canonist",
     "description": "Ethersworn Canonist does not prevent morphs from being cast",
     "category": "Advantageous",
-    "last_updated": "2022-05-06 06:56:06",
+    "last_updated": "2022-08-25 23:17:17",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/874",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.128.4200"
   },
   {
     "card": "Moonring Mirror",
@@ -3205,20 +3191,6 @@
     "last_verified": null
   },
   {
-    "card": "Wilderness Reclamation",
-    "description": "If No Possible Play: Yield All is set (F8) when an ability untaps all lands a player controls such as Wilderness Reclamation, one of the lands may be visually tapped, however, it can still be tapped.",
-    "category": "Unclassified",
-    "last_updated": "2020-06-11 11:54:53",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/792",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.112.4019"
-  },
-  {
     "card": "Daretti, Ingenious Iconoclast",
     "description": "Daretti, Ingenious Iconoclast creates tokens with the wrong card image",
     "category": "Graphical",
@@ -3306,15 +3278,14 @@
     "card": "Enduring Renewal",
     "description": "Enduring Renewal prevents losing to decking",
     "category": "Advantageous",
-    "last_updated": "2020-04-11 16:54:50",
+    "last_updated": "2022-08-25 23:28:33",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/770",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.128.4200"
   },
   {
     "card": "Mystic Forge",
@@ -3343,20 +3314,6 @@
     "support_thread": null,
     "help_wanted": true,
     "last_verified": null
-  },
-  {
-    "card": "Chromatic Sphere",
-    "description": "Chromatic Sphere's ability is not considered as mana ability",
-    "category": "Disadvantageous",
-    "last_updated": "2020-08-15 22:38:08",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/760",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.112.4019"
   },
   {
     "card": "Ulamog's Despoiler",
@@ -5532,20 +5489,6 @@
     "support_thread": null,
     "help_wanted": true,
     "last_verified": "3.4.114.4050"
-  },
-  {
-    "card": "Nebuchadnezzar",
-    "description": "Nebuchadnezzar ability makes the game start endlessly repeating itself",
-    "category": "Game Breaking",
-    "last_updated": "2020-04-11 16:55:48",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/39",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
   },
   {
     "card": "Whims of the Fates",
