@@ -523,20 +523,6 @@
     "last_verified": null
   },
   {
-    "card": "Ad Nauseam",
-    "description": "While at -3 life or less, Ad Nauseam does not make you lose life equal to the mana value of the revealed card unless that card's mana value is 1.",
-    "category": "Advantageous",
-    "last_updated": "2022-05-06 06:55:38",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1011",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Tibalt's Trickery",
     "description": "Tibalt's Trickery allows the person casting a spell using it to cast a spell that was milled and then exiled by an effect like Dryad MIlitant",
     "category": "Advantageous",
@@ -2075,14 +2061,13 @@
     "card": "Kiora, Master of the Depths",
     "description": "Kiora, Master of the Depths incorrectly allows taking MDFCs where one side is a land, and does not count it toward the total taken",
     "category": "Advantageous",
-    "last_updated": "2021-10-19 20:10:08",
+    "last_updated": "2022-08-26 06:54:52",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/917",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": "3.4.123.4152"
   },
   {
@@ -3162,20 +3147,6 @@
     "last_verified": null
   },
   {
-    "card": "Daretti, Ingenious Iconoclast",
-    "description": "Daretti, Ingenious Iconoclast creates tokens with the wrong card image",
-    "category": "Graphical",
-    "last_updated": "2019-08-22 03:37:20",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/791",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Mist of Stagnation",
     "description": "Mist of Stagnation doesn't allow players to choose untapped permanents, will soft-lock the game if there are not enough tapped permanents in the field to fulfil the requirements, and in random cases requires less number of tapped permanents than what should normally be required",
     "category": "Game Breaking",
@@ -3765,14 +3736,13 @@
     "card": "Crackling Drake",
     "description": "Creatures with variable power and toughness such as Crackling Drake are not correctly updated in the reveal zone.",
     "category": "Graphical",
-    "last_updated": "2022-05-06 06:56:31",
+    "last_updated": "2022-08-26 06:18:28",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/635",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": "3.4.117.4077"
   },
   {
@@ -4536,20 +4506,6 @@
     "support_thread": null,
     "help_wanted": true,
     "last_verified": "3.4.114.4047"
-  },
-  {
-    "card": "Pox",
-    "description": "The calculation code seems to be wrong, because one third of three (3) is calculated as two (2)",
-    "category": "Advantageous",
-    "last_updated": "2018-10-02 02:40:00",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/335",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
   },
   {
     "card": "Concerted Effort",
