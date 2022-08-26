@@ -3409,20 +3409,6 @@
     "last_verified": null
   },
   {
-    "card": "Kess, Dissident Mage",
-    "description": "Kess, Dissident Mage has issues with casting spells through alternative methods.",
-    "category": "Unclassified",
-    "last_updated": "2019-04-05 11:16:21",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/705",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Skinshifter",
     "description": "The ability context menu of Skinshifter is displayed incorrectly.",
     "category": "Graphical",
