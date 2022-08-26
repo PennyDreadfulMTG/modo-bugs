@@ -734,16 +734,28 @@
   },
   {
     "card": "Play with Fire",
-    "description": "Play with Fire lets you scry when damage is prevented",
+    "description": "Cards that have an effect when something is dealt damage by the card do the effect despite damage prevention.",
     "category": "Advantageous",
-    "last_updated": "2022-01-10 15:55:41",
+    "last_updated": "2022-08-26 08:54:53",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/992",
     "support_thread": null,
-    "help_wanted": true,
+    "last_verified": null
+  },
+  {
+    "card": "Provoke the Trolls",
+    "description": "Cards that have an effect when something is dealt damage by the card do the effect despite damage prevention.",
+    "category": "Advantageous",
+    "last_updated": "2022-08-26 08:54:53",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/992",
+    "support_thread": null,
     "last_verified": null
   },
   {
@@ -3343,16 +3355,15 @@
   },
   {
     "card": "Last Rites",
-    "description": "Last Rites has graphical bug",
+    "description": "Last Rites has graphical bug that says you can only discard nonlands.",
     "category": "Graphical",
-    "last_updated": "2021-10-18 07:05:51",
+    "last_updated": "2022-08-26 08:34:25",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/722",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": "3.4.123.4152"
   },
   {
