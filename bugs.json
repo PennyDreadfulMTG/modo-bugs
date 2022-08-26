@@ -2465,20 +2465,6 @@
     "last_verified": "3.4.123.4153"
   },
   {
-    "card": "Young Pyromancer",
-    "description": "Tokens created by Young Pyromancer have wrong text",
-    "category": "Graphical",
-    "last_updated": "2021-06-16 01:39:02",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/880",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.121.4123"
-  },
-  {
     "card": "Kunoros, Hound of Athreos",
     "description": "Kunoros, Hound of Athreos does not prevent reanimation spells that affect multiple creatures at the same time depending on graveyard order",
     "category": "Unconfirmed",
@@ -4648,20 +4634,6 @@
     "support_thread": null,
     "help_wanted": true,
     "last_verified": "3.4.114.4047"
-  },
-  {
-    "card": "Overabundance",
-    "description": "Overabundance can't add the additional colorless mana, therefore keeping players from tapping lands for colorless mana",
-    "category": "Advantageous",
-    "last_updated": "2020-06-16 11:54:47",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/310",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.114.4050"
   },
   {
     "card": "Primal Wellspring",
