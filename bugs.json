@@ -1362,15 +1362,14 @@
     "card": "Deathmist Raptor",
     "description": "Deathmist Raptor doesn't trigger when it's discarded to pay the morph cost of a creature",
     "category": "Disadvantageous",
-    "last_updated": "2021-09-30 10:54:40",
+    "last_updated": "2022-08-26 00:08:26",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/947",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.128.4200"
   },
   {
     "card": "Shaman of the Great Hunt",
@@ -1396,20 +1395,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/946",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Architects of Will",
-    "description": "Architects of Will allows the targeted player to rearrange the top of their deck, rather than the player who cast it",
-    "category": "Disadvantageous",
-    "last_updated": "2021-09-27 01:54:39",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/945",
     "support_thread": null,
     "help_wanted": true,
     "last_verified": null
