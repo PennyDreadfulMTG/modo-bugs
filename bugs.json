@@ -4010,14 +4010,13 @@
     "card": "Karn Liberated",
     "description": "If Karn Liberated restarts the game, its controller draws a card on their first turn.",
     "category": "Advantageous",
-    "last_updated": "2021-10-30 23:56:11",
+    "last_updated": "2022-08-27 09:03:06",
     "pd_legal": false,
-    "bug_blog": true,
+    "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/494",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": null
   },
   {
