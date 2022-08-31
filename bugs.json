@@ -1,9 +1,9 @@
 [
   {
     "card": "Peregrine Drake",
-    "description": "Peregrine Drake causes the game to restart when you attempt to untap the 5th land",
+    "description": "Peregrine Drake causes the game to restart when it's triggered ability resolves",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2022-08-31 21:54:54",
+    "last_updated": "2022-08-31 22:54:51",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
