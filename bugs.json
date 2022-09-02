@@ -1,5 +1,18 @@
 [
   {
+    "card": "Winds of Abandon",
+    "description": "Winds of Abandon doesn't trigger a land search",
+    "category": "Advantageous",
+    "last_updated": "2022-09-02 05:54:52",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1042",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Monster Manual",
     "description": "Monster Manual doesn't let you cast the adventure",
     "category": "Disadvantageous",
