@@ -3472,14 +3472,26 @@
     "card": "Archdemon of Unx",
     "description": "Archdemon of Unx creates incorrect token assets.",
     "category": "Graphical",
-    "last_updated": "2022-05-06 06:56:24",
+    "last_updated": "2022-09-03 21:54:51",
     "pd_legal": true,
     "bug_blog": true,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/693",
     "support_thread": null,
-    "help_wanted": true,
+    "last_verified": null
+  },
+  {
+    "card": "Necromancer's Covenant",
+    "description": "Archdemon of Unx creates incorrect token assets.",
+    "category": "Graphical",
+    "last_updated": "2022-09-03 21:54:51",
+    "pd_legal": true,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/693",
+    "support_thread": null,
     "last_verified": null
   },
   {
