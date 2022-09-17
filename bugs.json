@@ -1,5 +1,18 @@
 [
   {
+    "card": "Words of Worship",
+    "description": "Words of Worship causes the game to restart when you activate it for the draw for turn",
+    "category": "Game Breaking",
+    "last_updated": "2022-09-17 23:54:50",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1046",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Selvala, Explorer Returned",
     "description": "Selvala, Explorer Returned's ability can only be activated at instant speed",
     "category": "Disadvantageous",
@@ -4812,6 +4825,19 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/240",
     "support_thread": null,
     "last_verified": "3.4.123.4152"
+  },
+  {
+    "card": "Words of Waste",
+    "description": "Words of Waste does not function.",
+    "category": "Non-Functional ability",
+    "last_updated": "2022-09-17 23:09:14",
+    "pd_legal": false,
+    "bug_blog": true,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/228",
+    "support_thread": null,
+    "last_verified": null
   },
   {
     "card": "Wall of Roots",
