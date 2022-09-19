@@ -1,5 +1,18 @@
 [
   {
+    "card": "Consuming Tide",
+    "description": "Consuming tide returns the chosen permanents, not all others.",
+    "category": "Disadvantageous",
+    "last_updated": "2022-09-19 00:54:50",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1047",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Words of Worship",
     "description": "Words of Worship causes the game to restart when you activate it for the draw for turn",
     "category": "Game Breaking",
