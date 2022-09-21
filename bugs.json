@@ -1,5 +1,18 @@
 [
   {
+    "card": "Joraga Treespeaker",
+    "description": "Joraga Treespeaker's Level Up ability isn't stopped by phasing out",
+    "category": "Advantageous",
+    "last_updated": "2022-09-21 17:54:53",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1049",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Skull Storm",
     "description": "Skull Storm causes the game to restart when it resolves",
     "category": "Game Breaking",
