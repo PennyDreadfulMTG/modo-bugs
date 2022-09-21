@@ -1,5 +1,18 @@
 [
   {
+    "card": "Skull Storm",
+    "description": "Skull Storm causes the game to restart when it resolves",
+    "category": "Game Breaking",
+    "last_updated": "2022-09-21 01:54:53",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1048",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Consuming Tide",
     "description": "Consuming tide returns the chosen permanents, not all others.",
     "category": "Disadvantageous",
