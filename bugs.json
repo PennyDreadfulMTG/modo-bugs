@@ -4378,20 +4378,6 @@
     "last_verified": "3.4.123.4153"
   },
   {
-    "card": "Kaya, Ghost Assassin",
-    "description": "If Kaya, Ghost Assassin exiles a commander with the first ability, and its controller chooses not to replace exile with the command zone, the commander will still go to the command zone until Kaya returns it.",
-    "category": "Unconfirmed",
-    "last_updated": "2022-09-16 08:56:04",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/345",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Barren Glory",
     "description": "Barren Glory does not check intervening if clause during resolution ",
     "category": "Advantageous",
