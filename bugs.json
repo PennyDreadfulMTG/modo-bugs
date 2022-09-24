@@ -91,19 +91,6 @@
     "last_verified": null
   },
   {
-    "card": "Winds of Abandon",
-    "description": "Winds of Abandon doesn't trigger a land search",
-    "category": "Advantageous",
-    "last_updated": "2022-09-02 05:54:52",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1042",
-    "support_thread": null,
-    "last_verified": null
-  },
-  {
     "card": "Monster Manual",
     "description": "Monster Manual doesn't let you cast the adventure",
     "category": "Disadvantageous",
@@ -273,19 +260,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1025",
-    "support_thread": null,
-    "last_verified": null
-  },
-  {
-    "card": "Gallia of the Endless Dance",
-    "description": "Gallia of the Endless Dance's ability does not draw cards.",
-    "category": "Disadvantageous",
-    "last_updated": "2022-09-16 08:54:59",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1024",
     "support_thread": null,
     "last_verified": null
   },
@@ -3607,20 +3581,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/648",
     "support_thread": null,
-    "last_verified": null
-  },
-  {
-    "card": "Kalitas, Traitor of Ghet",
-    "description": "If you control Kalitas, Traitor of Ghet, you create a zombie creature token when a creature you control owned by an opponent dies.",
-    "category": "Unclassified",
-    "last_updated": "2018-11-30 02:00:11",
-    "pd_legal": false,
-    "bug_blog": true,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/643",
-    "support_thread": null,
-    "help_wanted": true,
     "last_verified": null
   },
   {
