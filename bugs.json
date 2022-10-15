@@ -1,5 +1,18 @@
 [
   {
+    "card": "Jester's scepter",
+    "description": "Jester's scepter can't counter spells with the same name as card exiled",
+    "category": "Disadvantageous",
+    "last_updated": "2022-10-15 21:54:52",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1050",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Joraga Treespeaker",
     "description": "Joraga Treespeaker's Level Up ability isn't stopped by phasing out",
     "category": "Advantageous",
