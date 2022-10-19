@@ -143,19 +143,6 @@
     "last_verified": null
   },
   {
-    "card": "Rite of the Serpent",
-    "description": "Casting Rite of the Serpent restarts the game",
-    "category": "Game Breaking",
-    "last_updated": "2022-09-16 08:54:55",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1037",
-    "support_thread": null,
-    "last_verified": null
-  },
-  {
     "card": "Intuition",
     "description": "Intuition Behaves Strangely With Adventures (choose the spell half of the adventure from the drop down to avoid)",
     "category": "Graphical",
