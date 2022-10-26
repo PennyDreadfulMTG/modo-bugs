@@ -758,7 +758,7 @@
     "card": "Glimpse of Tomorrow",
     "description": "Glimpse of tomorrow doesn't reveal nonpermanent cards.",
     "category": "Graphical",
-    "last_updated": "2022-10-26 21:38:36",
+    "last_updated": "2022-10-26 21:54:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -3858,6 +3858,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/494",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
