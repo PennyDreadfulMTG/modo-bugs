@@ -1216,15 +1216,14 @@
     "card": "Nether Traitor",
     "description": "Nether Traitor triggers when it goes to the graveyard alongside other creatures.",
     "category": "Advantageous",
-    "last_updated": "2022-09-16 08:55:10",
+    "last_updated": "2022-11-16 04:37:51",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/969",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.129.4220"
   },
   {
     "card": "Adeline, Resplendent Cathar",
