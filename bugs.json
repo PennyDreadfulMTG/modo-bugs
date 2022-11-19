@@ -2,15 +2,15 @@
   {
     "card": "Scrap Trawler",
     "description": "Scrap Trawler is blue",
-    "category": "Graphical",
-    "last_updated": "2022-11-18 04:54:44",
+    "category": "Advantageous",
+    "last_updated": "2022-11-19 03:42:08",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1051",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": "3.4.129.4220"
   },
   {
     "card": "Jester's scepter",
