@@ -8,10 +8,14 @@ assignees: ''
 ---
 
 **What is the expected behaviour of the card?**
- - 
+ -
 
 **What is the actual behaviour of the card?**
- - 
+ -
+
+**Support Forum Thread**
+<!-- If you can, please also report this to the official forums. -->
+Forum Post: https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs.21/
 
 **Screenshot**
 (Attach a screenshot or video here)
