@@ -754,13 +754,13 @@
     "card": "Narset, Enlightened Master",
     "description": "Narset, Enlightened Master's ability allows you to cast creature spells.",
     "category": "Advantageous",
-    "last_updated": "2022-11-18 04:10:53",
+    "last_updated": "2022-11-19 09:54:46",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1001",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/narset-enlightened-master-can-cast-creature-cards-with-their-effect.246/",
     "last_verified": "3.4.129.4220"
   },
   {
@@ -4948,14 +4948,13 @@
     "card": "Rosheen Meanderer",
     "description": "Rosheen Meanderer is unable to contribute mana to spells that ask an opponent to pay X, such as Condescend.",
     "category": "Disadvantageous",
-    "last_updated": "2022-09-16 08:56:14",
+    "last_updated": "2022-11-19 09:54:51",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/274",
-    "support_thread": null,
-    "help_wanted": true,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/rosheen-still-bugged.260/",
     "last_verified": "3.4.123.4152"
   },
   {
