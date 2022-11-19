@@ -28,5 +28,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/unable-to-use-mana-generated-from-jegentha-to-pay-for-colored-mana.188/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/not-able-to-cast-kayas-guile-for-the-regular-casting-cost-entwine-only.170/": {
+    "title": "Not able to cast Kaya's Guile for the regular casting cost, entwine only",
+    "url": "https://forums.mtgo.com/index.php?threads/not-able-to-cast-kayas-guile-for-the-regular-casting-cost-entwine-only.170/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
