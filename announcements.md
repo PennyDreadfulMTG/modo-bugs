@@ -1,6 +1,6 @@
 ---
-title: Magic Online Announcements, August 30, 2022
+title: Magic Online Weekly Announcements, November 15, 2022
 redirect_to:
- - http://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-august-30-2022
+ - https://www.mtgo.com/news/mtgo-blog-11152022
 has_build_notes: False
 ---
