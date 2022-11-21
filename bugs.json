@@ -657,14 +657,13 @@
     "card": "Tibalt's Trickery",
     "description": "Tibalt's Trickery allows the person casting a spell using it to cast a spell that was milled and then exiled by an effect like Dryad MIlitant",
     "category": "Advantageous",
-    "last_updated": "2022-02-24 00:06:25",
+    "last_updated": "2022-11-21 02:52:06",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1010",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": null
   },
   {
