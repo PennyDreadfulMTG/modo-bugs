@@ -75,6 +75,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1049",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -3466,7 +3467,7 @@
     "card": "Sphinx of Uthuun",
     "description": "Sphinx of Uthuun's trigger does not allow you to order the cards going into your graveyard",
     "category": "Disadvantageous",
-    "last_updated": "2022-11-21 06:54:52",
+    "last_updated": "2022-11-21 06:54:54",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -4637,7 +4638,7 @@
     "card": "Buried Alive",
     "description": "The order of cards put into the graveyard by Buried Alive is random",
     "category": "Disadvantageous",
-    "last_updated": "2022-11-21 06:54:55",
+    "last_updated": "2022-11-21 06:54:57",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
