@@ -10,7 +10,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1053",
     "support_thread": null,
-    "last_verified": "3.4.129.4220"
+    "last_verified": "3.4.130.4307"
   },
   {
     "card": "Collective Brutality",
@@ -23,7 +23,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1052",
     "support_thread": "https://forums.mtgo.com/index.php?threads/collective-cards-causing-game-error.203/",
-    "last_verified": null
+    "last_verified": "3.4.130.4307"
   },
   {
     "card": "Collective Effort",
@@ -36,7 +36,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1052",
     "support_thread": "https://forums.mtgo.com/index.php?threads/collective-cards-causing-game-error.203/",
-    "last_verified": null
+    "last_verified": "3.4.130.4307"
   },
   {
     "card": "Scrap Trawler",
@@ -49,13 +49,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1051",
     "support_thread": "https://forums.mtgo.com/index.php?threads/scrap-trawler-is-blue.175/",
-    "last_verified": "3.4.129.4220"
+    "last_verified": "3.4.130.4307"
   },
   {
-    "card": "Jester's scepter",
+    "card": "Jester's Scepter",
     "description": "Jester's scepter can't counter spells with the same name as card exiled",
     "category": "Disadvantageous",
-    "last_updated": "2022-10-15 21:54:52",
+    "last_updated": "2022-11-21 06:54:48",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -3466,14 +3466,13 @@
     "card": "Sphinx of Uthuun",
     "description": "Sphinx of Uthuun's trigger does not allow you to order the cards going into your graveyard",
     "category": "Disadvantageous",
-    "last_updated": "2022-09-16 08:55:41",
+    "last_updated": "2022-11-21 06:54:52",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/709",
-    "support_thread": null,
-    "help_wanted": true,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/let-players-choose-graveyard-order-when-discarding-multiple-cards-at-once.74",
     "last_verified": "3.4.116.4061"
   },
   {
@@ -4638,14 +4637,13 @@
     "card": "Buried Alive",
     "description": "The order of cards put into the graveyard by Buried Alive is random",
     "category": "Disadvantageous",
-    "last_updated": "2022-09-16 08:56:07",
+    "last_updated": "2022-11-21 06:54:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/313",
-    "support_thread": null,
-    "help_wanted": true,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/let-players-choose-graveyard-order-when-discarding-multiple-cards-at-once.74",
     "last_verified": "3.4.125.4181"
   },
   {
