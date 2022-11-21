@@ -1,5 +1,18 @@
 [
   {
+    "card": "Search the City",
+    "description": "Search the City's cast trigger does not trigger",
+    "category": "Non-Functional ability",
+    "last_updated": "2022-11-21 03:54:45",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1053",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Collective Brutality",
     "description": "Escalating Collective spells crashes the game",
     "category": "Avoidable Game Breaking",
