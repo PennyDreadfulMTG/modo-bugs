@@ -208,5 +208,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/ratchet-field-medics-triggered-ability-doesnt-do-anything.237/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/shadow-of-doubt-doesnt-prevent-searching-library-with-the-stone-brain-ability.276/": {
+    "title": "Shadow of Doubt doesn't prevent searching library with The Stone Brain ability",
+    "url": "https://forums.mtgo.com/index.php?threads/shadow-of-doubt-doesnt-prevent-searching-library-with-the-stone-brain-ability.276/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
