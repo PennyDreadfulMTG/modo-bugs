@@ -2767,14 +2767,13 @@
     "card": "Volrath's Shapeshifter",
     "description": "Volrath's Shapeshifter does not function as intended.",
     "category": "Disadvantageous",
-    "last_updated": "2022-09-16 08:55:33",
+    "last_updated": "2022-11-22 22:39:37",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/836",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": "3.4.123.4152"
   },
   {
