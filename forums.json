@@ -214,5 +214,23 @@
     "url": "https://forums.mtgo.com/index.php?threads/shadow-of-doubt-doesnt-prevent-searching-library-with-the-stone-brain-ability.276/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/junkyard-genius-give-itself-1-0-and-menace-and-haste.282/": {
+    "title": "Junkyard Genius give itself +1/+0 and menace and haste",
+    "url": "https://forums.mtgo.com/index.php?threads/junkyard-genius-give-itself-1-0-and-menace-and-haste.282/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/collective-brutality.256/": {
+    "title": "Collective Brutality",
+    "url": "https://forums.mtgo.com/index.php?threads/collective-brutality.256/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kayas-guile-forces-entwine-mana-cost.288/": {
+    "title": "Kaya's Guile forces \"entwine\" mana cost",
+    "url": "https://forums.mtgo.com/index.php?threads/kayas-guile-forces-entwine-mana-cost.288/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
