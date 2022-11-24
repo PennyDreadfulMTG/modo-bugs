@@ -1,5 +1,18 @@
 [
   {
+    "card": "Leonin Arbiter",
+    "description": "Leonin Arbiter behaves wierdly on Magic Online: if you want to pay 2 to search your library you must click the arbiter before you search",
+    "category": "Graphical",
+    "last_updated": "2022-11-24 05:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1054",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Search the City",
     "description": "Search the City's cast trigger does not trigger",
     "category": "Non-Functional ability",
