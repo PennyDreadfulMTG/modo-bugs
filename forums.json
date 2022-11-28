@@ -232,5 +232,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/kayas-guile-forces-entwine-mana-cost.288/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/rosheen-still-bugged.260/": {
+    "title": "Rosheen Still Bugged...",
+    "url": "https://forums.mtgo.com/index.php?threads/rosheen-still-bugged.260/",
+    "status": "In Progress",
+    "tracked": true
   }
 }
