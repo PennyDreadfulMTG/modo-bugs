@@ -32,7 +32,7 @@
   "https://forums.mtgo.com/index.php?threads/not-able-to-cast-kayas-guile-for-the-regular-casting-cost-entwine-only.170/": {
     "title": "Not able to cast Kaya's Guile for the regular casting cost, entwine only",
     "url": "https://forums.mtgo.com/index.php?threads/not-able-to-cast-kayas-guile-for-the-regular-casting-cost-entwine-only.170/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/weird-ui-hand-graphical-error.81/": {
@@ -238,5 +238,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/rosheen-still-bugged.260/",
     "status": "In Progress",
     "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/junkyard-geniuss-second-ability-affects-itself.262/": {
+    "title": "Junkyard Genius's second ability affects itself",
+    "url": "https://forums.mtgo.com/index.php?threads/junkyard-geniuss-second-ability-affects-itself.262/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/single-combat-is-bugged.311/": {
+    "title": "Single Combat is bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/single-combat-is-bugged.311/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
