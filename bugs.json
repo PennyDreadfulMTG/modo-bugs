@@ -1,9 +1,9 @@
 [
   {
     "card": "Puca's Mischief",
-    "description": "Puca's Mischief fails it's first trigger",
+    "description": "Puca's Mischief requires controlling a creature to function",
     "category": "Disadvantageous",
-    "last_updated": "2022-12-01 01:54:51",
+    "last_updated": "2022-12-01 20:54:53",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
