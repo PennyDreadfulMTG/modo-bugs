@@ -65,19 +65,6 @@
     "last_verified": "3.4.130.4307"
   },
   {
-    "card": "Scrap Trawler",
-    "description": "Scrap Trawler is blue",
-    "category": "Advantageous",
-    "last_updated": "2022-11-30 21:54:58",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1051",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/scrap-trawler-is-blue.175/",
-    "last_verified": "3.4.130.4307"
-  },
-  {
     "card": "Jester's Scepter",
     "description": "Jester's scepter can't counter spells with the same name as card exiled",
     "category": "Disadvantageous",
