@@ -250,5 +250,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/single-combat-is-bugged.311/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/alrund-god-of-the-cosmos-counts-all-cards-in-exile.337/": {
+    "title": "Alrund, God of the Cosmos counts all cards in exile",
+    "url": "https://forums.mtgo.com/index.php?threads/alrund-god-of-the-cosmos-counts-all-cards-in-exile.337/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/brothers-war-retro-command-tower-art-is-not-centered-correctly.335/": {
+    "title": "Brother's War, Retro Command Tower art is not centered correctly.",
+    "url": "https://forums.mtgo.com/index.php?threads/brothers-war-retro-command-tower-art-is-not-centered-correctly.335/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
