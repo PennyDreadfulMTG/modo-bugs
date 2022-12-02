@@ -2725,20 +2725,6 @@
     "last_verified": "3.4.128.4200"
   },
   {
-    "card": "Rayami, First of the Fallen",
-    "description": "Rayami, First of the Fallen can restart the game in certain situations when other creatures die.",
-    "category": "Unclassified",
-    "last_updated": "2019-10-10 17:55:11",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/815",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Mystical Dispute",
     "description": "Cards such as Mystical Dispute are not respected fully by the \"No possible play: Yield all\" keybinding.",
     "category": "Unclassified",
@@ -3497,20 +3483,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/663",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Gemstone Caverns",
-    "description": "There is a rare issue that can occur with Gemstone Caverns that can restart the game.",
-    "category": "Game Breaking",
-    "last_updated": "2019-09-27 08:35:36",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/657",
     "support_thread": null,
     "help_wanted": true,
     "last_verified": null
