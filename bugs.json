@@ -3130,19 +3130,6 @@
     "last_verified": null
   },
   {
-    "card": "Ugin, the Spirit Dragon",
-    "description": "Ugin, the Spirit Dragon interacts incorrectly with tokens that exile permanents.",
-    "category": "Unclassified",
-    "last_updated": "2022-11-25 07:55:47",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/783",
-    "support_thread": null,
-    "last_verified": null
-  },
-  {
     "card": "Scheming Symmetry",
     "description": "Players do not have to select a card when Scheming Symmetry is cast, but they will still shuffle their library.",
     "category": "Unclassified",
