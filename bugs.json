@@ -39,32 +39,6 @@
     "last_verified": "3.4.130.4307"
   },
   {
-    "card": "Collective Brutality",
-    "description": "Escalating Collective spells crashes the game",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2022-11-30 22:54:52",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1052",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/collective-cards-causing-game-error.203/",
-    "last_verified": "3.4.130.4307"
-  },
-  {
-    "card": "Collective Effort",
-    "description": "Escalating Collective spells crashes the game",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2022-11-30 22:54:52",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1052",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/collective-cards-causing-game-error.203/",
-    "last_verified": "3.4.130.4307"
-  },
-  {
     "card": "Jester's Scepter",
     "description": "Jester's scepter can't counter spells with the same name as card exiled",
     "category": "Disadvantageous",
@@ -4709,19 +4683,6 @@
     "support_thread": null,
     "help_wanted": true,
     "last_verified": "3.4.114.4050"
-  },
-  {
-    "card": "Rosheen Meanderer",
-    "description": "Rosheen Meanderer is unable to contribute mana to spells that ask an opponent to pay X, such as Condescend.",
-    "category": "Disadvantageous",
-    "last_updated": "2022-11-30 21:55:06",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/274",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/rosheen-still-bugged.260/",
-    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Samurai of the Pale Curtain",
