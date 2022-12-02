@@ -262,5 +262,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/brothers-war-retro-command-tower-art-is-not-centered-correctly.335/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/madness-cost-cannot-be-played.244/": {
+    "title": "Madness cost cannot be played",
+    "url": "https://forums.mtgo.com/index.php?threads/madness-cost-cannot-be-played.244/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
