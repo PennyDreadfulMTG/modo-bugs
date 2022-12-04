@@ -268,5 +268,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/madness-cost-cannot-be-played.244/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bugged-in-at-least-two-ways.330/": {
+    "title": "Volrath's Shapeshifter bugged in at least two ways",
+    "url": "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bugged-in-at-least-two-ways.330/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/skyclave-relic-tokens-do-not-untap-cant-be-untapped-with-manifold-key-either.275/": {
+    "title": "Skyclave Relic Tokens do not untap, can't be untapped with Manifold key either",
+    "url": "https://forums.mtgo.com/index.php?threads/skyclave-relic-tokens-do-not-untap-cant-be-untapped-with-manifold-key-either.275/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
