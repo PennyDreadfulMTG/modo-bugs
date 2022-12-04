@@ -14,7 +14,7 @@
   "https://forums.mtgo.com/index.php?threads/collective-cards-causing-game-error.203/": {
     "title": "\"Collective\" cards causing game error",
     "url": "https://forums.mtgo.com/index.php?threads/collective-cards-causing-game-error.203/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/demolition-field.243/": {
@@ -26,7 +26,7 @@
   "https://forums.mtgo.com/index.php?threads/unable-to-use-mana-generated-from-jegentha-to-pay-for-colored-mana.188/": {
     "title": "Unable to use mana generated from Jegentha to pay for colored mana",
     "url": "https://forums.mtgo.com/index.php?threads/unable-to-use-mana-generated-from-jegentha-to-pay-for-colored-mana.188/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/not-able-to-cast-kayas-guile-for-the-regular-casting-cost-entwine-only.170/": {
@@ -86,7 +86,7 @@
   "https://forums.mtgo.com/index.php?threads/unable-to-cancel-salvaged-manaworker-ability.103/": {
     "title": "Unable to cancel Salvaged Manaworker ability",
     "url": "https://forums.mtgo.com/index.php?threads/unable-to-cancel-salvaged-manaworker-ability.103/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/consuming-tide-is-not-working-as-it-should.99/": {
@@ -158,7 +158,7 @@
   "https://forums.mtgo.com/index.php?threads/scrap-trawler-is-blue.175/": {
     "title": "Scrap Trawler is Blue",
     "url": "https://forums.mtgo.com/index.php?threads/scrap-trawler-is-blue.175/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/myriad-tokens-enter-not-attacking.210/": {
@@ -215,24 +215,6 @@
     "status": "Confirmed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/junkyard-genius-give-itself-1-0-and-menace-and-haste.282/": {
-    "title": "Junkyard Genius give itself +1/+0 and menace and haste",
-    "url": "https://forums.mtgo.com/index.php?threads/junkyard-genius-give-itself-1-0-and-menace-and-haste.282/",
-    "status": "In Progress",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/collective-brutality.256/": {
-    "title": "Collective Brutality",
-    "url": "https://forums.mtgo.com/index.php?threads/collective-brutality.256/",
-    "status": "In Progress",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/kayas-guile-forces-entwine-mana-cost.288/": {
-    "title": "Kaya's Guile forces \"entwine\" mana cost",
-    "url": "https://forums.mtgo.com/index.php?threads/kayas-guile-forces-entwine-mana-cost.288/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/rosheen-still-bugged.260/": {
     "title": "Rosheen Still Bugged...",
     "url": "https://forums.mtgo.com/index.php?threads/rosheen-still-bugged.260/",
@@ -278,6 +260,24 @@
   "https://forums.mtgo.com/index.php?threads/skyclave-relic-tokens-do-not-untap-cant-be-untapped-with-manifold-key-either.275/": {
     "title": "Skyclave Relic Tokens do not untap, can't be untapped with Manifold key either",
     "url": "https://forums.mtgo.com/index.php?threads/skyclave-relic-tokens-do-not-untap-cant-be-untapped-with-manifold-key-either.275/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/pithing-needle-bug.177/": {
+    "title": "Pithing Needle Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/pithing-needle-bug.177/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/trinisphere-phyrexian-metamorph-bug-paying-2-life-increases-remaining-cost.313/": {
+    "title": "Trinisphere + Phyrexian Metamorph bug (paying 2 life increases remaining cost)",
+    "url": "https://forums.mtgo.com/index.php?threads/trinisphere-phyrexian-metamorph-bug-paying-2-life-increases-remaining-cost.313/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/daze-is-bugged-you-have-to-choose-no-for-two-times-to-get-countered.197/": {
+    "title": "Daze is bugged: You have to choose \"no\" for two times to get countered",
+    "url": "https://forums.mtgo.com/index.php?threads/daze-is-bugged-you-have-to-choose-no-for-two-times-to-get-countered.197/",
     "status": "Confirmed",
     "tracked": false
   }
