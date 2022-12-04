@@ -1,5 +1,18 @@
 [
   {
+    "card": "Mizzix's Mastery",
+    "description": "Mizzix's Mastery doesn't allow you to cast the exiled cards",
+    "category": "Non-Functional ability",
+    "last_updated": "2022-12-04 12:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1058",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/mizzixs-mastery-mechanic-fails.205/",
+    "last_verified": null
+  },
+  {
     "card": "Puca's Mischief",
     "description": "Puca's Mischief requires controlling a creature to function",
     "category": "Disadvantageous",
@@ -29,7 +42,7 @@
     "card": "Search the City",
     "description": "Search the City's cast trigger does not trigger",
     "category": "Non-Functional ability",
-    "last_updated": "2022-11-25 07:54:46",
+    "last_updated": "2022-12-04 12:54:48",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
