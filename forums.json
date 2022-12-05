@@ -280,5 +280,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/daze-is-bugged-you-have-to-choose-no-for-two-times-to-get-countered.197/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/totem-armor-bug.363/": {
+    "title": "Totem Armor Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/totem-armor-bug.363/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
