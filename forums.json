@@ -286,5 +286,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/totem-armor-bug.363/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sundering-titan-bug.156/": {
+    "title": "Sundering Titan bug",
+    "url": "https://forums.mtgo.com/index.php?threads/sundering-titan-bug.156/",
+    "status": "Not A Bug",
+    "tracked": false
   }
 }
