@@ -292,5 +292,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/sundering-titan-bug.156/",
     "status": "Not A Bug",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/go-for-the-throat-in-pauper.364/": {
+    "title": "Go for the Throat in Pauper",
+    "url": "https://forums.mtgo.com/index.php?threads/go-for-the-throat-in-pauper.364/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mind-bend-doesnt-let-you-choose-a-colour-but-does-let-you-choose-basic-land-types.359/": {
+    "title": "Mind Bend doesn't let you choose a colour (but does let you choose basic land types)",
+    "url": "https://forums.mtgo.com/index.php?threads/mind-bend-doesnt-let-you-choose-a-colour-but-does-let-you-choose-basic-land-types.359/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
