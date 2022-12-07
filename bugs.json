@@ -1476,14 +1476,13 @@
     "card": "Tempt with Discovery",
     "description": "Tempt with Discovery only fetches you one land",
     "category": "Disadvantageous",
-    "last_updated": "2021-11-13 22:13:36",
+    "last_updated": "2022-12-07 03:54:51",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/940",
-    "support_thread": null,
-    "help_wanted": true,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/last-opponent-refuses-bug-with-tempt-with-discovery.67/",
     "last_verified": null
   },
   {

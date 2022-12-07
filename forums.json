@@ -45,7 +45,7 @@
     "title": "\"last opponent refuses\" bug with Tempt with Discovery",
     "url": "https://forums.mtgo.com/index.php?threads/last-opponent-refuses-bug-with-tempt-with-discovery.67/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/mistmoon-griffin-not-leaving-graveyard.56/": {
     "title": "Mistmoon Griffin Not Leaving Graveyard",
