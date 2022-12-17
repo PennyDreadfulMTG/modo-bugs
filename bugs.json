@@ -4416,19 +4416,6 @@
     "last_verified": "3.4.123.4147"
   },
   {
-    "card": "Buried Alive",
-    "description": "The order of cards put into the graveyard by Buried Alive is random",
-    "category": "Disadvantageous",
-    "last_updated": "2022-12-17 06:15:05",
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/313",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/let-players-choose-graveyard-order-when-discarding-multiple-cards-at-once.74",
-    "last_verified": "3.4.125.4181"
-  },
-  {
     "card": "Rogue Skycaptain",
     "description": "Rogue Skycaptain's upkeep cost is always {2}.",
     "category": "Advantageous",
