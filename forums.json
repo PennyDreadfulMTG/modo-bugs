@@ -8,7 +8,7 @@
   "https://forums.mtgo.com/index.php?threads/deck-building-update-with-versions-in-my-collection-does-not-work-anymore.193/": {
     "title": "Deck Building: Update with versions in my collection does not work anymore",
     "url": "https://forums.mtgo.com/index.php?threads/deck-building-update-with-versions-in-my-collection-does-not-work-anymore.193/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/collective-cards-causing-game-error.203/": {
@@ -20,7 +20,7 @@
   "https://forums.mtgo.com/index.php?threads/demolition-field.243/": {
     "title": "Demolition field",
     "url": "https://forums.mtgo.com/index.php?threads/demolition-field.243/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/unable-to-use-mana-generated-from-jegentha-to-pay-for-colored-mana.188/": {
@@ -68,7 +68,7 @@
   "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/": {
     "title": "Toxic Deluge does not work correctly off the top of library with Bolas Citadel",
     "url": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/wrenn-and-six-emblem-causing-trouble.97/": {
@@ -176,7 +176,7 @@
   "https://forums.mtgo.com/index.php?threads/let-players-choose-graveyard-order-when-discarding-multiple-cards-at-once.74/": {
     "title": "Let players choose graveyard order when discarding multiple cards at once",
     "url": "https://forums.mtgo.com/index.php?threads/let-players-choose-graveyard-order-when-discarding-multiple-cards-at-once.74/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/moon-circuit-hacker-is-bugged.113/": {
@@ -242,7 +242,7 @@
   "https://forums.mtgo.com/index.php?threads/brothers-war-retro-command-tower-art-is-not-centered-correctly.335/": {
     "title": "Brother's War, Retro Command Tower art is not centered correctly.",
     "url": "https://forums.mtgo.com/index.php?threads/brothers-war-retro-command-tower-art-is-not-centered-correctly.335/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/madness-cost-cannot-be-played.244/": {
@@ -302,6 +302,96 @@
   "https://forums.mtgo.com/index.php?threads/mind-bend-doesnt-let-you-choose-a-colour-but-does-let-you-choose-basic-land-types.359/": {
     "title": "Mind Bend doesn't let you choose a colour (but does let you choose basic land types)",
     "url": "https://forums.mtgo.com/index.php?threads/mind-bend-doesnt-let-you-choose-a-colour-but-does-let-you-choose-basic-land-types.359/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/oath-of-teferi-doesnt-allow-to-use-pws-abilities-twice.216/": {
+    "title": "Oath Of Teferi Doesn't allow to use PW's abilities twice.",
+    "url": "https://forums.mtgo.com/index.php?threads/oath-of-teferi-doesnt-allow-to-use-pws-abilities-twice.216/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/fact-or-fiction-graveyard-order-bug.418/": {
+    "title": "Fact or Fiction Graveyard Order Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/fact-or-fiction-graveyard-order-bug.418/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/oath-of-druids-and-dragon-breath.401/": {
+    "title": "Oath of Druids and Dragon Breath",
+    "url": "https://forums.mtgo.com/index.php?threads/oath-of-druids-and-dragon-breath.401/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-log-broken.284/": {
+    "title": "game log broken",
+    "url": "https://forums.mtgo.com/index.php?threads/game-log-broken.284/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/opposition-agent-cant-cast-panglacial-wurm.400/": {
+    "title": "Opposition Agent can't cast Panglacial Wurm",
+    "url": "https://forums.mtgo.com/index.php?threads/opposition-agent-cant-cast-panglacial-wurm.400/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/nylea-keen-eyed-ability-bug.339/": {
+    "title": "Nylea, Keen Eyed Ability Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/nylea-keen-eyed-ability-bug.339/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/turnabout-selection-was-inversed-tap-or-untap.286/": {
+    "title": "Turnabout selection was inversed(tap or untap)",
+    "url": "https://forums.mtgo.com/index.php?threads/turnabout-selection-was-inversed-tap-or-untap.286/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/evelyn-the-covetous-and-counters.392/": {
+    "title": "Evelyn, the Covetous and counters",
+    "url": "https://forums.mtgo.com/index.php?threads/evelyn-the-covetous-and-counters.392/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kinnan-gwenna-bugged.252/": {
+    "title": "Kinnan + Gwenna bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/kinnan-gwenna-bugged.252/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/laelia-cascade-wrong-interaction.319/": {
+    "title": "Laelia + Cascade, wrong interaction",
+    "url": "https://forums.mtgo.com/index.php?threads/laelia-cascade-wrong-interaction.319/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/foul-tongue-shreik-does-not-gain-life.302/": {
+    "title": "Foul-Tongue Shreik does not gain life",
+    "url": "https://forums.mtgo.com/index.php?threads/foul-tongue-shreik-does-not-gain-life.302/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/narset-enlightened-master-can-cast-creature-cards-with-their-effect.246/": {
+    "title": "Narset, Enlightened Master can cast creature cards with their effect.",
+    "url": "https://forums.mtgo.com/index.php?threads/narset-enlightened-master-can-cast-creature-cards-with-their-effect.246/",
+    "status": "Confirmed",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/diabolic-servitude.136/": {
+    "title": "Diabolic Servitude",
+    "url": "https://forums.mtgo.com/index.php?threads/diabolic-servitude.136/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/monster-manual-does-not-allow-casting-zoological-study.135/": {
+    "title": "Monster Manual does not allow casting Zoological Study",
+    "url": "https://forums.mtgo.com/index.php?threads/monster-manual-does-not-allow-casting-zoological-study.135/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/melira-sylvok-outcast-vs-inkmoth-nexus.109/": {
+    "title": "Melira, Sylvok Outcast vs Inkmoth Nexus",
+    "url": "https://forums.mtgo.com/index.php?threads/melira-sylvok-outcast-vs-inkmoth-nexus.109/",
     "status": "Confirmed",
     "tracked": false
   }
