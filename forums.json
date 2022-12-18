@@ -394,5 +394,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/melira-sylvok-outcast-vs-inkmoth-nexus.109/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gamer-guide-button-crashes-client.427/": {
+    "title": "Gamer Guide Button Crashes Client",
+    "url": "https://forums.mtgo.com/index.php?threads/gamer-guide-button-crashes-client.427/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
