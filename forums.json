@@ -194,7 +194,7 @@
   "https://forums.mtgo.com/index.php?threads/prm-image-updates-or-display-bug.199/": {
     "title": "PRM Image Updates or Display Bug?",
     "url": "https://forums.mtgo.com/index.php?threads/prm-image-updates-or-display-bug.199/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/the-mightstone-and-weakstone-color-identity-is-wrong.241/": {
@@ -398,6 +398,42 @@
   "https://forums.mtgo.com/index.php?threads/gamer-guide-button-crashes-client.427/": {
     "title": "Gamer Guide Button Crashes Client",
     "url": "https://forums.mtgo.com/index.php?threads/gamer-guide-button-crashes-client.427/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/patches-remove-5-0-lists.405/": {
+    "title": "Patches remove 5-0 lists",
+    "url": "https://forums.mtgo.com/index.php?threads/patches-remove-5-0-lists.405/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/first-response-doesnt-work.336/": {
+    "title": "First Response doesn't work",
+    "url": "https://forums.mtgo.com/index.php?threads/first-response-doesnt-work.336/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/meld-mishra-commander-damage.416/": {
+    "title": "Meld Mishra commander damage",
+    "url": "https://forums.mtgo.com/index.php?threads/meld-mishra-commander-damage.416/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/island-sanctuary.413/": {
+    "title": "Island Sanctuary",
+    "url": "https://forums.mtgo.com/index.php?threads/island-sanctuary.413/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/myriad-doesnt-have-the-tokens-attack.391/": {
+    "title": "Myriad doesn't have the tokens attack",
+    "url": "https://forums.mtgo.com/index.php?threads/myriad-doesnt-have-the-tokens-attack.391/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/hidden-strings.390/": {
+    "title": "Hidden Strings",
+    "url": "https://forums.mtgo.com/index.php?threads/hidden-strings.390/",
     "status": "Confirmed",
     "tracked": false
   }
