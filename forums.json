@@ -436,5 +436,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/hidden-strings.390/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/help-button-on-home-scene-crashes-client.427/": {
+    "title": "Help Button on Home Scene Crashes Client",
+    "url": "https://forums.mtgo.com/index.php?threads/help-button-on-home-scene-crashes-client.427/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/hurkyl-bugged-does-not-grab-artifact-creatures.437/": {
+    "title": "Hurkyl bugged - does not grab artifact creatures",
+    "url": "https://forums.mtgo.com/index.php?threads/hurkyl-bugged-does-not-grab-artifact-creatures.437/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
