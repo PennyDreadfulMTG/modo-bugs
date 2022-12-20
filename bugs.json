@@ -187,13 +187,13 @@
     "card": "Turnabout",
     "description": "Tap/Untap is Reversed for Turnabout",
     "category": "Graphical",
-    "last_updated": "2022-11-25 07:54:52",
+    "last_updated": "2022-12-20 03:54:46",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1044",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/turnabout-selection-was-inversed-tap-or-untap.286/",
     "last_verified": null
   },
   {
