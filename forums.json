@@ -448,5 +448,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/hurkyl-bugged-does-not-grab-artifact-creatures.437/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-stuck-after-opponent-uses-bolas-citadel-wants-me-to-sac-10-permanents.430/": {
+    "title": "Game stuck after opponent uses Bolas Citadel, wants me to sac 10 permanents",
+    "url": "https://forums.mtgo.com/index.php?threads/game-stuck-after-opponent-uses-bolas-citadel-wants-me-to-sac-10-permanents.430/",
+    "status": "Could Not Reproduce",
+    "tracked": false
   }
 }
