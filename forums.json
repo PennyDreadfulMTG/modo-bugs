@@ -454,5 +454,29 @@
     "url": "https://forums.mtgo.com/index.php?threads/game-stuck-after-opponent-uses-bolas-citadel-wants-me-to-sac-10-permanents.430/",
     "status": "Could Not Reproduce",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/confounding-conundrum-w-field-of-ruin-effects.379/": {
+    "title": "Confounding Conundrum w/ Field of Ruin Effects",
+    "url": "https://forums.mtgo.com/index.php?threads/confounding-conundrum-w-field-of-ruin-effects.379/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/soul-exchange-does-not-give-2-2-counter.377/": {
+    "title": "Soul Exchange Does not Give +2/+2 Counter",
+    "url": "https://forums.mtgo.com/index.php?threads/soul-exchange-does-not-give-2-2-counter.377/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/jasmine-boreal-of-the-seven-with-vanilla-adventure-creatures.345/": {
+    "title": "Jasmine Boreal of the Seven with Vanilla Adventure Creatures",
+    "url": "https://forums.mtgo.com/index.php?threads/jasmine-boreal-of-the-seven-with-vanilla-adventure-creatures.345/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/avacyns-judgment-madness-cost-cannot-be-played.244/": {
+    "title": "Avacyn's Judgment Madness cost cannot be played",
+    "url": "https://forums.mtgo.com/index.php?threads/avacyns-judgment-madness-cost-cannot-be-played.244/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
