@@ -395,12 +395,6 @@
     "status": "Confirmed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/gamer-guide-button-crashes-client.427/": {
-    "title": "Gamer Guide Button Crashes Client",
-    "url": "https://forums.mtgo.com/index.php?threads/gamer-guide-button-crashes-client.427/",
-    "status": "Could Not Reproduce",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/patches-remove-5-0-lists.405/": {
     "title": "Patches remove 5-0 lists",
     "url": "https://forums.mtgo.com/index.php?threads/patches-remove-5-0-lists.405/",
