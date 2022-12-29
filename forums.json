@@ -434,7 +434,7 @@
   "https://forums.mtgo.com/index.php?threads/help-button-on-home-scene-crashes-client.427/": {
     "title": "Help Button on Home Scene Crashes Client",
     "url": "https://forums.mtgo.com/index.php?threads/help-button-on-home-scene-crashes-client.427/",
-    "status": "Could Not Reproduce",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/hurkyl-bugged-does-not-grab-artifact-creatures.437/": {
