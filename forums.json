@@ -472,5 +472,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/avacyns-judgment-madness-cost-cannot-be-played.244/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/changeling-does-not-give-full-party.475/": {
+    "title": "Changeling does not give full party",
+    "url": "https://forums.mtgo.com/index.php?threads/changeling-does-not-give-full-party.475/",
+    "status": "Not A Bug",
+    "tracked": false
   }
 }
