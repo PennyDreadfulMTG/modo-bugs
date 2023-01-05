@@ -478,5 +478,29 @@
     "url": "https://forums.mtgo.com/index.php?threads/changeling-does-not-give-full-party.475/",
     "status": "Not A Bug",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/aurelia-the-warleader-didnt-trigger.485/": {
+    "title": "Aurelia the warleader didn't trigger.",
+    "url": "https://forums.mtgo.com/index.php?threads/aurelia-the-warleader-didnt-trigger.485/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/zevlor-elturel-exile-activation-with-no-target-crashes-game.463/": {
+    "title": "Zevlor, Elturel Exile activation with no target crashes game",
+    "url": "https://forums.mtgo.com/index.php?threads/zevlor-elturel-exile-activation-with-no-target-crashes-game.463/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/talent-of-the-telepath-unable-to-cast-instant-sorcery.445/": {
+    "title": "Talent of the Telepath - unable to cast instant/sorcery",
+    "url": "https://forums.mtgo.com/index.php?threads/talent-of-the-telepath-unable-to-cast-instant-sorcery.445/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/veteran-solider-misses-attacking.447/": {
+    "title": "Veteran Solider misses attacking",
+    "url": "https://forums.mtgo.com/index.php?threads/veteran-solider-misses-attacking.447/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
