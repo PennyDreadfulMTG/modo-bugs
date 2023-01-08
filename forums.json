@@ -502,5 +502,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/veteran-solider-misses-attacking.447/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/did-not-receive-play-points-after-vintage-cube-draft.499/": {
+    "title": "did not receive play points after vintage cube draft",
+    "url": "https://forums.mtgo.com/index.php?threads/did-not-receive-play-points-after-vintage-cube-draft.499/",
+    "status": "Not A Bug",
+    "tracked": false
   }
 }
