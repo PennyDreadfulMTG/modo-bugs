@@ -508,5 +508,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/did-not-receive-play-points-after-vintage-cube-draft.499/",
     "status": "Not A Bug",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/painters-servant-messes-up-undercity-text.497/": {
+    "title": "Painter's Servant messes up Undercity text",
+    "url": "https://forums.mtgo.com/index.php?threads/painters-servant-messes-up-undercity-text.497/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
