@@ -1,6 +1,6 @@
 ---
-title: Magic Online Weekly Announcements, January 3, 2023
+title: Magic Online Weekly Announcements, January 10, 2023
 redirect_to:
- - https://www.mtgo.com/news/mtgo-blog-132023
-has_build_notes: False
+ - https://www.mtgo.com/news/mtgo-blog-1102023
+has_build_notes: True
 ---
