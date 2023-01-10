@@ -520,5 +520,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/cards-lost-in-collection.503/",
     "status": "Not A Bug",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/fable-of-the-mirrorbreaker-bug-second-chapter-only-discarded-cards-on-auto-yield.491/": {
+    "title": "Fable of the Mirrorbreaker bug, second chapter only discarded cards on auto yield",
+    "url": "https://forums.mtgo.com/index.php?threads/fable-of-the-mirrorbreaker-bug-second-chapter-only-discarded-cards-on-auto-yield.491/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
