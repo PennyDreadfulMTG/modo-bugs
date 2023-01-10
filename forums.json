@@ -514,5 +514,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/painters-servant-messes-up-undercity-text.497/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cards-lost-in-collection.503/": {
+    "title": "Cards Lost in Collection",
+    "url": "https://forums.mtgo.com/index.php?threads/cards-lost-in-collection.503/",
+    "status": "Not A Bug",
+    "tracked": false
   }
 }
