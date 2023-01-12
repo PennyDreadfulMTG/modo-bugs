@@ -272,7 +272,7 @@
   "https://forums.mtgo.com/index.php?threads/trinisphere-phyrexian-metamorph-bug-paying-2-life-increases-remaining-cost.313/": {
     "title": "Trinisphere + Phyrexian Metamorph bug (paying 2 life increases remaining cost)",
     "url": "https://forums.mtgo.com/index.php?threads/trinisphere-phyrexian-metamorph-bug-paying-2-life-increases-remaining-cost.313/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/daze-is-bugged-you-have-to-choose-no-for-two-times-to-get-countered.197/": {
@@ -524,6 +524,12 @@
   "https://forums.mtgo.com/index.php?threads/fable-of-the-mirrorbreaker-bug-second-chapter-only-discarded-cards-on-auto-yield.491/": {
     "title": "Fable of the Mirrorbreaker bug, second chapter only discarded cards on auto yield",
     "url": "https://forums.mtgo.com/index.php?threads/fable-of-the-mirrorbreaker-bug-second-chapter-only-discarded-cards-on-auto-yield.491/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/coveted-jewel-is-stolen-even-if-you-block.492/": {
+    "title": "Coveted Jewel is stolen even if you block",
+    "url": "https://forums.mtgo.com/index.php?threads/coveted-jewel-is-stolen-even-if-you-block.492/",
     "status": "Confirmed",
     "tracked": false
   }
