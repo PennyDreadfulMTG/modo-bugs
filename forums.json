@@ -532,5 +532,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/coveted-jewel-is-stolen-even-if-you-block.492/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/verification-code.518/": {
+    "title": "Verification code",
+    "url": "https://forums.mtgo.com/index.php?threads/verification-code.518/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
