@@ -213,13 +213,13 @@
     "card": "Monster Manual",
     "description": "Monster Manual doesn't let you cast the adventure",
     "category": "Disadvantageous",
-    "last_updated": "2022-12-08 07:01:18",
+    "last_updated": "2023-01-13 17:54:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1040",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/monster-manual-does-not-allow-casting-zoological-study.135/",
     "last_verified": null
   },
   {

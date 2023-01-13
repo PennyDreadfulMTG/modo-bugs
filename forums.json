@@ -387,7 +387,7 @@
     "title": "Monster Manual does not allow casting Zoological Study",
     "url": "https://forums.mtgo.com/index.php?threads/monster-manual-does-not-allow-casting-zoological-study.135/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/melira-sylvok-outcast-vs-inkmoth-nexus.109/": {
     "title": "Melira, Sylvok Outcast vs Inkmoth Nexus",
