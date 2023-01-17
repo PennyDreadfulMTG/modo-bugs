@@ -538,5 +538,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/verification-code.518/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mtgo-crashed-during-league.519/": {
+    "title": "MTGO crashed during league",
+    "url": "https://forums.mtgo.com/index.php?threads/mtgo-crashed-during-league.519/",
+    "status": "Not A Bug",
+    "tracked": false
   }
 }
