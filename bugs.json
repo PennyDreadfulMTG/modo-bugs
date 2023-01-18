@@ -1,5 +1,18 @@
 [
   {
+    "card": "Invasive Surgery",
+    "description": "Invasive Surgery makes the opponent reveal their hand",
+    "category": "Advantageous",
+    "last_updated": "2023-01-18 21:54:56",
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1064",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Inquisition of Kozilek",
     "description": "Conceding while looking at an opponent's hand with Inquisition of Kozilek causes a game restart in multiplayer.",
     "category": "Game Breaking",
