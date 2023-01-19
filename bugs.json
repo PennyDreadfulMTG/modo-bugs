@@ -3,13 +3,13 @@
     "card": "Invasive Surgery",
     "description": "Invasive Surgery makes the opponent reveal their hand",
     "category": "Advantageous",
-    "last_updated": "2023-01-18 21:54:57",
+    "last_updated": "2023-01-19 08:25:04",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1064",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/invasive-surgery-bug.527/",
     "last_verified": null
   },
   {
