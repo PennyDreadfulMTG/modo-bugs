@@ -357,7 +357,7 @@
     "title": "Kinnan + Gwenna bugged",
     "url": "https://forums.mtgo.com/index.php?threads/kinnan-gwenna-bugged.252/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/laelia-cascade-wrong-interaction.319/": {
     "title": "Laelia + Cascade, wrong interaction",
@@ -429,7 +429,7 @@
     "title": "Hidden Strings",
     "url": "https://forums.mtgo.com/index.php?threads/hidden-strings.390/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/help-button-on-home-scene-crashes-client.427/": {
     "title": "Help Button on Home Scene Crashes Client",
