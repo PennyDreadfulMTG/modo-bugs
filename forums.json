@@ -550,5 +550,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/several-cards-cause-client-to-crash-tarmogoyf-horizon-canopy-narcomoeba.458/",
     "status": "Could Not Reproduce",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/underworld-breach-allowing-noncreature-cards-to-escape-i-was-able-to-cast-deaths-shadow-from-my-graveyard.556/": {
+    "title": "Underworld Breach allowing noncreature cards to escape? I was able to cast Death's Shadow from my graveyard",
+    "url": "https://forums.mtgo.com/index.php?threads/underworld-breach-allowing-noncreature-cards-to-escape-i-was-able-to-cast-deaths-shadow-from-my-graveyard.556/",
+    "status": "Not A Bug",
+    "tracked": false
   }
 }
