@@ -3,7 +3,7 @@
     "card": "Biting-Palm Ninja",
     "description": "Biting-Palm Ninja doesn't exile cards",
     "category": "Disadvantageous",
-    "last_updated": "2023-02-02 12:54:49",
+    "last_updated": "2023-02-02 12:54:50",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
@@ -2988,15 +2988,14 @@
     "card": "Krark's Thumb",
     "description": "Krark's Thumb prints all coin flips of its owner three times",
     "category": "Graphical",
-    "last_updated": "2022-11-25 07:55:44",
+    "last_updated": "2023-02-02 12:57:20",
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/816",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.128.4200"
+    "last_verified": "3.4.131.4333"
   },
   {
     "card": "Mystical Dispute",
