@@ -568,5 +568,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/kethek-crucible-goliath-is-bugged-putting-random-creatures-into-play.624/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/atraxas-skitterfang-trigger-issue.627/": {
+    "title": "Atraxa's skitterfang trigger issue",
+    "url": "https://forums.mtgo.com/index.php?threads/atraxas-skitterfang-trigger-issue.627/",
+    "status": "Not A Bug",
+    "tracked": false
   }
 }
