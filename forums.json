@@ -574,5 +574,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/atraxas-skitterfang-trigger-issue.627/",
     "status": "Not A Bug",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ria-ivor-bane-of-bladehold-block-issue.629/": {
+    "title": "Ria Ivor, Bane of Bladehold Block Issue",
+    "url": "https://forums.mtgo.com/index.php?threads/ria-ivor-bane-of-bladehold-block-issue.629/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/wrong-items-showing-up-in-cart-once-webpage-loads.622/": {
+    "title": "Wrong items showing up in cart once webpage loads.",
+    "url": "https://forums.mtgo.com/index.php?threads/wrong-items-showing-up-in-cart-once-webpage-loads.622/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
