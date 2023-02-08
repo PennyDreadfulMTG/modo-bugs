@@ -586,5 +586,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/wrong-items-showing-up-in-cart-once-webpage-loads.622/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/client-doesnt-inform-the-player-which-lands-have-entered-the-battlefield-this-turn.610/": {
+    "title": "Client Doesn't Inform the Player Which Lands have entered the battlefield this turn.",
+    "url": "https://forums.mtgo.com/index.php?threads/client-doesnt-inform-the-player-which-lands-have-entered-the-battlefield-this-turn.610/",
+    "status": "Not A Bug",
+    "tracked": false
   }
 }
