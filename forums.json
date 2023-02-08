@@ -556,5 +556,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/underworld-breach-allowing-noncreature-cards-to-escape-i-was-able-to-cast-deaths-shadow-from-my-graveyard.556/",
     "status": "Not A Bug",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/zenith-chronicler-trigger-draws-multicolor-card-caster-a-card.626/": {
+    "title": "Zenith Chronicler trigger draws multicolor card caster a card",
+    "url": "https://forums.mtgo.com/index.php?threads/zenith-chronicler-trigger-draws-multicolor-card-caster-a-card.626/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kethek-crucible-goliath-is-bugged-putting-random-creatures-into-play.624/": {
+    "title": "Kethek, Crucible Goliath is bugged: putting random creatures into play",
+    "url": "https://forums.mtgo.com/index.php?threads/kethek-crucible-goliath-is-bugged-putting-random-creatures-into-play.624/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
