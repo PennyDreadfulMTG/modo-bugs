@@ -524,7 +524,7 @@
   "https://forums.mtgo.com/index.php?threads/fable-of-the-mirrorbreaker-bug-second-chapter-only-discarded-cards-on-auto-yield.491/": {
     "title": "Fable of the Mirrorbreaker bug, second chapter only discarded cards on auto yield",
     "url": "https://forums.mtgo.com/index.php?threads/fable-of-the-mirrorbreaker-bug-second-chapter-only-discarded-cards-on-auto-yield.491/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/coveted-jewel-is-stolen-even-if-you-block.492/": {
@@ -560,37 +560,79 @@
   "https://forums.mtgo.com/index.php?threads/zenith-chronicler-trigger-draws-multicolor-card-caster-a-card.626/": {
     "title": "Zenith Chronicler trigger draws multicolor card caster a card",
     "url": "https://forums.mtgo.com/index.php?threads/zenith-chronicler-trigger-draws-multicolor-card-caster-a-card.626/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/kethek-crucible-goliath-is-bugged-putting-random-creatures-into-play.624/": {
-    "title": "Kethek, Crucible Goliath is bugged: putting random creatures into play",
-    "url": "https://forums.mtgo.com/index.php?threads/kethek-crucible-goliath-is-bugged-putting-random-creatures-into-play.624/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/atraxas-skitterfang-trigger-issue.627/": {
     "title": "Atraxa's skitterfang trigger issue",
     "url": "https://forums.mtgo.com/index.php?threads/atraxas-skitterfang-trigger-issue.627/",
-    "status": "Not A Bug",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/ria-ivor-bane-of-bladehold-block-issue.629/": {
     "title": "Ria Ivor, Bane of Bladehold Block Issue",
     "url": "https://forums.mtgo.com/index.php?threads/ria-ivor-bane-of-bladehold-block-issue.629/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/wrong-items-showing-up-in-cart-once-webpage-loads.622/": {
     "title": "Wrong items showing up in cart once webpage loads.",
     "url": "https://forums.mtgo.com/index.php?threads/wrong-items-showing-up-in-cart-once-webpage-loads.622/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/client-doesnt-inform-the-player-which-lands-have-entered-the-battlefield-this-turn.610/": {
     "title": "Client Doesn't Inform the Player Which Lands have entered the battlefield this turn.",
     "url": "https://forums.mtgo.com/index.php?threads/client-doesnt-inform-the-player-which-lands-have-entered-the-battlefield-this-turn.610/",
     "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/moon-circuit-hacker-forces-you-to-discard-regardless-if-you-choose-to-draw-a-card.584/": {
+    "title": "Moon-Circuit Hacker forces you to discard regardless if you choose to draw a card",
+    "url": "https://forums.mtgo.com/index.php?threads/moon-circuit-hacker-forces-you-to-discard-regardless-if-you-choose-to-draw-a-card.584/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kethek-crucible-goliath-shows-my-entire-library-every-turn-i-never-sacrificed-anything.636/": {
+    "title": "Kethek, Crucible Goliath shows my entire library every turn. I never sacrificed anything.",
+    "url": "https://forums.mtgo.com/index.php?threads/kethek-crucible-goliath-shows-my-entire-library-every-turn-i-never-sacrificed-anything.636/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/atraxa-grand-unifier-does-not-inform-opponent-of-chosen-cards.632/": {
+    "title": "Atraxa, Grand Unifier - Does not inform opponent of chosen cards",
+    "url": "https://forums.mtgo.com/index.php?threads/atraxa-grand-unifier-does-not-inform-opponent-of-chosen-cards.632/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/jeweled-lotus-bug.564/": {
+    "title": "Jeweled Lotus Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/jeweled-lotus-bug.564/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sanctum-prelate-did-not-stop-a-non-creature-spell-with-x-in-the-cost-as-it-was-cast-with-the-named-total-mana-value.599/": {
+    "title": "Sanctum Prelate did not stop a non-creature spell with {X} in the cost as it was cast with the named total mana value",
+    "url": "https://forums.mtgo.com/index.php?threads/sanctum-prelate-did-not-stop-a-non-creature-spell-with-x-in-the-cost-as-it-was-cast-with-the-named-total-mana-value.599/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/storm-entity-counts-itself.567/": {
+    "title": "Storm Entity counts itself",
+    "url": "https://forums.mtgo.com/index.php?threads/storm-entity-counts-itself.567/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/": {
+    "title": "Ashiok's Erasure bug",
+    "url": "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/selvala-explorer-returned-parley-ability-not-working-correctly.537/": {
+    "title": "Selvala, Explorer Returned - Parley ability not working correctly.",
+    "url": "https://forums.mtgo.com/index.php?threads/selvala-explorer-returned-parley-ability-not-working-correctly.537/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
