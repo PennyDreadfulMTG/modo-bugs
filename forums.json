@@ -628,5 +628,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/selvala-explorer-returned-parley-ability-not-working-correctly.537/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/foretell-mechanic-does-not-reveal-correctly-at-end-of-game.638/": {
+    "title": "Foretell mechanic does not reveal correctly at end of game",
+    "url": "https://forums.mtgo.com/index.php?threads/foretell-mechanic-does-not-reveal-correctly-at-end-of-game.638/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
