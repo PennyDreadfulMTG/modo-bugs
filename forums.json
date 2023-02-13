@@ -640,5 +640,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/the-brothers-war-swiss-draft-queue-is-not-awarding-prizes.657/",
     "status": "Fixed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ria-ivor-bane-of-bladehold-misleading.651/": {
+    "title": "Ria Ivor, Bane of Bladehold misleading",
+    "url": "https://forums.mtgo.com/index.php?threads/ria-ivor-bane-of-bladehold-misleading.651/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
