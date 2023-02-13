@@ -634,5 +634,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/foretell-mechanic-does-not-reveal-correctly-at-end-of-game.638/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-brothers-war-swiss-draft-queue-is-not-awarding-prizes.657/": {
+    "title": "The Brother's War Swiss Draft Queue is not awarding prizes",
+    "url": "https://forums.mtgo.com/index.php?threads/the-brothers-war-swiss-draft-queue-is-not-awarding-prizes.657/",
+    "status": "Fixed",
+    "tracked": false
   }
 }
