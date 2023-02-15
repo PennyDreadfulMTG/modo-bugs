@@ -63,6 +63,7 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1063",
     "support_thread": null,
     "multiplayer_only": true,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -896,6 +897,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1001",
     "support_thread": "https://forums.mtgo.com/index.php?threads/narset-enlightened-master-can-cast-creature-cards-with-their-effect.246/",
+    "help_wanted": true,
     "last_verified": "3.4.129.4220"
   },
   {
@@ -3568,6 +3570,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/709",
     "support_thread": "https://forums.mtgo.com/index.php?threads/let-players-choose-graveyard-order-when-discarding-multiple-cards-at-once.74",
+    "help_wanted": true,
     "last_verified": "3.4.116.4061"
   },
   {
