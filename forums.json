@@ -652,5 +652,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/bug-tempt-with-vengeance-tempt-with-discovery.67/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/new-venser-triggers-without-proliferatng.633/": {
+    "title": "New venser triggers without proliferatng",
+    "url": "https://forums.mtgo.com/index.php?threads/new-venser-triggers-without-proliferatng.633/",
+    "status": "Not A Bug",
+    "tracked": false
   }
 }
