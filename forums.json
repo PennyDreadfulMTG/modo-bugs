@@ -646,5 +646,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/ria-ivor-bane-of-bladehold-misleading.651/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-tempt-with-vengeance-tempt-with-discovery.67/": {
+    "title": "Bug Tempt with Vengeance & Tempt with Discovery",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-tempt-with-vengeance-tempt-with-discovery.67/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
