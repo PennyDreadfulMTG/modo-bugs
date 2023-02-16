@@ -1,5 +1,18 @@
 [
   {
+    "card": "Blast-Furnace Hellkite",
+    "description": "Having Blast-Furnace Hellkite in your deck causes the game to restart during mulligans",
+    "category": "Game Breaking",
+    "last_updated": "2023-02-16 08:54:49",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1070",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/blast-furnace-hellkite-crashes-the-game-during-mulligans.672/",
+    "last_verified": null
+  },
+  {
     "card": "Fact or Fiction",
     "description": "Fact or Fiction bug",
     "category": "Advantageous",
