@@ -658,5 +658,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/new-venser-triggers-without-proliferatng.633/",
     "status": "Not A Bug",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/trade-not-possible-second-window-does-not-open.667/": {
+    "title": "Trade not possible - Second Window does not open",
+    "url": "https://forums.mtgo.com/index.php?threads/trade-not-possible-second-window-does-not-open.667/",
+    "status": "Fixed",
+    "tracked": false
   }
 }
