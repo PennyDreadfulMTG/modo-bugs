@@ -4095,7 +4095,7 @@
     "card": "Phyrexian Revoker",
     "description": "If a card is manifested and would normally require a choice as it enters the battlefield, it incorrectly prompts you for that choice",
     "category": "Advantageous",
-    "last_updated": "2023-02-17 11:55:01",
+    "last_updated": "2023-02-17 12:54:58",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -4105,10 +4105,10 @@
     "last_verified": "3.4.114.4048"
   },
   {
-    "card": "ixidron",
+    "card": "Ixidron",
     "description": "If a card is manifested and would normally require a choice as it enters the battlefield, it incorrectly prompts you for that choice",
     "category": "Advantageous",
-    "last_updated": "2023-02-17 11:55:01",
+    "last_updated": "2023-02-17 12:54:58",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
@@ -4118,10 +4118,10 @@
     "last_verified": "3.4.114.4048"
   },
   {
-    "card": "runed halo",
+    "card": "Runed Halo",
     "description": "If a card is manifested and would normally require a choice as it enters the battlefield, it incorrectly prompts you for that choice",
     "category": "Advantageous",
-    "last_updated": "2023-02-17 11:55:01",
+    "last_updated": "2023-02-17 12:54:58",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
