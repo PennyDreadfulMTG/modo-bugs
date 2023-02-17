@@ -254,7 +254,7 @@
   "https://forums.mtgo.com/index.php?threads/skyclave-relic-tokens-do-not-untap-cant-be-untapped-with-manifold-key-either.275/": {
     "title": "Skyclave Relic Tokens do not untap, can't be untapped with Manifold key either",
     "url": "https://forums.mtgo.com/index.php?threads/skyclave-relic-tokens-do-not-untap-cant-be-untapped-with-manifold-key-either.275/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pithing-needle-bug.177/": {
@@ -602,7 +602,7 @@
   "https://forums.mtgo.com/index.php?threads/jeweled-lotus-bug.564/": {
     "title": "Jeweled Lotus Bug",
     "url": "https://forums.mtgo.com/index.php?threads/jeweled-lotus-bug.564/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/sanctum-prelate-did-not-stop-a-non-creature-spell-with-x-in-the-cost-as-it-was-cast-with-the-named-total-mana-value.599/": {
@@ -668,6 +668,36 @@
   "https://forums.mtgo.com/index.php?threads/riders-of-gavony-glitch.678/": {
     "title": "Riders of Gavony glitch",
     "url": "https://forums.mtgo.com/index.php?threads/riders-of-gavony-glitch.678/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/churning-reservoir-targeting-error.662/": {
+    "title": "Churning Reservoir targeting error",
+    "url": "https://forums.mtgo.com/index.php?threads/churning-reservoir-targeting-error.662/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/teachinge-of-the-archaics.649/": {
+    "title": "Teachinge of the Archaics",
+    "url": "https://forums.mtgo.com/index.php?threads/teachinge-of-the-archaics.649/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/phytotitan-is-bugged.647/": {
+    "title": "Phytotitan is bugged.",
+    "url": "https://forums.mtgo.com/index.php?threads/phytotitan-is-bugged.647/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/contaminated-ground.614/": {
+    "title": "Contaminated Ground",
+    "url": "https://forums.mtgo.com/index.php?threads/contaminated-ground.614/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/agitator-ant.605/": {
+    "title": "Agitator Ant",
+    "url": "https://forums.mtgo.com/index.php?threads/agitator-ant.605/",
     "status": "Confirmed",
     "tracked": false
   }
