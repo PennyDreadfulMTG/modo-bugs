@@ -664,5 +664,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/trade-not-possible-second-window-does-not-open.667/",
     "status": "Fixed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/riders-of-gavony-glitch.678/": {
+    "title": "Riders of Gavony glitch",
+    "url": "https://forums.mtgo.com/index.php?threads/riders-of-gavony-glitch.678/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
