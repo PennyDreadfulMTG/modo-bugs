@@ -260,7 +260,7 @@
   "https://forums.mtgo.com/index.php?threads/pithing-needle-bug.177/": {
     "title": "Pithing Needle Bug",
     "url": "https://forums.mtgo.com/index.php?threads/pithing-needle-bug.177/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/trinisphere-phyrexian-metamorph-bug-paying-2-life-increases-remaining-cost.313/": {
@@ -699,6 +699,12 @@
     "title": "Agitator Ant",
     "url": "https://forums.mtgo.com/index.php?threads/agitator-ant.605/",
     "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/biting-palm-nina.575/": {
+    "title": "Biting-Palm Nina",
+    "url": "https://forums.mtgo.com/index.php?threads/biting-palm-nina.575/",
+    "status": "In Progress",
     "tracked": false
   }
 }
