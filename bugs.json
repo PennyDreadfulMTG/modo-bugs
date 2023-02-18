@@ -277,19 +277,6 @@
     "last_verified": null
   },
   {
-    "card": "Turnabout",
-    "description": "Tap/Untap is Reversed for Turnabout",
-    "category": "Graphical",
-    "last_updated": "2023-02-17 10:55:04",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1044",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/turnabout-selection-was-inversed-tap-or-untap.286/",
-    "last_verified": null
-  },
-  {
     "card": "Selvala, Explorer Returned",
     "description": "Selvala, Explorer Returned gives 1 mana and 0 life when tapped for mana regardless of the amount of nonland cards revealed",
     "category": "Disadvantageous",
