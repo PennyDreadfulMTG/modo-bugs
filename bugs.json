@@ -26,19 +26,6 @@
     "last_verified": null
   },
   {
-    "card": "Fact or Fiction",
-    "description": "Fact or Fiction bug",
-    "category": "Advantageous",
-    "last_updated": "2023-02-17 10:54:51",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1067",
-    "support_thread": null,
-    "last_verified": null
-  },
-  {
     "card": "Biting-Palm Ninja",
     "description": "Biting-Palm Ninja doesn't exile cards",
     "category": "Disadvantageous",
