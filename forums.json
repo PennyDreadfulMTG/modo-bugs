@@ -712,5 +712,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/register-account-bug.691/",
     "status": "Not A Bug",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/standard-uncommons-from-treasure-chests-instead-of-a-rare-happened-5-times.685/": {
+    "title": "Standard Uncommons from Treasure Chests instead of a rare! Happened 5 times!",
+    "url": "https://forums.mtgo.com/index.php?threads/standard-uncommons-from-treasure-chests-instead-of-a-rare-happened-5-times.685/",
+    "status": "Fixed",
+    "tracked": false
   }
 }
