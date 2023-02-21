@@ -706,5 +706,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/biting-palm-nina.575/",
     "status": "In Progress",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/register-account-bug.691/": {
+    "title": "Register Account Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/register-account-bug.691/",
+    "status": "Not A Bug",
+    "tracked": false
   }
 }
