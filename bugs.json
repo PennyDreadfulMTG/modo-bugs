@@ -1,5 +1,18 @@
 [
   {
+    "card": "Sacred Ground",
+    "description": "Sacred Ground resurrects creature lands that die through combat",
+    "category": "Advantageous",
+    "last_updated": "2023-02-21 09:54:50",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1072",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Florian, Voldaren Scion",
     "description": "Agonizing Remorse + Florian, Voldaren Scion puts the opponent's hand on the bottom of their library if the opponent is dealt no damage on that turn",
     "category": "Advantageous",
