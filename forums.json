@@ -254,7 +254,7 @@
   "https://forums.mtgo.com/index.php?threads/skyclave-relic-tokens-do-not-untap-cant-be-untapped-with-manifold-key-either.275/": {
     "title": "Skyclave Relic Tokens do not untap, can't be untapped with Manifold key either",
     "url": "https://forums.mtgo.com/index.php?threads/skyclave-relic-tokens-do-not-untap-cant-be-untapped-with-manifold-key-either.275/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pithing-needle-bug.177/": {
@@ -584,7 +584,7 @@
   "https://forums.mtgo.com/index.php?threads/moon-circuit-hacker-forces-you-to-discard-regardless-if-you-choose-to-draw-a-card.584/": {
     "title": "Moon-Circuit Hacker forces you to discard regardless if you choose to draw a card",
     "url": "https://forums.mtgo.com/index.php?threads/moon-circuit-hacker-forces-you-to-discard-regardless-if-you-choose-to-draw-a-card.584/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/kethek-crucible-goliath-shows-my-entire-library-every-turn-i-never-sacrificed-anything.636/": {
@@ -602,7 +602,7 @@
   "https://forums.mtgo.com/index.php?threads/jeweled-lotus-bug.564/": {
     "title": "Jeweled Lotus Bug",
     "url": "https://forums.mtgo.com/index.php?threads/jeweled-lotus-bug.564/",
-    "status": "In Progress",
+    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/sanctum-prelate-did-not-stop-a-non-creature-spell-with-x-in-the-cost-as-it-was-cast-with-the-named-total-mana-value.599/": {
@@ -674,7 +674,7 @@
   "https://forums.mtgo.com/index.php?threads/churning-reservoir-targeting-error.662/": {
     "title": "Churning Reservoir targeting error",
     "url": "https://forums.mtgo.com/index.php?threads/churning-reservoir-targeting-error.662/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/teachinge-of-the-archaics.649/": {
@@ -704,7 +704,7 @@
   "https://forums.mtgo.com/index.php?threads/biting-palm-nina.575/": {
     "title": "Biting-Palm Nina",
     "url": "https://forums.mtgo.com/index.php?threads/biting-palm-nina.575/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/register-account-bug.691/": {
@@ -717,6 +717,12 @@
     "title": "Standard Uncommons from Treasure Chests instead of a rare! Happened 5 times!",
     "url": "https://forums.mtgo.com/index.php?threads/standard-uncommons-from-treasure-chests-instead-of-a-rare-happened-5-times.685/",
     "status": "Fixed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/full-art-triome-lands-visual-bug.688/": {
+    "title": "Full Art Triome lands visual bug",
+    "url": "https://forums.mtgo.com/index.php?threads/full-art-triome-lands-visual-bug.688/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
