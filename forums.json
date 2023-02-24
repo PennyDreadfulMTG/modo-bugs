@@ -736,5 +736,29 @@
     "url": "https://forums.mtgo.com/index.php?threads/kroaxa-and-nephalia-academy-interaction-bug.702/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/graaz-darksteel-mutation-bug.676/": {
+    "title": "Graaz + Darksteel Mutation Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/graaz-darksteel-mutation-bug.676/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/wastes-basic-lands-visual-bug.689/": {
+    "title": "Wastes basic lands visual bug",
+    "url": "https://forums.mtgo.com/index.php?threads/wastes-basic-lands-visual-bug.689/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/blast-furnace-hellkite-crashes-the-game-during-mulligans.672/": {
+    "title": "Blast-Furnace Hellkite crashes the game during mulligans",
+    "url": "https://forums.mtgo.com/index.php?threads/blast-furnace-hellkite-crashes-the-game-during-mulligans.672/",
+    "status": "Confirmed",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/liege-of-the-hollows-doesnt-produce-the-tokens.654/": {
+    "title": "Liege of the Hollows doesn't produce the tokens",
+    "url": "https://forums.mtgo.com/index.php?threads/liege-of-the-hollows-doesnt-produce-the-tokens.654/",
+    "status": "Backlog",
+    "tracked": false
   }
 }
