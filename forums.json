@@ -724,5 +724,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/full-art-triome-lands-visual-bug.688/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/jinxed-choker-bugged.703/": {
+    "title": "Jinxed Choker bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/jinxed-choker-bugged.703/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kroaxa-and-nephalia-academy-interaction-bug.702/": {
+    "title": "Kroaxa and Nephalia Academy Interaction Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/kroaxa-and-nephalia-academy-interaction-bug.702/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
