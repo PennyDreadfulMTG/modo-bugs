@@ -231,7 +231,7 @@
     "title": "Alrund, God of the Cosmos counts all cards in exile",
     "url": "https://forums.mtgo.com/index.php?threads/alrund-god-of-the-cosmos-counts-all-cards-in-exile.337/",
     "status": "Confirmed",
-    "tracked": true
+    "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/brothers-war-retro-command-tower-art-is-not-centered-correctly.335/": {
     "title": "Brother's War, Retro Command Tower art is not centered correctly.",
@@ -705,7 +705,7 @@
     "title": "Biting-Palm Nina",
     "url": "https://forums.mtgo.com/index.php?threads/biting-palm-nina.575/",
     "status": "Fixed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/register-account-bug.691/": {
     "title": "Register Account Bug",

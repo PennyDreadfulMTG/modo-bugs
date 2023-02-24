@@ -55,13 +55,13 @@
     "card": "Biting-Palm Ninja",
     "description": "Biting-Palm Ninja doesn't exile cards",
     "category": "Disadvantageous",
-    "last_updated": "2023-02-21 17:57:27",
+    "last_updated": "2023-02-24 01:54:53",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1066",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/alrund-god-of-the-cosmos-counts-all-cards-in-exile.337/",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/biting-palm-nina.575/",
     "last_verified": null
   },
   {
