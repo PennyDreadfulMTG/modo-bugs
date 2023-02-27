@@ -260,7 +260,7 @@
   "https://forums.mtgo.com/index.php?threads/pithing-needle-bug.177/": {
     "title": "Pithing Needle Bug",
     "url": "https://forums.mtgo.com/index.php?threads/pithing-needle-bug.177/",
-    "status": "In Progress",
+    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/trinisphere-phyrexian-metamorph-bug-paying-2-life-increases-remaining-cost.313/": {
@@ -807,6 +807,42 @@
     "title": "Missing Copy Actions",
     "url": "https://forums.mtgo.com/index.php?threads/missing-copy-actions.670/",
     "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/olivia-crimson-bride-with-a-legendary-vampire.711/": {
+    "title": "Olivia, Crimson Bride with a legendary vampire",
+    "url": "https://forums.mtgo.com/index.php?threads/olivia-crimson-bride-with-a-legendary-vampire.711/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/elspeth-conquers-death-3-4-player-games.137/": {
+    "title": "Elspeth Conquers Death - 3/4 player games",
+    "url": "https://forums.mtgo.com/index.php?threads/elspeth-conquers-death-3-4-player-games.137/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mtgo-com-decklists-preliminary-records-dont-match-event-points.653/": {
+    "title": "MTGO.com decklists - Preliminary records don't match event points",
+    "url": "https://forums.mtgo.com/index.php?threads/mtgo-com-decklists-preliminary-records-dont-match-event-points.653/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-repotrt-harnessed-lightning.598/": {
+    "title": "Bug Repotrt: Harnessed Lightning",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-repotrt-harnessed-lightning.598/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/planeswalker-become-a-creature.615/": {
+    "title": "planeswalker become a creature",
+    "url": "https://forums.mtgo.com/index.php?threads/planeswalker-become-a-creature.615/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/hostile-negotiations-reveals-the-face-down-cards-if-selected.242/": {
+    "title": "Hostile Negotiations reveals the face down cards if selected",
+    "url": "https://forums.mtgo.com/index.php?threads/hostile-negotiations-reveals-the-face-down-cards-if-selected.242/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
