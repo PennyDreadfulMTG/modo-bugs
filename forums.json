@@ -760,5 +760,29 @@
     "url": "https://forums.mtgo.com/index.php?threads/liege-of-the-hollows-doesnt-produce-the-tokens.654/",
     "status": "Backlog",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/glitch-while-casting-nissa-planeswalker-suddenly-client-breakdown-when-i-off-and-on-again-its-get-stuck-and-jammed-i-was-goin-to-win-but-timing-los.661/": {
+    "title": "glitch while casting nissa planeswalker suddenly client breakdown when i off and on again its get stuck and jammed... i was goin to win but timing los",
+    "url": "https://forums.mtgo.com/index.php?threads/glitch-while-casting-nissa-planeswalker-suddenly-client-breakdown-when-i-off-and-on-again-its-get-stuck-and-jammed-i-was-goin-to-win-but-timing-los.661/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ice-cave-cost-bug.704/": {
+    "title": "Ice Cave Cost Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/ice-cave-cost-bug.704/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/grist-the-hunger-tide-at-2-loyalty-with-serras-emissary-naming-creature.701/": {
+    "title": "Grist, the Hunger Tide at 2 Loyalty with Serra's Emissary Naming Creature",
+    "url": "https://forums.mtgo.com/index.php?threads/grist-the-hunger-tide-at-2-loyalty-with-serras-emissary-naming-creature.701/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/card-had-to-attack-when-able-not-viable-attacks-game-could-not-progress.695/": {
+    "title": "Card had to attack when able, not viable attacks, game could not progress",
+    "url": "https://forums.mtgo.com/index.php?threads/card-had-to-attack-when-able-not-viable-attacks-game-could-not-progress.695/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
