@@ -844,5 +844,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/hostile-negotiations-reveals-the-face-down-cards-if-selected.242/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-report-harnessed-lightning.598/": {
+    "title": "Bug Report: Harnessed Lightning",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-report-harnessed-lightning.598/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/encroaching-mycosynth-incorrectly-affects-sideboard-cards.707/": {
+    "title": "Encroaching Mycosynth incorrectly affects sideboard cards",
+    "url": "https://forums.mtgo.com/index.php?threads/encroaching-mycosynth-incorrectly-affects-sideboard-cards.707/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
