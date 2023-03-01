@@ -904,5 +904,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/casting-adventure-spells-from-graveyard-with-lier-wrenn6.465/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mutate-not-working-right.168/": {
+    "title": "Mutate not working right",
+    "url": "https://forums.mtgo.com/index.php?threads/mutate-not-working-right.168/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
