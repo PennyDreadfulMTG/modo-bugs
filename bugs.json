@@ -201,7 +201,7 @@
     "card": "Search the City",
     "description": "Search the City's cast trigger does not trigger",
     "category": "Non-Functional ability",
-    "last_updated": "2023-02-17 10:54:59",
+    "last_updated": "2023-03-01 00:54:50",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
