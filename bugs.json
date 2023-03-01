@@ -52,19 +52,6 @@
     "last_verified": null
   },
   {
-    "card": "Biting-Palm Ninja",
-    "description": "Biting-Palm Ninja doesn't exile cards",
-    "category": "Disadvantageous",
-    "last_updated": "2023-02-24 01:54:55",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1066",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/biting-palm-nina.575/",
-    "last_verified": null
-  },
-  {
     "card": "Pillar of the Paruns",
     "description": "Pillar of the Paruns cannot pay hybrid costs.",
     "category": "Disadvantageous",
