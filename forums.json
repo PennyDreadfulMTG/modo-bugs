@@ -856,5 +856,47 @@
     "url": "https://forums.mtgo.com/index.php?threads/encroaching-mycosynth-incorrectly-affects-sideboard-cards.707/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/reprints-not-legal-in-new-formats.183/": {
+    "title": "Reprints Not Legal in New Formats",
+    "url": "https://forums.mtgo.com/index.php?threads/reprints-not-legal-in-new-formats.183/",
+    "status": "Fixed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/foretold-cards-not-displaying-in-exile-zone-for-opponent.692/": {
+    "title": "Foretold cards not displaying in exile zone for opponent",
+    "url": "https://forums.mtgo.com/index.php?threads/foretold-cards-not-displaying-in-exile-zone-for-opponent.692/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/pithing-needle-bug-with-grinning-ignus.177/": {
+    "title": "Pithing Needle Bug with Grinning Ignus",
+    "url": "https://forums.mtgo.com/index.php?threads/pithing-needle-bug-with-grinning-ignus.177/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/significant-amounts-of-storm-kiln-artist-triggers-crash-the-game.514/": {
+    "title": "Significant amounts of Storm-Kiln Artist triggers crash the game",
+    "url": "https://forums.mtgo.com/index.php?threads/significant-amounts-of-storm-kiln-artist-triggers-crash-the-game.514/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/meld-commander-doesnt-count-as-commander.513/": {
+    "title": "Meld commander doesn't count as commander",
+    "url": "https://forums.mtgo.com/index.php?threads/meld-commander-doesnt-count-as-commander.513/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/megatron-post-combat-convert-trigger-doesnt-work.483/": {
+    "title": "Megatron Post Combat Convert Trigger doesn't work",
+    "url": "https://forums.mtgo.com/index.php?threads/megatron-post-combat-convert-trigger-doesnt-work.483/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/playing-quitting-an-ffa-before-mulligans-are-choosen-forces-game-start.145/": {
+    "title": "playing quitting an FFA before mulligans are choosen forces game start",
+    "url": "https://forums.mtgo.com/index.php?threads/playing-quitting-an-ffa-before-mulligans-are-choosen-forces-game-start.145/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
