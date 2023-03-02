@@ -910,5 +910,23 @@
     "url": "https://forums.mtgo.com/index.php?threads/mutate-not-working-right.168/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/echoing-truth-and-a-token-copy-of-a-creature.715/": {
+    "title": "Echoing Truth and a Token copy of a creature",
+    "url": "https://forums.mtgo.com/index.php?threads/echoing-truth-and-a-token-copy-of-a-creature.715/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mtgo-promotional-cards-which-had-the-8th-edition-frame-now-are-now-displayed-with-m15-card-frame.581/": {
+    "title": "MTGO promotional cards which had the 8th edition frame now are now displayed with M15 card frame",
+    "url": "https://forums.mtgo.com/index.php?threads/mtgo-promotional-cards-which-had-the-8th-edition-frame-now-are-now-displayed-with-m15-card-frame.581/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
+    "title": "O-Kagachi, Vengeful Kami Ability Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
+    "status": "Could Not Reproduce",
+    "tracked": false
   }
 }
