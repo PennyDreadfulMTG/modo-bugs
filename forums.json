@@ -422,7 +422,7 @@
   "https://forums.mtgo.com/index.php?threads/hidden-strings.390/": {
     "title": "Hidden Strings",
     "url": "https://forums.mtgo.com/index.php?threads/hidden-strings.390/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/help-button-on-home-scene-crashes-client.427/": {
@@ -602,7 +602,7 @@
   "https://forums.mtgo.com/index.php?threads/jeweled-lotus-bug.564/": {
     "title": "Jeweled Lotus Bug",
     "url": "https://forums.mtgo.com/index.php?threads/jeweled-lotus-bug.564/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/sanctum-prelate-did-not-stop-a-non-creature-spell-with-x-in-the-cost-as-it-was-cast-with-the-named-total-mana-value.599/": {
@@ -614,7 +614,7 @@
   "https://forums.mtgo.com/index.php?threads/storm-entity-counts-itself.567/": {
     "title": "Storm Entity counts itself",
     "url": "https://forums.mtgo.com/index.php?threads/storm-entity-counts-itself.567/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/": {
@@ -722,7 +722,7 @@
   "https://forums.mtgo.com/index.php?threads/jinxed-choker-bugged.703/": {
     "title": "Jinxed Choker bugged",
     "url": "https://forums.mtgo.com/index.php?threads/jinxed-choker-bugged.703/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/kroaxa-and-nephalia-academy-interaction-bug.702/": {
@@ -746,7 +746,7 @@
   "https://forums.mtgo.com/index.php?threads/blast-furnace-hellkite-crashes-the-game-during-mulligans.672/": {
     "title": "Blast-Furnace Hellkite crashes the game during mulligans",
     "url": "https://forums.mtgo.com/index.php?threads/blast-furnace-hellkite-crashes-the-game-during-mulligans.672/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/liege-of-the-hollows-doesnt-produce-the-tokens.654/": {
