@@ -3,7 +3,7 @@
     "title": "Mizzix's Mastery mechanic fails",
     "url": "https://forums.mtgo.com/index.php?threads/mizzixs-mastery-mechanic-fails.205/",
     "status": "Confirmed",
-    "tracked": true
+    "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/deck-building-update-with-versions-in-my-collection-does-not-work-anymore.193/": {
     "title": "Deck Building: Update with versions in my collection does not work anymore",
@@ -423,7 +423,7 @@
     "title": "Hidden Strings",
     "url": "https://forums.mtgo.com/index.php?threads/hidden-strings.390/",
     "status": "In Progress",
-    "tracked": true
+    "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/help-button-on-home-scene-crashes-client.427/": {
     "title": "Help Button on Home Scene Crashes Client",
@@ -747,7 +747,7 @@
     "title": "Blast-Furnace Hellkite crashes the game during mulligans",
     "url": "https://forums.mtgo.com/index.php?threads/blast-furnace-hellkite-crashes-the-game-during-mulligans.672/",
     "status": "In Progress",
-    "tracked": true
+    "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/liege-of-the-hollows-doesnt-produce-the-tokens.654/": {
     "title": "Liege of the Hollows doesn't produce the tokens",

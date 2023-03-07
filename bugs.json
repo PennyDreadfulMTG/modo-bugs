@@ -39,19 +39,6 @@
     "last_verified": null
   },
   {
-    "card": "Blast-Furnace Hellkite",
-    "description": "Having Blast-Furnace Hellkite in your deck causes the game to restart during mulligans",
-    "category": "Game Breaking",
-    "last_updated": "2023-03-03 16:54:51",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1070",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/blast-furnace-hellkite-crashes-the-game-during-mulligans.672/",
-    "last_verified": null
-  },
-  {
     "card": "Pillar of the Paruns",
     "description": "Pillar of the Paruns cannot pay hybrid costs.",
     "category": "Disadvantageous",
@@ -93,19 +80,6 @@
     "last_verified": null
   },
   {
-    "card": "Hidden Strings",
-    "description": "Hidden Strings fails to cipher if you decline to tap/untap the second target",
-    "category": "Disadvantageous",
-    "last_updated": "2023-03-03 16:54:54",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1061",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/hidden-strings.390/",
-    "last_verified": null
-  },
-  {
     "card": "Gwenna, Eyes of Gaea",
     "description": "Kinnan, Bonder Prodigy does not trigger when Gwenna, Eyes of Gaea taps for mana",
     "category": "Disadvantageous",
@@ -142,20 +116,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1059",
     "support_thread": null,
-    "last_verified": null
-  },
-  {
-    "card": "Mizzix's Mastery",
-    "description": "Mizzix's Mastery doesn't allow you to cast the exiled cards",
-    "category": "Non-Functional ability",
-    "last_updated": "2022-12-04 12:54:46",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1058",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/mizzixs-mastery-mechanic-fails.205/",
-    "help_wanted": true,
     "last_verified": null
   },
   {
