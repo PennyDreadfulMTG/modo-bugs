@@ -928,5 +928,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
     "status": "Could Not Reproduce",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/aminatous-augury-bugged.659/": {
+    "title": "Aminatou's Augury bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/aminatous-augury-bugged.659/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
