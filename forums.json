@@ -934,5 +934,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/aminatous-augury-bugged.659/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/application-not-found.753/": {
+    "title": "Application Not Found",
+    "url": "https://forums.mtgo.com/index.php?threads/application-not-found.753/",
+    "status": "Fixed",
+    "tracked": false
   }
 }
