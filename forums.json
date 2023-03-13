@@ -878,7 +878,7 @@
   "https://forums.mtgo.com/index.php?threads/significant-amounts-of-storm-kiln-artist-triggers-crash-the-game.514/": {
     "title": "Significant amounts of Storm-Kiln Artist triggers crash the game",
     "url": "https://forums.mtgo.com/index.php?threads/significant-amounts-of-storm-kiln-artist-triggers-crash-the-game.514/",
-    "status": "Confirmed",
+    "status": "Could Not Reproduce",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/meld-commander-doesnt-count-as-commander.513/": {
@@ -945,6 +945,36 @@
     "title": "Tortured Existence",
     "url": "https://forums.mtgo.com/index.php?threads/tortured-existence.258/",
     "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/hallowed-moonlight-bug.285/": {
+    "title": "Hallowed Moonlight bug",
+    "url": "https://forums.mtgo.com/index.php?threads/hallowed-moonlight-bug.285/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/lands-keep-all-basic-types-when-magus-of-the-moon-is-played-after-dryad-of-the-ilysian-grove.543/": {
+    "title": "Lands keep all basic types when Magus of the Moon is played after Dryad of the Ilysian Grove",
+    "url": "https://forums.mtgo.com/index.php?threads/lands-keep-all-basic-types-when-magus-of-the-moon-is-played-after-dryad-of-the-ilysian-grove.543/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/reidane-god-of-the-worthy-and-x-spells.457/": {
+    "title": "Reidane, God of the Worthy and X spells",
+    "url": "https://forums.mtgo.com/index.php?threads/reidane-god-of-the-worthy-and-x-spells.457/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/shifting-shadow.411/": {
+    "title": "Shifting Shadow",
+    "url": "https://forums.mtgo.com/index.php?threads/shifting-shadow.411/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/foretold-cards-undistinguishable-for-ops.365/": {
+    "title": "Foretold Cards Undistinguishable for OPs",
+    "url": "https://forums.mtgo.com/index.php?threads/foretold-cards-undistinguishable-for-ops.365/",
+    "status": "In Progress",
     "tracked": false
   }
 }
