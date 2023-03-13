@@ -940,5 +940,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/application-not-found.753/",
     "status": "Fixed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/tortured-existence.258/": {
+    "title": "Tortured Existence",
+    "url": "https://forums.mtgo.com/index.php?threads/tortured-existence.258/",
+    "status": "Could Not Reproduce",
+    "tracked": false
   }
 }
