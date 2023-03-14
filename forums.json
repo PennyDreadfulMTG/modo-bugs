@@ -1000,5 +1000,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/vintage-cube-restarts-game.538/",
     "status": "Backlog",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/one-redemption-bug.766/": {
+    "title": "ONE redemption bug?",
+    "url": "https://forums.mtgo.com/index.php?threads/one-redemption-bug.766/",
+    "status": "Fixed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/boosters-trophies-pps-tix-removed.767/": {
+    "title": "Boosters/Trophies/PPs/Tix removed?",
+    "url": "https://forums.mtgo.com/index.php?threads/boosters-trophies-pps-tix-removed.767/",
+    "status": "Not A Bug",
+    "tracked": false
   }
 }
