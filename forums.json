@@ -976,5 +976,29 @@
     "url": "https://forums.mtgo.com/index.php?threads/foretold-cards-undistinguishable-for-ops.365/",
     "status": "In Progress",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/detention-sphere-bug.752/": {
+    "title": "Detention Sphere Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/detention-sphere-bug.752/",
+    "status": "In Progress",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/blade-of-shared-souls-creature-stayed-as-copied-creature.731/": {
+    "title": "Blade of Shared Souls - Creature stayed as copied creature",
+    "url": "https://forums.mtgo.com/index.php?threads/blade-of-shared-souls-creature-stayed-as-copied-creature.731/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/color-identity-of-meld-cards-is-incorrect-when-building-for-commander.531/": {
+    "title": "Color identity of meld cards is incorrect when building for Commander.",
+    "url": "https://forums.mtgo.com/index.php?threads/color-identity-of-meld-cards-is-incorrect-when-building-for-commander.531/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/vintage-cube-restarts-game.538/": {
+    "title": "Vintage Cube restarts game",
+    "url": "https://forums.mtgo.com/index.php?threads/vintage-cube-restarts-game.538/",
+    "status": "Backlog",
+    "tracked": false
   }
 }
