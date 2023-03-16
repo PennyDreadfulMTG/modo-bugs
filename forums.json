@@ -140,7 +140,7 @@
   "https://forums.mtgo.com/index.php?threads/scythe-of-the-wretched-and-unscythe-killer-of-kings-trigger-on-every-death.50/": {
     "title": "Scythe of the Wretched and Unscythe, Killer of Kings trigger on every death",
     "url": "https://forums.mtgo.com/index.php?threads/scythe-of-the-wretched-and-unscythe-killer-of-kings-trigger-on-every-death.50/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/ludevic-necrogenius.76/": {
@@ -422,7 +422,7 @@
   "https://forums.mtgo.com/index.php?threads/hidden-strings.390/": {
     "title": "Hidden Strings",
     "url": "https://forums.mtgo.com/index.php?threads/hidden-strings.390/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/help-button-on-home-scene-crashes-client.427/": {
@@ -614,7 +614,7 @@
   "https://forums.mtgo.com/index.php?threads/storm-entity-counts-itself.567/": {
     "title": "Storm Entity counts itself",
     "url": "https://forums.mtgo.com/index.php?threads/storm-entity-counts-itself.567/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/": {
@@ -746,7 +746,7 @@
   "https://forums.mtgo.com/index.php?threads/blast-furnace-hellkite-crashes-the-game-during-mulligans.672/": {
     "title": "Blast-Furnace Hellkite crashes the game during mulligans",
     "url": "https://forums.mtgo.com/index.php?threads/blast-furnace-hellkite-crashes-the-game-during-mulligans.672/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/liege-of-the-hollows-doesnt-produce-the-tokens.654/": {
@@ -950,7 +950,7 @@
   "https://forums.mtgo.com/index.php?threads/hallowed-moonlight-bug.285/": {
     "title": "Hallowed Moonlight bug",
     "url": "https://forums.mtgo.com/index.php?threads/hallowed-moonlight-bug.285/",
-    "status": "In Progress",
+    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/lands-keep-all-basic-types-when-magus-of-the-moon-is-played-after-dryad-of-the-ilysian-grove.543/": {
@@ -962,25 +962,25 @@
   "https://forums.mtgo.com/index.php?threads/reidane-god-of-the-worthy-and-x-spells.457/": {
     "title": "Reidane, God of the Worthy and X spells",
     "url": "https://forums.mtgo.com/index.php?threads/reidane-god-of-the-worthy-and-x-spells.457/",
-    "status": "In Progress",
+    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/shifting-shadow.411/": {
     "title": "Shifting Shadow",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-shadow.411/",
-    "status": "In Progress",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/foretold-cards-undistinguishable-for-ops.365/": {
     "title": "Foretold Cards Undistinguishable for OPs",
     "url": "https://forums.mtgo.com/index.php?threads/foretold-cards-undistinguishable-for-ops.365/",
-    "status": "In Progress",
+    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/detention-sphere-bug.752/": {
     "title": "Detention Sphere Bug",
     "url": "https://forums.mtgo.com/index.php?threads/detention-sphere-bug.752/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/blade-of-shared-souls-creature-stayed-as-copied-creature.731/": {
@@ -1011,6 +1011,12 @@
     "title": "Boosters/Trophies/PPs/Tix removed?",
     "url": "https://forums.mtgo.com/index.php?threads/boosters-trophies-pps-tix-removed.767/",
     "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ixalans-binding.211/": {
+    "title": "Ixalan's Binding",
+    "url": "https://forums.mtgo.com/index.php?threads/ixalans-binding.211/",
+    "status": "Backlog",
     "tracked": false
   }
 }
