@@ -1018,5 +1018,23 @@
     "url": "https://forums.mtgo.com/index.php?threads/ixalans-binding.211/",
     "status": "Backlog",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/progenitus-as-commander-not-being-sent-to-command-zone.759/": {
+    "title": "Progenitus As Commander Not being sent to command zone",
+    "url": "https://forums.mtgo.com/index.php?threads/progenitus-as-commander-not-being-sent-to-command-zone.759/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-report-harnessed-lightning-die-young-game-reset.598/": {
+    "title": "Bug Report: Harnessed Lightning/Die Young Game Reset",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-report-harnessed-lightning-die-young-game-reset.598/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ashiok-dream-render-preventing-searching-graveyards-as-well-as-libraries.774/": {
+    "title": "Ashiok, Dream Render preventing searching graveyards as well as libraries",
+    "url": "https://forums.mtgo.com/index.php?threads/ashiok-dream-render-preventing-searching-graveyards-as-well-as-libraries.774/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
