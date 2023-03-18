@@ -1,18 +1,5 @@
 [
   {
-    "card": "Detention Sphere",
-    "description": "Detention Sphere causes the game to restart when you do something",
-    "category": "Game Breaking",
-    "last_updated": "2023-03-16 15:55:06",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1074",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/detention-sphere-bug.752/",
-    "last_verified": null
-  },
-  {
     "card": "Spawning Pool",
     "description": "Spawning Pool loses its mana ability when it becomes a creature",
     "category": "Disadvantageous",
