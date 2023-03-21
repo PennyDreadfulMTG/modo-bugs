@@ -1036,5 +1036,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/ashiok-dream-render-preventing-searching-graveyards-as-well-as-libraries.774/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/elesh-norn-mother-of-machines-bug-with-ovalchase-daredevil.781/": {
+    "title": "Elesh Norn, Mother of Machines Bug with Ovalchase Daredevil",
+    "url": "https://forums.mtgo.com/index.php?threads/elesh-norn-mother-of-machines-bug-with-ovalchase-daredevil.781/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
