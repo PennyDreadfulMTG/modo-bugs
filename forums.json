@@ -830,7 +830,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-repotrt-harnessed-lightning.598/": {
     "title": "Bug Repotrt: Harnessed Lightning",
     "url": "https://forums.mtgo.com/index.php?threads/bug-repotrt-harnessed-lightning.598/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/planeswalker-become-a-creature.615/": {
@@ -848,7 +848,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-report-harnessed-lightning.598/": {
     "title": "Bug Report: Harnessed Lightning",
     "url": "https://forums.mtgo.com/index.php?threads/bug-report-harnessed-lightning.598/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/encroaching-mycosynth-incorrectly-affects-sideboard-cards.707/": {
@@ -1028,7 +1028,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-report-harnessed-lightning-die-young-game-reset.598/": {
     "title": "Bug Report: Harnessed Lightning/Die Young Game Reset",
     "url": "https://forums.mtgo.com/index.php?threads/bug-report-harnessed-lightning-die-young-game-reset.598/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/ashiok-dream-render-preventing-searching-graveyards-as-well-as-libraries.774/": {
@@ -1040,6 +1040,18 @@
   "https://forums.mtgo.com/index.php?threads/elesh-norn-mother-of-machines-bug-with-ovalchase-daredevil.781/": {
     "title": "Elesh Norn, Mother of Machines Bug with Ovalchase Daredevil",
     "url": "https://forums.mtgo.com/index.php?threads/elesh-norn-mother-of-machines-bug-with-ovalchase-daredevil.781/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/split-card-sorting.840/": {
+    "title": "Split card sorting",
+    "url": "https://forums.mtgo.com/index.php?threads/split-card-sorting.840/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-ui-issue-blocked-unblocked-tokens-of-the-same-type-can%E2%80%99t-be-differentiated-if-blocker-is-removed.796/": {
+    "title": "Bug / UI Issue: Blocked / Unblocked Tokens of the Same Type Can\u2019t Be Differentiated if Blocker is Removed",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-ui-issue-blocked-unblocked-tokens-of-the-same-type-can%E2%80%99t-be-differentiated-if-blocker-is-removed.796/",
     "status": "Confirmed",
     "tracked": false
   }
