@@ -260,7 +260,7 @@
   "https://forums.mtgo.com/index.php?threads/pithing-needle-bug.177/": {
     "title": "Pithing Needle Bug",
     "url": "https://forums.mtgo.com/index.php?threads/pithing-needle-bug.177/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/trinisphere-phyrexian-metamorph-bug-paying-2-life-increases-remaining-cost.313/": {
@@ -872,7 +872,7 @@
   "https://forums.mtgo.com/index.php?threads/pithing-needle-bug-with-grinning-ignus.177/": {
     "title": "Pithing Needle Bug with Grinning Ignus",
     "url": "https://forums.mtgo.com/index.php?threads/pithing-needle-bug-with-grinning-ignus.177/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/significant-amounts-of-storm-kiln-artist-triggers-crash-the-game.514/": {
@@ -962,7 +962,7 @@
   "https://forums.mtgo.com/index.php?threads/reidane-god-of-the-worthy-and-x-spells.457/": {
     "title": "Reidane, God of the Worthy and X spells",
     "url": "https://forums.mtgo.com/index.php?threads/reidane-god-of-the-worthy-and-x-spells.457/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/shifting-shadow.411/": {
