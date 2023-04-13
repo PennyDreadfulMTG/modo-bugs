@@ -1054,5 +1054,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/bug-ui-issue-blocked-unblocked-tokens-of-the-same-type-can%E2%80%99t-be-differentiated-if-blocker-is-removed.796/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/alternate-art-momir-vig-avatar-not-legal-in-freeform-vanguard.668/": {
+    "title": "Alternate art Momir Vig Avatar not legal in Freeform Vanguard",
+    "url": "https://forums.mtgo.com/index.php?threads/alternate-art-momir-vig-avatar-not-legal-in-freeform-vanguard.668/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
