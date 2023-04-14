@@ -1066,5 +1066,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/ob-nixilis-casualty-bug-ob-nixilis-esikas-chariot-bug.855/",
     "status": "In Progress",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/invigorate-alt-cost-cant-target-players.856/": {
+    "title": "Invigorate Alt Cost Can't Target Players",
+    "url": "https://forums.mtgo.com/index.php?threads/invigorate-alt-cost-cant-target-players.856/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/price-of-glory-sacrificing-peoples-lands-in-their-own-turns.861/": {
+    "title": "Price of Glory sacrificing peoples lands in their own turns",
+    "url": "https://forums.mtgo.com/index.php?threads/price-of-glory-sacrificing-peoples-lands-in-their-own-turns.861/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
