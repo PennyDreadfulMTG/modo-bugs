@@ -1060,5 +1060,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/alternate-art-momir-vig-avatar-not-legal-in-freeform-vanguard.668/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ob-nixilis-casualty-bug-ob-nixilis-esikas-chariot-bug.855/": {
+    "title": "Ob Nixilis Casualty Bug + Ob Nixilis & Esika's Chariot Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/ob-nixilis-casualty-bug-ob-nixilis-esikas-chariot-bug.855/",
+    "status": "In Progress",
+    "tracked": false
   }
 }
