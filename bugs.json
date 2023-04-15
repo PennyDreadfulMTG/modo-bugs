@@ -1,5 +1,18 @@
 [
   {
+    "card": "Giada, Font of Hope",
+    "description": "Giada, Font of Hope gives +1/+1 counters to angels that enter at the same time with her",
+    "category": "Advantageous",
+    "last_updated": "2023-04-15 17:55:20",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1076",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/giada-font-of-hope-buffs-angels-that-enter-at-the-same-time-with-her.873/",
+    "last_verified": null
+  },
+  {
     "card": "Obzedat, Ghost Council",
     "description": "Obzedat, Ghost Council never returns to the battlefield",
     "category": "Disadvantageous",
