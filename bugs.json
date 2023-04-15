@@ -1,5 +1,18 @@
 [
   {
+    "card": "Obzedat, Ghost Council",
+    "description": "Obzedat, Ghost Council never returns to the battlefield",
+    "category": "Disadvantageous",
+    "last_updated": "2023-04-15 02:54:46",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1075",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Spawning Pool",
     "description": "Spawning Pool loses its mana ability when it becomes a creature",
     "category": "Disadvantageous",
