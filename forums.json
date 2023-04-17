@@ -44,7 +44,7 @@
   "https://forums.mtgo.com/index.php?threads/last-opponent-refuses-bug-with-tempt-with-discovery.67/": {
     "title": "\"last opponent refuses\" bug with Tempt with Discovery",
     "url": "https://forums.mtgo.com/index.php?threads/last-opponent-refuses-bug-with-tempt-with-discovery.67/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/mistmoon-griffin-not-leaving-graveyard.56/": {
@@ -80,7 +80,7 @@
   "https://forums.mtgo.com/index.php?threads/skeletal-scrying.112/": {
     "title": "Skeletal Scrying",
     "url": "https://forums.mtgo.com/index.php?threads/skeletal-scrying.112/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/unable-to-cancel-salvaged-manaworker-ability.103/": {
@@ -200,7 +200,7 @@
   "https://forums.mtgo.com/index.php?threads/ratchet-field-medics-triggered-ability-doesnt-do-anything.237/": {
     "title": "Ratchet, Field Medic's triggered ability doesn't do anything",
     "url": "https://forums.mtgo.com/index.php?threads/ratchet-field-medics-triggered-ability-doesnt-do-anything.237/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/shadow-of-doubt-doesnt-prevent-searching-library-with-the-stone-brain-ability.276/": {
@@ -650,7 +650,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-tempt-with-vengeance-tempt-with-discovery.67/": {
     "title": "Bug Tempt with Vengeance & Tempt with Discovery",
     "url": "https://forums.mtgo.com/index.php?threads/bug-tempt-with-vengeance-tempt-with-discovery.67/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/new-venser-triggers-without-proliferatng.633/": {
@@ -1082,6 +1082,48 @@
   "https://forums.mtgo.com/index.php?threads/i-cant-create-a-copy-of-ob-nixilis-the-adversary-using-the-casuality.875/": {
     "title": "I can't create a copy of Ob Nixilis, the Adversary using the casuality",
     "url": "https://forums.mtgo.com/index.php?threads/i-cant-create-a-copy-of-ob-nixilis-the-adversary-using-the-casuality.875/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/anger-of-the-gods-fails-to-exile.877/": {
+    "title": "Anger of the Gods fails to exile",
+    "url": "https://forums.mtgo.com/index.php?threads/anger-of-the-gods-fails-to-exile.877/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/magecraft-not-working-chain-of-smog-doesnt-trigger-witherbloom-apprentice.870/": {
+    "title": "Magecraft Not Working - Chain of Smog doesn't trigger Witherbloom Apprentice",
+    "url": "https://forums.mtgo.com/index.php?threads/magecraft-not-working-chain-of-smog-doesnt-trigger-witherbloom-apprentice.870/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/giada-font-of-hope-buffs-angels-that-enter-at-the-same-time-with-her.873/": {
+    "title": "Giada, Font of Hope buffs angels that enter at the same time with her",
+    "url": "https://forums.mtgo.com/index.php?threads/giada-font-of-hope-buffs-angels-that-enter-at-the-same-time-with-her.873/",
+    "status": "Confirmed",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/game-resets-end-of-turn-after-zabaz-the-glimmer-wasp-enters-the-battlefield.863/": {
+    "title": "Game resets end of turn after Zabaz, the Glimmer Wasp enters the battlefield",
+    "url": "https://forums.mtgo.com/index.php?threads/game-resets-end-of-turn-after-zabaz-the-glimmer-wasp-enters-the-battlefield.863/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ramses-is-bugged.869/": {
+    "title": "Ramses is bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/ramses-is-bugged.869/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/fable-of-the-mirror-breaker-bug-with-control-change.864/": {
+    "title": "Fable of the Mirror-Breaker bug with control change",
+    "url": "https://forums.mtgo.com/index.php?threads/fable-of-the-mirror-breaker-bug-with-control-change.864/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/venerated-rotpriest-and-ground-rift.842/": {
+    "title": "Venerated Rotpriest and Ground Rift",
+    "url": "https://forums.mtgo.com/index.php?threads/venerated-rotpriest-and-ground-rift.842/",
     "status": "In Progress",
     "tracked": false
   }
