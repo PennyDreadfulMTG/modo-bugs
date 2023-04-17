@@ -1078,5 +1078,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/price-of-glory-sacrificing-peoples-lands-in-their-own-turns.861/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/i-cant-create-a-copy-of-ob-nixilis-the-adversary-using-the-casuality.875/": {
+    "title": "I can't create a copy of Ob Nixilis, the Adversary using the casuality",
+    "url": "https://forums.mtgo.com/index.php?threads/i-cant-create-a-copy-of-ob-nixilis-the-adversary-using-the-casuality.875/",
+    "status": "In Progress",
+    "tracked": false
   }
 }
