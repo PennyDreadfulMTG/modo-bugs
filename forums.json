@@ -80,7 +80,7 @@
   "https://forums.mtgo.com/index.php?threads/skeletal-scrying.112/": {
     "title": "Skeletal Scrying",
     "url": "https://forums.mtgo.com/index.php?threads/skeletal-scrying.112/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/unable-to-cancel-salvaged-manaworker-ability.103/": {
@@ -890,7 +890,7 @@
   "https://forums.mtgo.com/index.php?threads/megatron-post-combat-convert-trigger-doesnt-work.483/": {
     "title": "Megatron Post Combat Convert Trigger doesn't work",
     "url": "https://forums.mtgo.com/index.php?threads/megatron-post-combat-convert-trigger-doesnt-work.483/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/playing-quitting-an-ffa-before-mulligans-are-choosen-forces-game-start.145/": {
@@ -962,7 +962,7 @@
   "https://forums.mtgo.com/index.php?threads/reidane-god-of-the-worthy-and-x-spells.457/": {
     "title": "Reidane, God of the Worthy and X spells",
     "url": "https://forums.mtgo.com/index.php?threads/reidane-god-of-the-worthy-and-x-spells.457/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/shifting-shadow.411/": {
@@ -1058,13 +1058,13 @@
   "https://forums.mtgo.com/index.php?threads/alternate-art-momir-vig-avatar-not-legal-in-freeform-vanguard.668/": {
     "title": "Alternate art Momir Vig Avatar not legal in Freeform Vanguard",
     "url": "https://forums.mtgo.com/index.php?threads/alternate-art-momir-vig-avatar-not-legal-in-freeform-vanguard.668/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/ob-nixilis-casualty-bug-ob-nixilis-esikas-chariot-bug.855/": {
     "title": "Ob Nixilis Casualty Bug + Ob Nixilis & Esika's Chariot Bug",
     "url": "https://forums.mtgo.com/index.php?threads/ob-nixilis-casualty-bug-ob-nixilis-esikas-chariot-bug.855/",
-    "status": "In Progress",
+    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/invigorate-alt-cost-cant-target-players.856/": {
@@ -1082,7 +1082,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cant-create-a-copy-of-ob-nixilis-the-adversary-using-the-casuality.875/": {
     "title": "I can't create a copy of Ob Nixilis, the Adversary using the casuality",
     "url": "https://forums.mtgo.com/index.php?threads/i-cant-create-a-copy-of-ob-nixilis-the-adversary-using-the-casuality.875/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/anger-of-the-gods-fails-to-exile.877/": {
@@ -1124,7 +1124,7 @@
   "https://forums.mtgo.com/index.php?threads/venerated-rotpriest-and-ground-rift.842/": {
     "title": "Venerated Rotpriest and Ground Rift",
     "url": "https://forums.mtgo.com/index.php?threads/venerated-rotpriest-and-ground-rift.842/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   }
 }
