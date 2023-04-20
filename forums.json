@@ -986,7 +986,7 @@
   "https://forums.mtgo.com/index.php?threads/blade-of-shared-souls-creature-stayed-as-copied-creature.731/": {
     "title": "Blade of Shared Souls - Creature stayed as copied creature",
     "url": "https://forums.mtgo.com/index.php?threads/blade-of-shared-souls-creature-stayed-as-copied-creature.731/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/color-identity-of-meld-cards-is-incorrect-when-building-for-commander.531/": {
@@ -1137,6 +1137,12 @@
     "title": "Polukranos Reborn Frame",
     "url": "https://forums.mtgo.com/index.php?threads/polukranos-reborn-frame.887/",
     "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/i-cannot-pay-the-splice-cost-for-roar-of-jukai.872/": {
+    "title": "I cannot pay the Splice cost for Roar of Jukai",
+    "url": "https://forums.mtgo.com/index.php?threads/i-cannot-pay-the-splice-cost-for-roar-of-jukai.872/",
+    "status": "In Progress",
     "tracked": false
   }
 }
