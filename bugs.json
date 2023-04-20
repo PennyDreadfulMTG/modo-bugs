@@ -1,5 +1,18 @@
 [
   {
+    "card": "Chandra's Phoenix",
+    "description": "Ability of Chandra's Phoenix triggers when a creature is dealt damage by its owner's instant or sorcery",
+    "category": "Advantageous",
+    "last_updated": "2023-04-20 01:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1078",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Giada, Font of Hope",
     "description": "Giada, Font of Hope gives +1/+1 counters to angels that enter at the same time with her",
     "category": "Advantageous",
