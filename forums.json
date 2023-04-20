@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/invigorate-alt-cost-cant-target-players.856/": {
     "title": "Invigorate Alt Cost Can't Target Players",
     "url": "https://forums.mtgo.com/index.php?threads/invigorate-alt-cost-cant-target-players.856/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/price-of-glory-sacrificing-peoples-lands-in-their-own-turns.861/": {
@@ -1088,19 +1088,19 @@
   "https://forums.mtgo.com/index.php?threads/anger-of-the-gods-fails-to-exile.877/": {
     "title": "Anger of the Gods fails to exile",
     "url": "https://forums.mtgo.com/index.php?threads/anger-of-the-gods-fails-to-exile.877/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/magecraft-not-working-chain-of-smog-doesnt-trigger-witherbloom-apprentice.870/": {
     "title": "Magecraft Not Working - Chain of Smog doesn't trigger Witherbloom Apprentice",
     "url": "https://forums.mtgo.com/index.php?threads/magecraft-not-working-chain-of-smog-doesnt-trigger-witherbloom-apprentice.870/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/giada-font-of-hope-buffs-angels-that-enter-at-the-same-time-with-her.873/": {
     "title": "Giada, Font of Hope buffs angels that enter at the same time with her",
     "url": "https://forums.mtgo.com/index.php?threads/giada-font-of-hope-buffs-angels-that-enter-at-the-same-time-with-her.873/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/game-resets-end-of-turn-after-zabaz-the-glimmer-wasp-enters-the-battlefield.863/": {
@@ -1118,13 +1118,25 @@
   "https://forums.mtgo.com/index.php?threads/fable-of-the-mirror-breaker-bug-with-control-change.864/": {
     "title": "Fable of the Mirror-Breaker bug with control change",
     "url": "https://forums.mtgo.com/index.php?threads/fable-of-the-mirror-breaker-bug-with-control-change.864/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/venerated-rotpriest-and-ground-rift.842/": {
     "title": "Venerated Rotpriest and Ground Rift",
     "url": "https://forums.mtgo.com/index.php?threads/venerated-rotpriest-and-ground-rift.842/",
     "status": "Fixed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/awaken-the-maelstrom-invasion-of-alara-battle-backside-does-not-create-a-token-copy-of-permanent-controlled-by-its-caster.888/": {
+    "title": "Awaken the Maelstrom (Invasion of Alara Battle backside) does not create a token copy of permanent controlled by its caster",
+    "url": "https://forums.mtgo.com/index.php?threads/awaken-the-maelstrom-invasion-of-alara-battle-backside-does-not-create-a-token-copy-of-permanent-controlled-by-its-caster.888/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/polukranos-reborn-frame.887/": {
+    "title": "Polukranos Reborn Frame",
+    "url": "https://forums.mtgo.com/index.php?threads/polukranos-reborn-frame.887/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
