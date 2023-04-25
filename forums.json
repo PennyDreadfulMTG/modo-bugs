@@ -1168,5 +1168,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/tiebreakers-not-working-correctly-in-challenges.909/",
     "status": "Not A Bug",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/client-lag.896/": {
+    "title": "Client Lag",
+    "url": "https://forums.mtgo.com/index.php?threads/client-lag.896/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
