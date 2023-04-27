@@ -44,7 +44,7 @@
   "https://forums.mtgo.com/index.php?threads/last-opponent-refuses-bug-with-tempt-with-discovery.67/": {
     "title": "\"last opponent refuses\" bug with Tempt with Discovery",
     "url": "https://forums.mtgo.com/index.php?threads/last-opponent-refuses-bug-with-tempt-with-discovery.67/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/mistmoon-griffin-not-leaving-graveyard.56/": {
@@ -650,7 +650,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-tempt-with-vengeance-tempt-with-discovery.67/": {
     "title": "Bug Tempt with Vengeance & Tempt with Discovery",
     "url": "https://forums.mtgo.com/index.php?threads/bug-tempt-with-vengeance-tempt-with-discovery.67/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/new-venser-triggers-without-proliferatng.633/": {
@@ -986,7 +986,7 @@
   "https://forums.mtgo.com/index.php?threads/blade-of-shared-souls-creature-stayed-as-copied-creature.731/": {
     "title": "Blade of Shared Souls - Creature stayed as copied creature",
     "url": "https://forums.mtgo.com/index.php?threads/blade-of-shared-souls-creature-stayed-as-copied-creature.731/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/color-identity-of-meld-cards-is-incorrect-when-building-for-commander.531/": {
@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/invigorate-alt-cost-cant-target-players.856/": {
     "title": "Invigorate Alt Cost Can't Target Players",
     "url": "https://forums.mtgo.com/index.php?threads/invigorate-alt-cost-cant-target-players.856/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/price-of-glory-sacrificing-peoples-lands-in-their-own-turns.861/": {
@@ -1088,25 +1088,25 @@
   "https://forums.mtgo.com/index.php?threads/anger-of-the-gods-fails-to-exile.877/": {
     "title": "Anger of the Gods fails to exile",
     "url": "https://forums.mtgo.com/index.php?threads/anger-of-the-gods-fails-to-exile.877/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/magecraft-not-working-chain-of-smog-doesnt-trigger-witherbloom-apprentice.870/": {
     "title": "Magecraft Not Working - Chain of Smog doesn't trigger Witherbloom Apprentice",
     "url": "https://forums.mtgo.com/index.php?threads/magecraft-not-working-chain-of-smog-doesnt-trigger-witherbloom-apprentice.870/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/giada-font-of-hope-buffs-angels-that-enter-at-the-same-time-with-her.873/": {
     "title": "Giada, Font of Hope buffs angels that enter at the same time with her",
     "url": "https://forums.mtgo.com/index.php?threads/giada-font-of-hope-buffs-angels-that-enter-at-the-same-time-with-her.873/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/game-resets-end-of-turn-after-zabaz-the-glimmer-wasp-enters-the-battlefield.863/": {
     "title": "Game resets end of turn after Zabaz, the Glimmer Wasp enters the battlefield",
     "url": "https://forums.mtgo.com/index.php?threads/game-resets-end-of-turn-after-zabaz-the-glimmer-wasp-enters-the-battlefield.863/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/ramses-is-bugged.869/": {
@@ -1118,7 +1118,7 @@
   "https://forums.mtgo.com/index.php?threads/fable-of-the-mirror-breaker-bug-with-control-change.864/": {
     "title": "Fable of the Mirror-Breaker bug with control change",
     "url": "https://forums.mtgo.com/index.php?threads/fable-of-the-mirror-breaker-bug-with-control-change.864/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/venerated-rotpriest-and-ground-rift.842/": {
@@ -1130,7 +1130,7 @@
   "https://forums.mtgo.com/index.php?threads/awaken-the-maelstrom-invasion-of-alara-battle-backside-does-not-create-a-token-copy-of-permanent-controlled-by-its-caster.888/": {
     "title": "Awaken the Maelstrom (Invasion of Alara Battle backside) does not create a token copy of permanent controlled by its caster",
     "url": "https://forums.mtgo.com/index.php?threads/awaken-the-maelstrom-invasion-of-alara-battle-backside-does-not-create-a-token-copy-of-permanent-controlled-by-its-caster.888/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/polukranos-reborn-frame.887/": {
@@ -1142,25 +1142,25 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-pay-the-splice-cost-for-roar-of-jukai.872/": {
     "title": "I cannot pay the Splice cost for Roar of Jukai",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-pay-the-splice-cost-for-roar-of-jukai.872/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/kalamax-1-1-counters-when-copying-instants.895/": {
     "title": "Kalamax +1/+1 counters when copying instants",
     "url": "https://forums.mtgo.com/index.php?threads/kalamax-1-1-counters-when-copying-instants.895/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/invasion-of-ikoria-zilortha-reverse-side-bug-it-was-exiled-and-returned-came-back-on-my-side-i-couldnt-get-the-creature-from-it-anymore.886/": {
     "title": "Invasion of Ikoria - Zilortha(reverse side) bug, it was exiled and returned, came back on my side, I couldn't get the creature from it anymore.",
     "url": "https://forums.mtgo.com/index.php?threads/invasion-of-ikoria-zilortha-reverse-side-bug-it-was-exiled-and-returned-came-back-on-my-side-i-couldnt-get-the-creature-from-it-anymore.886/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/fable-of-the-mirror-breaker-and-changing-control.198/": {
     "title": "Fable of the Mirror Breaker and changing control",
     "url": "https://forums.mtgo.com/index.php?threads/fable-of-the-mirror-breaker-and-changing-control.198/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/tiebreakers-not-working-correctly-in-challenges.909/": {
