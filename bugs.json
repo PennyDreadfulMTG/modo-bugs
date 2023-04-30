@@ -895,17 +895,16 @@
   },
   {
     "card": "Chancellor of the Forge",
-    "description": "Simultaneous Chancellor of the Forge triggers can cause the game to restart.",
+    "description": "If multiple Chancellor of the Forge triggers would create many (200+) tokens, the game may reset",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2023-02-17 10:55:18",
+    "last_updated": "2023-04-30 04:04:53",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1000",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.132.4356"
   },
   {
     "card": "Armored Skyhunter",
