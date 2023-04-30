@@ -1,5 +1,18 @@
 [
   {
+    "card": "Hypergenesis",
+    "description": "Hypergenesis causes the game to restart when you concede during its resolution",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2023-04-30 18:54:44",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1080",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Chandra's Phoenix",
     "description": "Ability of Chandra's Phoenix triggers when a creature is dealt damage by its owner's instant or sorcery",
     "category": "Advantageous",
