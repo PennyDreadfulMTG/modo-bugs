@@ -29,15 +29,14 @@
     "card": "Spawning Pool",
     "description": "Spawning Pool loses its mana ability when it becomes a creature",
     "category": "Disadvantageous",
-    "last_updated": "2023-02-21 10:54:49",
+    "last_updated": "2023-04-30 14:06:57",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1073",
     "support_thread": "https://forums.mtgo.com/index.php?threads/spawning-pool-cant-tap-itself-for-mana.419/",
-    "help_wanted": true,
-    "last_verified": null
+    "last_verified": "3.4.132.4356"
   },
   {
     "card": "Sacred Ground",
