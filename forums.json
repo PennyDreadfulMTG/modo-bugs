@@ -1191,6 +1191,6 @@
     "title": "Chain Lightning cant change target",
     "url": "https://forums.mtgo.com/index.php?threads/chain-lightning-cant-change-target.932/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   }
 }

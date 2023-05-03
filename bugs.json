@@ -1,5 +1,18 @@
 [
   {
+    "card": "Chain Lightning",
+    "description": "Copying Chain Lightning doesn't allow you to change targets.",
+    "category": "Advantageous",
+    "last_updated": "2023-05-03 18:54:47",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1083",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/chain-lightning-cant-change-target.932/",
+    "last_verified": null
+  },
+  {
     "card": "Myriad Construct",
     "description": "Myriad Construct may enter with an enormous amount of counters when kicked",
     "category": "Advantageous",
