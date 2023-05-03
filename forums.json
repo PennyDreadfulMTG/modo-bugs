@@ -1172,6 +1172,24 @@
   "https://forums.mtgo.com/index.php?threads/client-lag.896/": {
     "title": "Client Lag",
     "url": "https://forums.mtgo.com/index.php?threads/client-lag.896/",
+    "status": "Fixed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gontis-machinations.854/": {
+    "title": "Gonti's Machinations",
+    "url": "https://forums.mtgo.com/index.php?threads/gontis-machinations.854/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/jugan-defends-the-temple.935/": {
+    "title": "Jugan Defends the Temple",
+    "url": "https://forums.mtgo.com/index.php?threads/jugan-defends-the-temple.935/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/chain-lightning-cant-change-target.932/": {
+    "title": "Chain Lightning cant change target",
+    "url": "https://forums.mtgo.com/index.php?threads/chain-lightning-cant-change-target.932/",
     "status": "Confirmed",
     "tracked": false
   }
