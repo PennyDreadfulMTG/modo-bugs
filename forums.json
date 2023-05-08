@@ -245,12 +245,6 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/daze-is-bugged-you-have-to-choose-no-for-two-times-to-get-countered.197/": {
-    "title": "Daze is bugged: You have to choose \"no\" for two times to get countered",
-    "url": "https://forums.mtgo.com/index.php?threads/daze-is-bugged-you-have-to-choose-no-for-two-times-to-get-countered.197/",
-    "status": "Backlog",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/totem-armor-bug.363/": {
     "title": "Totem Armor Bug",
     "url": "https://forums.mtgo.com/index.php?threads/totem-armor-bug.363/",
@@ -310,12 +304,6 @@
     "url": "https://forums.mtgo.com/index.php?threads/evelyn-the-covetous-and-counters.392/",
     "status": "Confirmed",
     "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/kinnan-gwenna-bugged.252/": {
-    "title": "Kinnan + Gwenna bugged",
-    "url": "https://forums.mtgo.com/index.php?threads/kinnan-gwenna-bugged.252/",
-    "status": "Backlog",
-    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/laelia-cascade-wrong-interaction.319/": {
     "title": "Laelia + Cascade, wrong interaction",
