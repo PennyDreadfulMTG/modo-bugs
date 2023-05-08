@@ -248,7 +248,7 @@
   "https://forums.mtgo.com/index.php?threads/daze-is-bugged-you-have-to-choose-no-for-two-times-to-get-countered.197/": {
     "title": "Daze is bugged: You have to choose \"no\" for two times to get countered",
     "url": "https://forums.mtgo.com/index.php?threads/daze-is-bugged-you-have-to-choose-no-for-two-times-to-get-countered.197/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/totem-armor-bug.363/": {
@@ -314,7 +314,7 @@
   "https://forums.mtgo.com/index.php?threads/kinnan-gwenna-bugged.252/": {
     "title": "Kinnan + Gwenna bugged",
     "url": "https://forums.mtgo.com/index.php?threads/kinnan-gwenna-bugged.252/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/laelia-cascade-wrong-interaction.319/": {
@@ -1028,7 +1028,25 @@
   "https://forums.mtgo.com/index.php?threads/chain-lightning-cant-change-target.932/": {
     "title": "Chain Lightning cant change target",
     "url": "https://forums.mtgo.com/index.php?threads/chain-lightning-cant-change-target.932/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/proliferating-a-lore-counter-on-a-saga-with-read-ahead-does-not-trigger-additional-chapter-abilities.912/": {
+    "title": "Proliferating a lore counter on a Saga with Read Ahead does not trigger additional chapter abilities",
+    "url": "https://forums.mtgo.com/index.php?threads/proliferating-a-lore-counter-on-a-saga-with-read-ahead-does-not-trigger-additional-chapter-abilities.912/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/invasion-of-alara-bugged.926/": {
+    "title": "invasion of alara bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/invasion-of-alara-bugged.926/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/venerated-rotpriest-melira-the-living-cure-interaction-bug.906/": {
+    "title": "Venerated Rotpriest/Melira, the Living Cure Interaction bug",
+    "url": "https://forums.mtgo.com/index.php?threads/venerated-rotpriest-melira-the-living-cure-interaction-bug.906/",
+    "status": "In Progress",
+    "tracked": false
   }
 }
