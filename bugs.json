@@ -1,5 +1,18 @@
 [
   {
+    "card": "Paladin of Atonement",
+    "description": "Paladin of Atonement's Upkeep Ability Never Triggers",
+    "category": "Unconfirmed",
+    "last_updated": "2023-05-09 18:54:48",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1084",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Chain Lightning",
     "description": "Copying Chain Lightning doesn't allow you to change targets.",
     "category": "Advantageous",
