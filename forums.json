@@ -1030,5 +1030,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/venerated-rotpriest-melira-the-living-cure-interaction-bug.906/",
     "status": "In Progress",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/karn-scion-of-urza-skipped-draw-step-bug.880/": {
+    "title": "Karn, Scion of Urza - skipped draw step bug.",
+    "url": "https://forums.mtgo.com/index.php?threads/karn-scion-of-urza-skipped-draw-step-bug.880/",
+    "status": "In Progress",
+    "tracked": false
   }
 }
