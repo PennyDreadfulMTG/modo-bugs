@@ -1011,7 +1011,7 @@
     "title": "Chain Lightning cant change target",
     "url": "https://forums.mtgo.com/index.php?threads/chain-lightning-cant-change-target.932/",
     "status": "In Progress",
-    "tracked": true
+    "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/proliferating-a-lore-counter-on-a-saga-with-read-ahead-does-not-trigger-additional-chapter-abilities.912/": {
     "title": "Proliferating a lore counter on a Saga with Read Ahead does not trigger additional chapter abilities",
