@@ -1036,5 +1036,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/karn-scion-of-urza-skipped-draw-step-bug.880/",
     "status": "In Progress",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/homeward-path-bugged.975/": {
+    "title": "Homeward Path bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/homeward-path-bugged.975/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
