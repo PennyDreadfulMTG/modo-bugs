@@ -2,8 +2,8 @@
   {
     "card": "Paladin of Atonement",
     "description": "Paladin of Atonement's Upkeep Ability Never Triggers",
-    "category": "Unconfirmed",
-    "last_updated": "2023-05-09 18:54:49",
+    "category": "Non-Functional ability",
+    "last_updated": "2023-05-12 17:52:31",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
