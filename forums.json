@@ -1031,16 +1031,22 @@
     "status": "In Progress",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/karn-scion-of-urza-skipped-draw-step-bug.880/": {
-    "title": "Karn, Scion of Urza - skipped draw step bug.",
-    "url": "https://forums.mtgo.com/index.php?threads/karn-scion-of-urza-skipped-draw-step-bug.880/",
-    "status": "In Progress",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/homeward-path-bugged.975/": {
     "title": "Homeward Path bugged",
     "url": "https://forums.mtgo.com/index.php?threads/homeward-path-bugged.975/",
     "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/unable-to-access-to-new-player-event.981/": {
+    "title": "unable to access to new player event",
+    "url": "https://forums.mtgo.com/index.php?threads/unable-to-access-to-new-player-event.981/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/opening-packs-not-working.979/": {
+    "title": "Opening packs not working",
+    "url": "https://forums.mtgo.com/index.php?threads/opening-packs-not-working.979/",
+    "status": "In Progress",
     "tracked": false
   }
 }
