@@ -1,5 +1,57 @@
 [
   {
+    "card": "From Under the Floorboards",
+    "description": "Madness abilities that have X in the cost or are gained don't function.",
+    "category": "Disadvantageous",
+    "last_updated": "2023-05-29 00:54:56",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
+    "last_verified": null
+  },
+  {
+    "card": "Avacyn's Judgment",
+    "description": "Madness abilities that have X in the cost or are gained don't function.",
+    "category": "Disadvantageous",
+    "last_updated": "2023-05-29 00:54:56",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
+    "last_verified": null
+  },
+  {
+    "card": "Welcome to the Fold",
+    "description": "Madness abilities that have X in the cost or are gained don't function.",
+    "category": "Disadvantageous",
+    "last_updated": "2023-05-29 00:54:56",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
+    "last_verified": null
+  },
+  {
+    "card": "Falkenrath Gorger",
+    "description": "Madness abilities that have X in the cost or are gained don't function.",
+    "category": "Disadvantageous",
+    "last_updated": "2023-05-29 00:54:56",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
+    "last_verified": null
+  },
+  {
     "card": "Paladin of Atonement",
     "description": "Paladin of Atonement's Upkeep Ability Never Triggers",
     "category": "Non-Functional ability",
@@ -1537,15 +1589,14 @@
     "card": "Dire-Strain Rampage",
     "description": "Targeting an indestructible land with Dire-Strain Rampage allows the controller of the land to search for two lands.",
     "category": "Advantageous",
-    "last_updated": "2023-02-17 10:55:30",
+    "last_updated": "2023-05-26 15:49:43",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/958",
     "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.125.4174"
+    "last_verified": "3.4.132.4359"
   },
   {
     "card": "Snapcaster Mage",
@@ -5478,6 +5529,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/62",
     "support_thread": "https://forums.mtgo.com/index.php?threads/scythe-of-the-wretched-and-unscythe-killer-of-kings-trigger-on-every-death.50/",
+    "help_wanted": true,
     "last_verified": "3.4.123.4152"
   },
   {
@@ -5491,6 +5543,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/62",
     "support_thread": "https://forums.mtgo.com/index.php?threads/scythe-of-the-wretched-and-unscythe-killer-of-kings-trigger-on-every-death.50/",
+    "help_wanted": true,
     "last_verified": "3.4.123.4152"
   },
   {

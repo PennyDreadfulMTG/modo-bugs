@@ -1037,16 +1037,34 @@
     "status": "Confirmed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/unable-to-access-to-new-player-event.981/": {
-    "title": "unable to access to new player event",
-    "url": "https://forums.mtgo.com/index.php?threads/unable-to-access-to-new-player-event.981/",
-    "status": "In Progress",
+  "https://forums.mtgo.com/index.php?threads/foretell-in-multiplayer-crashing-the-client.1021/": {
+    "title": "Foretell in multiplayer crashing the client.",
+    "url": "https://forums.mtgo.com/index.php?threads/foretell-in-multiplayer-crashing-the-client.1021/",
+    "status": "Confirmed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/opening-packs-not-working.979/": {
-    "title": "Opening packs not working",
-    "url": "https://forums.mtgo.com/index.php?threads/opening-packs-not-working.979/",
-    "status": "In Progress",
+  "https://forums.mtgo.com/index.php?threads/yidaro-the-wandering-monster-bug-is-still-around.1039/": {
+    "title": "Yidaro, The Wandering Monster bug is still around",
+    "url": "https://forums.mtgo.com/index.php?threads/yidaro-the-wandering-monster-bug-is-still-around.1039/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/capricious-hellraiser-casts-both-sides-of-battles-from-the-graveyard.1015/": {
+    "title": "Capricious Hellraiser casts both sides of battles from the graveyard",
+    "url": "https://forums.mtgo.com/index.php?threads/capricious-hellraiser-casts-both-sides-of-battles-from-the-graveyard.1015/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/invasion-of-ikoria-unable-to-find-0-cost-creature-after-returning-to-battlefield-from-exile.999/": {
+    "title": "Invasion of Ikoria unable to find 0 cost creature after returning to battlefield from exile",
+    "url": "https://forums.mtgo.com/index.php?threads/invasion-of-ikoria-unable-to-find-0-cost-creature-after-returning-to-battlefield-from-exile.999/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/norns-decree-procs-on-noncombat-damage.813/": {
+    "title": "Norn's Decree procs on noncombat damage",
+    "url": "https://forums.mtgo.com/index.php?threads/norns-decree-procs-on-noncombat-damage.813/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
