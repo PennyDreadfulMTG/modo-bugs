@@ -1066,5 +1066,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/norns-decree-procs-on-noncombat-damage.813/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/brimaz-blight-of-oreskos.1054/": {
+    "title": "Brimaz, Blight of Oreskos",
+    "url": "https://forums.mtgo.com/index.php?threads/brimaz-blight-of-oreskos.1054/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
