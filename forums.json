@@ -1072,5 +1072,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/brimaz-blight-of-oreskos.1054/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/omnath-locus-of-all-and-split-card.1051/": {
+    "title": "Omnath, Locus of All and Split Card",
+    "url": "https://forums.mtgo.com/index.php?threads/omnath-locus-of-all-and-split-card.1051/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
