@@ -191,12 +191,6 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/shadow-of-doubt-doesnt-prevent-searching-library-with-the-stone-brain-ability.276/": {
-    "title": "Shadow of Doubt doesn't prevent searching library with The Stone Brain ability",
-    "url": "https://forums.mtgo.com/index.php?threads/shadow-of-doubt-doesnt-prevent-searching-library-with-the-stone-brain-ability.276/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/rosheen-still-bugged.260/": {
     "title": "Rosheen Still Bugged...",
     "url": "https://forums.mtgo.com/index.php?threads/rosheen-still-bugged.260/",
@@ -1113,6 +1107,12 @@
     "title": "Holistic Wisdom restarts games",
     "url": "https://forums.mtgo.com/index.php?threads/holistic-wisdom-restarts-games.212/",
     "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/is-this-a-glitch-goad-propaganda-unable-to-take-any-game-actions.1068/": {
+    "title": "Is this a glitch? goad+propaganda, unable to take any game actions.",
+    "url": "https://forums.mtgo.com/index.php?threads/is-this-a-glitch-goad-propaganda-unable-to-take-any-game-actions.1068/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
