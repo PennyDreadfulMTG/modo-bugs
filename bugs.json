@@ -1,5 +1,18 @@
 [
   {
+    "card": "Coalition Relic",
+    "description": "Coalition Relic adds mana on main phase without needing a counter",
+    "category": "Advantageous",
+    "last_updated": "2023-06-15 05:54:46",
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1086",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "From Under the Floorboards",
     "description": "Madness abilities that have X in the cost or are gained don't function.",
     "category": "Disadvantageous",
