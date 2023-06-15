@@ -127,6 +127,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1075",
     "support_thread": null,
+    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -5494,14 +5495,13 @@
     "card": "Semblance Anvil",
     "description": "Semblance Anvil does not function when a split card is imprinted.",
     "category": "Disadvantageous",
-    "last_updated": "2023-02-17 10:57:06",
+    "last_updated": "2023-06-12 05:31:01",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/55",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": "3.4.119.4098"
   },
   {

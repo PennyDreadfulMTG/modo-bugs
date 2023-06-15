@@ -257,12 +257,6 @@
     "status": "Confirmed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/oath-of-teferi-doesnt-allow-to-use-pws-abilities-twice.216/": {
-    "title": "Oath Of Teferi Doesn't allow to use PW's abilities twice.",
-    "url": "https://forums.mtgo.com/index.php?threads/oath-of-teferi-doesnt-allow-to-use-pws-abilities-twice.216/",
-    "status": "In Progress",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/fact-or-fiction-graveyard-order-bug.418/": {
     "title": "Fact or Fiction Graveyard Order Bug",
     "url": "https://forums.mtgo.com/index.php?threads/fact-or-fiction-graveyard-order-bug.418/",
@@ -322,12 +316,6 @@
     "url": "https://forums.mtgo.com/index.php?threads/diabolic-servitude.136/",
     "status": "Confirmed",
     "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/monster-manual-does-not-allow-casting-zoological-study.135/": {
-    "title": "Monster Manual does not allow casting Zoological Study",
-    "url": "https://forums.mtgo.com/index.php?threads/monster-manual-does-not-allow-casting-zoological-study.135/",
-    "status": "In Progress",
-    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/melira-sylvok-outcast-vs-inkmoth-nexus.109/": {
     "title": "Melira, Sylvok Outcast vs Inkmoth Nexus",
@@ -539,12 +527,6 @@
     "status": "Confirmed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/selvala-explorer-returned-parley-ability-not-working-correctly.537/": {
-    "title": "Selvala, Explorer Returned - Parley ability not working correctly.",
-    "url": "https://forums.mtgo.com/index.php?threads/selvala-explorer-returned-parley-ability-not-working-correctly.537/",
-    "status": "In Progress",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/foretell-mechanic-does-not-reveal-correctly-at-end-of-game.638/": {
     "title": "Foretell mechanic does not reveal correctly at end of game",
     "url": "https://forums.mtgo.com/index.php?threads/foretell-mechanic-does-not-reveal-correctly-at-end-of-game.638/",
@@ -593,12 +575,6 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/teachinge-of-the-archaics.649/": {
-    "title": "Teachinge of the Archaics",
-    "url": "https://forums.mtgo.com/index.php?threads/teachinge-of-the-archaics.649/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/phytotitan-is-bugged.647/": {
     "title": "Phytotitan is bugged.",
     "url": "https://forums.mtgo.com/index.php?threads/phytotitan-is-bugged.647/",
@@ -627,12 +603,6 @@
     "title": "Standard Uncommons from Treasure Chests instead of a rare! Happened 5 times!",
     "url": "https://forums.mtgo.com/index.php?threads/standard-uncommons-from-treasure-chests-instead-of-a-rare-happened-5-times.685/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/full-art-triome-lands-visual-bug.688/": {
-    "title": "Full Art Triome lands visual bug",
-    "url": "https://forums.mtgo.com/index.php?threads/full-art-triome-lands-visual-bug.688/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/jinxed-choker-bugged.703/": {
@@ -863,12 +833,6 @@
     "status": "Confirmed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/bug-ui-issue-blocked-unblocked-tokens-of-the-same-type-can%E2%80%99t-be-differentiated-if-blocker-is-removed.796/": {
-    "title": "Bug / UI Issue: Blocked / Unblocked Tokens of the Same Type Can\u2019t Be Differentiated if Blocker is Removed",
-    "url": "https://forums.mtgo.com/index.php?threads/bug-ui-issue-blocked-unblocked-tokens-of-the-same-type-can%E2%80%99t-be-differentiated-if-blocker-is-removed.796/",
-    "status": "In Progress",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/alternate-art-momir-vig-avatar-not-legal-in-freeform-vanguard.668/": {
     "title": "Alternate art Momir Vig Avatar not legal in Freeform Vanguard",
     "url": "https://forums.mtgo.com/index.php?threads/alternate-art-momir-vig-avatar-not-legal-in-freeform-vanguard.668/",
@@ -989,34 +953,10 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/gontis-machinations.854/": {
-    "title": "Gonti's Machinations",
-    "url": "https://forums.mtgo.com/index.php?threads/gontis-machinations.854/",
-    "status": "In Progress",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/jugan-defends-the-temple.935/": {
     "title": "Jugan Defends the Temple",
     "url": "https://forums.mtgo.com/index.php?threads/jugan-defends-the-temple.935/",
     "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/proliferating-a-lore-counter-on-a-saga-with-read-ahead-does-not-trigger-additional-chapter-abilities.912/": {
-    "title": "Proliferating a lore counter on a Saga with Read Ahead does not trigger additional chapter abilities",
-    "url": "https://forums.mtgo.com/index.php?threads/proliferating-a-lore-counter-on-a-saga-with-read-ahead-does-not-trigger-additional-chapter-abilities.912/",
-    "status": "In Progress",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/invasion-of-alara-bugged.926/": {
-    "title": "invasion of alara bugged",
-    "url": "https://forums.mtgo.com/index.php?threads/invasion-of-alara-bugged.926/",
-    "status": "In Progress",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/venerated-rotpriest-melira-the-living-cure-interaction-bug.906/": {
-    "title": "Venerated Rotpriest/Melira, the Living Cure Interaction bug",
-    "url": "https://forums.mtgo.com/index.php?threads/venerated-rotpriest-melira-the-living-cure-interaction-bug.906/",
-    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/homeward-path-bugged.975/": {
@@ -1043,12 +983,6 @@
     "status": "Confirmed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/invasion-of-ikoria-unable-to-find-0-cost-creature-after-returning-to-battlefield-from-exile.999/": {
-    "title": "Invasion of Ikoria unable to find 0 cost creature after returning to battlefield from exile",
-    "url": "https://forums.mtgo.com/index.php?threads/invasion-of-ikoria-unable-to-find-0-cost-creature-after-returning-to-battlefield-from-exile.999/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/norns-decree-procs-on-noncombat-damage.813/": {
     "title": "Norn's Decree procs on noncombat damage",
     "url": "https://forums.mtgo.com/index.php?threads/norns-decree-procs-on-noncombat-damage.813/",
@@ -1067,51 +1001,45 @@
     "status": "Confirmed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/the-ability-of-the-copied-archfiend-of-the-dross-was-not-triggered.1044/": {
-    "title": "The ability of the copied Archfiend of the Dross was not triggered",
-    "url": "https://forums.mtgo.com/index.php?threads/the-ability-of-the-copied-archfiend-of-the-dross-was-not-triggered.1044/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/initiative-is-bugged-in-multiplayer.1037/": {
-    "title": "Initiative is bugged in Multiplayer",
-    "url": "https://forums.mtgo.com/index.php?threads/initiative-is-bugged-in-multiplayer.1037/",
-    "status": "In Progress",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/myriad-construct-enters-with-incorrect-number-of-counters.1026/": {
-    "title": "Myriad Construct enters with incorrect number of counters",
-    "url": "https://forums.mtgo.com/index.php?threads/myriad-construct-enters-with-incorrect-number-of-counters.1026/",
-    "status": "In Progress",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/patron-of-the-orochi.920/": {
-    "title": "Patron of the Orochi",
-    "url": "https://forums.mtgo.com/index.php?threads/patron-of-the-orochi.920/",
-    "status": "In Progress",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/halana-kessig-ranger-broken.892/": {
-    "title": "Halana kessig ranger broken",
-    "url": "https://forums.mtgo.com/index.php?threads/halana-kessig-ranger-broken.892/",
-    "status": "In Progress",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/intuition-bugged-with-split-cards.734/": {
-    "title": "Intuition bugged with split cards",
-    "url": "https://forums.mtgo.com/index.php?threads/intuition-bugged-with-split-cards.734/",
-    "status": "In Progress",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/holistic-wisdom-restarts-games.212/": {
-    "title": "Holistic Wisdom restarts games",
-    "url": "https://forums.mtgo.com/index.php?threads/holistic-wisdom-restarts-games.212/",
-    "status": "In Progress",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/is-this-a-glitch-goad-propaganda-unable-to-take-any-game-actions.1068/": {
     "title": "Is this a glitch? goad+propaganda, unable to take any game actions.",
     "url": "https://forums.mtgo.com/index.php?threads/is-this-a-glitch-goad-propaganda-unable-to-take-any-game-actions.1068/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/old-stickfingers-graveyard-order-corpse-dance-and-shallow-grave.820/": {
+    "title": "Old stickfingers - graveyard order - Corpse dance and Shallow grave",
+    "url": "https://forums.mtgo.com/index.php?threads/old-stickfingers-graveyard-order-corpse-dance-and-shallow-grave.820/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/myarid-tokens-not-dealing-damage.1093/": {
+    "title": "Myarid tokens not dealing damage.",
+    "url": "https://forums.mtgo.com/index.php?threads/myarid-tokens-not-dealing-damage.1093/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/as-foretold-electrodominance.1032/": {
+    "title": "As Foretold + Electrodominance",
+    "url": "https://forums.mtgo.com/index.php?threads/as-foretold-electrodominance.1032/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/opponents-foretell-cards-arent-shown-anywhere.1085/": {
+    "title": "Opponent's Foretell cards aren't shown anywhere",
+    "url": "https://forums.mtgo.com/index.php?threads/opponents-foretell-cards-arent-shown-anywhere.1085/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/chandras-phoenix-returns-on-damage-to-a-creature.1061/": {
+    "title": "Chandra's Phoenix returns on damage to a creature",
+    "url": "https://forums.mtgo.com/index.php?threads/chandras-phoenix-returns-on-damage-to-a-creature.1061/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/hex-parasite-cant-target-battles.902/": {
+    "title": "Hex Parasite can't target Battles",
+    "url": "https://forums.mtgo.com/index.php?threads/hex-parasite-cant-target-battles.902/",
     "status": "Confirmed",
     "tracked": false
   }
