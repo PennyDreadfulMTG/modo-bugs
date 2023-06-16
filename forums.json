@@ -1042,5 +1042,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/hex-parasite-cant-target-battles.902/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bugged-in-at-least-two-ways.330/": {
+    "title": "Volrath's Shapeshifter bugged in at least two ways",
+    "url": "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bugged-in-at-least-two-ways.330/",
+    "status": "Confirmed",
+    "tracked": true
   }
 }
