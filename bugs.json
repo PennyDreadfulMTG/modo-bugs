@@ -78,19 +78,6 @@
     "last_verified": null
   },
   {
-    "card": "Myriad Construct",
-    "description": "Myriad Construct may enter with an enormous amount of counters when kicked",
-    "category": "Advantageous",
-    "last_updated": "2023-05-02 21:55:02",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1082",
-    "support_thread": null,
-    "last_verified": null
-  },
-  {
     "card": "Jace, Mirror Mage",
     "description": "Jace, Mirror Mage causes a game restart if kicked",
     "category": "Avoidable Game Breaking",
@@ -442,14 +429,13 @@
     "card": "Intuition",
     "description": "Intuition Behaves Strangely With Adventures (choose the spell half of the adventure from the drop down to avoid)",
     "category": "Graphical",
-    "last_updated": "2022-07-13 08:20:22",
+    "last_updated": "2023-06-21 20:56:15",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1036",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -1170,28 +1156,26 @@
     "card": "Entrails Feaster",
     "description": "Certain card's abilities set the number of counters on them to one rather than adding one counter",
     "category": "Disadvantageous",
-    "last_updated": "2023-02-17 10:55:23",
+    "last_updated": "2023-06-21 20:16:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/989",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": null
   },
   {
     "card": "Crovax the Cursed",
     "description": "Certain card's abilities set the number of counters on them to one rather than adding one counter",
     "category": "Disadvantageous",
-    "last_updated": "2023-02-17 10:55:23",
+    "last_updated": "2023-06-21 20:16:55",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/989",
     "support_thread": null,
-    "help_wanted": true,
     "last_verified": null
   },
   {
@@ -2272,34 +2256,6 @@
     "last_verified": "3.4.129.4215"
   },
   {
-    "card": "Shatterskull Smashing",
-    "description": "Shatterskull Smashing ignores Reidane when calculating cost",
-    "category": "Advantageous",
-    "last_updated": "2021-05-08 19:54:53",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/918",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Reidane, God of the Worthy",
-    "description": "Shatterskull Smashing ignores Reidane when calculating cost",
-    "category": "Advantageous",
-    "last_updated": "2021-05-08 19:54:53",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/918",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Kiora, Master of the Depths",
     "description": "Kiora, Master of the Depths incorrectly allows taking MDFCs where one side is a land, and does not count it toward the total taken",
     "category": "Advantageous",
@@ -3307,34 +3263,6 @@
     "last_verified": null
   },
   {
-    "card": "Dream Halls",
-    "description": "Dream Halls does not function correctly with modal spells such as Mystic Confluence.",
-    "category": "Unclassified",
-    "last_updated": "2019-09-17 18:54:40",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/797",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
-    "card": "Mystic Confluence",
-    "description": "Dream Halls does not function correctly with modal spells such as Mystic Confluence.",
-    "category": "Unclassified",
-    "last_updated": "2019-09-17 18:54:40",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/797",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": null
-  },
-  {
     "card": "Necra Sanctuary",
     "description": "Necra Sanctuary does not cause a player to lose 3 life if you control both a green and white permanent.",
     "category": "Disadvantageous",
@@ -4160,20 +4088,6 @@
     "support_thread": null,
     "help_wanted": true,
     "last_verified": "3.4.123.4152"
-  },
-  {
-    "card": "Holistic Wisdom",
-    "description": "Holistic Wisdom restarts the game when you activate it",
-    "category": "Game Breaking",
-    "last_updated": "2023-02-17 10:56:32",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/531",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.114.4048"
   },
   {
     "card": "Tromokratis",
@@ -5264,20 +5178,6 @@
     "support_thread": null,
     "help_wanted": true,
     "last_verified": "3.4.114.4050"
-  },
-  {
-    "card": "Goblin Game",
-    "description": "Goblin Game reveals your chosen number before your opponents choose.",
-    "category": "Disadvantageous",
-    "last_updated": "2020-11-07 07:16:11",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/180",
-    "support_thread": null,
-    "help_wanted": true,
-    "last_verified": "3.4.117.4078"
   },
   {
     "card": "Oriss, Samite Guardian",
