@@ -1035,7 +1035,7 @@
     "title": "Chandra's Phoenix returns on damage to a creature",
     "url": "https://forums.mtgo.com/index.php?threads/chandras-phoenix-returns-on-damage-to-a-creature.1061/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/hex-parasite-cant-target-battles.902/": {
     "title": "Hex Parasite can't target Battles",
@@ -1048,5 +1048,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bugged-in-at-least-two-ways.330/",
     "status": "Confirmed",
     "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/sauron-the-necromancer-is-bugged.1134/": {
+    "title": "Sauron, the Necromancer is bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/sauron-the-necromancer-is-bugged.1134/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/shire-sherriff-allows-to-attempt-to-sac-op-permanents.1133/": {
+    "title": "Shire Sherriff Allows to Attempt to Sac OP Permanents",
+    "url": "https://forums.mtgo.com/index.php?threads/shire-sherriff-allows-to-attempt-to-sac-op-permanents.1133/",
+    "status": "In Progress",
+    "tracked": false
   }
 }
