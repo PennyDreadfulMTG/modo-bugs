@@ -1049,16 +1049,28 @@
     "status": "Confirmed",
     "tracked": true
   },
-  "https://forums.mtgo.com/index.php?threads/sauron-the-necromancer-is-bugged.1134/": {
-    "title": "Sauron, the Necromancer is bugged",
-    "url": "https://forums.mtgo.com/index.php?threads/sauron-the-necromancer-is-bugged.1134/",
-    "status": "In Progress",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/shire-sherriff-allows-to-attempt-to-sac-op-permanents.1133/": {
     "title": "Shire Sherriff Allows to Attempt to Sac OP Permanents",
     "url": "https://forums.mtgo.com/index.php?threads/shire-sherriff-allows-to-attempt-to-sac-op-permanents.1133/",
-    "status": "In Progress",
+    "status": "Fixed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-invasion-of-new-cappena-allows-you-to-select-opponents-creatures-to-sacrifice.1115/": {
+    "title": "BUG Invasion of New Cappena allows you to select opponents creatures to sacrifice",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-invasion-of-new-cappena-allows-you-to-select-opponents-creatures-to-sacrifice.1115/",
+    "status": "Fixed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/collection-tab-search-function.1109/": {
+    "title": "Collection tab Search function",
+    "url": "https://forums.mtgo.com/index.php?threads/collection-tab-search-function.1109/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/wernog-riders-chaplain-clues-do-not-draw-a-card.1141/": {
+    "title": "Wernog, Rider's Chaplain clues do not draw a card",
+    "url": "https://forums.mtgo.com/index.php?threads/wernog-riders-chaplain-clues-do-not-draw-a-card.1141/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
