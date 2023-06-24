@@ -1,9 +1,9 @@
 [
   {
-    "card": "Council's Judgement",
+    "card": "Council's Judgment",
     "description": "Council's judgement doesn't display votes, rather it only displays the name of the permenant voted for",
     "category": "Advantageous",
-    "last_updated": "2023-06-24 07:55:01",
+    "last_updated": "2023-06-24 17:54:56",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
