@@ -135,7 +135,7 @@
     "title": "Jace, Mirror Mage",
     "url": "https://forums.mtgo.com/index.php?threads/jace-mirror-mage.165/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/ludevic-necrogenius.76/": {
     "title": "Ludevic, Necrogenius",
