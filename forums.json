@@ -117,7 +117,7 @@
     "title": "Profaner of the Dead",
     "url": "https://forums.mtgo.com/index.php?threads/profaner-of-the-dead.87/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/valki-god-of-lies.86/": {
     "title": "Valki god of lies",
@@ -272,7 +272,7 @@
   "https://forums.mtgo.com/index.php?threads/opposition-agent-cant-cast-panglacial-wurm.400/": {
     "title": "Opposition Agent can't cast Panglacial Wurm",
     "url": "https://forums.mtgo.com/index.php?threads/opposition-agent-cant-cast-panglacial-wurm.400/",
-    "status": "Not A Bug",
+    "status": "No Fix Planned",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/nylea-keen-eyed-ability-bug.339/": {

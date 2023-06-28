@@ -1045,14 +1045,14 @@
     "card": "Profaner of the Dead",
     "description": "Profaner of the Dead's exploit trigger doesn't function.",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:18:11",
+    "last_updated": "2023-06-28 13:15:33",
     "issue_number": 997,
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/997",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/profaner-of-the-dead.87/",
     "last_verified": null
   },
   {
