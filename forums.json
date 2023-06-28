@@ -93,7 +93,7 @@
     "title": "Consuming Tide is not working as it should",
     "url": "https://forums.mtgo.com/index.php?threads/consuming-tide-is-not-working-as-it-should.99/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/must-be-blocked-ability.94/": {
     "title": "\"Must be blocked\" ability",

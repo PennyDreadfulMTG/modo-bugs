@@ -332,13 +332,13 @@
     "card": "Consuming Tide",
     "description": "Consuming tide returns the chosen permanents, not all others.",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:17:41",
+    "last_updated": "2023-06-28 11:46:21",
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1047",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/consuming-tide-is-not-working-as-it-should.99/",
     "last_verified": null
   },
   {
@@ -1146,19 +1146,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/984",
-    "support_thread": null,
-    "last_verified": null
-  },
-  {
-    "card": "Consuming Tide",
-    "description": "Consuming Tide counts tokens that were bounced as in your hand for purposes of card draw.",
-    "category": "Advantageous",
-    "last_updated": "2023-06-26 13:18:23",
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/982",
     "support_thread": null,
     "last_verified": null
   },
