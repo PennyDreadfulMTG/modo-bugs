@@ -1072,5 +1072,47 @@
     "url": "https://forums.mtgo.com/index.php?threads/wernog-riders-chaplain-clues-do-not-draw-a-card.1141/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/rise-of-the-witch-king-bug.1149/": {
+    "title": "Rise of the Witch King Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/rise-of-the-witch-king-bug.1149/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/relic-of-saurons-mana-ability-uses-the-stack.1161/": {
+    "title": "Relic of Sauron's mana ability uses the stack.",
+    "url": "https://forums.mtgo.com/index.php?threads/relic-of-saurons-mana-ability-uses-the-stack.1161/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dreadhorde-invasion-does-not-apply-lifelink-to-zombie-orc-army.1163/": {
+    "title": "Dreadhorde invasion does not apply lifelink to zombie orc army",
+    "url": "https://forums.mtgo.com/index.php?threads/dreadhorde-invasion-does-not-apply-lifelink-to-zombie-orc-army.1163/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/lord-of-the-rings-cards-cannot-be-named-with-pithing-needle-or-sorcerous-spyglass.1155/": {
+    "title": "Lord of the Rings cards cannot be named with Pithing Needle or Sorcerous Spyglass",
+    "url": "https://forums.mtgo.com/index.php?threads/lord-of-the-rings-cards-cannot-be-named-with-pithing-needle-or-sorcerous-spyglass.1155/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/saruman-of-many-colors-is-bugged.1153/": {
+    "title": "Saruman of Many Colors is bugged.",
+    "url": "https://forums.mtgo.com/index.php?threads/saruman-of-many-colors-is-bugged.1153/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/goldberry-river-daughter-is-bugged.1158/": {
+    "title": "Goldberry, River-Daughter is bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/goldberry-river-daughter-is-bugged.1158/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gontis-machination-only-half-works.1116/": {
+    "title": "Gonti's Machination only half works",
+    "url": "https://forums.mtgo.com/index.php?threads/gontis-machination-only-half-works.1116/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
