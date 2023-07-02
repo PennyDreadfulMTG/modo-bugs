@@ -14,20 +14,6 @@
     "last_verified": null
   },
   {
-    "card": "Coalition Relic",
-    "description": "Coalition Relic adds mana on main phase without needing a counter if previously charged",
-    "category": "Advantageous",
-    "last_updated": "2023-06-26 20:27:13",
-    "issue_number": 1086,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1086",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/coalition-relic-lets-you-add-a-mana-even-when-theres-no-charge-counter-on-it.1122/",
-    "last_verified": null
-  },
-  {
     "card": "From Under the Floorboards",
     "description": "Madness abilities that have X in the cost or are gained don't function.",
     "category": "Disadvantageous",
@@ -165,7 +151,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1073",
     "support_thread": "https://forums.mtgo.com/index.php?threads/spawning-pool-cant-tap-itself-for-mana.419/",
-    "last_verified": "3.4.132.4356"
+    "last_verified": "3.4.132.4356",
+    "help_wanted": true
   },
   {
     "card": "Sacred Ground",
@@ -1045,7 +1032,7 @@
     "card": "Profaner of the Dead",
     "description": "Profaner of the Dead's exploit trigger doesn't function.",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-28 13:15:33",
+    "last_updated": "2023-06-28 13:15:37",
     "issue_number": 997,
     "pd_legal": false,
     "bug_blog": false,
@@ -1521,14 +1508,14 @@
     "card": "Diabolic Servitude",
     "description": "Diabolic Servitude's second ability does not function. (When the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner\u2019s hand.)",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:18:37",
+    "last_updated": "2023-07-02 08:55:02",
     "issue_number": 964,
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/964",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/diabolic-servitude.136/",
     "last_verified": null
   },
   {
@@ -1703,14 +1690,14 @@
     "card": "Riders of Gavony",
     "description": "Riders of Gavony gives protection to all permanents.",
     "category": "Advantageous",
-    "last_updated": "2023-06-26 13:18:47",
+    "last_updated": "2023-07-02 08:55:05",
     "issue_number": 949,
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/949",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/riders-of-gavony-glitch.678/",
     "last_verified": "3.4.124.4162"
   },
   {
@@ -1997,28 +1984,28 @@
     "card": "Ixalan's Binding",
     "description": "Ashiok's Erasure and Ixalan's Binding don't prevent the opponent from casting copies of the spells they've exiled.",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:18:57",
+    "last_updated": "2023-07-02 08:55:09",
     "issue_number": 926,
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/926",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/",
     "last_verified": "3.4.124.4162"
   },
   {
     "card": "Ashiok's Erasure",
     "description": "Ashiok's Erasure and Ixalan's Binding don't prevent the opponent from casting copies of the spells they've exiled.",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:18:57",
+    "last_updated": "2023-07-02 08:55:09",
     "issue_number": 926,
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/926",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/",
     "last_verified": "3.4.124.4162"
   },
   {
@@ -2499,16 +2486,16 @@
   },
   {
     "card": "First Response",
-    "description": "First Response does not trigger from self-inflicted life-loss",
+    "description": "First Response does not trigger",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:19:10",
+    "last_updated": "2023-07-02 08:55:13",
     "issue_number": 898,
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/898",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/first-response-doesnt-work.336/",
     "last_verified": null
   },
   {
@@ -4025,6 +4012,20 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/575",
     "support_thread": null,
     "last_verified": null
+  },
+  {
+    "card": "Eternal Scourge",
+    "description": "Cards that can be cast from exile are incorrectly able to be cast while face down.",
+    "category": "Advantageous",
+    "last_updated": "2023-07-02 08:55:18",
+    "issue_number": 574,
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/574",
+    "support_thread": null,
+    "last_verified": "3.4.114.4048"
   },
   {
     "card": "Mutiny",

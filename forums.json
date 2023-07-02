@@ -315,7 +315,7 @@
     "title": "Diabolic Servitude",
     "url": "https://forums.mtgo.com/index.php?threads/diabolic-servitude.136/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/melira-sylvok-outcast-vs-inkmoth-nexus.109/": {
     "title": "Melira, Sylvok Outcast vs Inkmoth Nexus",
@@ -327,7 +327,7 @@
     "title": "First Response doesn't work",
     "url": "https://forums.mtgo.com/index.php?threads/first-response-doesnt-work.336/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/meld-mishra-commander-damage.416/": {
     "title": "Meld Mishra commander damage",
@@ -525,7 +525,7 @@
     "title": "Ashiok's Erasure bug",
     "url": "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/foretell-mechanic-does-not-reveal-correctly-at-end-of-game.638/": {
     "title": "Foretell mechanic does not reveal correctly at end of game",
@@ -567,7 +567,7 @@
     "title": "Riders of Gavony glitch",
     "url": "https://forums.mtgo.com/index.php?threads/riders-of-gavony-glitch.678/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/churning-reservoir-targeting-error.662/": {
     "title": "Churning Reservoir targeting error",
@@ -1076,7 +1076,7 @@
   "https://forums.mtgo.com/index.php?threads/rise-of-the-witch-king-bug.1149/": {
     "title": "Rise of the Witch King Bug",
     "url": "https://forums.mtgo.com/index.php?threads/rise-of-the-witch-king-bug.1149/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/relic-of-saurons-mana-ability-uses-the-stack.1161/": {
@@ -1094,19 +1094,19 @@
   "https://forums.mtgo.com/index.php?threads/lord-of-the-rings-cards-cannot-be-named-with-pithing-needle-or-sorcerous-spyglass.1155/": {
     "title": "Lord of the Rings cards cannot be named with Pithing Needle or Sorcerous Spyglass",
     "url": "https://forums.mtgo.com/index.php?threads/lord-of-the-rings-cards-cannot-be-named-with-pithing-needle-or-sorcerous-spyglass.1155/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/saruman-of-many-colors-is-bugged.1153/": {
     "title": "Saruman of Many Colors is bugged.",
     "url": "https://forums.mtgo.com/index.php?threads/saruman-of-many-colors-is-bugged.1153/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/goldberry-river-daughter-is-bugged.1158/": {
     "title": "Goldberry, River-Daughter is bugged",
     "url": "https://forums.mtgo.com/index.php?threads/goldberry-river-daughter-is-bugged.1158/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/gontis-machination-only-half-works.1116/": {
