@@ -4462,7 +4462,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": "3.4.132.4358"
+    "last_verified": "3.4.132.4358",
+    "help_wanted": true
   },
   {
     "card": "Cultivate",
@@ -4476,7 +4477,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": "3.4.132.4358"
+    "last_verified": "3.4.132.4358",
+    "help_wanted": true
   },
   {
     "card": "Kodama's Reach",
@@ -4490,7 +4492,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": "3.4.132.4358"
+    "last_verified": "3.4.132.4358",
+    "help_wanted": true
   },
   {
     "card": "Peregrination",
@@ -4504,7 +4507,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": "3.4.132.4358"
+    "last_verified": "3.4.132.4358",
+    "help_wanted": true
   },
   {
     "card": "Realms Uncharted",
@@ -4518,7 +4522,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": "3.4.132.4358"
+    "last_verified": "3.4.132.4358",
+    "help_wanted": true
   },
   {
     "card": "Nahiri's Wrath",
