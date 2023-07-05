@@ -2499,21 +2499,6 @@
     "last_verified": null
   },
   {
-    "card": "Necromantic Selection",
-    "description": "Necromantic Selection causes a game reset in multiplayer ",
-    "category": "Game Breaking",
-    "last_updated": "2023-06-26 13:19:11",
-    "issue_number": 897,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/897",
-    "support_thread": null,
-    "last_verified": null,
-    "multiplayer_only": true
-  },
-  {
     "card": "Svella, Ice Shaper",
     "description": "Svella, Ice Shaper's second ability shows incorrect text (but works correctly)",
     "category": "Graphical",
