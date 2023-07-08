@@ -14,6 +14,20 @@
     "last_verified": null
   },
   {
+    "card": "Coalition Relic",
+    "description": "Coalition Relic adds mana on main phase without needing a counter if previously charged",
+    "category": "Advantageous",
+    "last_updated": "2023-07-08 05:15:00",
+    "issue_number": 1086,
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1086",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/coalition-relic-lets-you-add-a-mana-even-when-theres-no-charge-counter-on-it.1122/",
+    "last_verified": null
+  },
+  {
     "card": "From Under the Floorboards",
     "description": "Madness abilities that have X in the cost or are gained don't function.",
     "category": "Disadvantageous",
@@ -379,20 +393,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1045",
-    "support_thread": null,
-    "last_verified": null
-  },
-  {
-    "card": "Selvala, Explorer Returned",
-    "description": "Selvala, Explorer Returned gives 1 mana and 0 life when tapped for mana regardless of the amount of nonland cards revealed",
-    "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:17:44",
-    "issue_number": 1043,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1043",
     "support_thread": null,
     "last_verified": null
   },
