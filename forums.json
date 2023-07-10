@@ -1114,5 +1114,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/gontis-machination-only-half-works.1116/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gy-order-bug-remains.1203/": {
+    "title": "GY Order Bug Remains",
+    "url": "https://forums.mtgo.com/index.php?threads/gy-order-bug-remains.1203/",
+    "status": "In Progress",
+    "tracked": false
   }
 }
