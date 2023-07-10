@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/wernog-riders-chaplain-clues-do-not-draw-a-card.1141/": {
     "title": "Wernog, Rider's Chaplain clues do not draw a card",
     "url": "https://forums.mtgo.com/index.php?threads/wernog-riders-chaplain-clues-do-not-draw-a-card.1141/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/rise-of-the-witch-king-bug.1149/": {
@@ -1112,12 +1112,18 @@
   "https://forums.mtgo.com/index.php?threads/gontis-machination-only-half-works.1116/": {
     "title": "Gonti's Machination only half works",
     "url": "https://forums.mtgo.com/index.php?threads/gontis-machination-only-half-works.1116/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/gy-order-bug-remains.1203/": {
     "title": "GY Order Bug Remains",
     "url": "https://forums.mtgo.com/index.php?threads/gy-order-bug-remains.1203/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/glitch-with-bewitching-leechcraft.1176/": {
+    "title": "Glitch with bewitching leechcraft",
+    "url": "https://forums.mtgo.com/index.php?threads/glitch-with-bewitching-leechcraft.1176/",
     "status": "In Progress",
     "tracked": false
   }
