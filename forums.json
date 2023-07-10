@@ -1126,5 +1126,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/glitch-with-bewitching-leechcraft.1176/",
     "status": "In Progress",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/coalition-relic-lets-you-add-a-mana-even-when-theres-no-charge-counter-on-it.1122/": {
+    "title": "Coalition Relic lets you add a mana even when there's no charge counter on it",
+    "url": "https://forums.mtgo.com/index.php?threads/coalition-relic-lets-you-add-a-mana-even-when-theres-no-charge-counter-on-it.1122/",
+    "status": "Confirmed",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/glitch-with-soul-ransom.1197/": {
+    "title": "Glitch with Soul Ransom",
+    "url": "https://forums.mtgo.com/index.php?threads/glitch-with-soul-ransom.1197/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
