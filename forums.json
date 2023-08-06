@@ -752,7 +752,7 @@
   "https://forums.mtgo.com/index.php?threads/aminatous-augury-bugged.659/": {
     "title": "Aminatou's Augury bugged",
     "url": "https://forums.mtgo.com/index.php?threads/aminatous-augury-bugged.659/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/application-not-found.753/": {
@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/wernog-riders-chaplain-clues-do-not-draw-a-card.1141/": {
     "title": "Wernog, Rider's Chaplain clues do not draw a card",
     "url": "https://forums.mtgo.com/index.php?threads/wernog-riders-chaplain-clues-do-not-draw-a-card.1141/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/rise-of-the-witch-king-bug.1149/": {
@@ -1082,7 +1082,7 @@
   "https://forums.mtgo.com/index.php?threads/relic-of-saurons-mana-ability-uses-the-stack.1161/": {
     "title": "Relic of Sauron's mana ability uses the stack.",
     "url": "https://forums.mtgo.com/index.php?threads/relic-of-saurons-mana-ability-uses-the-stack.1161/",
-    "status": "Backlog",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dreadhorde-invasion-does-not-apply-lifelink-to-zombie-orc-army.1163/": {
@@ -1112,31 +1112,79 @@
   "https://forums.mtgo.com/index.php?threads/gontis-machination-only-half-works.1116/": {
     "title": "Gonti's Machination only half works",
     "url": "https://forums.mtgo.com/index.php?threads/gontis-machination-only-half-works.1116/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/gy-order-bug-remains.1203/": {
     "title": "GY Order Bug Remains",
     "url": "https://forums.mtgo.com/index.php?threads/gy-order-bug-remains.1203/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/glitch-with-bewitching-leechcraft.1176/": {
     "title": "Glitch with bewitching leechcraft",
     "url": "https://forums.mtgo.com/index.php?threads/glitch-with-bewitching-leechcraft.1176/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/coalition-relic-lets-you-add-a-mana-even-when-theres-no-charge-counter-on-it.1122/": {
     "title": "Coalition Relic lets you add a mana even when there's no charge counter on it",
     "url": "https://forums.mtgo.com/index.php?threads/coalition-relic-lets-you-add-a-mana-even-when-theres-no-charge-counter-on-it.1122/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/glitch-with-soul-ransom.1197/": {
     "title": "Glitch with Soul Ransom",
     "url": "https://forums.mtgo.com/index.php?threads/glitch-with-soul-ransom.1197/",
     "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/opponents-incorrectly-reanimate-my-golgari-grave-troll-with-a-1-1-counter.1246/": {
+    "title": "Opponents incorrectly Reanimate my Golgari Grave-Troll with a +1/+1 Counter",
+    "url": "https://forums.mtgo.com/index.php?threads/opponents-incorrectly-reanimate-my-golgari-grave-troll-with-a-1-1-counter.1246/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/etali-cant-cast-second-spell-after-selecting-archangel-of-wrath-with-kicker.1255/": {
+    "title": "Etali - Can't cast second spell after selecting Archangel of Wrath with kicker",
+    "url": "https://forums.mtgo.com/index.php?threads/etali-cant-cast-second-spell-after-selecting-archangel-of-wrath-with-kicker.1255/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-lesson-cards-are-missing-their-identifying-mark.1251/": {
+    "title": "The lesson cards are missing their identifying mark.",
+    "url": "https://forums.mtgo.com/index.php?threads/the-lesson-cards-are-missing-their-identifying-mark.1251/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/councils-judgment-not-showing-initial-vote.1226/": {
+    "title": "Council's Judgment not showing initial vote",
+    "url": "https://forums.mtgo.com/index.php?threads/councils-judgment-not-showing-initial-vote.1226/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/foray-of-orcs-bugged.1240/": {
+    "title": "Foray of Orcs Bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/foray-of-orcs-bugged.1240/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/forth-eorlingas-monarch-triggered-for-unknown-reason.1237/": {
+    "title": "Forth Eorlingas! Monarch triggered for unknown reason",
+    "url": "https://forums.mtgo.com/index.php?threads/forth-eorlingas-monarch-triggered-for-unknown-reason.1237/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/wernog-not-giving-clues-to-all-opponents.1225/": {
+    "title": "Wernog not giving clues to all opponents",
+    "url": "https://forums.mtgo.com/index.php?threads/wernog-not-giving-clues-to-all-opponents.1225/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/forth-eorlingas-and-orcish-bowmasters-major-bug.1209/": {
+    "title": "Forth Eorlingas! and Orcish Bowmasters MAJOR Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/forth-eorlingas-and-orcish-bowmasters-major-bug.1209/",
+    "status": "In Progress",
     "tracked": false
   }
 }
