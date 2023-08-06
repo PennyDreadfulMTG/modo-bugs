@@ -1,9 +1,9 @@
 [
   {
-    "card": "Disciple of the vault",
+    "card": "Disciple of the Vault",
     "description": "Disciple of the vault incorrectly prompts you to use {opponents name's} ability instead of its ability implying your opponent has the life loss ability",
     "category": "Graphical",
-    "last_updated": "2023-08-06 17:54:47",
+    "last_updated": "2023-08-06 18:54:45",
     "issue_number": 1088,
     "pd_legal": false,
     "bug_blog": false,
