@@ -152,7 +152,7 @@
   "https://forums.mtgo.com/index.php?threads/myriad-tokens-enter-not-attacking.210/": {
     "title": "Myriad tokens enter not attacking",
     "url": "https://forums.mtgo.com/index.php?threads/myriad-tokens-enter-not-attacking.210/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/agitator-ant-bug.195/": {
@@ -338,12 +338,6 @@
   "https://forums.mtgo.com/index.php?threads/island-sanctuary.413/": {
     "title": "Island Sanctuary",
     "url": "https://forums.mtgo.com/index.php?threads/island-sanctuary.413/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/myriad-doesnt-have-the-tokens-attack.391/": {
-    "title": "Myriad doesn't have the tokens attack",
-    "url": "https://forums.mtgo.com/index.php?threads/myriad-doesnt-have-the-tokens-attack.391/",
     "status": "Confirmed",
     "tracked": false
   },
@@ -752,7 +746,7 @@
   "https://forums.mtgo.com/index.php?threads/aminatous-augury-bugged.659/": {
     "title": "Aminatou's Augury bugged",
     "url": "https://forums.mtgo.com/index.php?threads/aminatous-augury-bugged.659/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/application-not-found.753/": {
@@ -1016,7 +1010,7 @@
   "https://forums.mtgo.com/index.php?threads/myarid-tokens-not-dealing-damage.1093/": {
     "title": "Myarid tokens not dealing damage.",
     "url": "https://forums.mtgo.com/index.php?threads/myarid-tokens-not-dealing-damage.1093/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/as-foretold-electrodominance.1032/": {
@@ -1082,7 +1076,7 @@
   "https://forums.mtgo.com/index.php?threads/relic-of-saurons-mana-ability-uses-the-stack.1161/": {
     "title": "Relic of Sauron's mana ability uses the stack.",
     "url": "https://forums.mtgo.com/index.php?threads/relic-of-saurons-mana-ability-uses-the-stack.1161/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dreadhorde-invasion-does-not-apply-lifelink-to-zombie-orc-army.1163/": {
@@ -1130,7 +1124,7 @@
   "https://forums.mtgo.com/index.php?threads/coalition-relic-lets-you-add-a-mana-even-when-theres-no-charge-counter-on-it.1122/": {
     "title": "Coalition Relic lets you add a mana even when there's no charge counter on it",
     "url": "https://forums.mtgo.com/index.php?threads/coalition-relic-lets-you-add-a-mana-even-when-theres-no-charge-counter-on-it.1122/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/glitch-with-soul-ransom.1197/": {
@@ -1148,13 +1142,13 @@
   "https://forums.mtgo.com/index.php?threads/etali-cant-cast-second-spell-after-selecting-archangel-of-wrath-with-kicker.1255/": {
     "title": "Etali - Can't cast second spell after selecting Archangel of Wrath with kicker",
     "url": "https://forums.mtgo.com/index.php?threads/etali-cant-cast-second-spell-after-selecting-archangel-of-wrath-with-kicker.1255/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/the-lesson-cards-are-missing-their-identifying-mark.1251/": {
     "title": "The lesson cards are missing their identifying mark.",
     "url": "https://forums.mtgo.com/index.php?threads/the-lesson-cards-are-missing-their-identifying-mark.1251/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/councils-judgment-not-showing-initial-vote.1226/": {
@@ -1172,19 +1166,19 @@
   "https://forums.mtgo.com/index.php?threads/forth-eorlingas-monarch-triggered-for-unknown-reason.1237/": {
     "title": "Forth Eorlingas! Monarch triggered for unknown reason",
     "url": "https://forums.mtgo.com/index.php?threads/forth-eorlingas-monarch-triggered-for-unknown-reason.1237/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/wernog-not-giving-clues-to-all-opponents.1225/": {
     "title": "Wernog not giving clues to all opponents",
     "url": "https://forums.mtgo.com/index.php?threads/wernog-not-giving-clues-to-all-opponents.1225/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/forth-eorlingas-and-orcish-bowmasters-major-bug.1209/": {
     "title": "Forth Eorlingas! and Orcish Bowmasters MAJOR Bug",
     "url": "https://forums.mtgo.com/index.php?threads/forth-eorlingas-and-orcish-bowmasters-major-bug.1209/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   }
 }
