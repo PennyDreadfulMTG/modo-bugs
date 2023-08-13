@@ -1180,5 +1180,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/forth-eorlingas-and-orcish-bowmasters-major-bug.1209/",
     "status": "Fixed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/distant-memories.1309/": {
+    "title": "Distant Memories..",
+    "url": "https://forums.mtgo.com/index.php?threads/distant-memories.1309/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gontis-machinations-not-triggering-with-shock-land.1300/": {
+    "title": "Gonti's machinations not triggering with shock land",
+    "url": "https://forums.mtgo.com/index.php?threads/gontis-machinations-not-triggering-with-shock-land.1300/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
