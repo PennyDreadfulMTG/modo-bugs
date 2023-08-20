@@ -260,7 +260,7 @@
   "https://forums.mtgo.com/index.php?threads/fact-or-fiction-graveyard-order-bug.418/": {
     "title": "Fact or Fiction Graveyard Order Bug",
     "url": "https://forums.mtgo.com/index.php?threads/fact-or-fiction-graveyard-order-bug.418/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/oath-of-druids-and-dragon-breath.401/": {
@@ -1191,6 +1191,30 @@
     "title": "Gonti's machinations not triggering with shock land",
     "url": "https://forums.mtgo.com/index.php?threads/gontis-machinations-not-triggering-with-shock-land.1300/",
     "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/chaos-warp-doesnt-work-at-battle.1319/": {
+    "title": "Chaos Warp doesn't work at Battle",
+    "url": "https://forums.mtgo.com/index.php?threads/chaos-warp-doesnt-work-at-battle.1319/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/slip-out-the-back-vs-dash.1311/": {
+    "title": "Slip out the Back vs. Dash",
+    "url": "https://forums.mtgo.com/index.php?threads/slip-out-the-back-vs-dash.1311/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/": {
+    "title": "The madness alternative cost on the card From Under The Floorboards is broken",
+    "url": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
+    "status": "Backlog",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/multiplayer-games-restarting-whenever-anyone-mulligans.522/": {
+    "title": "Multiplayer games restarting whenever anyone mulligans",
+    "url": "https://forums.mtgo.com/index.php?threads/multiplayer-games-restarting-whenever-anyone-mulligans.522/",
+    "status": "In Progress",
     "tracked": false
   }
 }
