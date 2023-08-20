@@ -31,7 +31,7 @@
     "card": "From Under the Floorboards",
     "description": "Madness abilities that have X in the cost or are gained don't function.",
     "category": "Disadvantageous",
-    "last_updated": "2023-05-29 00:54:56",
+    "last_updated": "2023-08-20 02:54:47",
     "issue_number": 1085,
     "pd_legal": false,
     "bug_blog": false,
@@ -39,14 +39,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
     "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Avacyn's Judgment",
     "description": "Madness abilities that have X in the cost or are gained don't function.",
     "category": "Disadvantageous",
-    "last_updated": "2023-05-29 00:54:56",
+    "last_updated": "2023-08-20 02:54:47",
     "issue_number": 1085,
     "pd_legal": false,
     "bug_blog": false,
@@ -54,14 +53,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
     "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Welcome to the Fold",
     "description": "Madness abilities that have X in the cost or are gained don't function.",
     "category": "Disadvantageous",
-    "last_updated": "2023-05-29 00:54:56",
+    "last_updated": "2023-08-20 02:54:47",
     "issue_number": 1085,
     "pd_legal": false,
     "bug_blog": false,
@@ -69,14 +67,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
     "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Falkenrath Gorger",
     "description": "Madness abilities that have X in the cost or are gained don't function.",
     "category": "Disadvantageous",
-    "last_updated": "2023-05-29 00:54:56",
+    "last_updated": "2023-08-20 02:54:47",
     "issue_number": 1085,
     "pd_legal": false,
     "bug_blog": false,
@@ -84,8 +81,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
     "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Paladin of Atonement",

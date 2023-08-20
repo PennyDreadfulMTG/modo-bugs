@@ -1216,5 +1216,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/multiplayer-games-restarting-whenever-anyone-mulligans.522/",
     "status": "In Progress",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/synthetic-destiny-bug-in-commander.821/": {
+    "title": "Synthetic Destiny Bug in Commander",
+    "url": "https://forums.mtgo.com/index.php?threads/synthetic-destiny-bug-in-commander.821/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/celestial-convergence-hits-its-win-condition-as-soon-as-a-counter-is-removed.1279/": {
+    "title": "Celestial Convergence hits its win condition as soon as a counter is removed",
+    "url": "https://forums.mtgo.com/index.php?threads/celestial-convergence-hits-its-win-condition-as-soon-as-a-counter-is-removed.1279/",
+    "status": "Backlog",
+    "tracked": false
   }
 }
