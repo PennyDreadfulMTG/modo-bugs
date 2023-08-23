@@ -95,7 +95,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1084",
     "support_thread": "https://forums.mtgo.com/index.php?threads/paladin-of-atonement-does-not-trigger.420/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Jace, Mirror Mage",
