@@ -1131,7 +1131,7 @@
     "title": "Glitch with Soul Ransom",
     "url": "https://forums.mtgo.com/index.php?threads/glitch-with-soul-ransom.1197/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/opponents-incorrectly-reanimate-my-golgari-grave-troll-with-a-1-1-counter.1246/": {
     "title": "Opponents incorrectly Reanimate my Golgari Grave-Troll with a +1/+1 Counter",
@@ -1155,7 +1155,7 @@
     "title": "Council's Judgment not showing initial vote",
     "url": "https://forums.mtgo.com/index.php?threads/councils-judgment-not-showing-initial-vote.1226/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/foray-of-orcs-bugged.1240/": {
     "title": "Foray of Orcs Bugged",
@@ -1221,7 +1221,7 @@
     "title": "Synthetic Destiny Bug in Commander",
     "url": "https://forums.mtgo.com/index.php?threads/synthetic-destiny-bug-in-commander.821/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/celestial-convergence-hits-its-win-condition-as-soon-as-a-counter-is-removed.1279/": {
     "title": "Celestial Convergence hits its win condition as soon as a counter is removed",
