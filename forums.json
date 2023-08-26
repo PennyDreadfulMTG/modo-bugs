@@ -1228,5 +1228,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/celestial-convergence-hits-its-win-condition-as-soon-as-a-counter-is-removed.1279/",
     "status": "Backlog",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/unable-to-run-the-mightstone-and-weakstone-in-edh-due-to-color-identity.1351/": {
+    "title": "Unable to run \"The Mightstone and Weakstone\" in edh due to color identity",
+    "url": "https://forums.mtgo.com/index.php?threads/unable-to-run-the-mightstone-and-weakstone-in-edh-due-to-color-identity.1351/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
