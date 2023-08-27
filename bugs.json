@@ -484,7 +484,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1031",
     "support_thread": "https://forums.mtgo.com/index.php?threads/rain-of-gore-hoses-lifelink.1114/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Conundrum Sphinx",
