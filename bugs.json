@@ -117,7 +117,7 @@
     "card": "Hypergenesis",
     "description": "Hypergenesis causes the game to restart when you concede during its resolution",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2023-06-23 12:35:13",
+    "last_updated": "2023-09-04 21:54:42",
     "issue_number": 1080,
     "pd_legal": false,
     "bug_blog": false,
@@ -125,8 +125,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1080",
     "support_thread": "https://forums.mtgo.com/index.php?threads/hypergenesis-restarts-the-game.907/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": "3.4.135.4381"
   },
   {
     "card": "Chandra's Phoenix",
@@ -1575,7 +1574,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/964",
     "support_thread": "https://forums.mtgo.com/index.php?threads/diabolic-servitude.136/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Hopeful Eidolon",
@@ -1769,7 +1769,22 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/949",
     "support_thread": "https://forums.mtgo.com/index.php?threads/riders-of-gavony-glitch.678/",
-    "last_verified": "3.4.124.4162"
+    "last_verified": "3.4.124.4162",
+    "help_wanted": true
+  },
+  {
+    "card": "Yidaro, Wandering Monster",
+    "description": "Yidaro, Wandering Monster's reanimation ability does not function",
+    "category": "Disadvantageous",
+    "last_updated": "2023-09-02 19:50:23",
+    "issue_number": 948,
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/948",
+    "support_thread": null,
+    "last_verified": null
   },
   {
     "card": "Deathmist Raptor",
@@ -2083,7 +2098,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/926",
     "support_thread": "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/",
-    "last_verified": "3.4.124.4162"
+    "last_verified": "3.4.124.4162",
+    "help_wanted": true
   },
   {
     "card": "Ashiok's Erasure",
@@ -2097,7 +2113,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/926",
     "support_thread": "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/",
-    "last_verified": "3.4.124.4162"
+    "last_verified": "3.4.124.4162",
+    "help_wanted": true
   },
   {
     "card": "Knowledge Pool",
@@ -2621,7 +2638,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/898",
     "support_thread": "https://forums.mtgo.com/index.php?threads/first-response-doesnt-work.336/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Svella, Ice Shaper",
@@ -3123,7 +3141,7 @@
     "card": "Krark's Thumb",
     "description": "Krark's Thumb prints all coin flips of its owner three times",
     "category": "Graphical",
-    "last_updated": "2023-06-26 13:19:42",
+    "last_updated": "2023-09-01 09:25:21",
     "issue_number": 816,
     "pd_legal": false,
     "bug_blog": false,
@@ -3131,8 +3149,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/816",
     "support_thread": null,
-    "last_verified": "3.4.132.4355",
-    "help_wanted": true
+    "last_verified": "3.4.135.4381"
   },
   {
     "card": "Mystical Dispute",
@@ -4242,7 +4259,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/574",
     "support_thread": null,
-    "last_verified": "3.4.114.4048"
+    "last_verified": "3.4.114.4048",
+    "help_wanted": true
   },
   {
     "card": "Mutiny",
