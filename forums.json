@@ -1238,19 +1238,19 @@
   "https://forums.mtgo.com/index.php?threads/bug-curse-of-the-werewolf.1407/": {
     "title": "Bug - Curse of the Werewolf",
     "url": "https://forums.mtgo.com/index.php?threads/bug-curse-of-the-werewolf.1407/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/role-token-created-with-zero-targets-on-controllers-side-splashy-spellcaster-shatter-the-oath-protective-parents.1409/": {
     "title": "Role token created with zero targets on controller's side (Splashy Spellcaster, Shatter the Oath, Protective Parents)",
     "url": "https://forums.mtgo.com/index.php?threads/role-token-created-with-zero-targets-on-controllers-side-splashy-spellcaster-shatter-the-oath-protective-parents.1409/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/elusive-otter-bug.1402/": {
     "title": "Elusive Otter Bug",
     "url": "https://forums.mtgo.com/index.php?threads/elusive-otter-bug.1402/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/not-dead-after-all-creates-role-even-if-it-should-fizzle.1403/": {
@@ -1275,6 +1275,12 @@
     "title": "Died the turn after the One Ring Trigger resolved",
     "url": "https://forums.mtgo.com/index.php?threads/died-the-turn-after-the-one-ring-trigger-resolved.1367/",
     "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/blossoming-tortoise-reduces-activated-abilities-of-lands-in-your-hand.1424/": {
+    "title": "Blossoming Tortoise reduces activated abilities of lands in your hand.",
+    "url": "https://forums.mtgo.com/index.php?threads/blossoming-tortoise-reduces-activated-abilities-of-lands-in-your-hand.1424/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
