@@ -161,7 +161,7 @@
     "card": "Spawning Pool",
     "description": "Spawning Pool loses its mana ability when it becomes a creature",
     "category": "Disadvantageous",
-    "last_updated": "2023-07-21 10:38:44",
+    "last_updated": "2023-09-13 18:54:53",
     "issue_number": 1073,
     "pd_legal": false,
     "bug_blog": false,
