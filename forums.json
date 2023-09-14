@@ -2,7 +2,7 @@
   "https://forums.mtgo.com/index.php?threads/mizzixs-mastery-mechanic-fails.205/": {
     "title": "Mizzix's Mastery mechanic fails",
     "url": "https://forums.mtgo.com/index.php?threads/mizzixs-mastery-mechanic-fails.205/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/deck-building-update-with-versions-in-my-collection-does-not-work-anymore.193/": {
@@ -1250,7 +1250,7 @@
   "https://forums.mtgo.com/index.php?threads/elusive-otter-bug.1402/": {
     "title": "Elusive Otter Bug",
     "url": "https://forums.mtgo.com/index.php?threads/elusive-otter-bug.1402/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/not-dead-after-all-creates-role-even-if-it-should-fizzle.1403/": {
@@ -1268,7 +1268,7 @@
   "https://forums.mtgo.com/index.php?threads/rankle-master-of-pranks-trigger-not-applying-symmetrically.1371/": {
     "title": "Rankle, Master of Pranks Trigger not applying symmetrically.",
     "url": "https://forums.mtgo.com/index.php?threads/rankle-master-of-pranks-trigger-not-applying-symmetrically.1371/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/died-the-turn-after-the-one-ring-trigger-resolved.1367/": {
