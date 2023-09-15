@@ -1,5 +1,19 @@
 [
   {
+    "card": "Pillar of the Paruns",
+    "description": "Pillar of the Paruns cannot pay for split costs",
+    "category": "Disadvantageous",
+    "last_updated": "2023-09-15 12:54:50",
+    "issue_number": 1089,
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1089",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Disciple of the Vault",
     "description": "Disciple of the vault incorrectly prompts you to use {opponents name's} ability instead of its ability implying your opponent has the life loss ability",
     "category": "Graphical",
