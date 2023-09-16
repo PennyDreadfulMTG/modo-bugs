@@ -3488,7 +3488,7 @@
     "card": "Grafdigger's Cage",
     "description": "With Grafdigger's Cage on the battlefield, the trigger of Matter Reshaper does not put the card into your hand.",
     "category": "Unclassified",
-    "last_updated": "2023-06-26 13:19:54",
+    "last_updated": "2023-09-16 06:12:19",
     "issue_number": 795,
     "pd_legal": false,
     "bug_blog": false,
@@ -3496,14 +3496,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/795",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Matter Reshaper",
     "description": "With Grafdigger's Cage on the battlefield, the trigger of Matter Reshaper does not put the card into your hand.",
     "category": "Unclassified",
-    "last_updated": "2023-06-26 13:19:54",
+    "last_updated": "2023-09-16 06:12:19",
     "issue_number": 795,
     "pd_legal": false,
     "bug_blog": false,
@@ -3511,8 +3510,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/795",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Mist of Stagnation",
