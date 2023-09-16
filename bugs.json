@@ -1,16 +1,30 @@
 [
   {
+    "card": "Omnath, Locus of All",
+    "description": "Omnath, Locus of All's reveal ability hardlocks the player if a split card is revealed (or Mycosynth Lattice)",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2023-09-16 09:54:46",
+    "issue_number": 1090,
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1090",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/omnath-locus-of-all-softlocks-you-if-you-reveal-a-split-card-or-if-mycosynth-lattice-is-in-play.1462/",
+    "last_verified": null
+  },
+  {
     "card": "Pillar of the Paruns",
     "description": "Pillar of the Paruns cannot pay for split costs",
     "category": "Disadvantageous",
-    "last_updated": "2023-09-15 18:21:42",
+    "last_updated": "2023-09-16 09:54:48",
     "issue_number": 1089,
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1089",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/pillar-of-the-paruns-cannot-pay-the-costs-of-split-cards.1463/",
     "last_verified": null
   },
   {
@@ -3099,7 +3113,7 @@
     "card": "Trait Doctoring",
     "description": "Cards that replace a basic land type with another, only change the type of the land but not the mana produced",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:19:40",
+    "last_updated": "2023-09-16 09:54:59",
     "issue_number": 820,
     "pd_legal": false,
     "bug_blog": false,
@@ -3107,29 +3121,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/820",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Spectral Shift",
-    "description": "Cards that replace a basic land type with another, only change the type of the land but not the mana produced",
-    "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:19:40",
-    "issue_number": 820,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/820",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Mind Bend",
     "description": "Cards that replace a basic land type with another, only change the type of the land but not the mana produced",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:19:40",
+    "last_updated": "2023-09-16 09:54:59",
     "issue_number": 820,
     "pd_legal": false,
     "bug_blog": false,
@@ -3137,14 +3135,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/820",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Crystal Spray",
     "description": "Cards that replace a basic land type with another, only change the type of the land but not the mana produced",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:19:40",
+    "last_updated": "2023-09-16 09:54:59",
     "issue_number": 820,
     "pd_legal": false,
     "bug_blog": false,
@@ -3152,8 +3149,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/820",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Turn // Burn",
