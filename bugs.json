@@ -4702,9 +4702,9 @@
   },
   {
     "card": "Fork in the Road",
-    "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
+    "description": "Spells like Cultivate fail to display the destination zones of the chosen lands in the game log.",
     "category": "Graphical",
-    "last_updated": "2023-05-04 09:09:26",
+    "last_updated": "2023-09-20 08:42:02",
     "issue_number": 401,
     "pd_legal": false,
     "bug_blog": false,
@@ -4712,14 +4712,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": "3.4.132.4358",
-    "help_wanted": true
+    "last_verified": "3.4.135.4386"
   },
   {
     "card": "Cultivate",
-    "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
+    "description": "Spells like Cultivate fail to display the destination zones of the chosen lands in the game log.",
     "category": "Graphical",
-    "last_updated": "2023-05-04 09:09:26",
+    "last_updated": "2023-09-20 08:42:02",
     "issue_number": 401,
     "pd_legal": false,
     "bug_blog": false,
@@ -4727,14 +4726,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": "3.4.132.4358",
-    "help_wanted": true
+    "last_verified": "3.4.135.4386"
   },
   {
     "card": "Kodama's Reach",
-    "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
+    "description": "Spells like Cultivate fail to display the destination zones of the chosen lands in the game log.",
     "category": "Graphical",
-    "last_updated": "2023-05-04 09:09:26",
+    "last_updated": "2023-09-20 08:42:02",
     "issue_number": 401,
     "pd_legal": false,
     "bug_blog": false,
@@ -4742,14 +4740,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": "3.4.132.4358",
-    "help_wanted": true
+    "last_verified": "3.4.135.4386"
   },
   {
     "card": "Peregrination",
-    "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
+    "description": "Spells like Cultivate fail to display the destination zones of the chosen lands in the game log.",
     "category": "Graphical",
-    "last_updated": "2023-05-04 09:09:26",
+    "last_updated": "2023-09-20 08:42:02",
     "issue_number": 401,
     "pd_legal": false,
     "bug_blog": false,
@@ -4757,14 +4754,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": "3.4.132.4358",
-    "help_wanted": true
+    "last_verified": "3.4.135.4386"
   },
   {
     "card": "Realms Uncharted",
-    "description": "This spell fails to display the destination zones of the chosen lands in the game log.",
+    "description": "Spells like Cultivate fail to display the destination zones of the chosen lands in the game log.",
     "category": "Graphical",
-    "last_updated": "2023-05-04 09:09:26",
+    "last_updated": "2023-09-20 08:42:02",
     "issue_number": 401,
     "pd_legal": false,
     "bug_blog": false,
@@ -4772,8 +4768,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": "3.4.132.4358",
-    "help_wanted": true
+    "last_verified": "3.4.135.4386"
   },
   {
     "card": "Nahiri's Wrath",
