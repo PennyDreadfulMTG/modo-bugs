@@ -69,7 +69,7 @@
     "title": "Toxic Deluge does not work correctly off the top of library with Bolas Citadel",
     "url": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
     "status": "Fixed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/wrenn-and-six-emblem-causing-trouble.97/": {
     "title": "Wrenn and Six emblem causing trouble...",
