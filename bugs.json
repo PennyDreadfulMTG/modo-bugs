@@ -1,5 +1,33 @@
 [
   {
+    "card": "Primal Amulet",
+    "description": "Primal Wellspring doesn't copy spells cast by the third chapter of Founding the Third Path",
+    "category": "Disadvantageous",
+    "last_updated": "2023-09-22 01:54:46",
+    "issue_number": 1091,
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1091",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
+    "card": "Founding the Third Path",
+    "description": "Primal Wellspring doesn't copy spells cast by the third chapter of Founding the Third Path",
+    "category": "Disadvantageous",
+    "last_updated": "2023-09-22 01:54:46",
+    "issue_number": 1091,
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1091",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Omnath, Locus of All",
     "description": "Omnath, Locus of All's reveal ability hardlocks the player if a split card is revealed (or Mycosynth Lattice)",
     "category": "Avoidable Game Breaking",
