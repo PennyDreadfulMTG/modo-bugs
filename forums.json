@@ -1286,13 +1286,13 @@
   "https://forums.mtgo.com/index.php?threads/the-princess-takes-flight-and-meticulous-excavation.1444/": {
     "title": "The Princess Takes Flight and Meticulous Excavation",
     "url": "https://forums.mtgo.com/index.php?threads/the-princess-takes-flight-and-meticulous-excavation.1444/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/conceding-with-eureka-on-the-stack-causes-reversion-to-last-stable-state.1006/": {
     "title": "Conceding With Eureka on the Stack Causes \"Reversion to Last Stable State\"",
     "url": "https://forums.mtgo.com/index.php?threads/conceding-with-eureka-on-the-stack-causes-reversion-to-last-stable-state.1006/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/curse-of-leeches-again.1459/": {
@@ -1304,19 +1304,19 @@
   "https://forums.mtgo.com/index.php?threads/titan-of-industry-shield-counter.1374/": {
     "title": "Titan of Industry Shield counter",
     "url": "https://forums.mtgo.com/index.php?threads/titan-of-industry-shield-counter.1374/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-allows-to-cast-creature-spells-with-any-mana.1454/": {
     "title": "Agatha's Soul Cauldron allows to cast creature spells with any mana",
     "url": "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-allows-to-cast-creature-spells-with-any-mana.1454/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/spawning-pool-cant-tap-itself-for-mana.419/": {
     "title": "Spawning Pool Can't Tap Itself for Mana",
     "url": "https://forums.mtgo.com/index.php?threads/spawning-pool-cant-tap-itself-for-mana.419/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": true
   }
 }
