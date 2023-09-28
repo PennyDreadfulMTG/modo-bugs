@@ -1318,5 +1318,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/spawning-pool-cant-tap-itself-for-mana.419/",
     "status": "Fixed",
     "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/chord-of-calling-isnt-working.1496/": {
+    "title": "chord of calling isnt working",
+    "url": "https://forums.mtgo.com/index.php?threads/chord-of-calling-isnt-working.1496/",
+    "status": "In Progress",
+    "tracked": false
   }
 }
