@@ -202,7 +202,7 @@
     "card": "Obzedat, Ghost Council",
     "description": "Obzedat, Ghost Council never returns to the battlefield",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:17:30",
+    "last_updated": "2023-10-01 20:25:02",
     "issue_number": 1075,
     "pd_legal": false,
     "bug_blog": false,
@@ -210,8 +210,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1075",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": "3.4.135.4389"
   },
   {
     "card": "Spawning Pool",
