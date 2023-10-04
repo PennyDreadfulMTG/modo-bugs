@@ -426,7 +426,7 @@
     "card": "Consuming Tide",
     "description": "Consuming tide returns the chosen permanents, not all others.",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-28 11:46:24",
+    "last_updated": "2023-10-04 22:24:11",
     "issue_number": 1047,
     "pd_legal": false,
     "bug_blog": false,
@@ -434,8 +434,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1047",
     "support_thread": "https://forums.mtgo.com/index.php?threads/consuming-tide-is-not-working-as-it-should.99/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Words of Worship",
