@@ -1324,5 +1324,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/chord-of-calling-isnt-working.1496/",
     "status": "Fixed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/i-casted-battle-at-the-bridge-but-i-couldnt-pay-x.1499/": {
+    "title": "I casted Battle at the bridge, but I couldn't pay x.",
+    "url": "https://forums.mtgo.com/index.php?threads/i-casted-battle-at-the-bridge-but-i-couldnt-pay-x.1499/",
+    "status": "Fixed",
+    "tracked": false
   }
 }
