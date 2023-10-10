@@ -1004,6 +1004,20 @@
     "help_wanted": true
   },
   {
+    "card": "Nylea, Keen-Eyed",
+    "description": "Nylea, Keen-Eyed mills all non-creatures it reveals and does not put creatures it reveals into your hand",
+    "category": "Disadvantageous",
+    "last_updated": "2023-10-10 02:46:35",
+    "issue_number": 1006,
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1006",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Vivien's Grizzly",
     "description": "If you don't put the card into your hand with Vivien's Grizzlies, the card dissapears.",
     "category": "Disadvantageous",
