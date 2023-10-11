@@ -1330,5 +1330,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/i-casted-battle-at-the-bridge-but-i-couldnt-pay-x.1499/",
     "status": "Fixed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gadwicks-first-duel.1520/": {
+    "title": "Gadwick's First Duel",
+    "url": "https://forums.mtgo.com/index.php?threads/gadwicks-first-duel.1520/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/favorable-destiny.1518/": {
+    "title": "Favorable destiny",
+    "url": "https://forums.mtgo.com/index.php?threads/favorable-destiny.1518/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
