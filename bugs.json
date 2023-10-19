@@ -96,7 +96,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
     "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Avacyn's Judgment",
@@ -110,7 +111,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
     "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Welcome to the Fold",
@@ -124,7 +126,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
     "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Falkenrath Gorger",
@@ -138,7 +141,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
     "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Paladin of Atonement",
