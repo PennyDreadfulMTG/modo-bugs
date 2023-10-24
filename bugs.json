@@ -573,7 +573,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1029",
     "support_thread": "https://forums.mtgo.com/index.php?threads/glitch-with-soul-ransom.1197/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Etchings of the Chosen",
@@ -1318,7 +1319,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/986",
     "support_thread": "https://forums.mtgo.com/index.php?threads/synthetic-destiny-bug-in-commander.821/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Varchild's War-Riders",
