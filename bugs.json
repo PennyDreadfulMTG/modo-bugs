@@ -445,7 +445,7 @@
     "card": "Words of Worship",
     "description": "Words of Worship causes the game to restart when you activate it for the draw for turn",
     "category": "Game Breaking",
-    "last_updated": "2023-06-26 13:17:42",
+    "last_updated": "2023-10-26 06:20:41",
     "issue_number": 1046,
     "pd_legal": false,
     "bug_blog": false,
@@ -453,8 +453,7 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1046",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Selvala, Explorer Returned",
