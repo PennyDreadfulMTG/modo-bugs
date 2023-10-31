@@ -3161,7 +3161,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/816",
     "support_thread": null,
-    "last_verified": "3.4.135.4381"
+    "last_verified": "3.4.135.4381",
+    "help_wanted": true
   },
   {
     "card": "Mystical Dispute",
