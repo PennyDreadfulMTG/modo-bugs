@@ -1760,7 +1760,7 @@
     "card": "Willow Geist",
     "description": "Willow Geist's ability triggers for each card removed from your graveyard, instead of triggering once per time cards are removed from your graveyard.",
     "category": "Advantageous",
-    "last_updated": "2023-06-26 13:18:41",
+    "last_updated": "2023-10-31 02:51:20",
     "issue_number": 956,
     "pd_legal": false,
     "bug_blog": false,
@@ -1768,8 +1768,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/956",
     "support_thread": null,
-    "last_verified": "3.4.123.4152",
-    "help_wanted": true
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Myriad Construct",
