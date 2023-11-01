@@ -182,7 +182,7 @@
   "https://forums.mtgo.com/index.php?threads/the-mightstone-and-weakstone-color-identity-is-wrong.241/": {
     "title": "The mightstone and weakstone color identity is wrong",
     "url": "https://forums.mtgo.com/index.php?threads/the-mightstone-and-weakstone-color-identity-is-wrong.241/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/ratchet-field-medics-triggered-ability-doesnt-do-anything.237/": {
@@ -338,7 +338,7 @@
   "https://forums.mtgo.com/index.php?threads/island-sanctuary.413/": {
     "title": "Island Sanctuary",
     "url": "https://forums.mtgo.com/index.php?threads/island-sanctuary.413/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/hidden-strings.390/": {
@@ -1136,7 +1136,7 @@
   "https://forums.mtgo.com/index.php?threads/opponents-incorrectly-reanimate-my-golgari-grave-troll-with-a-1-1-counter.1246/": {
     "title": "Opponents incorrectly Reanimate my Golgari Grave-Troll with a +1/+1 Counter",
     "url": "https://forums.mtgo.com/index.php?threads/opponents-incorrectly-reanimate-my-golgari-grave-troll-with-a-1-1-counter.1246/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/etali-cant-cast-second-spell-after-selecting-archangel-of-wrath-with-kicker.1255/": {
@@ -1214,7 +1214,7 @@
   "https://forums.mtgo.com/index.php?threads/multiplayer-games-restarting-whenever-anyone-mulligans.522/": {
     "title": "Multiplayer games restarting whenever anyone mulligans",
     "url": "https://forums.mtgo.com/index.php?threads/multiplayer-games-restarting-whenever-anyone-mulligans.522/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/synthetic-destiny-bug-in-commander.821/": {
@@ -1340,6 +1340,18 @@
   "https://forums.mtgo.com/index.php?threads/favorable-destiny.1518/": {
     "title": "Favorable destiny",
     "url": "https://forums.mtgo.com/index.php?threads/favorable-destiny.1518/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cant-untap-a-creature-with-clever-conjurers-ability-granted-by-agathas-soul-cauldron.1421/": {
+    "title": "Can't untap a creature with Clever Conjurer's ability granted by Agatha's Soul Cauldron",
+    "url": "https://forums.mtgo.com/index.php?threads/cant-untap-a-creature-with-clever-conjurers-ability-granted-by-agathas-soul-cauldron.1421/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/diabolic-servitude-bugged.1489/": {
+    "title": "Diabolic Servitude bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/diabolic-servitude-bugged.1489/",
     "status": "Confirmed",
     "tracked": false
   }
