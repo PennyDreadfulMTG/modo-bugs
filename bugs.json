@@ -186,7 +186,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1080",
     "support_thread": "https://forums.mtgo.com/index.php?threads/hypergenesis-restarts-the-game.907/",
-    "last_verified": "3.4.135.4381"
+    "last_verified": "3.4.135.4381",
+    "help_wanted": true
   },
   {
     "card": "Chandra's Phoenix",
