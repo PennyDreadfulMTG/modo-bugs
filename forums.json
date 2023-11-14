@@ -296,7 +296,7 @@
   "https://forums.mtgo.com/index.php?threads/laelia-cascade-wrong-interaction.319/": {
     "title": "Laelia + Cascade, wrong interaction",
     "url": "https://forums.mtgo.com/index.php?threads/laelia-cascade-wrong-interaction.319/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/foul-tongue-shreik-does-not-gain-life.302/": {
@@ -1353,6 +1353,36 @@
     "title": "Diabolic Servitude bugged",
     "url": "https://forums.mtgo.com/index.php?threads/diabolic-servitude-bugged.1489/",
     "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/draft-cant-drag-reserved-card.1575/": {
+    "title": "Draft: Can't Drag Reserved Card",
+    "url": "https://forums.mtgo.com/index.php?threads/draft-cant-drag-reserved-card.1575/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gontis-machinations-not-triggering-with-shock-land.1617/": {
+    "title": "Gonti's machinations not triggering with shock land",
+    "url": "https://forums.mtgo.com/index.php?threads/gontis-machinations-not-triggering-with-shock-land.1617/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/chancellor-of-the-tangle-trigger-does-not-add-mana.1581/": {
+    "title": "Chancellor of the Tangle trigger does not add mana",
+    "url": "https://forums.mtgo.com/index.php?threads/chancellor-of-the-tangle-trigger-does-not-add-mana.1581/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sliver-hive-token-bugged.1579/": {
+    "title": "Sliver Hive (Token) bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/sliver-hive-token-bugged.1579/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/art-issue.1577/": {
+    "title": "Art issue?",
+    "url": "https://forums.mtgo.com/index.php?threads/art-issue.1577/",
+    "status": "In Progress",
     "tracked": false
   }
 }
