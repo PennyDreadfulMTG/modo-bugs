@@ -1384,5 +1384,29 @@
     "url": "https://forums.mtgo.com/index.php?threads/art-issue.1577/",
     "status": "In Progress",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/pass-until-you-can-respond-monarch-end-step-priority-bug.1568/": {
+    "title": "\"Pass Until You Can Respond\" + Monarch End Step Priority Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/pass-until-you-can-respond-monarch-end-step-priority-bug.1568/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/opponents-graven-cairns-coming-into-play-causes-crash.1548/": {
+    "title": "Opponents Graven Cairns coming into play causes crash",
+    "url": "https://forums.mtgo.com/index.php?threads/opponents-graven-cairns-coming-into-play-causes-crash.1548/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/missing-items-in-collection-after-update.1621/": {
+    "title": "Missing items in collection after update",
+    "url": "https://forums.mtgo.com/index.php?threads/missing-items-in-collection-after-update.1621/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ignore-message-functionality-does-not-work.1557/": {
+    "title": "Ignore Message Functionality Does Not Work",
+    "url": "https://forums.mtgo.com/index.php?threads/ignore-message-functionality-does-not-work.1557/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
