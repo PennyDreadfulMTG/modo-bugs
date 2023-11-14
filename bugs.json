@@ -311,7 +311,7 @@
     "card": "Gwenna, Eyes of Gaea",
     "description": "Kinnan, Bonder Prodigy does not trigger when Gwenna, Eyes of Gaea taps for mana",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-23 13:55:02",
+    "last_updated": "2023-11-14 21:54:56",
     "issue_number": 1060,
     "pd_legal": false,
     "bug_blog": false,
@@ -319,14 +319,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1060",
     "support_thread": "https://forums.mtgo.com/index.php?threads/kinnan-gwenna-bugged.252/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Kinnan, Bonder Prodigy",
     "description": "Kinnan, Bonder Prodigy does not trigger when Gwenna, Eyes of Gaea taps for mana",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-23 13:55:02",
+    "last_updated": "2023-11-14 21:54:56",
     "issue_number": 1060,
     "pd_legal": false,
     "bug_blog": false,
@@ -334,8 +333,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1060",
     "support_thread": "https://forums.mtgo.com/index.php?threads/kinnan-gwenna-bugged.252/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Ivorytusk Fortress",
