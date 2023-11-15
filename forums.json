@@ -1408,5 +1408,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/ignore-message-functionality-does-not-work.1557/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/smaller-text-in-the-window-on-the-left.1624/": {
+    "title": "Smaller Text in the window on the left",
+    "url": "https://forums.mtgo.com/index.php?threads/smaller-text-in-the-window-on-the-left.1624/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/volatile-fault-doesnt-add-treasure-token-if-search-is-prevented-by-leonin-arbiter.1623/": {
+    "title": "Volatile Fault Doesn't Add Treasure Token If Search Is Prevented By Leonin Arbiter",
+    "url": "https://forums.mtgo.com/index.php?threads/volatile-fault-doesnt-add-treasure-token-if-search-is-prevented-by-leonin-arbiter.1623/",
+    "status": "In Progress",
+    "tracked": false
   }
 }
