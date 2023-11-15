@@ -53,7 +53,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1090",
     "support_thread": "https://forums.mtgo.com/index.php?threads/omnath-locus-of-all-softlocks-you-if-you-reveal-a-split-card-or-if-mycosynth-lattice-is-in-play.1462/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Pillar of the Paruns",
@@ -67,7 +68,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1089",
     "support_thread": "https://forums.mtgo.com/index.php?threads/pillar-of-the-paruns-cannot-pay-the-costs-of-split-cards.1463/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Disciple of the Vault",
