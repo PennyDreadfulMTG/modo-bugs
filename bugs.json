@@ -1,5 +1,19 @@
 [
   {
+    "card": "Olivia, Mobilized for War",
+    "description": "Olivia, Mobilized for War gives the creature haste and makes it a vampire even if you don't discard a card",
+    "category": "Advantageous",
+    "last_updated": "2023-11-24 12:54:52",
+    "issue_number": 1093,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1093",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/olivia-mobilized-for-war-always-gives-the-creature-haste.1663/",
+    "last_verified": null
+  },
+  {
     "card": "Falkenrath Gorger",
     "description": "Falkenrath Gorger doesn't trigger madness",
     "category": "Disadvantageous",
