@@ -1,5 +1,19 @@
 [
   {
+    "card": "As Foretold",
+    "description": "Disrupting Shoal counters spells of any mana value when cast from As Foretold",
+    "category": "Advantageous",
+    "last_updated": "2023-11-27 03:54:50",
+    "issue_number": 1094,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1094",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/disrupting-shoal-counters-spells-of-any-mana-value-when-cast-from-as-foretold.1677/",
+    "last_verified": null
+  },
+  {
     "card": "Olivia, Mobilized for War",
     "description": "Olivia, Mobilized for War gives the creature haste and makes it a vampire even if you don't discard a card",
     "category": "Advantageous",
