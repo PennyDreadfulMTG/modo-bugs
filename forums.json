@@ -1420,5 +1420,53 @@
     "url": "https://forums.mtgo.com/index.php?threads/volatile-fault-doesnt-add-treasure-token-if-search-is-prevented-by-leonin-arbiter.1623/",
     "status": "In Progress",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/small-inaccuracies-in-new-set.1653/": {
+    "title": "Small Inaccuracies in New Set",
+    "url": "https://forums.mtgo.com/index.php?threads/small-inaccuracies-in-new-set.1653/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/exploring-with-an-emtpy-library-doesnt-put-counters-on-a-creature.1685/": {
+    "title": "Exploring with an emtpy library doesn't put counters on a creature",
+    "url": "https://forums.mtgo.com/index.php?threads/exploring-with-an-emtpy-library-doesnt-put-counters-on-a-creature.1685/",
+    "status": "Confirmed",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/market-gnome-bug.1629/": {
+    "title": "Market gnome bug",
+    "url": "https://forums.mtgo.com/index.php?threads/market-gnome-bug.1629/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/disrupting-shoal-counters-spells-of-any-mana-value-when-cast-from-as-foretold.1677/": {
+    "title": "Disrupting Shoal counters spells of any mana value when cast from As Foretold",
+    "url": "https://forums.mtgo.com/index.php?threads/disrupting-shoal-counters-spells-of-any-mana-value-when-cast-from-as-foretold.1677/",
+    "status": "Confirmed",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/obzedat-ghost-council-does-not-return-from-exile.1320/": {
+    "title": "Obzedat, Ghost Council does not return from exile",
+    "url": "https://forums.mtgo.com/index.php?threads/obzedat-ghost-council-does-not-return-from-exile.1320/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kutzil-malamet-exemplars-triggered-ability-doesnt-work-correctly.1626/": {
+    "title": "Kutzil, Malamet Exemplar's triggered ability doesn't work correctly",
+    "url": "https://forums.mtgo.com/index.php?threads/kutzil-malamet-exemplars-triggered-ability-doesnt-work-correctly.1626/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/souls-of-the-lost-interaction-bugged-with-merfolk-trickster.1670/": {
+    "title": "Souls of the Lost interaction bugged with Merfolk Trickster",
+    "url": "https://forums.mtgo.com/index.php?threads/souls-of-the-lost-interaction-bugged-with-merfolk-trickster.1670/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ojer-kaslem-function-choice-doesnt-work.1641/": {
+    "title": "Ojer Kaslem function choice doesn't work.",
+    "url": "https://forums.mtgo.com/index.php?threads/ojer-kaslem-function-choice-doesnt-work.1641/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
