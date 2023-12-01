@@ -1355,12 +1355,6 @@
     "status": "Confirmed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/draft-cant-drag-reserved-card.1575/": {
-    "title": "Draft: Can't Drag Reserved Card",
-    "url": "https://forums.mtgo.com/index.php?threads/draft-cant-drag-reserved-card.1575/",
-    "status": "Could Not Reproduce",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/gontis-machinations-not-triggering-with-shock-land.1617/": {
     "title": "Gonti's machinations not triggering with shock land",
     "url": "https://forums.mtgo.com/index.php?threads/gontis-machinations-not-triggering-with-shock-land.1617/",
@@ -1385,21 +1379,9 @@
     "status": "In Progress",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/pass-until-you-can-respond-monarch-end-step-priority-bug.1568/": {
-    "title": "\"Pass Until You Can Respond\" + Monarch End Step Priority Bug",
-    "url": "https://forums.mtgo.com/index.php?threads/pass-until-you-can-respond-monarch-end-step-priority-bug.1568/",
-    "status": "Could Not Reproduce",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/opponents-graven-cairns-coming-into-play-causes-crash.1548/": {
     "title": "Opponents Graven Cairns coming into play causes crash",
     "url": "https://forums.mtgo.com/index.php?threads/opponents-graven-cairns-coming-into-play-causes-crash.1548/",
-    "status": "Could Not Reproduce",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/missing-items-in-collection-after-update.1621/": {
-    "title": "Missing items in collection after update",
-    "url": "https://forums.mtgo.com/index.php?threads/missing-items-in-collection-after-update.1621/",
     "status": "Could Not Reproduce",
     "tracked": false
   },
@@ -1418,7 +1400,7 @@
   "https://forums.mtgo.com/index.php?threads/volatile-fault-doesnt-add-treasure-token-if-search-is-prevented-by-leonin-arbiter.1623/": {
     "title": "Volatile Fault Doesn't Add Treasure Token If Search Is Prevented By Leonin Arbiter",
     "url": "https://forums.mtgo.com/index.php?threads/volatile-fault-doesnt-add-treasure-token-if-search-is-prevented-by-leonin-arbiter.1623/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/small-inaccuracies-in-new-set.1653/": {
@@ -1467,6 +1449,30 @@
     "title": "Ojer Kaslem function choice doesn't work.",
     "url": "https://forums.mtgo.com/index.php?threads/ojer-kaslem-function-choice-doesnt-work.1641/",
     "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/spark-double-copying-spark-double-is-broken.1650/": {
+    "title": "Spark Double copying Spark Double is broken",
+    "url": "https://forums.mtgo.com/index.php?threads/spark-double-copying-spark-double-is-broken.1650/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/brought-my-opponent-to-1-then-timed-out-received-a-draw.1648/": {
+    "title": "Brought my opponent to -1 then timed out. Received a Draw!",
+    "url": "https://forums.mtgo.com/index.php?threads/brought-my-opponent-to-1-then-timed-out-received-a-draw.1648/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/fate-unraveler-crash-mtgo-with-edh-wheel.1640/": {
+    "title": "Fate Unraveler Crash MTGO with EDH Wheel",
+    "url": "https://forums.mtgo.com/index.php?threads/fate-unraveler-crash-mtgo-with-edh-wheel.1640/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/spacebar-conflicting-with-in-game-zones.1639/": {
+    "title": "Spacebar conflicting with in game zones",
+    "url": "https://forums.mtgo.com/index.php?threads/spacebar-conflicting-with-in-game-zones.1639/",
+    "status": "In Progress",
     "tracked": false
   }
 }
