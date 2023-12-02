@@ -1,5 +1,19 @@
 [
   {
+    "card": "Wake to Slaughter",
+    "description": "Wake to Slaughter exiles both the card put onto the battlefield AND the card put into hand",
+    "category": "Disadvantageous",
+    "last_updated": "2023-12-02 03:54:45",
+    "issue_number": 1098,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1098",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Amalia Benavides Aguirre",
     "description": "Exploring with empty library does not put a +1/+1 counter on a creature",
     "category": "Disadvantageous",
