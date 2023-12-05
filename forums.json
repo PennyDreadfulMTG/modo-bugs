@@ -1474,5 +1474,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/spacebar-conflicting-with-in-game-zones.1639/",
     "status": "In Progress",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/yield-until-this-phase-function-often-turns-off-automatically.1688/": {
+    "title": "\"Yield until this phase\" function often turns off automatically",
+    "url": "https://forums.mtgo.com/index.php?threads/yield-until-this-phase-function-often-turns-off-automatically.1688/",
+    "status": "Could Not Reproduce",
+    "tracked": false
   }
 }
