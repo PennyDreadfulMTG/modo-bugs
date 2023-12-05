@@ -1480,5 +1480,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/yield-until-this-phase-function-often-turns-off-automatically.1688/",
     "status": "Could Not Reproduce",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/lavinia-azorius-renegade-is-not-properly-countering-hogaak-arisen-necropolis.1689/": {
+    "title": "Lavinia Azorius Renegade is not properly countering Hogaak Arisen Necropolis",
+    "url": "https://forums.mtgo.com/index.php?threads/lavinia-azorius-renegade-is-not-properly-countering-hogaak-arisen-necropolis.1689/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
