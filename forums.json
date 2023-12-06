@@ -374,7 +374,7 @@
   "https://forums.mtgo.com/index.php?threads/avacyns-judgment-madness-cost-cannot-be-played.244/": {
     "title": "Avacyn's Judgment Madness cost cannot be played",
     "url": "https://forums.mtgo.com/index.php?threads/avacyns-judgment-madness-cost-cannot-be-played.244/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/changeling-does-not-give-full-party.475/": {
@@ -1340,13 +1340,13 @@
   "https://forums.mtgo.com/index.php?threads/favorable-destiny.1518/": {
     "title": "Favorable destiny",
     "url": "https://forums.mtgo.com/index.php?threads/favorable-destiny.1518/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/cant-untap-a-creature-with-clever-conjurers-ability-granted-by-agathas-soul-cauldron.1421/": {
     "title": "Can't untap a creature with Clever Conjurer's ability granted by Agatha's Soul Cauldron",
     "url": "https://forums.mtgo.com/index.php?threads/cant-untap-a-creature-with-clever-conjurers-ability-granted-by-agathas-soul-cauldron.1421/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/diabolic-servitude-bugged.1489/": {
@@ -1370,13 +1370,13 @@
   "https://forums.mtgo.com/index.php?threads/sliver-hive-token-bugged.1579/": {
     "title": "Sliver Hive (Token) bugged",
     "url": "https://forums.mtgo.com/index.php?threads/sliver-hive-token-bugged.1579/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/art-issue.1577/": {
     "title": "Art issue?",
     "url": "https://forums.mtgo.com/index.php?threads/art-issue.1577/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/opponents-graven-cairns-coming-into-play-causes-crash.1548/": {
@@ -1388,7 +1388,7 @@
   "https://forums.mtgo.com/index.php?threads/ignore-message-functionality-does-not-work.1557/": {
     "title": "Ignore Message Functionality Does Not Work",
     "url": "https://forums.mtgo.com/index.php?threads/ignore-message-functionality-does-not-work.1557/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/smaller-text-in-the-window-on-the-left.1624/": {
@@ -1406,13 +1406,13 @@
   "https://forums.mtgo.com/index.php?threads/small-inaccuracies-in-new-set.1653/": {
     "title": "Small Inaccuracies in New Set",
     "url": "https://forums.mtgo.com/index.php?threads/small-inaccuracies-in-new-set.1653/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/exploring-with-an-emtpy-library-doesnt-put-counters-on-a-creature.1685/": {
     "title": "Exploring with an emtpy library doesn't put counters on a creature",
     "url": "https://forums.mtgo.com/index.php?threads/exploring-with-an-emtpy-library-doesnt-put-counters-on-a-creature.1685/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/market-gnome-bug.1629/": {
@@ -1442,25 +1442,25 @@
   "https://forums.mtgo.com/index.php?threads/souls-of-the-lost-interaction-bugged-with-merfolk-trickster.1670/": {
     "title": "Souls of the Lost interaction bugged with Merfolk Trickster",
     "url": "https://forums.mtgo.com/index.php?threads/souls-of-the-lost-interaction-bugged-with-merfolk-trickster.1670/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/ojer-kaslem-function-choice-doesnt-work.1641/": {
     "title": "Ojer Kaslem function choice doesn't work.",
     "url": "https://forums.mtgo.com/index.php?threads/ojer-kaslem-function-choice-doesnt-work.1641/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/spark-double-copying-spark-double-is-broken.1650/": {
     "title": "Spark Double copying Spark Double is broken",
     "url": "https://forums.mtgo.com/index.php?threads/spark-double-copying-spark-double-is-broken.1650/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/brought-my-opponent-to-1-then-timed-out-received-a-draw.1648/": {
     "title": "Brought my opponent to -1 then timed out. Received a Draw!",
     "url": "https://forums.mtgo.com/index.php?threads/brought-my-opponent-to-1-then-timed-out-received-a-draw.1648/",
-    "status": "Confirmed",
+    "status": "No Fix Planned",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/fate-unraveler-crash-mtgo-with-edh-wheel.1640/": {
@@ -1472,7 +1472,7 @@
   "https://forums.mtgo.com/index.php?threads/spacebar-conflicting-with-in-game-zones.1639/": {
     "title": "Spacebar conflicting with in game zones",
     "url": "https://forums.mtgo.com/index.php?threads/spacebar-conflicting-with-in-game-zones.1639/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/yield-until-this-phase-function-often-turns-off-automatically.1688/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/lavinia-azorius-renegade-is-not-properly-countering-hogaak-arisen-necropolis.1689/": {
     "title": "Lavinia Azorius Renegade is not properly countering Hogaak Arisen Necropolis",
     "url": "https://forums.mtgo.com/index.php?threads/lavinia-azorius-renegade-is-not-properly-countering-hogaak-arisen-necropolis.1689/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   }
 }
