@@ -921,7 +921,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1087",
     "support_thread": "https://forums.mtgo.com/index.php?threads/councils-judgment-not-showing-initial-vote.1226/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "From Under the Floorboards",
