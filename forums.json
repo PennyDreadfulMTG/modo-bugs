@@ -1486,5 +1486,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/lavinia-azorius-renegade-is-not-properly-countering-hogaak-arisen-necropolis.1689/",
     "status": "Backlog",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
+    "title": "O-Kagachi, Vengeful Kami Ability Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
+    "status": "Could Not Reproduce",
+    "tracked": false
   }
 }
