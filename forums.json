@@ -1492,5 +1492,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
     "status": "Could Not Reproduce",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
+    "title": "Commandeer spell with no targets breaks the game",
+    "url": "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/masters-manufactory-failed-to-trigger.1667/": {
+    "title": "Master's Manufactory failed to trigger",
+    "url": "https://forums.mtgo.com/index.php?threads/masters-manufactory-failed-to-trigger.1667/",
+    "status": "Could Not Reproduce",
+    "tracked": false
   }
 }
