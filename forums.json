@@ -35,47 +35,17 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/weird-ui-hand-graphical-error.81/": {
-    "title": "Weird UI Hand Graphical Error",
-    "url": "https://forums.mtgo.com/index.php?threads/weird-ui-hand-graphical-error.81/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/last-opponent-refuses-bug-with-tempt-with-discovery.67/": {
     "title": "\"last opponent refuses\" bug with Tempt with Discovery",
     "url": "https://forums.mtgo.com/index.php?threads/last-opponent-refuses-bug-with-tempt-with-discovery.67/",
     "status": "Fixed",
     "tracked": true
   },
-  "https://forums.mtgo.com/index.php?threads/mistmoon-griffin-not-leaving-graveyard.56/": {
-    "title": "Mistmoon Griffin Not Leaving Graveyard",
-    "url": "https://forums.mtgo.com/index.php?threads/mistmoon-griffin-not-leaving-graveyard.56/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/mystical-dispute-cost-reduction-spells-and-f8-auto-yield.51/": {
-    "title": "Mystical Dispute / Cost Reduction Spells and F8(Auto-Yield)",
-    "url": "https://forums.mtgo.com/index.php?threads/mystical-dispute-cost-reduction-spells-and-f8-auto-yield.51/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/psychogenic-probe-and-psychic-surgery-bug.20/": {
-    "title": "Psychogenic Probe and Psychic Surgery bug",
-    "url": "https://forums.mtgo.com/index.php?threads/psychogenic-probe-and-psychic-surgery-bug.20/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/": {
     "title": "Toxic Deluge does not work correctly off the top of library with Bolas Citadel",
     "url": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
     "status": "Fixed",
     "tracked": true
-  },
-  "https://forums.mtgo.com/index.php?threads/wrenn-and-six-emblem-causing-trouble.97/": {
-    "title": "Wrenn and Six emblem causing trouble...",
-    "url": "https://forums.mtgo.com/index.php?threads/wrenn-and-six-emblem-causing-trouble.97/",
-    "status": "Confirmed",
-    "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/skeletal-scrying.112/": {
     "title": "Skeletal Scrying",
@@ -87,60 +57,6 @@
     "title": "Unable to cancel Salvaged Manaworker ability",
     "url": "https://forums.mtgo.com/index.php?threads/unable-to-cancel-salvaged-manaworker-ability.103/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/consuming-tide-is-not-working-as-it-should.99/": {
-    "title": "Consuming Tide is not working as it should",
-    "url": "https://forums.mtgo.com/index.php?threads/consuming-tide-is-not-working-as-it-should.99/",
-    "status": "Confirmed",
-    "tracked": true
-  },
-  "https://forums.mtgo.com/index.php?threads/must-be-blocked-ability.94/": {
-    "title": "\"Must be blocked\" ability",
-    "url": "https://forums.mtgo.com/index.php?threads/must-be-blocked-ability.94/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/adeline-resplendent-cathar.90/": {
-    "title": "Adeline, Resplendent Cathar",
-    "url": "https://forums.mtgo.com/index.php?threads/adeline-resplendent-cathar.90/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/akroma-angel-of-fury.88/": {
-    "title": "Akroma, Angel of fury",
-    "url": "https://forums.mtgo.com/index.php?threads/akroma-angel-of-fury.88/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/profaner-of-the-dead.87/": {
-    "title": "Profaner of the Dead",
-    "url": "https://forums.mtgo.com/index.php?threads/profaner-of-the-dead.87/",
-    "status": "Confirmed",
-    "tracked": true
-  },
-  "https://forums.mtgo.com/index.php?threads/valki-god-of-lies.86/": {
-    "title": "Valki god of lies",
-    "url": "https://forums.mtgo.com/index.php?threads/valki-god-of-lies.86/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/godsend-does-not-prevent-casting-of-exiled-cards.84/": {
-    "title": "godsend does not prevent casting of exiled cards",
-    "url": "https://forums.mtgo.com/index.php?threads/godsend-does-not-prevent-casting-of-exiled-cards.84/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/jace-mirror-mage.165/": {
-    "title": "Jace, Mirror Mage",
-    "url": "https://forums.mtgo.com/index.php?threads/jace-mirror-mage.165/",
-    "status": "Confirmed",
-    "tracked": true
-  },
-  "https://forums.mtgo.com/index.php?threads/ludevic-necrogenius.76/": {
-    "title": "Ludevic, Necrogenius",
-    "url": "https://forums.mtgo.com/index.php?threads/ludevic-necrogenius.76/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/scrap-trawler-is-blue.175/": {
@@ -155,22 +71,10 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/agitator-ant-bug.195/": {
-    "title": "Agitator Ant bug",
-    "url": "https://forums.mtgo.com/index.php?threads/agitator-ant-bug.195/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/let-players-choose-graveyard-order-when-discarding-multiple-cards-at-once.74/": {
     "title": "Let players choose graveyard order when discarding multiple cards at once",
     "url": "https://forums.mtgo.com/index.php?threads/let-players-choose-graveyard-order-when-discarding-multiple-cards-at-once.74/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/esikas-chariot-does-not-copy-ob-nixilis-the-advesary-casualty-token.194/": {
-    "title": "Esika's Chariot does not copy Ob Nixilis, the Advesary casualty token",
-    "url": "https://forums.mtgo.com/index.php?threads/esikas-chariot-does-not-copy-ob-nixilis-the-advesary-casualty-token.194/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/prm-image-updates-or-display-bug.199/": {
@@ -203,18 +107,6 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/single-combat-is-bugged.311/": {
-    "title": "Single Combat is bugged",
-    "url": "https://forums.mtgo.com/index.php?threads/single-combat-is-bugged.311/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/alrund-god-of-the-cosmos-counts-all-cards-in-exile.337/": {
-    "title": "Alrund, God of the Cosmos counts all cards in exile",
-    "url": "https://forums.mtgo.com/index.php?threads/alrund-god-of-the-cosmos-counts-all-cards-in-exile.337/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/brothers-war-retro-command-tower-art-is-not-centered-correctly.335/": {
     "title": "Brother's War, Retro Command Tower art is not centered correctly.",
     "url": "https://forums.mtgo.com/index.php?threads/brothers-war-retro-command-tower-art-is-not-centered-correctly.335/",
@@ -239,22 +131,10 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/totem-armor-bug.363/": {
-    "title": "Totem Armor Bug",
-    "url": "https://forums.mtgo.com/index.php?threads/totem-armor-bug.363/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/sundering-titan-bug.156/": {
     "title": "Sundering Titan bug",
     "url": "https://forums.mtgo.com/index.php?threads/sundering-titan-bug.156/",
     "status": "Not A Bug",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/mind-bend-doesnt-let-you-choose-a-colour-but-does-let-you-choose-basic-land-types.359/": {
-    "title": "Mind Bend doesn't let you choose a colour (but does let you choose basic land types)",
-    "url": "https://forums.mtgo.com/index.php?threads/mind-bend-doesnt-let-you-choose-a-colour-but-does-let-you-choose-basic-land-types.359/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/fact-or-fiction-graveyard-order-bug.418/": {
@@ -275,64 +155,16 @@
     "status": "No Fix Planned",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/nylea-keen-eyed-ability-bug.339/": {
-    "title": "Nylea, Keen Eyed Ability Bug",
-    "url": "https://forums.mtgo.com/index.php?threads/nylea-keen-eyed-ability-bug.339/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/turnabout-selection-was-inversed-tap-or-untap.286/": {
     "title": "Turnabout selection was inversed(tap or untap)",
     "url": "https://forums.mtgo.com/index.php?threads/turnabout-selection-was-inversed-tap-or-untap.286/",
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/evelyn-the-covetous-and-counters.392/": {
-    "title": "Evelyn, the Covetous and counters",
-    "url": "https://forums.mtgo.com/index.php?threads/evelyn-the-covetous-and-counters.392/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/laelia-cascade-wrong-interaction.319/": {
     "title": "Laelia + Cascade, wrong interaction",
     "url": "https://forums.mtgo.com/index.php?threads/laelia-cascade-wrong-interaction.319/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/foul-tongue-shreik-does-not-gain-life.302/": {
-    "title": "Foul-Tongue Shreik does not gain life",
-    "url": "https://forums.mtgo.com/index.php?threads/foul-tongue-shreik-does-not-gain-life.302/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/narset-enlightened-master-can-cast-creature-cards-with-their-effect.246/": {
-    "title": "Narset, Enlightened Master can cast creature cards with their effect.",
-    "url": "https://forums.mtgo.com/index.php?threads/narset-enlightened-master-can-cast-creature-cards-with-their-effect.246/",
-    "status": "Confirmed",
-    "tracked": true
-  },
-  "https://forums.mtgo.com/index.php?threads/diabolic-servitude.136/": {
-    "title": "Diabolic Servitude",
-    "url": "https://forums.mtgo.com/index.php?threads/diabolic-servitude.136/",
-    "status": "Confirmed",
-    "tracked": true
-  },
-  "https://forums.mtgo.com/index.php?threads/melira-sylvok-outcast-vs-inkmoth-nexus.109/": {
-    "title": "Melira, Sylvok Outcast vs Inkmoth Nexus",
-    "url": "https://forums.mtgo.com/index.php?threads/melira-sylvok-outcast-vs-inkmoth-nexus.109/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/first-response-doesnt-work.336/": {
-    "title": "First Response doesn't work",
-    "url": "https://forums.mtgo.com/index.php?threads/first-response-doesnt-work.336/",
-    "status": "Confirmed",
-    "tracked": true
-  },
-  "https://forums.mtgo.com/index.php?threads/meld-mishra-commander-damage.416/": {
-    "title": "Meld Mishra commander damage",
-    "url": "https://forums.mtgo.com/index.php?threads/meld-mishra-commander-damage.416/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/island-sanctuary.413/": {
@@ -353,24 +185,6 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/hurkyl-bugged-does-not-grab-artifact-creatures.437/": {
-    "title": "Hurkyl bugged - does not grab artifact creatures",
-    "url": "https://forums.mtgo.com/index.php?threads/hurkyl-bugged-does-not-grab-artifact-creatures.437/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/confounding-conundrum-w-field-of-ruin-effects.379/": {
-    "title": "Confounding Conundrum w/ Field of Ruin Effects",
-    "url": "https://forums.mtgo.com/index.php?threads/confounding-conundrum-w-field-of-ruin-effects.379/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/jasmine-boreal-of-the-seven-with-vanilla-adventure-creatures.345/": {
-    "title": "Jasmine Boreal of the Seven with Vanilla Adventure Creatures",
-    "url": "https://forums.mtgo.com/index.php?threads/jasmine-boreal-of-the-seven-with-vanilla-adventure-creatures.345/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/avacyns-judgment-madness-cost-cannot-be-played.244/": {
     "title": "Avacyn's Judgment Madness cost cannot be played",
     "url": "https://forums.mtgo.com/index.php?threads/avacyns-judgment-madness-cost-cannot-be-played.244/",
@@ -383,40 +197,10 @@
     "status": "Not A Bug",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/aurelia-the-warleader-didnt-trigger.485/": {
-    "title": "Aurelia the warleader didn't trigger.",
-    "url": "https://forums.mtgo.com/index.php?threads/aurelia-the-warleader-didnt-trigger.485/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/zevlor-elturel-exile-activation-with-no-target-crashes-game.463/": {
-    "title": "Zevlor, Elturel Exile activation with no target crashes game",
-    "url": "https://forums.mtgo.com/index.php?threads/zevlor-elturel-exile-activation-with-no-target-crashes-game.463/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/talent-of-the-telepath-unable-to-cast-instant-sorcery.445/": {
-    "title": "Talent of the Telepath - unable to cast instant/sorcery",
-    "url": "https://forums.mtgo.com/index.php?threads/talent-of-the-telepath-unable-to-cast-instant-sorcery.445/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/veteran-solider-misses-attacking.447/": {
-    "title": "Veteran Solider misses attacking",
-    "url": "https://forums.mtgo.com/index.php?threads/veteran-solider-misses-attacking.447/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/did-not-receive-play-points-after-vintage-cube-draft.499/": {
     "title": "did not receive play points after vintage cube draft",
     "url": "https://forums.mtgo.com/index.php?threads/did-not-receive-play-points-after-vintage-cube-draft.499/",
     "status": "Not A Bug",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/painters-servant-messes-up-undercity-text.497/": {
-    "title": "Painter's Servant messes up Undercity text",
-    "url": "https://forums.mtgo.com/index.php?threads/painters-servant-messes-up-undercity-text.497/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/cards-lost-in-collection.503/": {
@@ -503,40 +287,16 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/sanctum-prelate-did-not-stop-a-non-creature-spell-with-x-in-the-cost-as-it-was-cast-with-the-named-total-mana-value.599/": {
-    "title": "Sanctum Prelate did not stop a non-creature spell with {X} in the cost as it was cast with the named total mana value",
-    "url": "https://forums.mtgo.com/index.php?threads/sanctum-prelate-did-not-stop-a-non-creature-spell-with-x-in-the-cost-as-it-was-cast-with-the-named-total-mana-value.599/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/storm-entity-counts-itself.567/": {
     "title": "Storm Entity counts itself",
     "url": "https://forums.mtgo.com/index.php?threads/storm-entity-counts-itself.567/",
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/": {
-    "title": "Ashiok's Erasure bug",
-    "url": "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/",
-    "status": "Confirmed",
-    "tracked": true
-  },
-  "https://forums.mtgo.com/index.php?threads/foretell-mechanic-does-not-reveal-correctly-at-end-of-game.638/": {
-    "title": "Foretell mechanic does not reveal correctly at end of game",
-    "url": "https://forums.mtgo.com/index.php?threads/foretell-mechanic-does-not-reveal-correctly-at-end-of-game.638/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/the-brothers-war-swiss-draft-queue-is-not-awarding-prizes.657/": {
     "title": "The Brother's War Swiss Draft Queue is not awarding prizes",
     "url": "https://forums.mtgo.com/index.php?threads/the-brothers-war-swiss-draft-queue-is-not-awarding-prizes.657/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/ria-ivor-bane-of-bladehold-misleading.651/": {
-    "title": "Ria Ivor, Bane of Bladehold misleading",
-    "url": "https://forums.mtgo.com/index.php?threads/ria-ivor-bane-of-bladehold-misleading.651/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/bug-tempt-with-vengeance-tempt-with-discovery.67/": {
@@ -557,28 +317,10 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/riders-of-gavony-glitch.678/": {
-    "title": "Riders of Gavony glitch",
-    "url": "https://forums.mtgo.com/index.php?threads/riders-of-gavony-glitch.678/",
-    "status": "Confirmed",
-    "tracked": true
-  },
   "https://forums.mtgo.com/index.php?threads/churning-reservoir-targeting-error.662/": {
     "title": "Churning Reservoir targeting error",
     "url": "https://forums.mtgo.com/index.php?threads/churning-reservoir-targeting-error.662/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/phytotitan-is-bugged.647/": {
-    "title": "Phytotitan is bugged.",
-    "url": "https://forums.mtgo.com/index.php?threads/phytotitan-is-bugged.647/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/contaminated-ground.614/": {
-    "title": "Contaminated Ground",
-    "url": "https://forums.mtgo.com/index.php?threads/contaminated-ground.614/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/biting-palm-nina.575/": {
@@ -605,52 +347,10 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/graaz-darksteel-mutation-bug.676/": {
-    "title": "Graaz + Darksteel Mutation Bug",
-    "url": "https://forums.mtgo.com/index.php?threads/graaz-darksteel-mutation-bug.676/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/blast-furnace-hellkite-crashes-the-game-during-mulligans.672/": {
     "title": "Blast-Furnace Hellkite crashes the game during mulligans",
     "url": "https://forums.mtgo.com/index.php?threads/blast-furnace-hellkite-crashes-the-game-during-mulligans.672/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/grist-the-hunger-tide-at-2-loyalty-with-serras-emissary-naming-creature.701/": {
-    "title": "Grist, the Hunger Tide at 2 Loyalty with Serra's Emissary Naming Creature",
-    "url": "https://forums.mtgo.com/index.php?threads/grist-the-hunger-tide-at-2-loyalty-with-serras-emissary-naming-creature.701/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/card-had-to-attack-when-able-not-viable-attacks-game-could-not-progress.695/": {
-    "title": "Card had to attack when able, not viable attacks, game could not progress",
-    "url": "https://forums.mtgo.com/index.php?threads/card-had-to-attack-when-able-not-viable-attacks-game-could-not-progress.695/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/wildborn-preserver-getting-counters-while-phased-out.675/": {
-    "title": "Wildborn Preserver getting counters while phased out",
-    "url": "https://forums.mtgo.com/index.php?threads/wildborn-preserver-getting-counters-while-phased-out.675/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/olivia-crimson-bride-with-a-legendary-vampire.711/": {
-    "title": "Olivia, Crimson Bride with a legendary vampire",
-    "url": "https://forums.mtgo.com/index.php?threads/olivia-crimson-bride-with-a-legendary-vampire.711/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/elspeth-conquers-death-3-4-player-games.137/": {
-    "title": "Elspeth Conquers Death - 3/4 player games",
-    "url": "https://forums.mtgo.com/index.php?threads/elspeth-conquers-death-3-4-player-games.137/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/mtgo-com-decklists-preliminary-records-dont-match-event-points.653/": {
-    "title": "MTGO.com decklists - Preliminary records don't match event points",
-    "url": "https://forums.mtgo.com/index.php?threads/mtgo-com-decklists-preliminary-records-dont-match-event-points.653/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/bug-repotrt-harnessed-lightning.598/": {
@@ -659,28 +359,10 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/planeswalker-become-a-creature.615/": {
-    "title": "planeswalker become a creature",
-    "url": "https://forums.mtgo.com/index.php?threads/planeswalker-become-a-creature.615/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/hostile-negotiations-reveals-the-face-down-cards-if-selected.242/": {
-    "title": "Hostile Negotiations reveals the face down cards if selected",
-    "url": "https://forums.mtgo.com/index.php?threads/hostile-negotiations-reveals-the-face-down-cards-if-selected.242/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/bug-report-harnessed-lightning.598/": {
     "title": "Bug Report: Harnessed Lightning",
     "url": "https://forums.mtgo.com/index.php?threads/bug-report-harnessed-lightning.598/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/encroaching-mycosynth-incorrectly-affects-sideboard-cards.707/": {
-    "title": "Encroaching Mycosynth incorrectly affects sideboard cards",
-    "url": "https://forums.mtgo.com/index.php?threads/encroaching-mycosynth-incorrectly-affects-sideboard-cards.707/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/reprints-not-legal-in-new-formats.183/": {
@@ -689,52 +371,16 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/foretold-cards-not-displaying-in-exile-zone-for-opponent.692/": {
-    "title": "Foretold cards not displaying in exile zone for opponent",
-    "url": "https://forums.mtgo.com/index.php?threads/foretold-cards-not-displaying-in-exile-zone-for-opponent.692/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/pithing-needle-bug-with-grinning-ignus.177/": {
     "title": "Pithing Needle Bug with Grinning Ignus",
     "url": "https://forums.mtgo.com/index.php?threads/pithing-needle-bug-with-grinning-ignus.177/",
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/meld-commander-doesnt-count-as-commander.513/": {
-    "title": "Meld commander doesn't count as commander",
-    "url": "https://forums.mtgo.com/index.php?threads/meld-commander-doesnt-count-as-commander.513/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/megatron-post-combat-convert-trigger-doesnt-work.483/": {
     "title": "Megatron Post Combat Convert Trigger doesn't work",
     "url": "https://forums.mtgo.com/index.php?threads/megatron-post-combat-convert-trigger-doesnt-work.483/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/playing-quitting-an-ffa-before-mulligans-are-choosen-forces-game-start.145/": {
-    "title": "playing quitting an FFA before mulligans are choosen forces game start",
-    "url": "https://forums.mtgo.com/index.php?threads/playing-quitting-an-ffa-before-mulligans-are-choosen-forces-game-start.145/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/casting-adventure-spells-from-graveyard-with-lier-wrenn6.465/": {
-    "title": "Casting Adventure Spells from Graveyard with Lier/Wrenn6",
-    "url": "https://forums.mtgo.com/index.php?threads/casting-adventure-spells-from-graveyard-with-lier-wrenn6.465/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/mutate-not-working-right.168/": {
-    "title": "Mutate not working right",
-    "url": "https://forums.mtgo.com/index.php?threads/mutate-not-working-right.168/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/echoing-truth-and-a-token-copy-of-a-creature.715/": {
-    "title": "Echoing Truth and a Token copy of a creature",
-    "url": "https://forums.mtgo.com/index.php?threads/echoing-truth-and-a-token-copy-of-a-creature.715/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/mtgo-promotional-cards-which-had-the-8th-edition-frame-now-are-now-displayed-with-m15-card-frame.581/": {
@@ -755,22 +401,10 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/hallowed-moonlight-bug.285/": {
-    "title": "Hallowed Moonlight bug",
-    "url": "https://forums.mtgo.com/index.php?threads/hallowed-moonlight-bug.285/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/reidane-god-of-the-worthy-and-x-spells.457/": {
     "title": "Reidane, God of the Worthy and X spells",
     "url": "https://forums.mtgo.com/index.php?threads/reidane-god-of-the-worthy-and-x-spells.457/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/foretold-cards-undistinguishable-for-ops.365/": {
-    "title": "Foretold Cards Undistinguishable for OPs",
-    "url": "https://forums.mtgo.com/index.php?threads/foretold-cards-undistinguishable-for-ops.365/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/detention-sphere-bug.752/": {
@@ -785,12 +419,6 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/color-identity-of-meld-cards-is-incorrect-when-building-for-commander.531/": {
-    "title": "Color identity of meld cards is incorrect when building for Commander.",
-    "url": "https://forums.mtgo.com/index.php?threads/color-identity-of-meld-cards-is-incorrect-when-building-for-commander.531/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/one-redemption-bug.766/": {
     "title": "ONE redemption bug?",
     "url": "https://forums.mtgo.com/index.php?threads/one-redemption-bug.766/",
@@ -803,28 +431,10 @@
     "status": "Not A Bug",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/progenitus-as-commander-not-being-sent-to-command-zone.759/": {
-    "title": "Progenitus As Commander Not being sent to command zone",
-    "url": "https://forums.mtgo.com/index.php?threads/progenitus-as-commander-not-being-sent-to-command-zone.759/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/bug-report-harnessed-lightning-die-young-game-reset.598/": {
     "title": "Bug Report: Harnessed Lightning/Die Young Game Reset",
     "url": "https://forums.mtgo.com/index.php?threads/bug-report-harnessed-lightning-die-young-game-reset.598/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/ashiok-dream-render-preventing-searching-graveyards-as-well-as-libraries.774/": {
-    "title": "Ashiok, Dream Render preventing searching graveyards as well as libraries",
-    "url": "https://forums.mtgo.com/index.php?threads/ashiok-dream-render-preventing-searching-graveyards-as-well-as-libraries.774/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/elesh-norn-mother-of-machines-bug-with-ovalchase-daredevil.781/": {
-    "title": "Elesh Norn, Mother of Machines Bug with Ovalchase Daredevil",
-    "url": "https://forums.mtgo.com/index.php?threads/elesh-norn-mother-of-machines-bug-with-ovalchase-daredevil.781/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/alternate-art-momir-vig-avatar-not-legal-in-freeform-vanguard.668/": {
@@ -833,22 +443,10 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/ob-nixilis-casualty-bug-ob-nixilis-esikas-chariot-bug.855/": {
-    "title": "Ob Nixilis Casualty Bug + Ob Nixilis & Esika's Chariot Bug",
-    "url": "https://forums.mtgo.com/index.php?threads/ob-nixilis-casualty-bug-ob-nixilis-esikas-chariot-bug.855/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/invigorate-alt-cost-cant-target-players.856/": {
     "title": "Invigorate Alt Cost Can't Target Players",
     "url": "https://forums.mtgo.com/index.php?threads/invigorate-alt-cost-cant-target-players.856/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/price-of-glory-sacrificing-peoples-lands-in-their-own-turns.861/": {
-    "title": "Price of Glory sacrificing peoples lands in their own turns",
-    "url": "https://forums.mtgo.com/index.php?threads/price-of-glory-sacrificing-peoples-lands-in-their-own-turns.861/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/i-cant-create-a-copy-of-ob-nixilis-the-adversary-using-the-casuality.875/": {
@@ -881,12 +479,6 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/ramses-is-bugged.869/": {
-    "title": "Ramses is bugged",
-    "url": "https://forums.mtgo.com/index.php?threads/ramses-is-bugged.869/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/fable-of-the-mirror-breaker-bug-with-control-change.864/": {
     "title": "Fable of the Mirror-Breaker bug with control change",
     "url": "https://forums.mtgo.com/index.php?threads/fable-of-the-mirror-breaker-bug-with-control-change.864/",
@@ -903,12 +495,6 @@
     "title": "Awaken the Maelstrom (Invasion of Alara Battle backside) does not create a token copy of permanent controlled by its caster",
     "url": "https://forums.mtgo.com/index.php?threads/awaken-the-maelstrom-invasion-of-alara-battle-backside-does-not-create-a-token-copy-of-permanent-controlled-by-its-caster.888/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/polukranos-reborn-frame.887/": {
-    "title": "Polukranos Reborn Frame",
-    "url": "https://forums.mtgo.com/index.php?threads/polukranos-reborn-frame.887/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/i-cannot-pay-the-splice-cost-for-roar-of-jukai.872/": {
@@ -947,60 +533,6 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/jugan-defends-the-temple.935/": {
-    "title": "Jugan Defends the Temple",
-    "url": "https://forums.mtgo.com/index.php?threads/jugan-defends-the-temple.935/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/homeward-path-bugged.975/": {
-    "title": "Homeward Path bugged",
-    "url": "https://forums.mtgo.com/index.php?threads/homeward-path-bugged.975/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/foretell-in-multiplayer-crashing-the-client.1021/": {
-    "title": "Foretell in multiplayer crashing the client.",
-    "url": "https://forums.mtgo.com/index.php?threads/foretell-in-multiplayer-crashing-the-client.1021/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/yidaro-the-wandering-monster-bug-is-still-around.1039/": {
-    "title": "Yidaro, The Wandering Monster bug is still around",
-    "url": "https://forums.mtgo.com/index.php?threads/yidaro-the-wandering-monster-bug-is-still-around.1039/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/capricious-hellraiser-casts-both-sides-of-battles-from-the-graveyard.1015/": {
-    "title": "Capricious Hellraiser casts both sides of battles from the graveyard",
-    "url": "https://forums.mtgo.com/index.php?threads/capricious-hellraiser-casts-both-sides-of-battles-from-the-graveyard.1015/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/norns-decree-procs-on-noncombat-damage.813/": {
-    "title": "Norn's Decree procs on noncombat damage",
-    "url": "https://forums.mtgo.com/index.php?threads/norns-decree-procs-on-noncombat-damage.813/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/brimaz-blight-of-oreskos.1054/": {
-    "title": "Brimaz, Blight of Oreskos",
-    "url": "https://forums.mtgo.com/index.php?threads/brimaz-blight-of-oreskos.1054/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/omnath-locus-of-all-and-split-card.1051/": {
-    "title": "Omnath, Locus of All and Split Card",
-    "url": "https://forums.mtgo.com/index.php?threads/omnath-locus-of-all-and-split-card.1051/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/is-this-a-glitch-goad-propaganda-unable-to-take-any-game-actions.1068/": {
-    "title": "Is this a glitch? goad+propaganda, unable to take any game actions.",
-    "url": "https://forums.mtgo.com/index.php?threads/is-this-a-glitch-goad-propaganda-unable-to-take-any-game-actions.1068/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/old-stickfingers-graveyard-order-corpse-dance-and-shallow-grave.820/": {
     "title": "Old stickfingers - graveyard order - Corpse dance and Shallow grave",
     "url": "https://forums.mtgo.com/index.php?threads/old-stickfingers-graveyard-order-corpse-dance-and-shallow-grave.820/",
@@ -1013,36 +545,6 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/as-foretold-electrodominance.1032/": {
-    "title": "As Foretold + Electrodominance",
-    "url": "https://forums.mtgo.com/index.php?threads/as-foretold-electrodominance.1032/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/opponents-foretell-cards-arent-shown-anywhere.1085/": {
-    "title": "Opponent's Foretell cards aren't shown anywhere",
-    "url": "https://forums.mtgo.com/index.php?threads/opponents-foretell-cards-arent-shown-anywhere.1085/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/chandras-phoenix-returns-on-damage-to-a-creature.1061/": {
-    "title": "Chandra's Phoenix returns on damage to a creature",
-    "url": "https://forums.mtgo.com/index.php?threads/chandras-phoenix-returns-on-damage-to-a-creature.1061/",
-    "status": "Confirmed",
-    "tracked": true
-  },
-  "https://forums.mtgo.com/index.php?threads/hex-parasite-cant-target-battles.902/": {
-    "title": "Hex Parasite can't target Battles",
-    "url": "https://forums.mtgo.com/index.php?threads/hex-parasite-cant-target-battles.902/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bugged-in-at-least-two-ways.330/": {
-    "title": "Volrath's Shapeshifter bugged in at least two ways",
-    "url": "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bugged-in-at-least-two-ways.330/",
-    "status": "Confirmed",
-    "tracked": true
-  },
   "https://forums.mtgo.com/index.php?threads/shire-sherriff-allows-to-attempt-to-sac-op-permanents.1133/": {
     "title": "Shire Sherriff Allows to Attempt to Sac OP Permanents",
     "url": "https://forums.mtgo.com/index.php?threads/shire-sherriff-allows-to-attempt-to-sac-op-permanents.1133/",
@@ -1053,12 +555,6 @@
     "title": "BUG Invasion of New Cappena allows you to select opponents creatures to sacrifice",
     "url": "https://forums.mtgo.com/index.php?threads/bug-invasion-of-new-cappena-allows-you-to-select-opponents-creatures-to-sacrifice.1115/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/collection-tab-search-function.1109/": {
-    "title": "Collection tab Search function",
-    "url": "https://forums.mtgo.com/index.php?threads/collection-tab-search-function.1109/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/wernog-riders-chaplain-clues-do-not-draw-a-card.1141/": {
@@ -1077,12 +573,6 @@
     "title": "Relic of Sauron's mana ability uses the stack.",
     "url": "https://forums.mtgo.com/index.php?threads/relic-of-saurons-mana-ability-uses-the-stack.1161/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/dreadhorde-invasion-does-not-apply-lifelink-to-zombie-orc-army.1163/": {
-    "title": "Dreadhorde invasion does not apply lifelink to zombie orc army",
-    "url": "https://forums.mtgo.com/index.php?threads/dreadhorde-invasion-does-not-apply-lifelink-to-zombie-orc-army.1163/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/lord-of-the-rings-cards-cannot-be-named-with-pithing-needle-or-sorcerous-spyglass.1155/": {
@@ -1127,12 +617,6 @@
     "status": "Fixed",
     "tracked": true
   },
-  "https://forums.mtgo.com/index.php?threads/glitch-with-soul-ransom.1197/": {
-    "title": "Glitch with Soul Ransom",
-    "url": "https://forums.mtgo.com/index.php?threads/glitch-with-soul-ransom.1197/",
-    "status": "Confirmed",
-    "tracked": true
-  },
   "https://forums.mtgo.com/index.php?threads/opponents-incorrectly-reanimate-my-golgari-grave-troll-with-a-1-1-counter.1246/": {
     "title": "Opponents incorrectly Reanimate my Golgari Grave-Troll with a +1/+1 Counter",
     "url": "https://forums.mtgo.com/index.php?threads/opponents-incorrectly-reanimate-my-golgari-grave-troll-with-a-1-1-counter.1246/",
@@ -1150,12 +634,6 @@
     "url": "https://forums.mtgo.com/index.php?threads/the-lesson-cards-are-missing-their-identifying-mark.1251/",
     "status": "Fixed",
     "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/councils-judgment-not-showing-initial-vote.1226/": {
-    "title": "Council's Judgment not showing initial vote",
-    "url": "https://forums.mtgo.com/index.php?threads/councils-judgment-not-showing-initial-vote.1226/",
-    "status": "Confirmed",
-    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/foray-of-orcs-bugged.1240/": {
     "title": "Foray of Orcs Bugged",
@@ -1187,24 +665,6 @@
     "status": "Not A Bug",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/gontis-machinations-not-triggering-with-shock-land.1300/": {
-    "title": "Gonti's machinations not triggering with shock land",
-    "url": "https://forums.mtgo.com/index.php?threads/gontis-machinations-not-triggering-with-shock-land.1300/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/chaos-warp-doesnt-work-at-battle.1319/": {
-    "title": "Chaos Warp doesn't work at Battle",
-    "url": "https://forums.mtgo.com/index.php?threads/chaos-warp-doesnt-work-at-battle.1319/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/slip-out-the-back-vs-dash.1311/": {
-    "title": "Slip out the Back vs. Dash",
-    "url": "https://forums.mtgo.com/index.php?threads/slip-out-the-back-vs-dash.1311/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/": {
     "title": "The madness alternative cost on the card From Under The Floorboards is broken",
     "url": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
@@ -1216,12 +676,6 @@
     "url": "https://forums.mtgo.com/index.php?threads/multiplayer-games-restarting-whenever-anyone-mulligans.522/",
     "status": "Fixed",
     "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/synthetic-destiny-bug-in-commander.821/": {
-    "title": "Synthetic Destiny Bug in Commander",
-    "url": "https://forums.mtgo.com/index.php?threads/synthetic-destiny-bug-in-commander.821/",
-    "status": "Confirmed",
-    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/celestial-convergence-hits-its-win-condition-as-soon-as-a-counter-is-removed.1279/": {
     "title": "Celestial Convergence hits its win condition as soon as a counter is removed",
@@ -1253,12 +707,6 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/not-dead-after-all-creates-role-even-if-it-should-fizzle.1403/": {
-    "title": "Not dead after all creates role even if it should fizzle",
-    "url": "https://forums.mtgo.com/index.php?threads/not-dead-after-all-creates-role-even-if-it-should-fizzle.1403/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/woe-sealed-friendly-requiring-60-card-deck.1399/": {
     "title": "WOE Sealed Friendly requiring 60 card deck",
     "url": "https://forums.mtgo.com/index.php?threads/woe-sealed-friendly-requiring-60-card-deck.1399/",
@@ -1277,12 +725,6 @@
     "status": "Could Not Reproduce",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/blossoming-tortoise-reduces-activated-abilities-of-lands-in-your-hand.1424/": {
-    "title": "Blossoming Tortoise reduces activated abilities of lands in your hand.",
-    "url": "https://forums.mtgo.com/index.php?threads/blossoming-tortoise-reduces-activated-abilities-of-lands-in-your-hand.1424/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/the-princess-takes-flight-and-meticulous-excavation.1444/": {
     "title": "The Princess Takes Flight and Meticulous Excavation",
     "url": "https://forums.mtgo.com/index.php?threads/the-princess-takes-flight-and-meticulous-excavation.1444/",
@@ -1293,12 +735,6 @@
     "title": "Conceding With Eureka on the Stack Causes \"Reversion to Last Stable State\"",
     "url": "https://forums.mtgo.com/index.php?threads/conceding-with-eureka-on-the-stack-causes-reversion-to-last-stable-state.1006/",
     "status": "Fixed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/curse-of-leeches-again.1459/": {
-    "title": "Curse of Leeches (again...)",
-    "url": "https://forums.mtgo.com/index.php?threads/curse-of-leeches-again.1459/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/titan-of-industry-shield-counter.1374/": {
@@ -1349,24 +785,6 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/diabolic-servitude-bugged.1489/": {
-    "title": "Diabolic Servitude bugged",
-    "url": "https://forums.mtgo.com/index.php?threads/diabolic-servitude-bugged.1489/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/gontis-machinations-not-triggering-with-shock-land.1617/": {
-    "title": "Gonti's machinations not triggering with shock land",
-    "url": "https://forums.mtgo.com/index.php?threads/gontis-machinations-not-triggering-with-shock-land.1617/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/chancellor-of-the-tangle-trigger-does-not-add-mana.1581/": {
-    "title": "Chancellor of the Tangle trigger does not add mana",
-    "url": "https://forums.mtgo.com/index.php?threads/chancellor-of-the-tangle-trigger-does-not-add-mana.1581/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/sliver-hive-token-bugged.1579/": {
     "title": "Sliver Hive (Token) bugged",
     "url": "https://forums.mtgo.com/index.php?threads/sliver-hive-token-bugged.1579/",
@@ -1391,12 +809,6 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/smaller-text-in-the-window-on-the-left.1624/": {
-    "title": "Smaller Text in the window on the left",
-    "url": "https://forums.mtgo.com/index.php?threads/smaller-text-in-the-window-on-the-left.1624/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/volatile-fault-doesnt-add-treasure-token-if-search-is-prevented-by-leonin-arbiter.1623/": {
     "title": "Volatile Fault Doesn't Add Treasure Token If Search Is Prevented By Leonin Arbiter",
     "url": "https://forums.mtgo.com/index.php?threads/volatile-fault-doesnt-add-treasure-token-if-search-is-prevented-by-leonin-arbiter.1623/",
@@ -1414,30 +826,6 @@
     "url": "https://forums.mtgo.com/index.php?threads/exploring-with-an-emtpy-library-doesnt-put-counters-on-a-creature.1685/",
     "status": "Backlog",
     "tracked": true
-  },
-  "https://forums.mtgo.com/index.php?threads/market-gnome-bug.1629/": {
-    "title": "Market gnome bug",
-    "url": "https://forums.mtgo.com/index.php?threads/market-gnome-bug.1629/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/disrupting-shoal-counters-spells-of-any-mana-value-when-cast-from-as-foretold.1677/": {
-    "title": "Disrupting Shoal counters spells of any mana value when cast from As Foretold",
-    "url": "https://forums.mtgo.com/index.php?threads/disrupting-shoal-counters-spells-of-any-mana-value-when-cast-from-as-foretold.1677/",
-    "status": "Confirmed",
-    "tracked": true
-  },
-  "https://forums.mtgo.com/index.php?threads/obzedat-ghost-council-does-not-return-from-exile.1320/": {
-    "title": "Obzedat, Ghost Council does not return from exile",
-    "url": "https://forums.mtgo.com/index.php?threads/obzedat-ghost-council-does-not-return-from-exile.1320/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/kutzil-malamet-exemplars-triggered-ability-doesnt-work-correctly.1626/": {
-    "title": "Kutzil, Malamet Exemplar's triggered ability doesn't work correctly",
-    "url": "https://forums.mtgo.com/index.php?threads/kutzil-malamet-exemplars-triggered-ability-doesnt-work-correctly.1626/",
-    "status": "Confirmed",
-    "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/souls-of-the-lost-interaction-bugged-with-merfolk-trickster.1670/": {
     "title": "Souls of the Lost interaction bugged with Merfolk Trickster",
@@ -1461,12 +849,6 @@
     "title": "Brought my opponent to -1 then timed out. Received a Draw!",
     "url": "https://forums.mtgo.com/index.php?threads/brought-my-opponent-to-1-then-timed-out-received-a-draw.1648/",
     "status": "No Fix Planned",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/fate-unraveler-crash-mtgo-with-edh-wheel.1640/": {
-    "title": "Fate Unraveler Crash MTGO with EDH Wheel",
-    "url": "https://forums.mtgo.com/index.php?threads/fate-unraveler-crash-mtgo-with-edh-wheel.1640/",
-    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/spacebar-conflicting-with-in-game-zones.1639/": {
