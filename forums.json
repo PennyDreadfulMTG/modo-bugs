@@ -886,5 +886,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/masters-manufactory-failed-to-trigger.1667/",
     "status": "Could Not Reproduce",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/deeproot-pilgrimage-giving-multiple-tokens-with-convoke.1721/": {
+    "title": "Deeproot Pilgrimage Giving Multiple Tokens with Convoke",
+    "url": "https://forums.mtgo.com/index.php?threads/deeproot-pilgrimage-giving-multiple-tokens-with-convoke.1721/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/": {
+    "title": "Promise of Loyalty didn't sac creatures",
+    "url": "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/",
+    "status": "Backlog",
+    "tracked": false
   }
 }
