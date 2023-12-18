@@ -731,7 +731,7 @@
     "card": "Murktide Regent",
     "description": "Murktide Regent triggers less times than it should if Doomsday is cast (circumstances unknown)",
     "category": "Disadvantageous",
-    "last_updated": "2023-11-29 14:54:54",
+    "last_updated": "2023-12-18 21:54:54",
     "issue_number": 1096,
     "pd_legal": false,
     "bug_blog": false,
