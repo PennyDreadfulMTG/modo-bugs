@@ -1,5 +1,19 @@
 [
   {
+    "card": "Lavinia of the Tenth",
+    "description": "Lavinia of the Tenth detains nonland permanents forever if controller dies",
+    "category": "Advantageous",
+    "last_updated": "2023-12-20 01:54:46",
+    "issue_number": 1099,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1099",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Wake to Slaughter",
     "description": "Wake to Slaughter exiles both the card put onto the battlefield AND the card put into hand",
     "category": "Disadvantageous",
