@@ -880,7 +880,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1091",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Founding the Third Path",
@@ -894,7 +895,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1091",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Omnath, Locus of All",
@@ -908,7 +910,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1090",
     "support_thread": "https://forums.mtgo.com/index.php?threads/omnath-locus-of-all-softlocks-you-if-you-reveal-a-split-card-or-if-mycosynth-lattice-is-in-play.1462/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Pillar of the Paruns",
@@ -922,7 +925,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1089",
     "support_thread": "https://forums.mtgo.com/index.php?threads/pillar-of-the-paruns-cannot-pay-the-costs-of-split-cards.1463/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Council's Judgment",
@@ -951,7 +955,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
     "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Avacyn's Judgment",
@@ -965,7 +970,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
     "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Welcome to the Fold",
@@ -979,7 +985,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
     "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Falkenrath Gorger",
@@ -993,7 +1000,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1085",
     "support_thread": "https://forums.mtgo.com/index.php?threads/the-madness-alternative-cost-on-the-card-from-under-the-floorboards-is-broken.1020/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Paladin of Atonement",
@@ -1007,7 +1015,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1084",
     "support_thread": "https://forums.mtgo.com/index.php?threads/paladin-of-atonement-does-not-trigger.420/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Jace, Mirror Mage",
@@ -1025,20 +1034,6 @@
     "help_wanted": true
   },
   {
-    "card": "Hypergenesis",
-    "description": "Hypergenesis causes the game to restart when you concede during its resolution",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:54:54",
-    "issue_number": 1080,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1080",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/hypergenesis-restarts-the-game.907/",
-    "last_verified": "3.4.135.4381"
-  },
-  {
     "card": "Chandra's Phoenix",
     "description": "Ability of Chandra's Phoenix triggers when a creature is dealt damage by its owner's instant or sorcery",
     "category": "Advantageous",
@@ -1050,7 +1045,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1078",
     "support_thread": "https://forums.mtgo.com/index.php?threads/chandras-phoenix-returns-on-damage-to-a-creature.1061/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Obzedat, Ghost Council",
@@ -1078,7 +1074,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1071",
     "support_thread": "https://forums.mtgo.com/index.php?threads/florian-voldaren-scion-agonizing-remorse-shuffles-each-opponents-revealed-card-into-their-library.673/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Invasive Surgery",
@@ -1123,7 +1120,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1059",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Puca's Mischief",
@@ -1137,7 +1135,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1056",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Leonin Arbiter",
@@ -1151,7 +1150,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1054",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Search the City",
@@ -1165,7 +1165,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1053",
     "support_thread": "https://forums.mtgo.com/index.php?threads/search-the-city-only-exiles-cards-with-no-further-effect.279/",
-    "last_verified": "3.4.130.4307"
+    "last_verified": "3.4.130.4307",
+    "help_wanted": true
   },
   {
     "card": "Jester's Scepter",
@@ -1179,7 +1180,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1050",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Joraga Treespeaker",
@@ -1223,7 +1225,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1047",
     "support_thread": "https://forums.mtgo.com/index.php?threads/consuming-tide-is-not-working-as-it-should.99/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Words of Worship",
@@ -1237,7 +1240,8 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1046",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Selvala, Explorer Returned",
@@ -1251,7 +1255,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1045",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Linessa, Zephyr Mage",
@@ -1265,7 +1270,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1039",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Choice of Damnations",
@@ -1279,7 +1285,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1038",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Intuition",
@@ -1323,7 +1330,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1031",
     "support_thread": "https://forums.mtgo.com/index.php?threads/rain-of-gore-hoses-lifelink.1114/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Conundrum Sphinx",
@@ -1337,7 +1345,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1030",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Soul Ransom",
@@ -1351,7 +1360,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1029",
     "support_thread": "https://forums.mtgo.com/index.php?threads/glitch-with-soul-ransom.1197/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Etchings of the Chosen",
@@ -1396,7 +1406,8 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1026",
     "support_thread": null,
     "last_verified": null,
-    "multiplayer_only": true
+    "multiplayer_only": true,
+    "help_wanted": true
   },
   {
     "card": "Horobi's Whisper",
@@ -1410,273 +1421,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1025",
     "support_thread": null,
-    "last_verified": null
-  },
-  {
-    "card": "Chill Haunting",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Devastating Dreams",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Devastating Summons",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Firestorm",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Eliminate the Competition",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Fire Covenant",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Hatred",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Harvest Pyre",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Haunting Misery",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Infernal Harvest",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Insidious Dreams",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Necrologia",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Nahiri's Wrath",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Nostalgic Dreams",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Restless Dreams",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Sickening Dreams",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Toxic Deluge",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Turbulent Dreams",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
-  },
-  {
-    "card": "Vengeful Dreams",
-    "description": "If a card that requires an additional cost involving X would be cast without paying its mana cost, it restarts the game when the next spell is cast",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:14",
-    "issue_number": 1023,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1023",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/toxic-deluge-does-not-work-correctly-off-the-top-of-library-with-bolas-citadel.115/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Strongarm Tactics",
@@ -1690,7 +1436,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1021",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "The First Eruption",
@@ -1704,7 +1451,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1018",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Hateful Eidolon",
@@ -1718,7 +1466,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1017",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Herald of Torment",
@@ -1732,7 +1481,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1017",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Old-Growth Troll",
@@ -1761,7 +1511,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1010",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Tinder Wall",
@@ -1790,7 +1541,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1006",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Vivien's Grizzly",
@@ -1834,7 +1586,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1002",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Conflux",
@@ -1848,7 +1601,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1002",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Narset, Enlightened Master",
@@ -1862,7 +1616,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1001",
     "support_thread": "https://forums.mtgo.com/index.php?threads/narset-enlightened-master-can-cast-creature-cards-with-their-effect.246/",
-    "last_verified": "3.4.129.4220"
+    "last_verified": "3.4.129.4220",
+    "help_wanted": true
   },
   {
     "card": "Chancellor of the Forge",
@@ -1876,7 +1631,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1000",
     "support_thread": null,
-    "last_verified": "3.4.132.4356"
+    "last_verified": "3.4.132.4356",
+    "help_wanted": true
   },
   {
     "card": "Armored Skyhunter",
@@ -1905,7 +1661,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/997",
     "support_thread": "https://forums.mtgo.com/index.php?threads/profaner-of-the-dead.87/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Kamahl's Summons",
@@ -1949,7 +1706,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/994",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Warbreak Trumpeter",
@@ -1963,7 +1721,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/993",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Play with Fire",
@@ -2037,7 +1796,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/989",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Crovax the Cursed",
@@ -2051,7 +1811,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/989",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Laelia, the Blade Reforged",
@@ -2110,7 +1871,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/980",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Distended Mindbender",
@@ -2124,7 +1886,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/980",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Drownyard Behemoth",
@@ -2138,7 +1901,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/980",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Elder Deep-Fiend",
@@ -2152,7 +1916,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/980",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "It of the Horrid Swarm",
@@ -2166,7 +1931,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/980",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Lashweed Lurker",
@@ -2180,7 +1946,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/980",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Mockery of Nature",
@@ -2194,7 +1961,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/980",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Vexing Scuttler",
@@ -2208,7 +1976,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/980",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Wretched Gryff",
@@ -2222,7 +1991,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/980",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Decimator of the Provinces",
@@ -2236,7 +2006,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/980",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Abandoned Sarcophagus",
@@ -2250,7 +2021,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/979",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Soulflayer",
@@ -2264,7 +2036,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/978",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Channel",
@@ -2308,7 +2081,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/974",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Commander's Plate",
@@ -2352,7 +2126,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/971",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Nether Traitor",
@@ -2366,7 +2141,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/969",
     "support_thread": null,
-    "last_verified": "3.4.129.4220"
+    "last_verified": "3.4.129.4220",
+    "help_wanted": true
   },
   {
     "card": "Adeline, Resplendent Cathar",
@@ -2410,7 +2186,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/963",
     "support_thread": null,
-    "last_verified": "3.4.128.4200"
+    "last_verified": "3.4.128.4200",
+    "help_wanted": true
   },
   {
     "card": "Battle for Bretagard",
@@ -2424,7 +2201,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/962",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Portent",
@@ -2468,7 +2246,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/958",
     "support_thread": null,
-    "last_verified": "3.4.132.4359"
+    "last_verified": "3.4.132.4359",
+    "help_wanted": true
   },
   {
     "card": "Snapcaster Mage",
@@ -2512,7 +2291,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/956",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Myriad Construct",
@@ -2526,7 +2306,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/955",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Academic Dispute",
@@ -2570,7 +2351,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/950",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Riders of Gavony",
@@ -2584,7 +2366,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/949",
     "support_thread": "https://forums.mtgo.com/index.php?threads/riders-of-gavony-glitch.678/",
-    "last_verified": "3.4.124.4162"
+    "last_verified": "3.4.124.4162",
+    "help_wanted": true
   },
   {
     "card": "Yidaro, Wandering Monster",
@@ -2612,7 +2395,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/947",
     "support_thread": null,
-    "last_verified": "3.4.128.4200"
+    "last_verified": "3.4.128.4200",
+    "help_wanted": true
   },
   {
     "card": "Shaman of the Great Hunt",
@@ -2626,7 +2410,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/946",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Harmonic Prodigy",
@@ -2640,7 +2425,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/946",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Siphon Insight",
@@ -2669,7 +2455,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/939",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Anointed Procession",
@@ -2683,7 +2470,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/937",
     "support_thread": null,
-    "last_verified": "3.4.124.4162"
+    "last_verified": "3.4.124.4162",
+    "help_wanted": true
   },
   {
     "card": "Retriever Phoenix",
@@ -2697,7 +2485,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/937",
     "support_thread": null,
-    "last_verified": "3.4.124.4162"
+    "last_verified": "3.4.124.4162",
+    "help_wanted": true
   },
   {
     "card": "Academy Manufactor",
@@ -2711,7 +2500,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/937",
     "support_thread": null,
-    "last_verified": "3.4.124.4162"
+    "last_verified": "3.4.124.4162",
+    "help_wanted": true
   },
   {
     "card": "Conspiracy Theorist",
@@ -2725,7 +2515,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/936",
     "support_thread": null,
-    "last_verified": "3.4.124.4165"
+    "last_verified": "3.4.124.4165",
+    "help_wanted": true
   },
   {
     "card": "Exhume",
@@ -2754,7 +2545,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/932",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Weathered Runestone",
@@ -2768,7 +2560,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/932",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Harmonic Prodigy",
@@ -2782,7 +2575,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/930",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Guardian Gladewalker",
@@ -2796,7 +2590,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/930",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Masked Vandal",
@@ -2810,7 +2605,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/930",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Graveshifter",
@@ -2824,7 +2620,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/930",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Irregular Cohort",
@@ -2838,7 +2635,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/930",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Littjara Kinseekers",
@@ -2852,7 +2650,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/930",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Webweaver Changeling",
@@ -2866,7 +2665,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/930",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Realmwalker",
@@ -2895,7 +2695,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/926",
     "support_thread": "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/",
-    "last_verified": "3.4.124.4162"
+    "last_verified": "3.4.124.4162",
+    "help_wanted": true
   },
   {
     "card": "Ashiok's Erasure",
@@ -2909,7 +2710,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/926",
     "support_thread": "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/",
-    "last_verified": "3.4.124.4162"
+    "last_verified": "3.4.124.4162",
+    "help_wanted": true
   },
   {
     "card": "Knowledge Pool",
@@ -2923,7 +2725,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/922",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Bear Umbra",
@@ -2937,7 +2740,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Boar Umbra",
@@ -2951,7 +2755,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Crab Umbra",
@@ -2965,7 +2770,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Drake Umbra",
@@ -2979,7 +2785,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Eel Umbra",
@@ -2993,7 +2800,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Eland Umbra",
@@ -3007,7 +2815,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Estrid, the Masked",
@@ -3021,7 +2830,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Felidar Umbra",
@@ -3035,7 +2845,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Hyena Umbra",
@@ -3049,7 +2860,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Indrik Umbra",
@@ -3063,7 +2875,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Mammoth Umbra",
@@ -3077,7 +2890,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Octopus Umbra",
@@ -3091,7 +2905,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Snake Umbra",
@@ -3105,7 +2920,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Spider Umbra",
@@ -3119,7 +2935,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Treefolk Umbra",
@@ -3133,7 +2950,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Umbra Mystic",
@@ -3147,7 +2965,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/919",
     "support_thread": null,
-    "last_verified": "3.4.129.4215"
+    "last_verified": "3.4.129.4215",
+    "help_wanted": true
   },
   {
     "card": "Kiora, Master of the Depths",
@@ -3161,7 +2980,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/917",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Guardian of the Guildpact",
@@ -3205,7 +3025,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/909",
     "support_thread": null,
-    "last_verified": "3.4.128.4200"
+    "last_verified": "3.4.128.4200",
+    "help_wanted": true
   },
   {
     "card": "Caravan Escort",
@@ -3219,7 +3040,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/909",
     "support_thread": null,
-    "last_verified": "3.4.128.4200"
+    "last_verified": "3.4.128.4200",
+    "help_wanted": true
   },
   {
     "card": "Coralhelm Commander",
@@ -3233,7 +3055,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/909",
     "support_thread": null,
-    "last_verified": "3.4.128.4200"
+    "last_verified": "3.4.128.4200",
+    "help_wanted": true
   },
   {
     "card": "Grafdigger's Cage",
@@ -3277,7 +3100,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/902",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Skull Raid",
@@ -3291,7 +3115,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/901",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Dripping Dead",
@@ -3305,7 +3130,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Grotesque Hybrid",
@@ -3319,7 +3145,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Mephitic Ooze",
@@ -3333,7 +3160,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Phage the Untouchable",
@@ -3347,7 +3175,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Stinkweed Imp",
@@ -3361,7 +3190,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Voracious Cobra",
@@ -3375,7 +3205,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/900",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Cairn Wanderer",
@@ -3389,7 +3220,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/899",
     "support_thread": null,
-    "last_verified": "3.4.124.4159"
+    "last_verified": "3.4.124.4159",
+    "help_wanted": true
   },
   {
     "card": "First Response",
@@ -3403,7 +3235,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/898",
     "support_thread": "https://forums.mtgo.com/index.php?threads/first-response-doesnt-work.336/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Svella, Ice Shaper",
@@ -3462,7 +3295,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/890",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Retribution of the Ancients",
@@ -3476,7 +3310,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/889",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Distended Mindbender",
@@ -3490,7 +3325,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/888",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Infernal Darkness",
@@ -3519,7 +3355,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/883",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Neoform",
@@ -3548,7 +3385,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/878",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Deranged Assistant",
@@ -3562,7 +3400,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/877",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Ethersworn Canonist",
@@ -3576,7 +3415,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/874",
     "support_thread": null,
-    "last_verified": "3.4.128.4200"
+    "last_verified": "3.4.128.4200",
+    "help_wanted": true
   },
   {
     "card": "Moonring Mirror",
@@ -3590,7 +3430,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/873",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Umori, the Collector",
@@ -3605,7 +3446,8 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/866",
     "support_thread": null,
     "last_verified": "3.4.123.4152",
-    "cade_bug": true
+    "cade_bug": true,
+    "help_wanted": true
   },
   {
     "card": "Zhur-Taa Druid",
@@ -3634,7 +3476,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/862",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Omen Machine",
@@ -3648,7 +3491,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/856",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Olivia Voldaren",
@@ -3662,7 +3506,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/853",
     "support_thread": null,
-    "last_verified": "3.4.135.4394"
+    "last_verified": "3.4.135.4394",
+    "help_wanted": true
   },
   {
     "card": "Pattern Matcher",
@@ -3676,7 +3521,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/852",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Phyrexian Portal",
@@ -3690,7 +3536,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/851",
     "support_thread": null,
-    "last_verified": "3.4.124.4166"
+    "last_verified": "3.4.124.4166",
+    "help_wanted": true
   },
   {
     "card": "Szadek, Lord of Secrets",
@@ -3704,7 +3551,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/849",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Distant Memories",
@@ -3718,7 +3566,8 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/847",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Chainer, Nightmare Adept",
@@ -3732,7 +3581,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/842",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Vedalken Orrery",
@@ -3746,7 +3596,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/842",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Charmed Pendant",
@@ -3775,7 +3626,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/836",
     "support_thread": "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bugged-in-at-least-two-ways.330/",
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Multani's Presence",
@@ -3804,7 +3656,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/823",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Turn // Burn",
@@ -3818,7 +3671,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/817",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Krark's Thumb",
@@ -3832,7 +3686,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/816",
     "support_thread": null,
-    "last_verified": "3.4.135.4381"
+    "last_verified": "3.4.135.4381",
+    "help_wanted": true
   },
   {
     "card": "Mystical Dispute",
@@ -3891,7 +3746,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/811",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Fire // Ice",
@@ -3905,7 +3761,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/811",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "The Mirari Conjecture",
@@ -3919,7 +3776,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/806",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Smallpox",
@@ -3933,7 +3791,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Creeping Dread",
@@ -3947,7 +3806,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Miasmic Mummy",
@@ -3961,7 +3821,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Rotting Rats",
@@ -3975,7 +3836,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Stronghold Rats",
@@ -3989,7 +3851,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Sibsig Icebreakers",
@@ -4003,7 +3866,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Strongarm Tactics",
@@ -4017,7 +3881,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Earsplitting Rats",
@@ -4031,7 +3896,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Cunning Lethemancer",
@@ -4045,7 +3911,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Mindlash Sliver",
@@ -4059,7 +3926,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/805",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Lavinia, Azorius Renegade",
@@ -4103,7 +3971,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/799",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Necra Sanctuary",
@@ -4132,7 +4001,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/795",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Matter Reshaper",
@@ -4146,7 +4016,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/795",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Mist of Stagnation",
@@ -4175,7 +4046,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/788",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Breaching Leviathan",
@@ -4219,7 +4091,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/770",
     "support_thread": null,
-    "last_verified": "3.4.128.4200"
+    "last_verified": "3.4.128.4200",
+    "help_wanted": true
   },
   {
     "card": "Mystic Forge",
@@ -4248,7 +4121,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/765",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Ulamog's Despoiler",
@@ -4277,7 +4151,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/751",
     "support_thread": null,
-    "last_verified": "3.4.135.4395"
+    "last_verified": "3.4.135.4395",
+    "help_wanted": true
   },
   {
     "card": "Grave Betrayal",
@@ -4291,7 +4166,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/737",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Clone",
@@ -4305,7 +4181,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/733",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Show and Tell",
@@ -4319,7 +4196,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/733",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Pyxis of Pandemonium",
@@ -4333,7 +4211,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/725",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Last Rites",
@@ -4362,7 +4241,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/720",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Swirl the Mists",
@@ -4376,7 +4256,8 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/708",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Skinshifter",
@@ -4390,7 +4271,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/700",
     "support_thread": null,
-    "last_verified": "3.4.119.4098"
+    "last_verified": "3.4.119.4098",
+    "help_wanted": true
   },
   {
     "card": "Guardian Project",
@@ -4404,7 +4286,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/707",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Teferi, Mage of Zhalfir",
@@ -4418,7 +4301,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/696",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Omen Machine",
@@ -4432,7 +4316,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/696",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Archdemon of Unx",
@@ -4446,7 +4331,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/693",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Necromancer's Covenant",
@@ -4460,7 +4346,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/693",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Amoeboid Changeling",
@@ -4489,7 +4376,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/689",
     "support_thread": null,
-    "last_verified": "3.4.117.4073"
+    "last_verified": "3.4.117.4073",
+    "help_wanted": true
   },
   {
     "card": "Blood Clock",
@@ -4503,7 +4391,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/689",
     "support_thread": null,
-    "last_verified": "3.4.117.4073"
+    "last_verified": "3.4.117.4073",
+    "help_wanted": true
   },
   {
     "card": "Drain Power",
@@ -4547,7 +4436,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/679",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Sekki, Seasons' Guide",
@@ -4561,7 +4451,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/676",
     "support_thread": null,
-    "last_verified": "3.4.117.4069"
+    "last_verified": "3.4.117.4069",
+    "help_wanted": true
   },
   {
     "card": "Relic Crush",
@@ -4575,7 +4466,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/675",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Tangleclaw Werewolf",
@@ -4620,7 +4512,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/655",
     "support_thread": null,
-    "last_verified": "3.4.125.4179"
+    "last_verified": "3.4.125.4179",
+    "help_wanted": true
   },
   {
     "card": "Pollen Lullaby",
@@ -4634,7 +4527,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/654",
     "support_thread": null,
-    "last_verified": "3.4.115.4054"
+    "last_verified": "3.4.115.4054",
+    "help_wanted": true
   },
   {
     "card": "Careful Consideration",
@@ -4648,7 +4542,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/648",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Goblin Electromancer",
@@ -4677,7 +4572,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/639",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Gideon Jura",
@@ -4691,7 +4587,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/636",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Crackling Drake",
@@ -4735,7 +4632,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/626",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Shared Fate",
@@ -4749,7 +4647,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/621",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Animar, Soul of Elements",
@@ -4778,7 +4677,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/615",
     "support_thread": null,
-    "last_verified": "3.4.122.4137"
+    "last_verified": "3.4.122.4137",
+    "help_wanted": true
   },
   {
     "card": "Containment Priest",
@@ -4822,7 +4722,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/599",
     "support_thread": null,
-    "last_verified": "3.4.114.4048"
+    "last_verified": "3.4.114.4048",
+    "help_wanted": true
   },
   {
     "card": "Release the Ants",
@@ -4836,7 +4737,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/597",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Umbral Mantle",
@@ -4895,7 +4797,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/574",
     "support_thread": null,
-    "last_verified": "3.4.114.4048"
+    "last_verified": "3.4.114.4048",
+    "help_wanted": true
   },
   {
     "card": "Mutiny",
@@ -4909,7 +4812,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/568",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Evershrike",
@@ -4923,7 +4827,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/553",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Secret Salvage",
@@ -4937,7 +4842,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/541",
     "support_thread": null,
-    "last_verified": "3.4.114.4048"
+    "last_verified": "3.4.114.4048",
+    "help_wanted": true
   },
   {
     "card": "Platinum Emperion",
@@ -4966,7 +4872,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/533",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Tromokratis",
@@ -4981,7 +4888,8 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/530",
     "support_thread": null,
     "last_verified": "3.4.103.2018",
-    "multiplayer_only": true
+    "multiplayer_only": true,
+    "help_wanted": true
   },
   {
     "card": "Karn Liberated",
@@ -5010,7 +4918,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/489",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Skullbriar, the Walking Grave",
@@ -5040,7 +4949,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/478",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Sword-Point Diplomacy",
@@ -5055,7 +4965,8 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/471",
     "support_thread": null,
     "last_verified": "3.4.103.2014",
-    "multiplayer_only": true
+    "multiplayer_only": true,
+    "help_wanted": true
   },
   {
     "card": "Caller of the Hunt",
@@ -5099,7 +5010,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/446",
     "support_thread": null,
-    "last_verified": "3.4.114.4048"
+    "last_verified": "3.4.114.4048",
+    "help_wanted": true
   },
   {
     "card": "Ixidron",
@@ -5113,7 +5025,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/446",
     "support_thread": null,
-    "last_verified": "3.4.114.4048"
+    "last_verified": "3.4.114.4048",
+    "help_wanted": true
   },
   {
     "card": "Runed Halo",
@@ -5127,7 +5040,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/446",
     "support_thread": null,
-    "last_verified": "3.4.114.4048"
+    "last_verified": "3.4.114.4048",
+    "help_wanted": true
   },
   {
     "card": "Cut // Ribbons",
@@ -5141,7 +5055,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/444",
     "support_thread": null,
-    "last_verified": "3.4.115.4054"
+    "last_verified": "3.4.115.4054",
+    "help_wanted": true
   },
   {
     "card": "Heir of Falkenrath",
@@ -5155,7 +5070,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/441",
     "support_thread": null,
-    "last_verified": "3.4.123.4153"
+    "last_verified": "3.4.123.4153",
+    "help_wanted": true
   },
   {
     "card": "Ecstatic Awakener",
@@ -5169,7 +5085,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/441",
     "support_thread": null,
-    "last_verified": "3.4.123.4153"
+    "last_verified": "3.4.123.4153",
+    "help_wanted": true
   },
   {
     "card": "Wolfbitten Captive",
@@ -5183,7 +5100,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/441",
     "support_thread": null,
-    "last_verified": "3.4.123.4153"
+    "last_verified": "3.4.123.4153",
+    "help_wanted": true
   },
   {
     "card": "Grenzo, Dungeon Warden",
@@ -5197,7 +5115,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/415",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Atarka's Command",
@@ -5211,7 +5130,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
     "support_thread": null,
-    "last_verified": "3.4.129.4220"
+    "last_verified": "3.4.129.4220",
+    "help_wanted": true
   },
   {
     "card": "Skullcrack",
@@ -5225,7 +5145,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
     "support_thread": null,
-    "last_verified": "3.4.129.4220"
+    "last_verified": "3.4.129.4220",
+    "help_wanted": true
   },
   {
     "card": "Stigma Lasher",
@@ -5239,7 +5160,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
     "support_thread": null,
-    "last_verified": "3.4.129.4220"
+    "last_verified": "3.4.129.4220",
+    "help_wanted": true
   },
   {
     "card": "Bonecrusher Giant",
@@ -5253,7 +5175,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
     "support_thread": null,
-    "last_verified": "3.4.129.4220"
+    "last_verified": "3.4.129.4220",
+    "help_wanted": true
   },
   {
     "card": "Flames of the Blood Hand",
@@ -5267,7 +5190,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
     "support_thread": null,
-    "last_verified": "3.4.129.4220"
+    "last_verified": "3.4.129.4220",
+    "help_wanted": true
   },
   {
     "card": "Flaring Pain",
@@ -5281,7 +5205,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
     "support_thread": null,
-    "last_verified": "3.4.129.4220"
+    "last_verified": "3.4.129.4220",
+    "help_wanted": true
   },
   {
     "card": "Unstable Footing",
@@ -5295,7 +5220,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
     "support_thread": null,
-    "last_verified": "3.4.129.4220"
+    "last_verified": "3.4.129.4220",
+    "help_wanted": true
   },
   {
     "card": "Wild Slash",
@@ -5309,7 +5235,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/413",
     "support_thread": null,
-    "last_verified": "3.4.129.4220"
+    "last_verified": "3.4.129.4220",
+    "help_wanted": true
   },
   {
     "card": "Ulamog, the Ceaseless Hunger",
@@ -5338,7 +5265,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": "3.4.135.4386"
+    "last_verified": "3.4.135.4386",
+    "help_wanted": true
   },
   {
     "card": "Cultivate",
@@ -5352,7 +5280,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": "3.4.135.4386"
+    "last_verified": "3.4.135.4386",
+    "help_wanted": true
   },
   {
     "card": "Kodama's Reach",
@@ -5366,7 +5295,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": "3.4.135.4386"
+    "last_verified": "3.4.135.4386",
+    "help_wanted": true
   },
   {
     "card": "Peregrination",
@@ -5380,7 +5310,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": "3.4.135.4386"
+    "last_verified": "3.4.135.4386",
+    "help_wanted": true
   },
   {
     "card": "Realms Uncharted",
@@ -5394,7 +5325,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": "3.4.135.4386"
+    "last_verified": "3.4.135.4386",
+    "help_wanted": true
   },
   {
     "card": "Nahiri's Wrath",
@@ -5408,7 +5340,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/390",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Emrakul, the Promised End",
@@ -5437,7 +5370,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/383",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Windbrisk Heights",
@@ -5451,7 +5385,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/383",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Mana Reflection",
@@ -5465,7 +5400,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/346",
     "support_thread": null,
-    "last_verified": "3.4.123.4153"
+    "last_verified": "3.4.123.4153",
+    "help_wanted": true
   },
   {
     "card": "Barren Glory",
@@ -5479,7 +5415,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/343",
     "support_thread": null,
-    "last_verified": "3.4.114.4047"
+    "last_verified": "3.4.114.4047",
+    "help_wanted": true
   },
   {
     "card": "Concerted Effort",
@@ -5493,7 +5430,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/327",
     "support_thread": null,
-    "last_verified": "3.4.114.4047"
+    "last_verified": "3.4.114.4047",
+    "help_wanted": true
   },
   {
     "card": "Grave Betrayal",
@@ -5507,7 +5445,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/324",
     "support_thread": null,
-    "last_verified": "3.4.104.2027"
+    "last_verified": "3.4.104.2027",
+    "help_wanted": true
   },
   {
     "card": "Shirei, Shizo's Caretaker",
@@ -5521,7 +5460,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/324",
     "support_thread": null,
-    "last_verified": "3.4.104.2027"
+    "last_verified": "3.4.104.2027",
+    "help_wanted": true
   },
   {
     "card": "Null Profusion",
@@ -5535,7 +5475,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/315",
     "support_thread": null,
-    "last_verified": "3.4.123.4147"
+    "last_verified": "3.4.123.4147",
+    "help_wanted": true
   },
   {
     "card": "Rogue Skycaptain",
@@ -5549,7 +5490,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/312",
     "support_thread": null,
-    "last_verified": "3.4.114.4047"
+    "last_verified": "3.4.114.4047",
+    "help_wanted": true
   },
   {
     "card": "Primal Wellspring",
@@ -5593,7 +5535,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/304",
     "support_thread": null,
-    "last_verified": "3.4.114.4046"
+    "last_verified": "3.4.114.4046",
+    "help_wanted": true
   },
   {
     "card": "Alter Reality",
@@ -5607,7 +5550,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/304",
     "support_thread": null,
-    "last_verified": "3.4.114.4046"
+    "last_verified": "3.4.114.4046",
+    "help_wanted": true
   },
   {
     "card": "Spectral Shift",
@@ -5621,7 +5565,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/304",
     "support_thread": null,
-    "last_verified": "3.4.114.4046"
+    "last_verified": "3.4.114.4046",
+    "help_wanted": true
   },
   {
     "card": "Thieving Sprite",
@@ -5635,7 +5580,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
     "support_thread": null,
-    "last_verified": "3.4.118.4088"
+    "last_verified": "3.4.118.4088",
+    "help_wanted": true
   },
   {
     "card": "Bala Ged Thief",
@@ -5649,7 +5595,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
     "support_thread": null,
-    "last_verified": "3.4.118.4088"
+    "last_verified": "3.4.118.4088",
+    "help_wanted": true
   },
   {
     "card": "Disciple of Phenax",
@@ -5663,7 +5610,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
     "support_thread": null,
-    "last_verified": "3.4.118.4088"
+    "last_verified": "3.4.118.4088",
+    "help_wanted": true
   },
   {
     "card": "Distended Mindbender",
@@ -5677,7 +5625,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/302",
     "support_thread": null,
-    "last_verified": "3.4.118.4088"
+    "last_verified": "3.4.118.4088",
+    "help_wanted": true
   },
   {
     "card": "Angelic Field Marshal",
@@ -5721,7 +5670,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/297",
     "support_thread": null,
-    "last_verified": "3.4.119.4098"
+    "last_verified": "3.4.119.4098",
+    "help_wanted": true
   },
   {
     "card": "Mind Bend",
@@ -5735,7 +5685,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/295",
     "support_thread": null,
-    "last_verified": "3.4.114.4046"
+    "last_verified": "3.4.114.4046",
+    "help_wanted": true
   },
   {
     "card": "Crystal Spray",
@@ -5749,7 +5700,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/295",
     "support_thread": null,
-    "last_verified": "3.4.114.4046"
+    "last_verified": "3.4.114.4046",
+    "help_wanted": true
   },
   {
     "card": "Trait Doctoring",
@@ -5763,7 +5715,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/295",
     "support_thread": null,
-    "last_verified": "3.4.114.4046"
+    "last_verified": "3.4.114.4046",
+    "help_wanted": true
   },
   {
     "card": "Whim of Volrath",
@@ -5777,7 +5730,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/295",
     "support_thread": null,
-    "last_verified": "3.4.114.4046"
+    "last_verified": "3.4.114.4046",
+    "help_wanted": true
   },
   {
     "card": "Nazahn, Revered Bladesmith",
@@ -5806,7 +5760,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/292",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Godsire",
@@ -5820,7 +5775,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/291",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Sages of the Anima",
@@ -5834,7 +5790,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/288",
     "support_thread": null,
-    "last_verified": "3.4.114.4046"
+    "last_verified": "3.4.114.4046",
+    "help_wanted": true
   },
   {
     "card": "Entreat the Angels",
@@ -5863,7 +5820,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/263",
     "support_thread": null,
-    "last_verified": "3.4.114.4046"
+    "last_verified": "3.4.114.4046",
+    "help_wanted": true
   },
   {
     "card": "Knowledge Pool",
@@ -5877,7 +5835,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/252",
     "support_thread": null,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.114.4044",
+    "help_wanted": true
   },
   {
     "card": "Orcish Spy",
@@ -5891,7 +5850,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/251",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Compulsive Research",
@@ -5905,7 +5865,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/249",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Volcano Hellion",
@@ -5919,7 +5880,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/247",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Sheltering Ancient",
@@ -5948,7 +5910,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/240",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Words of Waste",
@@ -5962,7 +5925,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/228",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Wall of Roots",
@@ -5976,7 +5940,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217",
     "support_thread": null,
-    "last_verified": "3.4.124.4164"
+    "last_verified": "3.4.124.4164",
+    "help_wanted": true
   },
   {
     "card": "Kozilek's Translator",
@@ -5990,7 +5955,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/217",
     "support_thread": null,
-    "last_verified": "3.4.124.4164"
+    "last_verified": "3.4.124.4164",
+    "help_wanted": true
   },
   {
     "card": "Ever After",
@@ -6004,7 +5970,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
     "support_thread": null,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.114.4044",
+    "help_wanted": true
   },
   {
     "card": "Sanguine Sacrament",
@@ -6018,7 +5985,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
     "support_thread": null,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.114.4044",
+    "help_wanted": true
   },
   {
     "card": "Seasons Past",
@@ -6032,7 +6000,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
     "support_thread": null,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.114.4044",
+    "help_wanted": true
   },
   {
     "card": "Spell Crumple",
@@ -6046,7 +6015,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
     "support_thread": null,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.114.4044",
+    "help_wanted": true
   },
   {
     "card": "Collected Company",
@@ -6075,7 +6045,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/181",
     "support_thread": null,
-    "last_verified": "3.4.114.4050"
+    "last_verified": "3.4.114.4050",
+    "help_wanted": true
   },
   {
     "card": "Oriss, Samite Guardian",
@@ -6089,7 +6060,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/177",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Tomorrow, Azami's Familiar",
@@ -6103,7 +6075,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/155",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Compost",
@@ -6132,7 +6105,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/148",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Riches",
@@ -6176,7 +6150,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/135",
     "support_thread": null,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.114.4044",
+    "help_wanted": true
   },
   {
     "card": "Structural Collapse",
@@ -6190,7 +6165,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/123",
     "support_thread": null,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.114.4044",
+    "help_wanted": true
   },
   {
     "card": "Grafdigger's Cage",
@@ -6249,7 +6225,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/73",
     "support_thread": null,
-    "last_verified": "3.4.126.4188"
+    "last_verified": "3.4.126.4188",
+    "help_wanted": true
   },
   {
     "card": "Gideon's Intervention",
@@ -6263,7 +6240,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/72",
     "support_thread": null,
-    "last_verified": "3.4.119.4098"
+    "last_verified": "3.4.119.4098",
+    "help_wanted": true
   },
   {
     "card": "Unscythe, Killer of Kings",
@@ -6277,7 +6255,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/62",
     "support_thread": "https://forums.mtgo.com/index.php?threads/scythe-of-the-wretched-and-unscythe-killer-of-kings-trigger-on-every-death.50/",
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Scythe of the Wretched",
@@ -6291,7 +6270,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/62",
     "support_thread": "https://forums.mtgo.com/index.php?threads/scythe-of-the-wretched-and-unscythe-killer-of-kings-trigger-on-every-death.50/",
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Island Sanctuary",
@@ -6320,7 +6300,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/55",
     "support_thread": null,
-    "last_verified": "3.4.119.4098"
+    "last_verified": "3.4.119.4098",
+    "help_wanted": true
   },
   {
     "card": "Riptide Replicator",
@@ -6334,7 +6315,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/51",
     "support_thread": null,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.114.4044",
+    "help_wanted": true
   },
   {
     "card": "Reflecting Pool",
@@ -6363,7 +6345,8 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/32",
     "support_thread": null,
-    "last_verified": "3.4.114.4044"
+    "last_verified": "3.4.114.4044",
+    "help_wanted": true
   },
   {
     "card": "Shifty Doppelganger",
@@ -6377,7 +6360,8 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/27",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "High Seas",
