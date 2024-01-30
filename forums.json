@@ -904,5 +904,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/match-loading-problem.1794/",
     "status": "Fixed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/rampaging-war-mammoths-cycling-ability-is-not-functioning-properly.1837/": {
+    "title": "Rampaging War Mammoth's cycling ability is not functioning properly",
+    "url": "https://forums.mtgo.com/index.php?threads/rampaging-war-mammoths-cycling-ability-is-not-functioning-properly.1837/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
