@@ -768,7 +768,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1095",
     "support_thread": "https://forums.mtgo.com/index.php?threads/multiple-cards-like-lake-of-the-dead-enter-play-less-lands-are-sacced-than-needed.1680/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Heart of Yavimaya",
@@ -782,7 +783,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1095",
     "support_thread": "https://forums.mtgo.com/index.php?threads/multiple-cards-like-lake-of-the-dead-enter-play-less-lands-are-sacced-than-needed.1680/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Kjeldoran Outpost",
@@ -796,7 +798,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1095",
     "support_thread": "https://forums.mtgo.com/index.php?threads/multiple-cards-like-lake-of-the-dead-enter-play-less-lands-are-sacced-than-needed.1680/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Lake of the Dead",
@@ -810,7 +813,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1095",
     "support_thread": "https://forums.mtgo.com/index.php?threads/multiple-cards-like-lake-of-the-dead-enter-play-less-lands-are-sacced-than-needed.1680/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Lotus Vale",
@@ -824,7 +828,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1095",
     "support_thread": "https://forums.mtgo.com/index.php?threads/multiple-cards-like-lake-of-the-dead-enter-play-less-lands-are-sacced-than-needed.1680/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Scorched Ruins",
@@ -838,7 +843,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1095",
     "support_thread": "https://forums.mtgo.com/index.php?threads/multiple-cards-like-lake-of-the-dead-enter-play-less-lands-are-sacced-than-needed.1680/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Soldevi Excavations",
@@ -852,7 +858,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1095",
     "support_thread": "https://forums.mtgo.com/index.php?threads/multiple-cards-like-lake-of-the-dead-enter-play-less-lands-are-sacced-than-needed.1680/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "As Foretold",
@@ -866,7 +873,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1094",
     "support_thread": "https://forums.mtgo.com/index.php?threads/disrupting-shoal-counters-spells-of-any-mana-value-when-cast-from-as-foretold.1677/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Primal Amulet",
