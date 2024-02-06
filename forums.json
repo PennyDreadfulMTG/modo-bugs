@@ -910,5 +910,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/rampaging-war-mammoths-cycling-ability-is-not-functioning-properly.1837/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sumala-sentrys-ability-does-not-trigger.1862/": {
+    "title": "Sumala Sentry's ability does not trigger",
+    "url": "https://forums.mtgo.com/index.php?threads/sumala-sentrys-ability-does-not-trigger.1862/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/rise-of-the-dark-realms-reanimated-a-battle.1859/": {
+    "title": "Rise of the Dark Realms reanimated a battle",
+    "url": "https://forums.mtgo.com/index.php?threads/rise-of-the-dark-realms-reanimated-a-battle.1859/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
