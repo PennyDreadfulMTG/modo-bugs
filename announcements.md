@@ -1,6 +1,6 @@
 ---
-title: Magic Online Weekly Announcements, January 30, 2024
+title: Magic Online Weekly Announcements, February 6, 2024
 redirect_to:
- - https://www.mtgo.com/news/mtgo-blog-01302024
+ - https://www.mtgo.com/news/mtgo-blog-02062024
 has_build_notes: True
 ---
