@@ -922,5 +922,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/rise-of-the-dark-realms-reanimated-a-battle.1859/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/case-of-the-pilfered-case-solved-condition-always-on.1863/": {
+    "title": "Case of the Pilfered Case solved condition always on",
+    "url": "https://forums.mtgo.com/index.php?threads/case-of-the-pilfered-case-solved-condition-always-on.1863/",
+    "status": "In Progress",
+    "tracked": false
   }
 }
