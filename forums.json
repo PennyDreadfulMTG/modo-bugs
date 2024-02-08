@@ -914,7 +914,7 @@
   "https://forums.mtgo.com/index.php?threads/sumala-sentrys-ability-does-not-trigger.1862/": {
     "title": "Sumala Sentry's ability does not trigger",
     "url": "https://forums.mtgo.com/index.php?threads/sumala-sentrys-ability-does-not-trigger.1862/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/rise-of-the-dark-realms-reanimated-a-battle.1859/": {
@@ -926,6 +926,30 @@
   "https://forums.mtgo.com/index.php?threads/case-of-the-pilfered-case-solved-condition-always-on.1863/": {
     "title": "Case of the Pilfered Case solved condition always on",
     "url": "https://forums.mtgo.com/index.php?threads/case-of-the-pilfered-case-solved-condition-always-on.1863/",
+    "status": "Fixed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-of-not-being-able-to-block-creatures-with-menace-if-you-only-have-one-creature-and-are-forced-to-block.1879/": {
+    "title": "Bug of not being able to block creatures with Menace if you only have one creature and are forced to block",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-of-not-being-able-to-block-creatures-with-menace-if-you-only-have-one-creature-and-are-forced-to-block.1879/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/krenkos-buzzcrusher-forces-you-to-destroy-your-own-land.1875/": {
+    "title": "Krenko's Buzzcrusher Forces You To Destroy Your Own Land",
+    "url": "https://forums.mtgo.com/index.php?threads/krenkos-buzzcrusher-forces-you-to-destroy-your-own-land.1875/",
+    "status": "Fixed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/case-of-the-pilfered-proof-solved-condition-always-on.1863/": {
+    "title": "Case of the Pilfered Proof solved condition always on",
+    "url": "https://forums.mtgo.com/index.php?threads/case-of-the-pilfered-proof-solved-condition-always-on.1863/",
+    "status": "Fixed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/case-of-the-burning-masks-solved-with-only-2-sources-dealt-damage.1865/": {
+    "title": "Case of the burning masks solved with only 2 sources dealt damage",
+    "url": "https://forums.mtgo.com/index.php?threads/case-of-the-burning-masks-solved-with-only-2-sources-dealt-damage.1865/",
     "status": "In Progress",
     "tracked": false
   }
