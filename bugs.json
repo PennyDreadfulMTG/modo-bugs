@@ -5409,7 +5409,7 @@
     "card": "Emrakul, the Promised End",
     "description": "Casting two copies of Emrakul, the Promised End does not give the opponent two extra turns.",
     "category": "Unclassified",
-    "last_updated": "2023-06-26 13:21:24",
+    "last_updated": "2024-02-14 11:39:49",
     "issue_number": 385,
     "pd_legal": false,
     "bug_blog": false,
@@ -5417,8 +5417,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/385",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Bomat Courier",
