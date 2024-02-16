@@ -992,7 +992,7 @@
     "card": "Council's Judgment",
     "description": "Council's judgement doesn't display votes, rather it only displays the name of the permanant voted for.",
     "category": "Advantageous",
-    "last_updated": "2023-10-11 21:12:48",
+    "last_updated": "2024-02-16 07:54:45",
     "issue_number": 1087,
     "pd_legal": true,
     "bug_blog": false,
@@ -1000,8 +1000,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1087",
     "support_thread": "https://forums.mtgo.com/index.php?threads/councils-judgment-not-showing-initial-vote.1226/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "From Under the Floorboards",
@@ -1082,7 +1081,7 @@
     "card": "Jace, Mirror Mage",
     "description": "Jace, Mirror Mage causes a game restart if kicked",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2023-06-26 13:54:58",
+    "last_updated": "2024-02-16 07:54:47",
     "issue_number": 1081,
     "pd_legal": true,
     "bug_blog": false,
@@ -1090,8 +1089,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1081",
     "support_thread": "https://forums.mtgo.com/index.php?threads/jace-mirror-mage.165/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Chandra's Phoenix",
@@ -1293,7 +1291,7 @@
     "card": "Words of Worship",
     "description": "Words of Worship causes the game to restart when you activate it for the draw for turn",
     "category": "Game Breaking",
-    "last_updated": "2023-11-24 09:55:05",
+    "last_updated": "2024-02-16 07:54:50",
     "issue_number": 1046,
     "pd_legal": false,
     "bug_blog": false,
@@ -1301,8 +1299,7 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1046",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Selvala, Explorer Returned",
@@ -1443,7 +1440,7 @@
     "card": "Terrarion",
     "description": "Terrarion can be sacrificed as part of the cost of the spell, but if the spell is undone before casting, terrarion will no longer provide a card when it goes to the graveyard.",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:17:54",
+    "last_updated": "2024-02-16 07:54:52",
     "issue_number": 1027,
     "pd_legal": true,
     "bug_blog": false,
@@ -1451,8 +1448,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1027",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Rigo, Streetwise Mentor",
@@ -1564,7 +1560,7 @@
     "card": "Tibalt's Trickery",
     "description": "Tibalt's Trickery allows the person casting a spell using it to cast a spell that was milled and then exiled by an effect like Dryad MIlitant",
     "category": "Advantageous",
-    "last_updated": "2023-11-24 09:55:17",
+    "last_updated": "2024-02-16 07:54:52",
     "issue_number": 1010,
     "pd_legal": false,
     "bug_blog": false,
@@ -1572,8 +1568,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1010",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Tinder Wall",
@@ -3169,7 +3164,7 @@
     "card": "Skull Raid",
     "description": "Skull raid draws cards if the discarded cards go to the battlefield",
     "category": "Advantageous",
-    "last_updated": "2023-11-24 09:55:45",
+    "last_updated": "2024-02-16 07:54:55",
     "issue_number": 901,
     "pd_legal": false,
     "bug_blog": false,
@@ -3177,8 +3172,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/901",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Dripping Dead",
@@ -3515,7 +3509,7 @@
     "card": "Zhur-Taa Druid",
     "description": "Zhur-Taa Druid does not deal damage when tapped for its ability",
     "category": "Advantageous",
-    "last_updated": "2023-06-26 13:19:27",
+    "last_updated": "2024-02-16 07:54:57",
     "issue_number": 863,
     "pd_legal": true,
     "bug_blog": false,
@@ -3523,14 +3517,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/863",
     "support_thread": null,
-    "last_verified": "3.4.123.4152",
-    "help_wanted": true
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Damping Engine",
     "description": "Damping Engine activated ability is broken. Sacrificing a permanent pops up another trigger to sac another permanent.",
     "category": "Advantageous",
-    "last_updated": "2023-11-24 09:55:56",
+    "last_updated": "2024-02-16 07:54:57",
     "issue_number": 862,
     "pd_legal": false,
     "bug_blog": false,
@@ -3538,8 +3531,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/862",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Omen Machine",
@@ -3590,7 +3582,7 @@
     "card": "Phyrexian Portal",
     "description": "Phyrexian Portal's prompt message is ambiguous whether it's the pile to be exiled or to be searched for, and the rest of the searched pile is put on the bottom instead of being shuffled back in",
     "category": "Disadvantageous",
-    "last_updated": "2023-11-24 09:55:59",
+    "last_updated": "2024-02-16 07:54:58",
     "issue_number": 851,
     "pd_legal": false,
     "bug_blog": false,
@@ -3598,8 +3590,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/851",
     "support_thread": null,
-    "last_verified": "3.4.124.4166",
-    "help_wanted": true
+    "last_verified": "3.4.124.4166"
   },
   {
     "card": "Szadek, Lord of Secrets",
@@ -3770,7 +3761,7 @@
     "card": "Rhythm of the Wild",
     "description": "Rhythm of the Wild incorrectly grants riot to creature cards that enter the battlefield as noncreatures such as Keranos, God of Storms.",
     "category": "Advantageous",
-    "last_updated": "2023-06-26 13:19:44",
+    "last_updated": "2024-02-16 07:54:59",
     "issue_number": 813,
     "pd_legal": false,
     "bug_blog": false,
@@ -3778,14 +3769,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/813",
     "support_thread": null,
-    "last_verified": "3.4.123.4152",
-    "help_wanted": true
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Keranos, God of Storms",
     "description": "Rhythm of the Wild incorrectly grants riot to creature cards that enter the battlefield as noncreatures such as Keranos, God of Storms.",
     "category": "Advantageous",
-    "last_updated": "2023-06-26 13:19:44",
+    "last_updated": "2024-02-16 07:54:59",
     "issue_number": 813,
     "pd_legal": true,
     "bug_blog": false,
@@ -3793,8 +3783,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/813",
     "support_thread": null,
-    "last_verified": "3.4.123.4152",
-    "help_wanted": true
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Electrodominance",
@@ -4010,7 +3999,7 @@
     "card": "Pithing Needle",
     "description": "Avatars are incorrectly on the list of cards you can name with cards such as Pithing Needle.",
     "category": "Unclassified",
-    "last_updated": "2023-06-26 13:19:50",
+    "last_updated": "2024-02-16 07:55:00",
     "issue_number": 800,
     "pd_legal": true,
     "bug_blog": false,
@@ -4018,8 +4007,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/800",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Stolen Identity",
@@ -4145,7 +4133,7 @@
     "card": "Enduring Renewal",
     "description": "Enduring Renewal prevents losing to decking",
     "category": "Advantageous",
-    "last_updated": "2023-11-24 09:56:10",
+    "last_updated": "2024-02-16 07:55:01",
     "issue_number": 770,
     "pd_legal": false,
     "bug_blog": false,
@@ -4153,8 +4141,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/770",
     "support_thread": null,
-    "last_verified": "3.4.128.4200",
-    "help_wanted": true
+    "last_verified": "3.4.128.4200"
   },
   {
     "card": "Mystic Forge",
@@ -4551,7 +4538,7 @@
     "card": "Lazav, the Multifarious",
     "description": "If Lazav, Multifarious is a copy of another creature that references other copies of itself such as Myr Servitor, it will incorrectly refer to other copies of Lazav.",
     "category": "Unclassified",
-    "last_updated": "2023-06-26 13:20:32",
+    "last_updated": "2024-02-16 07:55:02",
     "issue_number": 663,
     "pd_legal": true,
     "bug_blog": false,
@@ -4559,8 +4546,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/663",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "The Great Aurora",
@@ -4656,7 +4642,7 @@
     "card": "Crackling Drake",
     "description": "Creatures with variable power and toughness such as Crackling Drake are not correctly updated in the reveal zone.",
     "category": "Graphical",
-    "last_updated": "2023-06-26 13:20:41",
+    "last_updated": "2024-02-16 07:55:03",
     "issue_number": 635,
     "pd_legal": true,
     "bug_blog": false,
@@ -4664,14 +4650,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/635",
     "support_thread": null,
-    "last_verified": "3.4.117.4077",
-    "help_wanted": true
+    "last_verified": "3.4.117.4077"
   },
   {
     "card": "Sorin, Lord of Innistrad",
     "description": "If Sorin, Lord of Innistrad somehow becomes a creature, he cannot target himself with his ultimate ability.",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:20:41",
+    "last_updated": "2024-02-16 07:55:03",
     "issue_number": 627,
     "pd_legal": true,
     "bug_blog": false,
@@ -4679,8 +4664,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/627",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Fireball",
@@ -4821,7 +4805,7 @@
     "card": "Metallic Mimic",
     "description": "If Metallic Mimic and a creature of the chosen type enter the battlefield at the same time, the system will incorrectly give that creature a +1/+1 counter",
     "category": "Advantageous",
-    "last_updated": "2023-06-26 13:20:51",
+    "last_updated": "2024-02-16 07:55:04",
     "issue_number": 583,
     "pd_legal": true,
     "bug_blog": false,
@@ -4829,8 +4813,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/583",
     "support_thread": null,
-    "last_verified": "3.4.114.4050",
-    "help_wanted": true
+    "last_verified": "3.4.114.4050"
   },
   {
     "card": "Karn Liberated",
@@ -4866,7 +4849,7 @@
     "card": "Mutiny",
     "description": "Mutiny doesn't have clear targeting information. Workaround: the game log displays targets matching the order written on the card, and will highlight the appropriate creature when its name is hovered over with the mouse.",
     "category": "Graphical",
-    "last_updated": "2023-11-24 09:56:30",
+    "last_updated": "2024-02-16 07:55:05",
     "issue_number": 568,
     "pd_legal": false,
     "bug_blog": false,
@@ -4874,8 +4857,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/568",
     "support_thread": null,
-    "last_verified": "3.4.123.4152",
-    "help_wanted": true
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Evershrike",
@@ -4911,7 +4893,7 @@
     "card": "Platinum Emperion",
     "description": "If you control Platinum Emperion you cannot even pay 0 life for costs.",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:55:21",
+    "last_updated": "2024-02-16 07:55:05",
     "issue_number": 539,
     "pd_legal": true,
     "bug_blog": false,
@@ -4919,8 +4901,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/539",
     "support_thread": null,
-    "last_verified": "3.4.115.4051",
-    "help_wanted": true
+    "last_verified": "3.4.115.4051"
   },
   {
     "card": "Battlefield Thaumaturge",
@@ -4972,7 +4953,7 @@
     "card": "Meteor Storm",
     "description": "Meteor Storm only discards one card",
     "category": "Advantageous",
-    "last_updated": "2023-11-24 09:56:34",
+    "last_updated": "2024-02-16 07:55:06",
     "issue_number": 489,
     "pd_legal": false,
     "bug_blog": false,
@@ -4980,8 +4961,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/489",
     "support_thread": null,
-    "last_verified": "3.4.123.4152",
-    "help_wanted": true
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Skullbriar, the Walking Grave",
