@@ -806,7 +806,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1096",
     "support_thread": "https://forums.mtgo.com/index.php?threads/doomsday-did-not-trigger-murktide-regent-properly.1673/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Balduvian Trading Post",
