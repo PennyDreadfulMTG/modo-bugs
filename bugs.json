@@ -2745,7 +2745,7 @@
     "card": "Ixalan's Binding",
     "description": "Ashiok's Erasure and Ixalan's Binding don't prevent the opponent from casting copies of the spells they've exiled.",
     "category": "Disadvantageous",
-    "last_updated": "2023-11-24 09:55:41",
+    "last_updated": "2024-02-17 19:50:56",
     "issue_number": 926,
     "pd_legal": false,
     "bug_blog": false,
@@ -2753,14 +2753,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/926",
     "support_thread": "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/",
-    "last_verified": "3.4.124.4162",
-    "help_wanted": true
+    "last_verified": "3.4.124.4162"
   },
   {
     "card": "Ashiok's Erasure",
     "description": "Ashiok's Erasure and Ixalan's Binding don't prevent the opponent from casting copies of the spells they've exiled.",
     "category": "Disadvantageous",
-    "last_updated": "2023-11-24 09:55:41",
+    "last_updated": "2024-02-17 19:50:56",
     "issue_number": 926,
     "pd_legal": true,
     "bug_blog": false,
@@ -2768,8 +2767,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/926",
     "support_thread": "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/",
-    "last_verified": "3.4.124.4162",
-    "help_wanted": true
+    "last_verified": "3.4.124.4162"
   },
   {
     "card": "Knowledge Pool",
