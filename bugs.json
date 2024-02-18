@@ -12,7 +12,8 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1099",
     "support_thread": null,
     "last_verified": null,
-    "multiplayer_only": true
+    "multiplayer_only": true,
+    "help_wanted": true
   },
   {
     "card": "Wake to Slaughter",
