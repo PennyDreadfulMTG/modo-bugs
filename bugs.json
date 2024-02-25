@@ -3,7 +3,7 @@
     "card": "Wheel of Sun and Moon",
     "description": "If Wheel of Sun & Moon is enchanting both players and cards enter both players graveyard at the same time, the game crashes.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2024-02-25 05:54:43",
+    "last_updated": "2024-02-25 05:54:44",
     "issue_number": 1102,
     "pd_legal": true,
     "bug_blog": false,
