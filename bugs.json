@@ -1229,9 +1229,9 @@
   },
   {
     "card": "Leonin Arbiter",
-    "description": "Leonin Arbiter behaves wierdly on Magic Online: if you want to pay 2 to search your library you must click the arbiter before you search",
+    "description": "Leonin Arbiter behaves weirdly on Magic Online: if you want to pay 2 to search your library you must click the arbiter before you search",
     "category": "Graphical",
-    "last_updated": "2023-11-24 09:55:02",
+    "last_updated": "2024-03-08 22:34:32",
     "issue_number": 1054,
     "pd_legal": true,
     "bug_blog": false,
@@ -1239,8 +1239,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1054",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Search the City",
