@@ -2,7 +2,7 @@
 name: Advantageous bug
 about: This card is functions better than the oracle text
 title: Cardname draws seven extra cards instead of one
-labels: Advantageous
+labels: Advantageous, Non-Functional ability
 assignees: ''
 
 ---
@@ -14,7 +14,7 @@ assignees: ''
  -
 
 **Support Forum Thread**
-<!-- If you can, please also report this to the official forums:  https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs.21/ -->
+<!-- If you can, please also report this to the official forums:  https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/ -->
 Forum Post:
 
 **Screenshot**
