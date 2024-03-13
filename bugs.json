@@ -6240,7 +6240,7 @@
     "card": "Containment Priest",
     "description": "Containment Priest exiles Theros Gods even when their devotion isn't met.",
     "category": "Advantageous",
-    "last_updated": "2023-06-26 13:22:19",
+    "last_updated": "2024-03-13 22:18:07",
     "issue_number": 78,
     "pd_legal": false,
     "bug_blog": false,
@@ -6248,8 +6248,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/78",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Mirror Match",
