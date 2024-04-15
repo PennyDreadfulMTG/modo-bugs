@@ -635,12 +635,6 @@
     "status": "Fixed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/foray-of-orcs-bugged.1240/": {
-    "title": "Foray of Orcs Bugged",
-    "url": "https://forums.mtgo.com/index.php?threads/foray-of-orcs-bugged.1240/",
-    "status": "In Progress",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/forth-eorlingas-monarch-triggered-for-unknown-reason.1237/": {
     "title": "Forth Eorlingas! Monarch triggered for unknown reason",
     "url": "https://forums.mtgo.com/index.php?threads/forth-eorlingas-monarch-triggered-for-unknown-reason.1237/",
@@ -932,7 +926,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-of-not-being-able-to-block-creatures-with-menace-if-you-only-have-one-creature-and-are-forced-to-block.1879/": {
     "title": "Bug of not being able to block creatures with Menace if you only have one creature and are forced to block",
     "url": "https://forums.mtgo.com/index.php?threads/bug-of-not-being-able-to-block-creatures-with-menace-if-you-only-have-one-creature-and-are-forced-to-block.1879/",
-    "status": "In Progress",
+    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/krenkos-buzzcrusher-forces-you-to-destroy-your-own-land.1875/": {
@@ -950,13 +944,13 @@
   "https://forums.mtgo.com/index.php?threads/case-of-the-burning-masks-solved-with-only-2-sources-dealt-damage.1865/": {
     "title": "Case of the burning masks solved with only 2 sources dealt damage",
     "url": "https://forums.mtgo.com/index.php?threads/case-of-the-burning-masks-solved-with-only-2-sources-dealt-damage.1865/",
-    "status": "In Progress",
+    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/soul-search-is-creating-the-spirit-when-it-misses.1892/": {
     "title": "Soul Search is creating the spirit when it misses",
     "url": "https://forums.mtgo.com/index.php?threads/soul-search-is-creating-the-spirit-when-it-misses.1892/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   }
 }
