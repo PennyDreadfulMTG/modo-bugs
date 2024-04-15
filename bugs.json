@@ -45,28 +45,28 @@
     "card": "Sakashima the Imposter",
     "description": "Witness Protection causes the game to lock when you have Sakishima the Imposter become a Legitimate Businessperson while it clones another nonlegendary card you control.",
     "category": "Game Breaking",
-    "last_updated": "2024-03-16 06:54:44",
+    "last_updated": "2024-04-15 22:54:44",
     "issue_number": 1104,
     "pd_legal": false,
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1104",
-    "support_thread": "No post available.",
+    "support_thread": "",
     "last_verified": null
   },
   {
     "card": "Witness Protection",
     "description": "Witness Protection causes the game to lock when you have Sakishima the Imposter become a Legitimate Businessperson while it clones another nonlegendary card you control.",
     "category": "Game Breaking",
-    "last_updated": "2024-03-16 06:54:44",
+    "last_updated": "2024-04-15 22:54:44",
     "issue_number": 1104,
     "pd_legal": true,
     "bug_blog": false,
     "breaking": true,
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1104",
-    "support_thread": "No post available.",
+    "support_thread": "",
     "last_verified": null
   },
   {
@@ -3753,7 +3753,7 @@
     "card": "Volrath's Shapeshifter",
     "description": "Volrath's Shapeshifter does not function as intended.",
     "category": "Disadvantageous",
-    "last_updated": "2023-11-24 09:56:02",
+    "last_updated": "2024-04-15 22:18:37",
     "issue_number": 836,
     "pd_legal": true,
     "bug_blog": false,
@@ -3761,8 +3761,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/836",
     "support_thread": "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bugged-in-at-least-two-ways.330/",
-    "last_verified": "3.4.123.4152",
-    "help_wanted": true
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Multani's Presence",
