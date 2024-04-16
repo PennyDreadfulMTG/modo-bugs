@@ -1,5 +1,19 @@
 [
   {
+    "card": "Thada Adel, Acquisitor",
+    "description": "Thada Adel, Acquisitor shows opponent's hand as well as library when searching their library",
+    "category": "Advantageous",
+    "last_updated": "2024-04-16 14:54:46",
+    "issue_number": 1109,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1109",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/thada-adel-showed-the-hand-of-another-player.1211/",
+    "last_verified": null
+  },
+  {
     "card": "Legion Warboss",
     "description": "Legion Warboss tokens incorrectly have bluetext implying they must attack each turn if able \u2013 it's just this turn",
     "category": "Graphical",
