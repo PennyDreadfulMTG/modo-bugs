@@ -952,5 +952,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/soul-search-is-creating-the-spirit-when-it-misses.1892/",
     "status": "Fixed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/thada-adel-showed-the-hand-of-another-player.1211/": {
+    "title": "Thada Adel showed the hand of another player.",
+    "url": "https://forums.mtgo.com/index.php?threads/thada-adel-showed-the-hand-of-another-player.1211/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
