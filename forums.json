@@ -964,5 +964,23 @@
     "url": "https://forums.mtgo.com/index.php?threads/game-not-passing-priority-back-to-active-player-with-not-of-this-world.2030/",
     "status": "Not A Bug",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/multiple-cards-erroneously-trigger-of-any-player-commiting-a-crime.2048/": {
+    "title": "Multiple cards erroneously trigger of any player commiting a crime",
+    "url": "https://forums.mtgo.com/index.php?threads/multiple-cards-erroneously-trigger-of-any-player-commiting-a-crime.2048/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/raven-of-fell-omens-bugged.2047/": {
+    "title": "Raven of Fell Omens bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/raven-of-fell-omens-bugged.2047/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/my-intimidation-campaign-triggered-on-opponents-crime.2046/": {
+    "title": "My Intimidation Campaign triggered on opponent's crime",
+    "url": "https://forums.mtgo.com/index.php?threads/my-intimidation-campaign-triggered-on-opponents-crime.2046/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
