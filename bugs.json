@@ -4969,7 +4969,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/568",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Evershrike",
@@ -5013,7 +5014,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/539",
     "support_thread": null,
-    "last_verified": "3.4.115.4051"
+    "last_verified": "3.4.115.4051",
+    "help_wanted": true
   },
   {
     "card": "Battlefield Thaumaturge",
@@ -5073,7 +5075,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/489",
     "support_thread": null,
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Skullbriar, the Walking Grave",
