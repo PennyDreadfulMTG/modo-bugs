@@ -968,24 +968,30 @@
   "https://forums.mtgo.com/index.php?threads/multiple-cards-erroneously-trigger-of-any-player-commiting-a-crime.2048/": {
     "title": "Multiple cards erroneously trigger of any player commiting a crime",
     "url": "https://forums.mtgo.com/index.php?threads/multiple-cards-erroneously-trigger-of-any-player-commiting-a-crime.2048/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/opponents-crimes-triggering-with-my-own-crimes.2050/": {
+    "title": "Opponent's crimes triggering with my own crimes",
+    "url": "https://forums.mtgo.com/index.php?threads/opponents-crimes-triggering-with-my-own-crimes.2050/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/freestrider-commando.2055/": {
+    "title": "Freestrider Commando",
+    "url": "https://forums.mtgo.com/index.php?threads/freestrider-commando.2055/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/oko-the-ringleader-1-bug.2054/": {
+    "title": "Oko, The ringleader +1 BUG",
+    "url": "https://forums.mtgo.com/index.php?threads/oko-the-ringleader-1-bug.2054/",
     "status": "Confirmed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/raven-of-fell-omens-bugged.2047/": {
-    "title": "Raven of Fell Omens bugged",
-    "url": "https://forums.mtgo.com/index.php?threads/raven-of-fell-omens-bugged.2047/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/my-intimidation-campaign-triggered-on-opponents-crime.2046/": {
-    "title": "My Intimidation Campaign triggered on opponent's crime",
-    "url": "https://forums.mtgo.com/index.php?threads/my-intimidation-campaign-triggered-on-opponents-crime.2046/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/freestrider-commando-enters-the-battlefield-with-counters-when-playedd-for-its-mana-cost.2049/": {
-    "title": "Freestrider Commando enters the battlefield with counters when playedd for its mana cost.",
-    "url": "https://forums.mtgo.com/index.php?threads/freestrider-commando-enters-the-battlefield-with-counters-when-playedd-for-its-mana-cost.2049/",
+  "https://forums.mtgo.com/index.php?threads/seize-the-secrets-not-discounted-after-committing-crime.2053/": {
+    "title": "Seize the Secrets not discounted after committing crime",
+    "url": "https://forums.mtgo.com/index.php?threads/seize-the-secrets-not-discounted-after-committing-crime.2053/",
     "status": "Confirmed",
     "tracked": false
   }
