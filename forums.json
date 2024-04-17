@@ -980,19 +980,19 @@
   "https://forums.mtgo.com/index.php?threads/freestrider-commando.2055/": {
     "title": "Freestrider Commando",
     "url": "https://forums.mtgo.com/index.php?threads/freestrider-commando.2055/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/oko-the-ringleader-1-bug.2054/": {
     "title": "Oko, The ringleader +1 BUG",
     "url": "https://forums.mtgo.com/index.php?threads/oko-the-ringleader-1-bug.2054/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/seize-the-secrets-not-discounted-after-committing-crime.2053/": {
     "title": "Seize the Secrets not discounted after committing crime",
     "url": "https://forums.mtgo.com/index.php?threads/seize-the-secrets-not-discounted-after-committing-crime.2053/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/seize-the-secrets-bugged.2067/": {
@@ -1004,13 +1004,13 @@
   "https://forums.mtgo.com/index.php?threads/satoru-the-infiltrator-doesnt-trigger-on-a-fully-convoked-halo-hopper.2064/": {
     "title": "Satoru, the Infiltrator doesn't trigger on a fully convoked Halo Hopper",
     "url": "https://forums.mtgo.com/index.php?threads/satoru-the-infiltrator-doesnt-trigger-on-a-fully-convoked-halo-hopper.2064/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/initiative-triggering-on-my-opponents-upkeep.2061/": {
     "title": "Initiative Triggering On My Opponents Upkeep",
     "url": "https://forums.mtgo.com/index.php?threads/initiative-triggering-on-my-opponents-upkeep.2061/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/no-flying-counter-was-put-on-inventive-wingsmith.2063/": {
@@ -1022,12 +1022,18 @@
   "https://forums.mtgo.com/index.php?threads/taii-wakeen-perfect-shot-triggered-off-of-combat-damage.2062/": {
     "title": "Taii Wakeen, Perfect Shot triggered off of combat damage",
     "url": "https://forums.mtgo.com/index.php?threads/taii-wakeen-perfect-shot-triggered-off-of-combat-damage.2062/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/polymorph-cards-bugged-divergent-transformations-chaos-mutation.2059/": {
     "title": "\"Polymorph\" Cards Bugged (Divergent Transformations, Chaos Mutation)",
     "url": "https://forums.mtgo.com/index.php?threads/polymorph-cards-bugged-divergent-transformations-chaos-mutation.2059/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/copies-of-nimble-brigand-can-be-blocked-even-if-youve-committed-a-crime.2057/": {
+    "title": "Copies of Nimble Brigand can be blocked even if you've committed a crime",
+    "url": "https://forums.mtgo.com/index.php?threads/copies-of-nimble-brigand-can-be-blocked-even-if-youve-committed-a-crime.2057/",
     "status": "In Progress",
     "tracked": false
   }
