@@ -1070,7 +1070,19 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
+    "title": "Dead players, control, and phasing.",
+    "url": "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/olivia-opulent-outlaw-failed-to-trigger-from-combat-damage.2078/": {
+    "title": "Olivia, Opulent Outlaw failed to trigger from combat damage",
+    "url": "https://forums.mtgo.com/index.php?threads/olivia-opulent-outlaw-failed-to-trigger-from-combat-damage.2078/",
+    "status": "Could Not Reproduce",
     "tracked": false
   }
 }
