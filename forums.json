@@ -1060,5 +1060,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/freestrider-command-enter-with-2-counter-when-cast-it-from-hand.2072/",
     "status": "Could Not Reproduce",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-crashes-when-name-sticker-goblin-and-storm-entity-are-played-together.2081/": {
+    "title": "Game crashes when Name Sticker Goblin and Storm Entity are played together",
+    "url": "https://forums.mtgo.com/index.php?threads/game-crashes-when-name-sticker-goblin-and-storm-entity-are-played-together.2081/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
+    "title": "Blockers were removed from combat randomly",
+    "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
+    "status": "No Game ID",
+    "tracked": false
   }
 }
