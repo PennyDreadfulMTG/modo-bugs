@@ -968,13 +968,13 @@
   "https://forums.mtgo.com/index.php?threads/multiple-cards-erroneously-trigger-of-any-player-commiting-a-crime.2048/": {
     "title": "Multiple cards erroneously trigger of any player commiting a crime",
     "url": "https://forums.mtgo.com/index.php?threads/multiple-cards-erroneously-trigger-of-any-player-commiting-a-crime.2048/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/opponents-crimes-triggering-with-my-own-crimes.2050/": {
     "title": "Opponent's crimes triggering with my own crimes",
     "url": "https://forums.mtgo.com/index.php?threads/opponents-crimes-triggering-with-my-own-crimes.2050/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/freestrider-commando.2055/": {
@@ -992,7 +992,7 @@
   "https://forums.mtgo.com/index.php?threads/seize-the-secrets-not-discounted-after-committing-crime.2053/": {
     "title": "Seize the Secrets not discounted after committing crime",
     "url": "https://forums.mtgo.com/index.php?threads/seize-the-secrets-not-discounted-after-committing-crime.2053/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/seize-the-secrets-bugged.2067/": {
@@ -1034,7 +1034,7 @@
   "https://forums.mtgo.com/index.php?threads/copies-of-nimble-brigand-can-be-blocked-even-if-youve-committed-a-crime.2057/": {
     "title": "Copies of Nimble Brigand can be blocked even if you've committed a crime",
     "url": "https://forums.mtgo.com/index.php?threads/copies-of-nimble-brigand-can-be-blocked-even-if-youve-committed-a-crime.2057/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/undercity-triggering-on-all-upkeeps.2069/": {
