@@ -1048,5 +1048,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/voice-of-resurgence-triggers-in-every-turn.2068/",
     "status": "Fixed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/blood-on-the-snow-still-bugged.2077/": {
+    "title": "Blood on the Snow still bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/blood-on-the-snow-still-bugged.2077/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/freestrider-command-enter-with-2-counter-when-cast-it-from-hand.2072/": {
+    "title": "Freestrider Command enter with 2 counter when cast it from hand",
+    "url": "https://forums.mtgo.com/index.php?threads/freestrider-command-enter-with-2-counter-when-cast-it-from-hand.2072/",
+    "status": "Could Not Reproduce",
+    "tracked": false
   }
 }
