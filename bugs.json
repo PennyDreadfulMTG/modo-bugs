@@ -2855,7 +2855,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/926",
     "support_thread": "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/",
-    "last_verified": "3.4.124.4162"
+    "last_verified": "3.4.124.4162",
+    "help_wanted": true
   },
   {
     "card": "Ashiok's Erasure",
@@ -2869,7 +2870,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/926",
     "support_thread": "https://forums.mtgo.com/index.php?threads/ashioks-erasure-bug.547/",
-    "last_verified": "3.4.124.4162"
+    "last_verified": "3.4.124.4162",
+    "help_wanted": true
   },
   {
     "card": "Knowledge Pool",
