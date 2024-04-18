@@ -1058,7 +1058,7 @@
   "https://forums.mtgo.com/index.php?threads/freestrider-command-enter-with-2-counter-when-cast-it-from-hand.2072/": {
     "title": "Freestrider Command enter with 2 counter when cast it from hand",
     "url": "https://forums.mtgo.com/index.php?threads/freestrider-command-enter-with-2-counter-when-cast-it-from-hand.2072/",
-    "status": "Could Not Reproduce",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-crashes-when-name-sticker-goblin-and-storm-entity-are-played-together.2081/": {
