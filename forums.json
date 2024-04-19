@@ -1084,5 +1084,23 @@
     "url": "https://forums.mtgo.com/index.php?threads/olivia-opulent-outlaw-failed-to-trigger-from-combat-damage.2078/",
     "status": "Could Not Reproduce",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/breena-the-demagogue.2085/": {
+    "title": "Breena, the Demagogue",
+    "url": "https://forums.mtgo.com/index.php?threads/breena-the-demagogue.2085/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/phased-out-mangara-phased-back-during-owners-turn-while-controlled-by-another-player.2084/": {
+    "title": "Phased out Mangara phased back during owners turn while controlled by another player",
+    "url": "https://forums.mtgo.com/index.php?threads/phased-out-mangara-phased-back-during-owners-turn-while-controlled-by-another-player.2084/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/arid-archway-able-to-surveil-by-bouncing-itself.2083/": {
+    "title": "Arid Archway able to surveil by bouncing itself",
+    "url": "https://forums.mtgo.com/index.php?threads/arid-archway-able-to-surveil-by-bouncing-itself.2083/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
