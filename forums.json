@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1100,6 +1100,12 @@
   "https://forums.mtgo.com/index.php?threads/arid-archway-able-to-surveil-by-bouncing-itself.2083/": {
     "title": "Arid Archway able to surveil by bouncing itself",
     "url": "https://forums.mtgo.com/index.php?threads/arid-archway-able-to-surveil-by-bouncing-itself.2083/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/buried-in-the-garden-and-imps-mischief.2086/": {
+    "title": "Buried In The Garden And Imp's Mischief",
+    "url": "https://forums.mtgo.com/index.php?threads/buried-in-the-garden-and-imps-mischief.2086/",
     "status": "Confirmed",
     "tracked": false
   }
