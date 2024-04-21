@@ -1,5 +1,19 @@
 [
   {
+    "card": "Deputy of Detention",
+    "description": "Deputy of Detention doesn't exile morphs",
+    "category": "Disadvantageous",
+    "last_updated": "2024-04-21 05:54:44",
+    "issue_number": 1110,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1110",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/deputy-of-detention-cannot-exile-morphs.2088/",
+    "last_verified": null
+  },
+  {
     "card": "Thada Adel, Acquisitor",
     "description": "Thada Adel, Acquisitor shows opponent's hand as well as library when searching their library",
     "category": "Advantageous",
