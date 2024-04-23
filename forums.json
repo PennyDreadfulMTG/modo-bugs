@@ -1114,5 +1114,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/cedh-unplayable-60-treasures-8-min-of-clock-sorry-magic-online-has-encountered-an-error-will-attempt-to-replay-until-last-known-stable-state.2091/",
     "status": "In Progress",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dauntless-bodyguard-bug-visual.2097/": {
+    "title": "Dauntless bodyguard bug (visual)",
+    "url": "https://forums.mtgo.com/index.php?threads/dauntless-bodyguard-bug-visual.2097/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mairsil-the-pretender-activating-dominating-licids-ability.2098/": {
+    "title": "Mairsil the Pretender activating Dominating Licid's ability",
+    "url": "https://forums.mtgo.com/index.php?threads/mairsil-the-pretender-activating-dominating-licids-ability.2098/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
