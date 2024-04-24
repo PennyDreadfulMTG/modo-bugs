@@ -1126,5 +1126,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/mairsil-the-pretender-activating-dominating-licids-ability.2098/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/stella-lee-twisted-fealty-interaction.2105/": {
+    "title": "Stella Lee/Twisted Fealty Interaction",
+    "url": "https://forums.mtgo.com/index.php?threads/stella-lee-twisted-fealty-interaction.2105/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/king-of-the-oathbreakers-and-horobi-deaths-wail.2104/": {
+    "title": "King of the Oathbreakers and Horobi, Death's Wail",
+    "url": "https://forums.mtgo.com/index.php?threads/king-of-the-oathbreakers-and-horobi-deaths-wail.2104/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
