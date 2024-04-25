@@ -1138,5 +1138,23 @@
     "url": "https://forums.mtgo.com/index.php?threads/king-of-the-oathbreakers-and-horobi-deaths-wail.2104/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/vraska-the-silencer-doesnt-show-which-death-triggers-are-linked-to-what-creatures.2108/": {
+    "title": "Vraska, the silencer doesn't show which death triggers are linked to what creatures",
+    "url": "https://forums.mtgo.com/index.php?threads/vraska-the-silencer-doesnt-show-which-death-triggers-are-linked-to-what-creatures.2108/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bargain-does-not-display-correctly.2109/": {
+    "title": "Bargain does not display correctly",
+    "url": "https://forums.mtgo.com/index.php?threads/bargain-does-not-display-correctly.2109/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mairsil-the-pretender-and-quicksilver-elemental-interactions.2110/": {
+    "title": "Mairsil the Pretender and Quicksilver Elemental interactions",
+    "url": "https://forums.mtgo.com/index.php?threads/mairsil-the-pretender-and-quicksilver-elemental-interactions.2110/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
