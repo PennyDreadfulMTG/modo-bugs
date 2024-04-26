@@ -87,7 +87,7 @@
     "card": "Sauron's Ransom",
     "description": "Sauron's Ransom shows whether face down cards are white-bordered",
     "category": "Advantageous",
-    "last_updated": "2024-03-03 10:54:44",
+    "last_updated": "2024-04-26 20:54:45",
     "issue_number": 1103,
     "pd_legal": false,
     "bug_blog": false,
@@ -101,7 +101,7 @@
     "card": "Wheel of Sun and Moon",
     "description": "If Wheel of Sun & Moon is enchanting both players and cards enter both players graveyard at the same time, the game crashes.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2024-02-25 05:54:44",
+    "last_updated": "2024-04-26 20:54:46",
     "issue_number": 1102,
     "pd_legal": false,
     "bug_blog": false,
@@ -109,8 +109,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1102",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Lavinia of the Tenth",
@@ -1032,7 +1031,7 @@
     "card": "As Foretold",
     "description": "Disrupting Shoal counters spells of any mana value when cast from As Foretold",
     "category": "Advantageous",
-    "last_updated": "2023-12-01 16:55:01",
+    "last_updated": "2024-04-26 20:54:47",
     "issue_number": 1094,
     "pd_legal": false,
     "bug_blog": false,
@@ -1040,8 +1039,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1094",
     "support_thread": "https://forums.mtgo.com/index.php?threads/disrupting-shoal-counters-spells-of-any-mana-value-when-cast-from-as-foretold.1677/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Falkenrath Gorger",
@@ -1121,7 +1119,7 @@
     "card": "Council's Judgment",
     "description": "Council's judgement doesn't display votes, rather it only displays the name of the permanant voted for.",
     "category": "Advantageous",
-    "last_updated": "2024-02-16 07:54:45",
+    "last_updated": "2024-04-26 20:54:49",
     "issue_number": 1087,
     "pd_legal": false,
     "bug_blog": false,
@@ -1129,8 +1127,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1087",
     "support_thread": "https://forums.mtgo.com/index.php?threads/councils-judgment-not-showing-initial-vote.1226/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Paladin of Atonement",
@@ -1361,7 +1358,7 @@
     "card": "Words of Worship",
     "description": "Words of Worship causes the game to restart when you activate it for the draw for turn",
     "category": "Game Breaking",
-    "last_updated": "2024-02-16 07:54:50",
+    "last_updated": "2024-04-26 20:54:53",
     "issue_number": 1046,
     "pd_legal": true,
     "bug_blog": false,
@@ -1369,8 +1366,7 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1046",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Selvala, Explorer Returned",
@@ -1617,7 +1613,7 @@
     "card": "Tibalt's Trickery",
     "description": "Tibalt's Trickery allows the person casting a spell using it to cast a spell that was milled and then exiled by an effect like Dryad MIlitant",
     "category": "Advantageous",
-    "last_updated": "2024-02-16 07:54:52",
+    "last_updated": "2024-04-26 20:54:55",
     "issue_number": 1010,
     "pd_legal": true,
     "bug_blog": false,
@@ -1625,8 +1621,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1010",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Tinder Wall",
@@ -1782,7 +1777,7 @@
     "card": "Kamahl's Summons",
     "description": "Kamahl's Summons doesn't allow you to reselect a card to reveal if you deselect it",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:18:12",
+    "last_updated": "2024-04-26 20:54:56",
     "issue_number": 996,
     "pd_legal": true,
     "bug_blog": false,
@@ -1790,8 +1785,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/996",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Liege of the Hollows",
@@ -1872,7 +1866,7 @@
     "card": "Foul-Tongue Shriek",
     "description": "Foul-tongue Shriek doesnt gain life",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:18:17",
+    "last_updated": "2024-04-26 20:54:57",
     "issue_number": 991,
     "pd_legal": true,
     "bug_blog": false,
@@ -1880,8 +1874,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/991",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Grist, the Hunger Tide",
@@ -2142,7 +2135,7 @@
     "card": "Soulflayer",
     "description": "Soulflayer doesn't show that it has gained variations of abilities, such as \"Hexproof from Black\".",
     "category": "Graphical",
-    "last_updated": "2023-11-24 09:55:26",
+    "last_updated": "2024-04-26 20:54:58",
     "issue_number": 978,
     "pd_legal": false,
     "bug_blog": false,
@@ -2150,8 +2143,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/978",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Channel",
@@ -2547,7 +2539,7 @@
     "card": "Siphon Insight",
     "description": "Siphon Insight makes the targeted player skip their next draw step",
     "category": "Advantageous",
-    "last_updated": "2023-06-26 13:18:49",
+    "last_updated": "2024-04-26 20:54:59",
     "issue_number": 942,
     "pd_legal": true,
     "bug_blog": false,
@@ -2555,8 +2547,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/942",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Dreams of the Dead",
@@ -3117,7 +3108,7 @@
     "card": "Tainted Specter",
     "description": "Tainted Specter's ability locks the game for the chosen player.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2023-06-26 13:19:02",
+    "last_updated": "2024-04-26 20:55:00",
     "issue_number": 910,
     "pd_legal": true,
     "bug_blog": false,
@@ -3125,8 +3116,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/910",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Student of Warfare",
@@ -3583,7 +3573,7 @@
     "card": "Damping Engine",
     "description": "Damping Engine activated ability is broken. Sacrificing a permanent pops up another trigger to sac another permanent.",
     "category": "Advantageous",
-    "last_updated": "2024-02-16 07:54:57",
+    "last_updated": "2024-04-26 20:55:01",
     "issue_number": 862,
     "pd_legal": true,
     "bug_blog": false,
@@ -3591,8 +3581,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/862",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Omen Machine",
@@ -3718,7 +3707,7 @@
     "card": "Charmed Pendant",
     "description": "Charmed Pendant's ability doesn't add mana to mana pool",
     "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:19:37",
+    "last_updated": "2024-04-26 20:55:02",
     "issue_number": 841,
     "pd_legal": true,
     "bug_blog": false,
@@ -3726,8 +3715,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/841",
     "support_thread": null,
-    "last_verified": "3.4.123.4152",
-    "help_wanted": true
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Volrath's Shapeshifter",
@@ -3747,7 +3735,7 @@
     "card": "Multani's Presence",
     "description": "Multani's presence also draws cards when a spell does not resolve because there is no more valid target.",
     "category": "Advantageous",
-    "last_updated": "2023-06-26 13:19:38",
+    "last_updated": "2024-04-26 20:55:03",
     "issue_number": 826,
     "pd_legal": true,
     "bug_blog": false,
@@ -3755,8 +3743,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/826",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Mana Bloom",
@@ -3822,7 +3809,7 @@
     "card": "Rhythm of the Wild",
     "description": "Rhythm of the Wild incorrectly grants riot to creature cards that enter the battlefield as noncreatures such as Keranos, God of Storms.",
     "category": "Advantageous",
-    "last_updated": "2024-02-16 07:54:59",
+    "last_updated": "2024-04-26 20:55:04",
     "issue_number": 813,
     "pd_legal": false,
     "bug_blog": false,
@@ -3830,14 +3817,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/813",
     "support_thread": null,
-    "last_verified": "3.4.123.4152",
-    "help_wanted": true
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Keranos, God of Storms",
     "description": "Rhythm of the Wild incorrectly grants riot to creature cards that enter the battlefield as noncreatures such as Keranos, God of Storms.",
     "category": "Advantageous",
-    "last_updated": "2024-02-16 07:54:59",
+    "last_updated": "2024-04-26 20:55:04",
     "issue_number": 813,
     "pd_legal": false,
     "bug_blog": false,
@@ -3845,8 +3831,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/813",
     "support_thread": null,
-    "last_verified": "3.4.123.4152",
-    "help_wanted": true
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Electrodominance",
@@ -4062,7 +4047,7 @@
     "card": "Pithing Needle",
     "description": "Avatars are incorrectly on the list of cards you can name with cards such as Pithing Needle.",
     "category": "Unclassified",
-    "last_updated": "2024-02-16 07:55:00",
+    "last_updated": "2024-04-26 20:55:04",
     "issue_number": 800,
     "pd_legal": false,
     "bug_blog": false,
@@ -4070,8 +4055,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/800",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Stolen Identity",
@@ -4137,7 +4121,7 @@
     "card": "Mist of Stagnation",
     "description": "Mist of Stagnation doesn't allow players to choose untapped permanents, will soft-lock the game if there are not enough tapped permanents in the field to fulfil the requirements, and in random cases requires less number of tapped permanents than what should normally be required",
     "category": "Game Breaking",
-    "last_updated": "2023-06-26 13:19:54",
+    "last_updated": "2024-04-26 20:55:05",
     "issue_number": 790,
     "pd_legal": true,
     "bug_blog": false,
@@ -4145,8 +4129,7 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/790",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Repudiate // Replicate",
@@ -4663,7 +4646,7 @@
     "card": "Goblin Electromancer",
     "description": "With two copies of Goblin Electromancer in play, splice costs are incorrectly calculated.",
     "category": "Unclassified",
-    "last_updated": "2023-06-26 13:20:38",
+    "last_updated": "2024-04-26 20:55:06",
     "issue_number": 640,
     "pd_legal": true,
     "bug_blog": false,
@@ -4671,8 +4654,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/640",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Porphyry Nodes",
@@ -4708,7 +4690,7 @@
     "card": "Crackling Drake",
     "description": "Creatures with variable power and toughness such as Crackling Drake are not correctly updated in the reveal zone.",
     "category": "Graphical",
-    "last_updated": "2024-02-16 07:55:03",
+    "last_updated": "2024-04-26 20:55:07",
     "issue_number": 635,
     "pd_legal": false,
     "bug_blog": false,
@@ -4716,8 +4698,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/635",
     "support_thread": null,
-    "last_verified": "3.4.117.4077",
-    "help_wanted": true
+    "last_verified": "3.4.117.4077"
   },
   {
     "card": "Sorin, Lord of Innistrad",
@@ -4843,7 +4824,7 @@
     "card": "Release the Ants",
     "description": "If a player has no cards left in their library, both players will lose a clash from cards such as Release the Ants.",
     "category": "Unclassified",
-    "last_updated": "2023-11-24 09:56:29",
+    "last_updated": "2024-04-26 20:55:07",
     "issue_number": 597,
     "pd_legal": false,
     "bug_blog": false,
@@ -4851,8 +4832,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/597",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Umbral Mantle",
@@ -4963,7 +4943,7 @@
     "card": "Platinum Emperion",
     "description": "If you control Platinum Emperion you cannot even pay 0 life for costs.",
     "category": "Disadvantageous",
-    "last_updated": "2024-02-16 07:55:05",
+    "last_updated": "2024-04-26 20:55:08",
     "issue_number": 539,
     "pd_legal": false,
     "bug_blog": false,
@@ -4971,8 +4951,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/539",
     "support_thread": null,
-    "last_verified": "3.4.115.4051",
-    "help_wanted": true
+    "last_verified": "3.4.115.4051"
   },
   {
     "card": "Battlefield Thaumaturge",
@@ -5024,7 +5003,7 @@
     "card": "Meteor Storm",
     "description": "Meteor Storm only discards one card",
     "category": "Advantageous",
-    "last_updated": "2024-02-16 07:55:06",
+    "last_updated": "2024-04-26 20:55:08",
     "issue_number": 489,
     "pd_legal": true,
     "bug_blog": false,
@@ -5032,14 +5011,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/489",
     "support_thread": null,
-    "last_verified": "3.4.123.4152",
-    "help_wanted": true
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "Skullbriar, the Walking Grave",
     "description": "Skullbriar, the Walking Grave can cause the client to crash if it moves to the command zone with +1/+1 counters.",
     "category": "Game Breaking",
-    "last_updated": "2023-06-26 13:21:06",
+    "last_updated": "2024-04-26 20:55:09",
     "issue_number": 483,
     "pd_legal": true,
     "bug_blog": false,
@@ -5048,8 +5026,7 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/483",
     "support_thread": null,
     "last_verified": null,
-    "commander_only": true,
-    "help_wanted": true
+    "commander_only": true
   },
   {
     "card": "Muldrotha, the Gravetide",
@@ -5070,7 +5047,7 @@
     "card": "Sword-Point Diplomacy",
     "description": "Sword-Point Diplomacy is buggy in 3+ player",
     "category": "Advantageous",
-    "last_updated": "2023-11-24 09:56:35",
+    "last_updated": "2024-04-26 20:55:10",
     "issue_number": 471,
     "pd_legal": false,
     "bug_blog": false,
@@ -5079,8 +5056,7 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/471",
     "support_thread": null,
     "last_verified": "3.4.103.2014",
-    "multiplayer_only": true,
-    "help_wanted": true
+    "multiplayer_only": true
   },
   {
     "card": "Caller of the Hunt",
@@ -5926,7 +5902,7 @@
     "card": "Samurai of the Pale Curtain",
     "description": "Samurai of the Pale Curtain does not exile tokens.",
     "category": "Disadvantageous",
-    "last_updated": "2023-11-24 09:56:53",
+    "last_updated": "2024-04-26 20:55:11",
     "issue_number": 263,
     "pd_legal": false,
     "bug_blog": false,
@@ -5934,8 +5910,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/263",
     "support_thread": null,
-    "last_verified": "3.4.114.4046",
-    "help_wanted": true
+    "last_verified": "3.4.114.4046"
   },
   {
     "card": "Knowledge Pool",
@@ -6151,7 +6126,7 @@
     "card": "As Foretold",
     "description": "As Foretold does not apply to cards able to be cast due to permission granted by other cards, such as Abandoned Sarcophagus and Harness the Storm",
     "category": "Disadvantageous",
-    "last_updated": "2023-11-24 09:57:00",
+    "last_updated": "2024-04-26 20:55:12",
     "issue_number": 181,
     "pd_legal": false,
     "bug_blog": false,
@@ -6159,8 +6134,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/181",
     "support_thread": null,
-    "last_verified": "3.4.114.4050",
-    "help_wanted": true
+    "last_verified": "3.4.114.4050"
   },
   {
     "card": "Oriss, Samite Guardian",
@@ -6241,7 +6215,7 @@
     "card": "Multani's Presence",
     "description": "Multani's Presence incorrectly draws cards off copies of spells that are countered",
     "category": "Advantageous",
-    "last_updated": "2023-06-26 13:22:14",
+    "last_updated": "2024-04-26 20:55:12",
     "issue_number": 137,
     "pd_legal": true,
     "bug_blog": false,
@@ -6249,8 +6223,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/137",
     "support_thread": null,
-    "last_verified": "3.4.114.4044",
-    "help_wanted": true
+    "last_verified": "3.4.114.4044"
   },
   {
     "card": "Freyalise's Winds",
