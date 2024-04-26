@@ -1052,7 +1052,7 @@
   "https://forums.mtgo.com/index.php?threads/blood-on-the-snow-still-bugged.2077/": {
     "title": "Blood on the Snow still bugged",
     "url": "https://forums.mtgo.com/index.php?threads/blood-on-the-snow-still-bugged.2077/",
-    "status": "In Progress",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/freestrider-command-enter-with-2-counter-when-cast-it-from-hand.2072/": {
@@ -1064,13 +1064,13 @@
   "https://forums.mtgo.com/index.php?threads/game-crashes-when-name-sticker-goblin-and-storm-entity-are-played-together.2081/": {
     "title": "Game crashes when Name Sticker Goblin and Storm Entity are played together",
     "url": "https://forums.mtgo.com/index.php?threads/game-crashes-when-name-sticker-goblin-and-storm-entity-are-played-together.2081/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1100,7 +1100,7 @@
   "https://forums.mtgo.com/index.php?threads/arid-archway-able-to-surveil-by-bouncing-itself.2083/": {
     "title": "Arid Archway able to surveil by bouncing itself",
     "url": "https://forums.mtgo.com/index.php?threads/arid-archway-able-to-surveil-by-bouncing-itself.2083/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/buried-in-the-garden-and-imps-mischief.2086/": {
@@ -1166,7 +1166,7 @@
   "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/": {
     "title": "Shifting Grift incorrectly gives swapped creature to owner, not controller",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   }
 }
