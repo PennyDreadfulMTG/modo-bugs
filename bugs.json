@@ -1730,9 +1730,9 @@
   },
   {
     "card": "Chancellor of the Forge",
-    "description": "If multiple Chancellor of the Forge triggers would create many (200+) tokens, the game may reset",
+    "description": "If triggers would create many (200+) tokens, the game may reset",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2023-11-24 09:55:20",
+    "last_updated": "2024-04-27 15:54:52",
     "issue_number": 1000,
     "pd_legal": true,
     "bug_blog": false,
@@ -1740,8 +1740,21 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1000",
     "support_thread": null,
-    "last_verified": "3.4.132.4356",
-    "help_wanted": true
+    "last_verified": "3.4.132.4356"
+  },
+  {
+    "card": "Field of the Dead",
+    "description": "If triggers would create many (200+) tokens, the game may reset",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2024-04-27 15:54:52",
+    "issue_number": 1000,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1000",
+    "support_thread": null,
+    "last_verified": "3.4.132.4356"
   },
   {
     "card": "Armored Skyhunter",
