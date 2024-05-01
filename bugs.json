@@ -1178,7 +1178,7 @@
     "card": "Obzedat, Ghost Council",
     "description": "Obzedat, Ghost Council never returns to the battlefield",
     "category": "Disadvantageous",
-    "last_updated": "2023-11-27 06:54:55",
+    "last_updated": "2024-05-01 04:15:17",
     "issue_number": 1075,
     "pd_legal": true,
     "bug_blog": false,
@@ -1186,8 +1186,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1075",
     "support_thread": "https://forums.mtgo.com/index.php?threads/obzedat-ghost-council-is-not-returning-from-exile.922/",
-    "last_verified": "3.4.135.4389",
-    "help_wanted": true
+    "last_verified": "3.4.135.4389"
   },
   {
     "card": "Florian, Voldaren Scion",
