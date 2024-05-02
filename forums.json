@@ -1166,7 +1166,7 @@
   "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/": {
     "title": "Shifting Grift incorrectly gives swapped creature to owner, not controller",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pucas-mischief-fails-to-see-nonland-permanents-opponent-controls-played-before-mischief-etb.2116/": {
@@ -1185,6 +1185,18 @@
     "title": "Bug with Mystical Tether and Return the Favor. I checked with multiple judges, this should work as I wanted it to.",
     "url": "https://forums.mtgo.com/index.php?threads/bug-with-mystical-tether-and-return-the-favor-i-checked-with-multiple-judges-this-should-work-as-i-wanted-it-to.2129/",
     "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/casting-tarmogoyf-locks-up-client-and-times-you-out.2131/": {
+    "title": "Casting Tarmogoyf Locks Up Client and times you out",
+    "url": "https://forums.mtgo.com/index.php?threads/casting-tarmogoyf-locks-up-client-and-times-you-out.2131/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-raven-of-fell-omens-cuombajj-witches.2132/": {
+    "title": "BUG Raven Of Fell Omens + Cuombajj Witches",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-raven-of-fell-omens-cuombajj-witches.2132/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
