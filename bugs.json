@@ -4804,7 +4804,7 @@
     "card": "Nullstone Gargoyle",
     "description": "Nullstone Gargoyle counters all noncreature spells cast",
     "category": "Advantageous",
-    "last_updated": "2023-11-24 09:56:27",
+    "last_updated": "2024-05-02 23:43:59",
     "issue_number": 615,
     "pd_legal": true,
     "bug_blog": false,
@@ -4812,8 +4812,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/615",
     "support_thread": null,
-    "last_verified": "3.4.122.4137",
-    "help_wanted": true
+    "last_verified": "3.4.122.4137"
   },
   {
     "card": "Containment Priest",
