@@ -1198,5 +1198,23 @@
     "url": "https://forums.mtgo.com/index.php?threads/bug-raven-of-fell-omens-cuombajj-witches.2132/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/towering-titan-is-broken.2134/": {
+    "title": "towering titan is broken",
+    "url": "https://forums.mtgo.com/index.php?threads/towering-titan-is-broken.2134/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/calamity-galloping-inferno-making-token-copies-of-dead-creatures.2133/": {
+    "title": "Calamity, Galloping Inferno making token copies of dead creatures",
+    "url": "https://forums.mtgo.com/index.php?threads/calamity-galloping-inferno-making-token-copies-of-dead-creatures.2133/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/primal-empathy-appears-to-always-draw-an-extra-card.2130/": {
+    "title": "Primal Empathy appears to always draw an extra card.",
+    "url": "https://forums.mtgo.com/index.php?threads/primal-empathy-appears-to-always-draw-an-extra-card.2130/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
