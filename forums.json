@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1214,6 +1214,24 @@
   "https://forums.mtgo.com/index.php?threads/primal-empathy-appears-to-always-draw-an-extra-card.2130/": {
     "title": "Primal Empathy appears to always draw an extra card.",
     "url": "https://forums.mtgo.com/index.php?threads/primal-empathy-appears-to-always-draw-an-extra-card.2130/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/colossal-rattlewurm-can-be-cast-as-though-it-had-flash-without-a-desert.2138/": {
+    "title": "Colossal Rattlewurm can be cast as though it had flash without a desert",
+    "url": "https://forums.mtgo.com/index.php?threads/colossal-rattlewurm-can-be-cast-as-though-it-had-flash-without-a-desert.2138/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/broadside-bombardiers-does-not-gain-boast-ability-from-agathas-soul-cauldron.2137/": {
+    "title": "Broadside Bombardiers does not gain boast ability from Agatha's Soul Cauldron",
+    "url": "https://forums.mtgo.com/index.php?threads/broadside-bombardiers-does-not-gain-boast-ability-from-agathas-soul-cauldron.2137/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/road-ruin-colour-identity-legality.2135/": {
+    "title": "'Road // Ruin' colour identity legality",
+    "url": "https://forums.mtgo.com/index.php?threads/road-ruin-colour-identity-legality.2135/",
     "status": "Confirmed",
     "tracked": false
   }
