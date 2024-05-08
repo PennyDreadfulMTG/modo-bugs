@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1251,6 +1251,12 @@
     "title": "Return the favor cast on Blue Sun's Twilight",
     "url": "https://forums.mtgo.com/index.php?threads/return-the-favor-cast-on-blue-suns-twilight.2141/",
     "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bring-to-light-not-resolving-correctly.2143/": {
+    "title": "Bring to Light not resolving correctly",
+    "url": "https://forums.mtgo.com/index.php?threads/bring-to-light-not-resolving-correctly.2143/",
+    "status": "Could Not Reproduce",
     "tracked": false
   }
 }
