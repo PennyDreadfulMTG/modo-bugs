@@ -1240,5 +1240,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/client-crashes-when-i-create-a-trade-binder.2139/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/client-server-disconnection-issues.2140/": {
+    "title": "Client server disconnection issues",
+    "url": "https://forums.mtgo.com/index.php?threads/client-server-disconnection-issues.2140/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/return-the-favor-cast-on-blue-suns-twilight.2141/": {
+    "title": "Return the favor cast on Blue Sun's Twilight",
+    "url": "https://forums.mtgo.com/index.php?threads/return-the-favor-cast-on-blue-suns-twilight.2141/",
+    "status": "Not A Bug",
+    "tracked": false
   }
 }
