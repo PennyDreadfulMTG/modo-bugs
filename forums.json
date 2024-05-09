@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1257,6 +1257,18 @@
     "title": "Bring to Light not resolving correctly",
     "url": "https://forums.mtgo.com/index.php?threads/bring-to-light-not-resolving-correctly.2143/",
     "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/aberrant-researcher-is-missing-its-p-t-textbox-on-the-backside.2145/": {
+    "title": "Aberrant Researcher is missing its P/T textbox on the backside",
+    "url": "https://forums.mtgo.com/index.php?threads/aberrant-researcher-is-missing-its-p-t-textbox-on-the-backside.2145/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/life-and-limb-and-yavimaya-cradle-of-growth.2144/": {
+    "title": "Life and Limb and Yavimaya, Cradle of Growth",
+    "url": "https://forums.mtgo.com/index.php?threads/life-and-limb-and-yavimaya-cradle-of-growth.2144/",
+    "status": "Backlog",
     "tracked": false
   }
 }
