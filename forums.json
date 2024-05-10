@@ -1276,5 +1276,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/foil-card.2146/",
     "status": "Not A Bug",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/honorable-passage.2149/": {
+    "title": "Honorable Passage",
+    "url": "https://forums.mtgo.com/index.php?threads/honorable-passage.2149/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dennick-and-deadly-cover-up.2147/": {
+    "title": "Dennick and Deadly Cover-Up",
+    "url": "https://forums.mtgo.com/index.php?threads/dennick-and-deadly-cover-up.2147/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
