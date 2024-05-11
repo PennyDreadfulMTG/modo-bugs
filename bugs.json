@@ -1,9 +1,9 @@
 [
   {
-    "card": "Card Name",
+    "card": "Our Market Research Shows That Players Like Really Long Card Names So We Made this Card to Have the Absolute Longest Card Name Ever Elemental",
     "description": "Ice Cave requests an incorrect mana amount to counter a spell on the stack",
     "category": "Non-Functional ability",
-    "last_updated": "2024-05-11 00:56:58",
+    "last_updated": "2024-05-11 01:56:50",
     "issue_number": 1112,
     "pd_legal": false,
     "bug_blog": false,
