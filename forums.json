@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "Could Not Reproduce",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -890,7 +890,7 @@
   "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/": {
     "title": "Promise of Loyalty didn't sac creatures",
     "url": "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/",
-    "status": "Backlog",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/match-loading-problem.1794/": {
@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1166,7 +1166,7 @@
   "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/": {
     "title": "Shifting Grift incorrectly gives swapped creature to owner, not controller",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pucas-mischief-fails-to-see-nonland-permanents-opponent-controls-played-before-mischief-etb.2116/": {
@@ -1220,7 +1220,7 @@
   "https://forums.mtgo.com/index.php?threads/colossal-rattlewurm-can-be-cast-as-though-it-had-flash-without-a-desert.2138/": {
     "title": "Colossal Rattlewurm can be cast as though it had flash without a desert",
     "url": "https://forums.mtgo.com/index.php?threads/colossal-rattlewurm-can-be-cast-as-though-it-had-flash-without-a-desert.2138/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/broadside-bombardiers-does-not-gain-boast-ability-from-agathas-soul-cauldron.2137/": {
@@ -1286,13 +1286,61 @@
   "https://forums.mtgo.com/index.php?threads/dennick-and-deadly-cover-up.2147/": {
     "title": "Dennick and Deadly Cover-Up",
     "url": "https://forums.mtgo.com/index.php?threads/dennick-and-deadly-cover-up.2147/",
+    "status": "Fixed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/visual-bug-with-old-frame-black-lotus.2207/": {
+    "title": "Visual Bug with Old Frame Black Lotus",
+    "url": "https://forums.mtgo.com/index.php?threads/visual-bug-with-old-frame-black-lotus.2207/",
     "status": "Confirmed",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/choose-x-abilities-cant-confirm-cast.2150/": {
-    "title": "Choose X abilities, can't confirm Cast",
-    "url": "https://forums.mtgo.com/index.php?threads/choose-x-abilities-cant-confirm-cast.2150/",
+  "https://forums.mtgo.com/index.php?threads/dragon-breath-fangs-scales-etc-doesnt-work-as-intended-with-oath-of-druids.2194/": {
+    "title": "Dragon Breath/Fangs/Scales etc. doesn't work as intended with Oath of Druids",
+    "url": "https://forums.mtgo.com/index.php?threads/dragon-breath-fangs-scales-etc-doesnt-work-as-intended-with-oath-of-druids.2194/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/commander-window-closes-automatically.2203/": {
+    "title": "Commander window closes automatically",
+    "url": "https://forums.mtgo.com/index.php?threads/commander-window-closes-automatically.2203/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/banding-does-not-function-when-attacking.2201/": {
+    "title": "Banding does not function when attacking",
+    "url": "https://forums.mtgo.com/index.php?threads/banding-does-not-function-when-attacking.2201/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/magma-opus-makes-game-restart.2199/": {
+    "title": "Magma Opus makes game restart",
+    "url": "https://forums.mtgo.com/index.php?threads/magma-opus-makes-game-restart.2199/",
     "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-crashed-when-player-conceded-during-mulligans.2198/": {
+    "title": "Game crashed when player conceded during mulligans",
+    "url": "https://forums.mtgo.com/index.php?threads/game-crashed-when-player-conceded-during-mulligans.2198/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/arcane-adaptation-makes-game-very-slow.2195/": {
+    "title": "Arcane Adaptation makes game very slow",
+    "url": "https://forums.mtgo.com/index.php?threads/arcane-adaptation-makes-game-very-slow.2195/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/imotekh-the-stormlord-triggers-off-of-itself-when-reanimated.2197/": {
+    "title": "Imotekh, the Stormlord triggers off of itself when reanimated",
+    "url": "https://forums.mtgo.com/index.php?threads/imotekh-the-stormlord-triggers-off-of-itself-when-reanimated.2197/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/pick-your-poison-bug.2184/": {
+    "title": "Pick Your Poison Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/pick-your-poison-bug.2184/",
+    "status": "In Progress",
     "tracked": false
   }
 }

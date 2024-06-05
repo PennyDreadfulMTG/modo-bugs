@@ -1,11 +1,11 @@
 [
   {
-    "card": "Our Market Research Shows That Players Like Really Long Card Names So We Made this Card to Have the Absolute Longest Card Name Ever Elemental",
+    "card": "Ice Cave",
     "description": "Ice Cave requests an incorrect mana amount to counter a spell on the stack",
     "category": "Non-Functional ability",
-    "last_updated": "2024-05-11 01:56:50",
+    "last_updated": "2024-05-12 07:56:52",
     "issue_number": 1112,
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -39,7 +39,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1108",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Doppelgang",
@@ -67,7 +68,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1105",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Sakashima the Impostor",
@@ -1725,21 +1727,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1002",
     "support_thread": null,
     "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Narset, Enlightened Master",
-    "description": "Narset, Enlightened Master's ability allows you to cast creature spells.",
-    "category": "Advantageous",
-    "last_updated": "2023-11-24 09:55:19",
-    "issue_number": 1001,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1001",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/narset-enlightened-master-can-cast-creature-cards-with-their-effect.246/",
-    "last_verified": "3.4.129.4220",
     "help_wanted": true
   },
   {
@@ -6351,7 +6338,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/78",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Mirror Match",
