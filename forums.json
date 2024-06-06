@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -890,7 +890,7 @@
   "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/": {
     "title": "Promise of Loyalty didn't sac creatures",
     "url": "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/match-loading-problem.1794/": {
@@ -1166,7 +1166,7 @@
   "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/": {
     "title": "Shifting Grift incorrectly gives swapped creature to owner, not controller",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pucas-mischief-fails-to-see-nonland-permanents-opponent-controls-played-before-mischief-etb.2116/": {
@@ -1316,7 +1316,7 @@
   "https://forums.mtgo.com/index.php?threads/magma-opus-makes-game-restart.2199/": {
     "title": "Magma Opus makes game restart",
     "url": "https://forums.mtgo.com/index.php?threads/magma-opus-makes-game-restart.2199/",
-    "status": "Could Not Reproduce",
+    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-crashed-when-player-conceded-during-mulligans.2198/": {
@@ -1341,6 +1341,48 @@
     "title": "Pick Your Poison Bug",
     "url": "https://forums.mtgo.com/index.php?threads/pick-your-poison-bug.2184/",
     "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/": {
+    "title": "100 pp lost due to a game bug",
+    "url": "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/",
+    "status": "thread_prefix.19",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/": {
+    "title": "GAME RESTARTED. 2 TIMES IN 2 MATCHES",
+    "url": "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-restart-after-a-few-turns.2209/": {
+    "title": "Game restart after a few turns.",
+    "url": "https://forums.mtgo.com/index.php?threads/game-restart-after-a-few-turns.2209/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-restarted.2211/": {
+    "title": "Game restarted",
+    "url": "https://forums.mtgo.com/index.php?threads/game-restarted.2211/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-restarts-after-using-ctrl-z.2210/": {
+    "title": "Game restarts after using Ctrl+z",
+    "url": "https://forums.mtgo.com/index.php?threads/game-restarts-after-using-ctrl-z.2210/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-restarted-when-untapping-mana.2208/": {
+    "title": "Game restarted when untapping mana",
+    "url": "https://forums.mtgo.com/index.php?threads/game-restarted-when-untapping-mana.2208/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/games-have-been-all-buggy-lately.2192/": {
+    "title": "Games have been all buggy lately",
+    "url": "https://forums.mtgo.com/index.php?threads/games-have-been-all-buggy-lately.2192/",
+    "status": "Could Not Reproduce",
     "tracked": false
   }
 }
