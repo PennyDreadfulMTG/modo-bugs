@@ -1166,7 +1166,7 @@
   "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/": {
     "title": "Shifting Grift incorrectly gives swapped creature to owner, not controller",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pucas-mischief-fails-to-see-nonland-permanents-opponent-controls-played-before-mischief-etb.2116/": {
@@ -1401,6 +1401,36 @@
     "title": "Pillage the Bog (and Memory Deluge) bug",
     "url": "https://forums.mtgo.com/index.php?threads/pillage-the-bog-and-memory-deluge-bug.2235/",
     "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ulalek-does-not-copy-all-triggered-and-activated-abilities.2245/": {
+    "title": "Ulalek does not copy all triggered and activated abilities",
+    "url": "https://forums.mtgo.com/index.php?threads/ulalek-does-not-copy-all-triggered-and-activated-abilities.2245/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-necrobloom-mdfcs.2241/": {
+    "title": "The Necrobloom & MDFCs",
+    "url": "https://forums.mtgo.com/index.php?threads/the-necrobloom-mdfcs.2241/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/planar-genesis-shows-opponent-what-card-i-took.2243/": {
+    "title": "Planar Genesis Shows Opponent what card I took",
+    "url": "https://forums.mtgo.com/index.php?threads/planar-genesis-shows-opponent-what-card-i-took.2243/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mh3-pyretic-rebirth-not-counting-mana-value-correctly.2242/": {
+    "title": "MH3 - Pyretic Rebirth not counting mana value correctly",
+    "url": "https://forums.mtgo.com/index.php?threads/mh3-pyretic-rebirth-not-counting-mana-value-correctly.2242/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/crashing-in-game-unexpected-error.2238/": {
+    "title": "Crashing in game: Unexpected Error",
+    "url": "https://forums.mtgo.com/index.php?threads/crashing-in-game-unexpected-error.2238/",
+    "status": "Could Not Reproduce",
     "tracked": false
   }
 }
