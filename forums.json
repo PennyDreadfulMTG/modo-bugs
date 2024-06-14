@@ -890,7 +890,7 @@
   "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/": {
     "title": "Promise of Loyalty didn't sac creatures",
     "url": "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/match-loading-problem.1794/": {
@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1346,7 +1346,7 @@
   "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/": {
     "title": "100 pp lost due to a game bug",
     "url": "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/": {
@@ -1397,12 +1397,6 @@
     "status": "In Progress",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/pillage-the-bog-and-memory-deluge-bug.2235/": {
-    "title": "Pillage the Bog (and Memory Deluge) bug",
-    "url": "https://forums.mtgo.com/index.php?threads/pillage-the-bog-and-memory-deluge-bug.2235/",
-    "status": "In Progress",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/ulalek-does-not-copy-all-triggered-and-activated-abilities.2245/": {
     "title": "Ulalek does not copy all triggered and activated abilities",
     "url": "https://forums.mtgo.com/index.php?threads/ulalek-does-not-copy-all-triggered-and-activated-abilities.2245/",
@@ -1443,6 +1437,30 @@
     "title": "Dennick, Pious Apparition and Crawling Infestation triggering when it should not.",
     "url": "https://forums.mtgo.com/index.php?threads/dennick-pious-apparition-and-crawling-infestation-triggering-when-it-should-not.2246/",
     "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/outrider-en-kor-redirects-more-than-1-damage-per-simultaneous-source-of-damage.2251/": {
+    "title": "Outrider en-Kor redirects more than 1 damage per simultaneous source of damage.",
+    "url": "https://forums.mtgo.com/index.php?threads/outrider-en-kor-redirects-more-than-1-damage-per-simultaneous-source-of-damage.2251/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cards-not-showing-up-in-my-collection.2254/": {
+    "title": "Cards not showing up in my collection",
+    "url": "https://forums.mtgo.com/index.php?threads/cards-not-showing-up-in-my-collection.2254/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/electrodominance-cast-off-of-amped-raptor-cannot-cast-a-spell-from-hand.2253/": {
+    "title": "Electrodominance cast off of Amped Raptor cannot cast a spell from hand",
+    "url": "https://forums.mtgo.com/index.php?threads/electrodominance-cast-off-of-amped-raptor-cannot-cast-a-spell-from-hand.2253/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/always-say-yes-on-may-effects-appears-to-be-gone.2250/": {
+    "title": "\"Always say yes\" on \"may\" effects appears to be gone",
+    "url": "https://forums.mtgo.com/index.php?threads/always-say-yes-on-may-effects-appears-to-be-gone.2250/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
