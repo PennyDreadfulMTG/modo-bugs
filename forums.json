@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1346,7 +1346,7 @@
   "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/": {
     "title": "100 pp lost due to a game bug",
     "url": "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/": {
