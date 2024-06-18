@@ -1069,7 +1069,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1092",
     "support_thread": "https://forums.mtgo.com/index.php?threads/falkenrath-gorger-doesnt-trigger-madness.1014/#post-2482",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Primal Amulet",
@@ -1130,20 +1131,6 @@
     "support_thread": "https://forums.mtgo.com/index.php?threads/pillar-of-the-paruns-cannot-pay-the-costs-of-split-cards.1463/",
     "last_verified": null,
     "help_wanted": true
-  },
-  {
-    "card": "Council's Judgment",
-    "description": "Council's judgement doesn't display votes, rather it only displays the name of the permanant voted for.",
-    "category": "Advantageous",
-    "last_updated": "2024-04-26 20:54:49",
-    "issue_number": 1087,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1087",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/councils-judgment-not-showing-initial-vote.1226/",
-    "last_verified": null
   },
   {
     "card": "Paladin of Atonement",
@@ -3785,7 +3772,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/836",
     "support_thread": "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bugged-in-at-least-two-ways.330/",
-    "last_verified": "3.4.123.4152"
+    "last_verified": "3.4.123.4152",
+    "help_wanted": true
   },
   {
     "card": "Multani's Presence",

@@ -1388,7 +1388,7 @@
   "https://forums.mtgo.com/index.php?threads/cards-that-should-go-on-the-bottom-of-library-are-staying-on-top.2217/": {
     "title": "Cards that should go on the bottom of library are staying on top",
     "url": "https://forums.mtgo.com/index.php?threads/cards-that-should-go-on-the-bottom-of-library-are-staying-on-top.2217/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/extended-art-amphibian-downpour-is-regular.2234/": {
@@ -1467,6 +1467,48 @@
     "title": "Cannot cast modal cards even with open mana with cards such as Thraben Charm and Requisition Raid",
     "url": "https://forums.mtgo.com/index.php?threads/cannot-cast-modal-cards-even-with-open-mana-with-cards-such-as-thraben-charm-and-requisition-raid.2252/",
     "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/suppression-ray-doesnt-allow-me-to-stun-already-tapped-creature.2271/": {
+    "title": "Suppression Ray doesn't allow me to stun already tapped creature",
+    "url": "https://forums.mtgo.com/index.php?threads/suppression-ray-doesnt-allow-me-to-stun-already-tapped-creature.2271/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/guardian-of-the-forgotten-bug.2273/": {
+    "title": "Guardian of the Forgotten bug",
+    "url": "https://forums.mtgo.com/index.php?threads/guardian-of-the-forgotten-bug.2273/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
+    "title": "I cannot change order of some blockers",
+    "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
+    "status": "thread_prefix.19",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
+    "title": "Creation of Avacyn damages for Non-Creatures",
+    "url": "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/i-am-always-on-the-draw.2264/": {
+    "title": "I am always on the draw",
+    "url": "https://forums.mtgo.com/index.php?threads/i-am-always-on-the-draw.2264/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mh3-flip-walker-indicator-is-on-the-wrong-side.2261/": {
+    "title": "MH3 flip walker indicator is on the wrong side",
+    "url": "https://forums.mtgo.com/index.php?threads/mh3-flip-walker-indicator-is-on-the-wrong-side.2261/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/tasha-the-witch-queen-cant-be-your-commander.2260/": {
+    "title": "Tasha, The Witch Queen cant be your commander",
+    "url": "https://forums.mtgo.com/index.php?threads/tasha-the-witch-queen-cant-be-your-commander.2260/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
