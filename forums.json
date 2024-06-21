@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -1346,7 +1346,7 @@
   "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/": {
     "title": "100 pp lost due to a game bug",
     "url": "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
     "title": "I cannot change order of some blockers",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
@@ -1515,6 +1515,54 @@
     "title": "Turns don't track correctly in solitaire games",
     "url": "https://forums.mtgo.com/index.php?threads/turns-dont-track-correctly-in-solitaire-games.2279/",
     "status": "No Fix Planned",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-reset-because-of-nothing-and-went-back-to-turn-3-with-weird-timers-and-card-replaced.2289/": {
+    "title": "game reset because of nothing and went back to turn 3 with weird timers and card replaced",
+    "url": "https://forums.mtgo.com/index.php?threads/game-reset-because-of-nothing-and-went-back-to-turn-3-with-weird-timers-and-card-replaced.2289/",
+    "status": "thread_prefix.20",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/priority-after-emperor-of-bones-trigger.2286/": {
+    "title": "Priority after Emperor of Bones trigger",
+    "url": "https://forums.mtgo.com/index.php?threads/priority-after-emperor-of-bones-trigger.2286/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/skull-storm-seems-to-crash-the-game-when-you-sac-a-land-creature-to-it.2284/": {
+    "title": "Skull Storm seems to crash the game when you sac a land creature to it",
+    "url": "https://forums.mtgo.com/index.php?threads/skull-storm-seems-to-crash-the-game-when-you-sac-a-land-creature-to-it.2284/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-keybinding-for-yes-doesnt-work-when-asked-to-send-the-commander-back-to-the-command-zone.2280/": {
+    "title": "The keybinding for 'Yes' doesn't work when asked to send the commander back to the command zone",
+    "url": "https://forums.mtgo.com/index.php?threads/the-keybinding-for-yes-doesnt-work-when-asked-to-send-the-commander-back-to-the-command-zone.2280/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/volatile-stormdrake-and-protection-spell-interaction.2282/": {
+    "title": "Volatile stormdrake and protection spell interaction",
+    "url": "https://forums.mtgo.com/index.php?threads/volatile-stormdrake-and-protection-spell-interaction.2282/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/saproling-burst-tokens-after-enchantment-is-destroyed.2267/": {
+    "title": "Saproling Burst tokens after enchantment is destroyed",
+    "url": "https://forums.mtgo.com/index.php?threads/saproling-burst-tokens-after-enchantment-is-destroyed.2267/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/could-not-assign-lethal-damage-with-trample-deathtouch.2270/": {
+    "title": "Could not assign lethal damage with trample/deathtouch",
+    "url": "https://forums.mtgo.com/index.php?threads/could-not-assign-lethal-damage-with-trample-deathtouch.2270/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/urza%E2%80%99s-incubator-reduces-the-cost-of-kindred-spells-of-the-chosen-type.2269/": {
+    "title": "Urza\u2019s Incubator reduces the cost of Kindred spells of the chosen type",
+    "url": "https://forums.mtgo.com/index.php?threads/urza%E2%80%99s-incubator-reduces-the-cost-of-kindred-spells-of-the-chosen-type.2269/",
+    "status": "Confirmed",
     "tracked": false
   }
 }

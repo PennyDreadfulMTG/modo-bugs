@@ -25,7 +25,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1109",
     "support_thread": "https://forums.mtgo.com/index.php?threads/thada-adel-showed-the-hand-of-another-player.1211/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Legion Warboss",
