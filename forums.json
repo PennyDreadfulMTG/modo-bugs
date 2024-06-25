@@ -1346,7 +1346,7 @@
   "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/": {
     "title": "100 pp lost due to a game bug",
     "url": "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
     "title": "I cannot change order of some blockers",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
