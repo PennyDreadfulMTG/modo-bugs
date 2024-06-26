@@ -1520,7 +1520,7 @@
   "https://forums.mtgo.com/index.php?threads/game-reset-because-of-nothing-and-went-back-to-turn-3-with-weird-timers-and-card-replaced.2289/": {
     "title": "game reset because of nothing and went back to turn 3 with weird timers and card replaced",
     "url": "https://forums.mtgo.com/index.php?threads/game-reset-because-of-nothing-and-went-back-to-turn-3-with-weird-timers-and-card-replaced.2289/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/priority-after-emperor-of-bones-trigger.2286/": {
@@ -1605,6 +1605,42 @@
     "title": "kozilek\u2019s command is not a possible play",
     "url": "https://forums.mtgo.com/index.php?threads/kozilek%E2%80%99s-command-is-not-a-possible-play.2255/",
     "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/was-able-to-target-volatile-stormdrake-with-a-triggered-ability.2306/": {
+    "title": "Was able to target Volatile Stormdrake with a Triggered Ability.",
+    "url": "https://forums.mtgo.com/index.php?threads/was-able-to-target-volatile-stormdrake-with-a-triggered-ability.2306/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/breaker-of-creation-annihilator-ability-did-not-trigger.2304/": {
+    "title": "Breaker of Creation - Annihilator ability did not trigger",
+    "url": "https://forums.mtgo.com/index.php?threads/breaker-of-creation-annihilator-ability-did-not-trigger.2304/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mulliganing-to-zero-bug.2296/": {
+    "title": "Mulliganing to Zero Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/mulliganing-to-zero-bug.2296/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/brimaz-blight-of-oreskos-not-incubaing-on-artifact-creature-cast-triggers.2298/": {
+    "title": "Brimaz, Blight of Oreskos not incubaing on artifact creature cast triggers",
+    "url": "https://forums.mtgo.com/index.php?threads/brimaz-blight-of-oreskos-not-incubaing-on-artifact-creature-cast-triggers.2298/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ajani-nacatl-pariah-leyline-of-the-void-flipping.2294/": {
+    "title": "Ajani, Nacatl Pariah/Leyline of the Void flipping",
+    "url": "https://forums.mtgo.com/index.php?threads/ajani-nacatl-pariah-leyline-of-the-void-flipping.2294/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-would-not-progress-after-a-drop.2291/": {
+    "title": "Game would not progress after a drop",
+    "url": "https://forums.mtgo.com/index.php?threads/game-would-not-progress-after-a-drop.2291/",
+    "status": "More Info Needed",
     "tracked": false
   }
 }
