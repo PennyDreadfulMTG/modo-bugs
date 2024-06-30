@@ -890,7 +890,7 @@
   "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/": {
     "title": "Promise of Loyalty didn't sac creatures",
     "url": "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/match-loading-problem.1794/": {
@@ -1346,7 +1346,7 @@
   "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/": {
     "title": "100 pp lost due to a game bug",
     "url": "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/": {
