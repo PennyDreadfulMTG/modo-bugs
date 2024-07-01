@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1166,7 +1166,7 @@
   "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/": {
     "title": "Shifting Grift incorrectly gives swapped creature to owner, not controller",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pucas-mischief-fails-to-see-nonland-permanents-opponent-controls-played-before-mischief-etb.2116/": {
@@ -1346,7 +1346,7 @@
   "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/": {
     "title": "100 pp lost due to a game bug",
     "url": "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
     "title": "I cannot change order of some blockers",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
@@ -1520,7 +1520,7 @@
   "https://forums.mtgo.com/index.php?threads/game-reset-because-of-nothing-and-went-back-to-turn-3-with-weird-timers-and-card-replaced.2289/": {
     "title": "game reset because of nothing and went back to turn 3 with weird timers and card replaced",
     "url": "https://forums.mtgo.com/index.php?threads/game-reset-because-of-nothing-and-went-back-to-turn-3-with-weird-timers-and-card-replaced.2289/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/priority-after-emperor-of-bones-trigger.2286/": {

@@ -1193,7 +1193,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1075",
     "support_thread": "https://forums.mtgo.com/index.php?threads/obzedat-ghost-council-is-not-returning-from-exile.922/",
-    "last_verified": "3.4.135.4389"
+    "last_verified": "3.4.135.4389",
+    "help_wanted": true
   },
   {
     "card": "Florian, Voldaren Scion",
