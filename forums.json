@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
     "title": "I cannot change order of some blockers",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
@@ -1641,6 +1641,12 @@
     "title": "Game would not progress after a drop",
     "url": "https://forums.mtgo.com/index.php?threads/game-would-not-progress-after-a-drop.2291/",
     "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mh3-draft-print-runs-are-broken.2272/": {
+    "title": "MH3 Draft print runs are broken",
+    "url": "https://forums.mtgo.com/index.php?threads/mh3-draft-print-runs-are-broken.2272/",
+    "status": "Fixed",
     "tracked": false
   }
 }
