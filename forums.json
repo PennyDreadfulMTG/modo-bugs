@@ -890,7 +890,7 @@
   "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/": {
     "title": "Promise of Loyalty didn't sac creatures",
     "url": "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/match-loading-problem.1794/": {
@@ -1346,7 +1346,7 @@
   "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/": {
     "title": "100 pp lost due to a game bug",
     "url": "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
     "title": "I cannot change order of some blockers",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
@@ -1508,7 +1508,7 @@
   "https://forums.mtgo.com/index.php?threads/tasha-the-witch-queen-cant-be-your-commander.2260/": {
     "title": "Tasha, The Witch Queen cant be your commander",
     "url": "https://forums.mtgo.com/index.php?threads/tasha-the-witch-queen-cant-be-your-commander.2260/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/turns-dont-track-correctly-in-solitaire-games.2279/": {
@@ -1520,7 +1520,7 @@
   "https://forums.mtgo.com/index.php?threads/game-reset-because-of-nothing-and-went-back-to-turn-3-with-weird-timers-and-card-replaced.2289/": {
     "title": "game reset because of nothing and went back to turn 3 with weird timers and card replaced",
     "url": "https://forums.mtgo.com/index.php?threads/game-reset-because-of-nothing-and-went-back-to-turn-3-with-weird-timers-and-card-replaced.2289/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/priority-after-emperor-of-bones-trigger.2286/": {
@@ -1562,7 +1562,7 @@
   "https://forums.mtgo.com/index.php?threads/urza%E2%80%99s-incubator-reduces-the-cost-of-kindred-spells-of-the-chosen-type.2269/": {
     "title": "Urza\u2019s Incubator reduces the cost of Kindred spells of the chosen type",
     "url": "https://forums.mtgo.com/index.php?threads/urza%E2%80%99s-incubator-reduces-the-cost-of-kindred-spells-of-the-chosen-type.2269/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/cant-use-chat.2293/": {
@@ -1646,6 +1646,30 @@
   "https://forums.mtgo.com/index.php?threads/mh3-draft-print-runs-are-broken.2272/": {
     "title": "MH3 Draft print runs are broken",
     "url": "https://forums.mtgo.com/index.php?threads/mh3-draft-print-runs-are-broken.2272/",
+    "status": "Fixed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/deck-editor-doesnt-recognize-older-owned-versions-of-txt-file-for-the-commander-in-commander.2327/": {
+    "title": "Deck editor doesn't recognize older owned versions of txt file for the commander, in Commander.",
+    "url": "https://forums.mtgo.com/index.php?threads/deck-editor-doesnt-recognize-older-owned-versions-of-txt-file-for-the-commander-in-commander.2327/",
+    "status": "As Designed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/entomb-bugged.2328/": {
+    "title": "Entomb bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/entomb-bugged.2328/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/lurrus-of-the-dream-den-will-not-allow-you-to-pay-more-than-2-mana-when-casting-using-its-ability.2299/": {
+    "title": "Lurrus of the Dream-Den will not allow you to pay more than 2 mana when casting using its ability",
+    "url": "https://forums.mtgo.com/index.php?threads/lurrus-of-the-dream-den-will-not-allow-you-to-pay-more-than-2-mana-when-casting-using-its-ability.2299/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/opponennt-timed-out-but-the-game-didnt-register.2215/": {
+    "title": "Opponennt timed out but the game didnt register",
+    "url": "https://forums.mtgo.com/index.php?threads/opponennt-timed-out-but-the-game-didnt-register.2215/",
     "status": "Fixed",
     "tracked": false
   }

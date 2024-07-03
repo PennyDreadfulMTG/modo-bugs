@@ -4837,7 +4837,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/615",
     "support_thread": null,
-    "last_verified": "3.4.122.4137"
+    "last_verified": "3.4.122.4137",
+    "help_wanted": true
   },
   {
     "card": "Containment Priest",
