@@ -55,7 +55,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1107",
     "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Boonweaver Giant",
@@ -84,7 +85,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1104",
     "support_thread": "",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Witness Protection",
@@ -98,7 +100,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1104",
     "support_thread": "",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Sauron's Ransom",
@@ -1735,7 +1738,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1000",
     "support_thread": null,
-    "last_verified": "3.4.132.4356"
+    "last_verified": "3.4.132.4356",
+    "help_wanted": true
   },
   {
     "card": "Field of the Dead",
@@ -1749,7 +1753,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1000",
     "support_thread": null,
-    "last_verified": "3.4.132.4356"
+    "last_verified": "3.4.132.4356",
+    "help_wanted": true
   },
   {
     "card": "Primal Surge",
@@ -1763,7 +1768,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1000",
     "support_thread": null,
-    "last_verified": "3.4.132.4356"
+    "last_verified": "3.4.132.4356",
+    "help_wanted": true
   },
   {
     "card": "Glimpse of Tomorrow",
@@ -1777,7 +1783,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1000",
     "support_thread": null,
-    "last_verified": "3.4.132.4356"
+    "last_verified": "3.4.132.4356",
+    "help_wanted": true
   },
   {
     "card": "Sublime Archangel",
@@ -1791,7 +1798,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1000",
     "support_thread": null,
-    "last_verified": "3.4.132.4356"
+    "last_verified": "3.4.132.4356",
+    "help_wanted": true
   },
   {
     "card": "Armored Skyhunter",
@@ -5095,7 +5103,8 @@
     "support_thread": null,
     "last_verified": null,
     "multiplayer_only": true,
-    "commander_only": true
+    "commander_only": true,
+    "help_wanted": true
   },
   {
     "card": "Muldrotha, the Gravetide",
