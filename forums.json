@@ -890,7 +890,7 @@
   "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/": {
     "title": "Promise of Loyalty didn't sac creatures",
     "url": "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/match-loading-problem.1794/": {
@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1166,7 +1166,7 @@
   "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/": {
     "title": "Shifting Grift incorrectly gives swapped creature to owner, not controller",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pucas-mischief-fails-to-see-nonland-permanents-opponent-controls-played-before-mischief-etb.2116/": {
@@ -1671,6 +1671,126 @@
     "title": "Opponennt timed out but the game didnt register",
     "url": "https://forums.mtgo.com/index.php?threads/opponennt-timed-out-but-the-game-didnt-register.2215/",
     "status": "Fixed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/winding-way-bug.2340/": {
+    "title": "winding way bug",
+    "url": "https://forums.mtgo.com/index.php?threads/winding-way-bug.2340/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/tempt-with-discovery-allows-each-player-to-search-for-3-lands-in-4-player-games.2339/": {
+    "title": "Tempt With Discovery allows each player to search for 3 lands in 4-player games",
+    "url": "https://forums.mtgo.com/index.php?threads/tempt-with-discovery-allows-each-player-to-search-for-3-lands-in-4-player-games.2339/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-lydia-frye-surveil-assassins-creed.2335/": {
+    "title": "bug lydia frye surveil (assassin's creed)",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-lydia-frye-surveil-assassins-creed.2335/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/containment-priest-erroneously-exiles-old-growth-troll.2338/": {
+    "title": "Containment Priest erroneously exiles Old-Growth Troll",
+    "url": "https://forums.mtgo.com/index.php?threads/containment-priest-erroneously-exiles-old-growth-troll.2338/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/treacherous-greed-its-alternative-cost-does-not-work-correctly.2337/": {
+    "title": "\"Treacherous Greed\", its alternative cost does not work correctly",
+    "url": "https://forums.mtgo.com/index.php?threads/treacherous-greed-its-alternative-cost-does-not-work-correctly.2337/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/loyal-inventor-assassin-tutor-skips-next-draw.2336/": {
+    "title": "Loyal Inventor+Assassin Tutor skips next draw",
+    "url": "https://forums.mtgo.com/index.php?threads/loyal-inventor-assassin-tutor-skips-next-draw.2336/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/preacher-of-the-schism-not-making-both-1-1-and-draw-card-with-tied-life.2333/": {
+    "title": "Preacher of the Schism not making both 1/1 and draw card with tied life",
+    "url": "https://forums.mtgo.com/index.php?threads/preacher-of-the-schism-not-making-both-1-1-and-draw-card-with-tied-life.2333/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/everything-counter-doesnt-include-island.2313/": {
+    "title": "\"Everything counter\" doesn't include island?",
+    "url": "https://forums.mtgo.com/index.php?threads/everything-counter-doesnt-include-island.2313/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/etb-tokens-sacd-with-myriad.2324/": {
+    "title": "ETB Tokens Sac'd with Myriad",
+    "url": "https://forums.mtgo.com/index.php?threads/etb-tokens-sacd-with-myriad.2324/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/": {
+    "title": "Gilanra, Caller of Wirewood card draw ability does not trigger on X-cost spells over 6 mana cmc",
+    "url": "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/",
+    "status": "thread_prefix.19",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/daru-spiritualist-triggered-abilities-triggers-twice-of-two-daru-spiritualists-are-under-your-control.2322/": {
+    "title": "Daru Spiritualist triggered abilities triggers twice of two Daru Spiritualists are under your control",
+    "url": "https://forums.mtgo.com/index.php?threads/daru-spiritualist-triggered-abilities-triggers-twice-of-two-daru-spiritualists-are-under-your-control.2322/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/snow-lands-in-momir-basic.2319/": {
+    "title": "Snow-Lands in Momir Basic",
+    "url": "https://forums.mtgo.com/index.php?threads/snow-lands-in-momir-basic.2319/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cataclysmic-prospecting-not-giving-the-right-amount-of-treasure.2321/": {
+    "title": "Cataclysmic Prospecting not giving the right amount of treasure.",
+    "url": "https://forums.mtgo.com/index.php?threads/cataclysmic-prospecting-not-giving-the-right-amount-of-treasure.2321/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-six-with-damping-matrix.2318/": {
+    "title": "Bug Six with Damping Matrix",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-six-with-damping-matrix.2318/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/opponent-cast-phlage-off-amped-raptor-with-only-2-energy.2317/": {
+    "title": "Opponent cast Phlage off Amped Raptor with only 2 energy",
+    "url": "https://forums.mtgo.com/index.php?threads/opponent-cast-phlage-off-amped-raptor-with-only-2-energy.2317/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/commander-stolen-with-volatile-stormdrake-went-to-exile-instead-of-returning-to-owner-when-player-died.2314/": {
+    "title": "Commander stolen with Volatile Stormdrake went to exile instead of returning to owner when player died.",
+    "url": "https://forums.mtgo.com/index.php?threads/commander-stolen-with-volatile-stormdrake-went-to-exile-instead-of-returning-to-owner-when-player-died.2314/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-crashes-and-than-client-freezes.2310/": {
+    "title": "Game crashes and than client freezes",
+    "url": "https://forums.mtgo.com/index.php?threads/game-crashes-and-than-client-freezes.2310/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/persist-creature-failed-to-return.2307/": {
+    "title": "Persist Creature failed to return",
+    "url": "https://forums.mtgo.com/index.php?threads/persist-creature-failed-to-return.2307/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/marionette-apprentice-doesnt-trigger.2301/": {
+    "title": "Marionette Apprentice Doesn't trigger",
+    "url": "https://forums.mtgo.com/index.php?threads/marionette-apprentice-doesnt-trigger.2301/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ondu-was-not-triggered.2302/": {
+    "title": "Ondu was not triggered",
+    "url": "https://forums.mtgo.com/index.php?threads/ondu-was-not-triggered.2302/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
