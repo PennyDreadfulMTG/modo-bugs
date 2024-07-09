@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
     "title": "I cannot change order of some blockers",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
@@ -1520,7 +1520,7 @@
   "https://forums.mtgo.com/index.php?threads/game-reset-because-of-nothing-and-went-back-to-turn-3-with-weird-timers-and-card-replaced.2289/": {
     "title": "game reset because of nothing and went back to turn 3 with weird timers and card replaced",
     "url": "https://forums.mtgo.com/index.php?threads/game-reset-because-of-nothing-and-went-back-to-turn-3-with-weird-timers-and-card-replaced.2289/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/priority-after-emperor-of-bones-trigger.2286/": {
@@ -1610,7 +1610,7 @@
   "https://forums.mtgo.com/index.php?threads/was-able-to-target-volatile-stormdrake-with-a-triggered-ability.2306/": {
     "title": "Was able to target Volatile Stormdrake with a Triggered Ability.",
     "url": "https://forums.mtgo.com/index.php?threads/was-able-to-target-volatile-stormdrake-with-a-triggered-ability.2306/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/breaker-of-creation-annihilator-ability-did-not-trigger.2304/": {
@@ -1700,13 +1700,13 @@
   "https://forums.mtgo.com/index.php?threads/treacherous-greed-its-alternative-cost-does-not-work-correctly.2337/": {
     "title": "\"Treacherous Greed\", its alternative cost does not work correctly",
     "url": "https://forums.mtgo.com/index.php?threads/treacherous-greed-its-alternative-cost-does-not-work-correctly.2337/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/loyal-inventor-assassin-tutor-skips-next-draw.2336/": {
     "title": "Loyal Inventor+Assassin Tutor skips next draw",
     "url": "https://forums.mtgo.com/index.php?threads/loyal-inventor-assassin-tutor-skips-next-draw.2336/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/preacher-of-the-schism-not-making-both-1-1-and-draw-card-with-tied-life.2333/": {
@@ -1718,7 +1718,7 @@
   "https://forums.mtgo.com/index.php?threads/everything-counter-doesnt-include-island.2313/": {
     "title": "\"Everything counter\" doesn't include island?",
     "url": "https://forums.mtgo.com/index.php?threads/everything-counter-doesnt-include-island.2313/",
-    "status": "Confirmed",
+    "status": "In Progress",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/etb-tokens-sacd-with-myriad.2324/": {
@@ -1730,7 +1730,7 @@
   "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/": {
     "title": "Gilanra, Caller of Wirewood card draw ability does not trigger on X-cost spells over 6 mana cmc",
     "url": "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/daru-spiritualist-triggered-abilities-triggers-twice-of-two-daru-spiritualists-are-under-your-control.2322/": {
@@ -1791,6 +1791,66 @@
     "title": "Ondu was not triggered",
     "url": "https://forums.mtgo.com/index.php?threads/ondu-was-not-triggered.2302/",
     "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/carmen-cruel-skymarcher-rhox-faithmender-cleric-class-creates-an-infinite-loop-that-can-only-be-escaped-by-conceding-the-game.2359/": {
+    "title": "Carmen, Cruel Skymarcher + Rhox Faithmender + Cleric Class creates an infinite loop that can only be escaped by conceding the game",
+    "url": "https://forums.mtgo.com/index.php?threads/carmen-cruel-skymarcher-rhox-faithmender-cleric-class-creates-an-infinite-loop-that-can-only-be-escaped-by-conceding-the-game.2359/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/endless-whispers.2354/": {
+    "title": "endless whispers",
+    "url": "https://forums.mtgo.com/index.php?threads/endless-whispers.2354/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/wrong-value-of-commanders-insignia.2363/": {
+    "title": "Wrong value of Commander's Insignia",
+    "url": "https://forums.mtgo.com/index.php?threads/wrong-value-of-commanders-insignia.2363/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-with-collect-evidence.2361/": {
+    "title": "Bug with Collect Evidence",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-with-collect-evidence.2361/",
+    "status": "thread_prefix.20",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/yurlok-and-mana-reflection.2358/": {
+    "title": "Yurlok and Mana Reflection",
+    "url": "https://forums.mtgo.com/index.php?threads/yurlok-and-mana-reflection.2358/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/stream-of-thought-bug.2357/": {
+    "title": "Stream of Thought BUG",
+    "url": "https://forums.mtgo.com/index.php?threads/stream-of-thought-bug.2357/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cannot-pay-sorin-ravenous-neonate-extort-cost-with-mana-in-pool.2351/": {
+    "title": "Cannot pay Sorin Ravenous Neonate extort cost with mana in pool",
+    "url": "https://forums.mtgo.com/index.php?threads/cannot-pay-sorin-ravenous-neonate-extort-cost-with-mana-in-pool.2351/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/phasing-interaction-with-bestowed-creatures-bugged.2348/": {
+    "title": "Phasing Interaction with Bestowed Creatures Bugged.",
+    "url": "https://forums.mtgo.com/index.php?threads/phasing-interaction-with-bestowed-creatures-bugged.2348/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/all-of-the-lhurgoyfs-with-1-toughness-display-wrong-in-the-deck-editor.2347/": {
+    "title": "All of the Lhurgoyf's with 1+* toughness display wrong in the deck editor",
+    "url": "https://forums.mtgo.com/index.php?threads/all-of-the-lhurgoyfs-with-1-toughness-display-wrong-in-the-deck-editor.2347/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/phelia-exuberant-shepherd-didnt-return-a-creature.2342/": {
+    "title": "Phelia, Exuberant Shepherd didn't return a creature",
+    "url": "https://forums.mtgo.com/index.php?threads/phelia-exuberant-shepherd-didnt-return-a-creature.2342/",
+    "status": "Not A Bug",
     "tracked": false
   }
 }
