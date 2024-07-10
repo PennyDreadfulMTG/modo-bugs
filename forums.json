@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1346,7 +1346,7 @@
   "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/": {
     "title": "100 pp lost due to a game bug",
     "url": "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/": {
@@ -1730,7 +1730,7 @@
   "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/": {
     "title": "Gilanra, Caller of Wirewood card draw ability does not trigger on X-cost spells over 6 mana cmc",
     "url": "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/daru-spiritualist-triggered-abilities-triggers-twice-of-two-daru-spiritualists-are-under-your-control.2322/": {
