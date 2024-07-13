@@ -890,7 +890,7 @@
   "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/": {
     "title": "Promise of Loyalty didn't sac creatures",
     "url": "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/match-loading-problem.1794/": {
@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1166,7 +1166,7 @@
   "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/": {
     "title": "Shifting Grift incorrectly gives swapped creature to owner, not controller",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pucas-mischief-fails-to-see-nonland-permanents-opponent-controls-played-before-mischief-etb.2116/": {
@@ -1346,7 +1346,7 @@
   "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/": {
     "title": "100 pp lost due to a game bug",
     "url": "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/": {
@@ -1730,7 +1730,7 @@
   "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/": {
     "title": "Gilanra, Caller of Wirewood card draw ability does not trigger on X-cost spells over 6 mana cmc",
     "url": "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/daru-spiritualist-triggered-abilities-triggers-twice-of-two-daru-spiritualists-are-under-your-control.2322/": {
@@ -1851,6 +1851,18 @@
     "title": "Phelia, Exuberant Shepherd didn't return a creature",
     "url": "https://forums.mtgo.com/index.php?threads/phelia-exuberant-shepherd-didnt-return-a-creature.2342/",
     "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/volcano-hellion-visual-bug-made-me-laugh.2373/": {
+    "title": "Volcano Hellion visual bug (made me laugh)",
+    "url": "https://forums.mtgo.com/index.php?threads/volcano-hellion-visual-bug-made-me-laugh.2373/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/omo-queen-of-vesuva-not-working-with-embiggen.2374/": {
+    "title": "Omo, Queen of Vesuva not working with Embiggen",
+    "url": "https://forums.mtgo.com/index.php?threads/omo-queen-of-vesuva-not-working-with-embiggen.2374/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
