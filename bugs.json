@@ -1159,7 +1159,7 @@
     "card": "Jace, Mirror Mage",
     "description": "Jace, Mirror Mage causes a game restart if kicked",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2024-02-16 07:54:47",
+    "last_updated": "2024-07-15 17:43:40",
     "issue_number": 1081,
     "pd_legal": true,
     "bug_blog": false,
@@ -1167,8 +1167,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1081",
     "support_thread": "https://forums.mtgo.com/index.php?threads/jace-mirror-mage.165/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Chandra's Phoenix",
