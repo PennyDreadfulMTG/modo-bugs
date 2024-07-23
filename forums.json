@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
     "title": "I cannot change order of some blockers",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
@@ -1874,7 +1874,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-report-battle-screech-cant-flash-back.2352/": {
     "title": "Bug report: Battle screech cant flash back",
     "url": "https://forums.mtgo.com/index.php?threads/bug-report-battle-screech-cant-flash-back.2352/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-crashed-when-sauron-was-cast.2320/": {
@@ -1941,6 +1941,12 @@
     "title": "Venerated Rotpriest/Ground Rift",
     "url": "https://forums.mtgo.com/index.php?threads/venerated-rotpriest-ground-rift.2393/",
     "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-client-auto-close-the-command-zone-in-1v1-and-solitaire-games.2281/": {
+    "title": "The client auto close the command zone in 1v1 and solitaire games",
+    "url": "https://forums.mtgo.com/index.php?threads/the-client-auto-close-the-command-zone-in-1v1-and-solitaire-games.2281/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
