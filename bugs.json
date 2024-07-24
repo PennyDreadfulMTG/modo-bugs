@@ -63,7 +63,7 @@
     "card": "Boonweaver Giant",
     "description": "Boonweaver Giant puts auras into play even if it's not on the battlefield",
     "category": "Advantageous",
-    "last_updated": "2024-03-21 04:54:45",
+    "last_updated": "2024-07-24 05:05:13",
     "issue_number": 1105,
     "pd_legal": true,
     "bug_blog": false,
@@ -71,8 +71,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1105",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Sakashima the Impostor",
@@ -6521,7 +6520,7 @@
     "card": "Shifty Doppelganger",
     "description": "Shifty Doppelganger puts an \"ability\" onto the battlefield at end of turn, rather than itself.",
     "category": "Game Breaking",
-    "last_updated": "2023-11-24 09:57:10",
+    "last_updated": "2024-07-24 11:12:11",
     "issue_number": 27,
     "pd_legal": true,
     "bug_blog": false,
@@ -6529,8 +6528,7 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/27",
     "support_thread": null,
-    "last_verified": "3.4.123.4152",
-    "help_wanted": true
+    "last_verified": "3.4.123.4152"
   },
   {
     "card": "High Seas",

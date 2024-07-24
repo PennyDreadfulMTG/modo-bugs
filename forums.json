@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1166,7 +1166,7 @@
   "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/": {
     "title": "Shifting Grift incorrectly gives swapped creature to owner, not controller",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pucas-mischief-fails-to-see-nonland-permanents-opponent-controls-played-before-mischief-etb.2116/": {
@@ -1346,7 +1346,7 @@
   "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/": {
     "title": "100 pp lost due to a game bug",
     "url": "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
     "title": "I cannot change order of some blockers",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
@@ -1599,12 +1599,6 @@
     "title": "drannithwith tymna",
     "url": "https://forums.mtgo.com/index.php?threads/drannithwith-tymna.2259/",
     "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/kozilek%E2%80%99s-command-is-not-a-possible-play.2255/": {
-    "title": "kozilek\u2019s command is not a possible play",
-    "url": "https://forums.mtgo.com/index.php?threads/kozilek%E2%80%99s-command-is-not-a-possible-play.2255/",
-    "status": "Could Not Reproduce",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/was-able-to-target-volatile-stormdrake-with-a-triggered-ability.2306/": {
@@ -1730,7 +1724,7 @@
   "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/": {
     "title": "Gilanra, Caller of Wirewood card draw ability does not trigger on X-cost spells over 6 mana cmc",
     "url": "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/daru-spiritualist-triggered-abilities-triggers-twice-of-two-daru-spiritualists-are-under-your-control.2322/": {
@@ -1814,7 +1808,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-with-collect-evidence.2361/": {
     "title": "Bug with Collect Evidence",
     "url": "https://forums.mtgo.com/index.php?threads/bug-with-collect-evidence.2361/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/yurlok-and-mana-reflection.2358/": {
@@ -1874,7 +1868,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-report-battle-screech-cant-flash-back.2352/": {
     "title": "Bug report: Battle screech cant flash back",
     "url": "https://forums.mtgo.com/index.php?threads/bug-report-battle-screech-cant-flash-back.2352/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-crashed-when-sauron-was-cast.2320/": {
@@ -1947,6 +1941,24 @@
     "title": "The client auto close the command zone in 1v1 and solitaire games",
     "url": "https://forums.mtgo.com/index.php?threads/the-client-auto-close-the-command-zone-in-1v1-and-solitaire-games.2281/",
     "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cannot-cast-chalice-of-the-void-for-3-for-6-mana-with-it-that-heralds-the-end-in-play.2397/": {
+    "title": "cannot cast Chalice of the Void for 3 for 6 mana with It That Heralds the End in play",
+    "url": "https://forums.mtgo.com/index.php?threads/cannot-cast-chalice-of-the-void-for-3-for-6-mana-with-it-that-heralds-the-end-in-play.2397/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mana-produced-by-tapping-rosheen-roaring-prophet-not-increased-by-nyxbloom-ancient.2388/": {
+    "title": "Mana produced by tapping Rosheen, Roaring Prophet not increased by Nyxbloom Ancient",
+    "url": "https://forums.mtgo.com/index.php?threads/mana-produced-by-tapping-rosheen-roaring-prophet-not-increased-by-nyxbloom-ancient.2388/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kozileks-command-passes-priority-when-trying-to-cast-it-in-response-to-something.2312/": {
+    "title": "Kozilek's Command passes priority when trying to cast it in response to something.",
+    "url": "https://forums.mtgo.com/index.php?threads/kozileks-command-passes-priority-when-trying-to-cast-it-in-response-to-something.2312/",
+    "status": "Could Not Reproduce",
     "tracked": false
   }
 }
