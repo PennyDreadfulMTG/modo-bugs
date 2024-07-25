@@ -890,7 +890,7 @@
   "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/": {
     "title": "Promise of Loyalty didn't sac creatures",
     "url": "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/match-loading-problem.1794/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
     "title": "I cannot change order of some blockers",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
@@ -1808,7 +1808,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-with-collect-evidence.2361/": {
     "title": "Bug with Collect Evidence",
     "url": "https://forums.mtgo.com/index.php?threads/bug-with-collect-evidence.2361/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/yurlok-and-mana-reflection.2358/": {
@@ -1946,7 +1946,7 @@
   "https://forums.mtgo.com/index.php?threads/cannot-cast-chalice-of-the-void-for-3-for-6-mana-with-it-that-heralds-the-end-in-play.2397/": {
     "title": "cannot cast Chalice of the Void for 3 for 6 mana with It That Heralds the End in play",
     "url": "https://forums.mtgo.com/index.php?threads/cannot-cast-chalice-of-the-void-for-3-for-6-mana-with-it-that-heralds-the-end-in-play.2397/",
-    "status": "Confirmed",
+    "status": "No Fix Planned",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/mana-produced-by-tapping-rosheen-roaring-prophet-not-increased-by-nyxbloom-ancient.2388/": {
@@ -1958,6 +1958,24 @@
   "https://forums.mtgo.com/index.php?threads/kozileks-command-passes-priority-when-trying-to-cast-it-in-response-to-something.2312/": {
     "title": "Kozilek's Command passes priority when trying to cast it in response to something.",
     "url": "https://forums.mtgo.com/index.php?threads/kozileks-command-passes-priority-when-trying-to-cast-it-in-response-to-something.2312/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ajani-flipwalker-4.2403/": {
+    "title": "Ajani flipwalker -4",
+    "url": "https://forums.mtgo.com/index.php?threads/ajani-flipwalker-4.2403/",
+    "status": "Invalid Game ID",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/background-not-castable-no-in-game-reason-for-this.2399/": {
+    "title": "Background Not Castable (No in game reason for this)",
+    "url": "https://forums.mtgo.com/index.php?threads/background-not-castable-no-in-game-reason-for-this.2399/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/replay-game-function-stops-for-some-games-but-not-all.2275/": {
+    "title": "\"Replay Game\" function stops for some games but not all?",
+    "url": "https://forums.mtgo.com/index.php?threads/replay-game-function-stops-for-some-games-but-not-all.2275/",
     "status": "Could Not Reproduce",
     "tracked": false
   }
