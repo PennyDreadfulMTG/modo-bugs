@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1166,7 +1166,7 @@
   "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/": {
     "title": "Shifting Grift incorrectly gives swapped creature to owner, not controller",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pucas-mischief-fails-to-see-nonland-permanents-opponent-controls-played-before-mischief-etb.2116/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
     "title": "I cannot change order of some blockers",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
@@ -1724,7 +1724,7 @@
   "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/": {
     "title": "Gilanra, Caller of Wirewood card draw ability does not trigger on X-cost spells over 6 mana cmc",
     "url": "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/daru-spiritualist-triggered-abilities-triggers-twice-of-two-daru-spiritualists-are-under-your-control.2322/": {
@@ -2013,6 +2013,24 @@
     "title": "Arena of Glory giving colorless mana with exert ability",
     "url": "https://forums.mtgo.com/index.php?threads/arena-of-glory-giving-colorless-mana-with-exert-ability.2415/",
     "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-one-ring-did-not-protect.2421/": {
+    "title": "The One Ring did not protect",
+    "url": "https://forums.mtgo.com/index.php?threads/the-one-ring-did-not-protect.2421/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/issue-during-between-games-procedure-in-duel-commander-dont-put-your-cards-in-sb-zone.2419/": {
+    "title": "Issue during between games procedure in Duel Commander : Don't put your cards in SB zone",
+    "url": "https://forums.mtgo.com/index.php?threads/issue-during-between-games-procedure-in-duel-commander-dont-put-your-cards-in-sb-zone.2419/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dryad-arbor-containment-priest-nadu-performing-incorrectly.2404/": {
+    "title": "Dryad arbor/Containment Priest/Nadu performing incorrectly",
+    "url": "https://forums.mtgo.com/index.php?threads/dryad-arbor-containment-priest-nadu-performing-incorrectly.2404/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
