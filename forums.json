@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1346,7 +1346,7 @@
   "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/": {
     "title": "100 pp lost due to a game bug",
     "url": "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/": {
@@ -2030,6 +2030,36 @@
   "https://forums.mtgo.com/index.php?threads/dryad-arbor-containment-priest-nadu-performing-incorrectly.2404/": {
     "title": "Dryad arbor/Containment Priest/Nadu performing incorrectly",
     "url": "https://forums.mtgo.com/index.php?threads/dryad-arbor-containment-priest-nadu-performing-incorrectly.2404/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-did-not-stop-and-i-lost-my-two-initial-turns.2426/": {
+    "title": "Game did not stop and I lost my two initial turns!!!",
+    "url": "https://forums.mtgo.com/index.php?threads/game-did-not-stop-and-i-lost-my-two-initial-turns.2426/",
+    "status": "thread_prefix.20",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/death-kiss-doubles-its-own-power.2425/": {
+    "title": "Death Kiss doubles its own power",
+    "url": "https://forums.mtgo.com/index.php?threads/death-kiss-doubles-its-own-power.2425/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/path-of-ancestry-triggering-on-activated-ability-should-only-be-on-creature-cast.2423/": {
+    "title": "Path of ancestry triggering on activated ability (should only be on creature cast)",
+    "url": "https://forums.mtgo.com/index.php?threads/path-of-ancestry-triggering-on-activated-ability-should-only-be-on-creature-cast.2423/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/trespassers-curse-disadvantageous-bug.2422/": {
+    "title": "Trespasser's Curse - Disadvantageous Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/trespassers-curse-disadvantageous-bug.2422/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-broke-after-guide-of-souls-and-ocelot-pride-triggers.2420/": {
+    "title": "Game broke after Guide of Souls and Ocelot Pride triggers",
+    "url": "https://forums.mtgo.com/index.php?threads/game-broke-after-guide-of-souls-and-ocelot-pride-triggers.2420/",
     "status": "Confirmed",
     "tracked": false
   }
