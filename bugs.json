@@ -1,5 +1,19 @@
 [
   {
+    "card": "Trespasser's Curse",
+    "description": "Trespasser's Curse does not cause life loss when a creature enters.",
+    "category": "Disadvantageous",
+    "last_updated": "2024-08-05 18:12:42",
+    "issue_number": 1114,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1114",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/trespassers-curse-disadvantageous-bug.2422/",
+    "last_verified": null
+  },
+  {
     "card": "Ice Cave",
     "description": "Ice Cave requests an incorrect mana amount to counter a spell on the stack",
     "category": "Non-Functional ability",
@@ -6515,20 +6529,6 @@
     "support_thread": null,
     "last_verified": "3.4.114.4044",
     "help_wanted": true
-  },
-  {
-    "card": "Shifty Doppelganger",
-    "description": "Shifty Doppelganger puts an \"ability\" onto the battlefield at end of turn, rather than itself.",
-    "category": "Game Breaking",
-    "last_updated": "2024-07-24 11:12:11",
-    "issue_number": 27,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/27",
-    "support_thread": null,
-    "last_verified": "3.4.123.4152"
   },
   {
     "card": "High Seas",

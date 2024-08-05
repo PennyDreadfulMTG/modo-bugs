@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -1166,7 +1166,7 @@
   "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/": {
     "title": "Shifting Grift incorrectly gives swapped creature to owner, not controller",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pucas-mischief-fails-to-see-nonland-permanents-opponent-controls-played-before-mischief-etb.2116/": {
@@ -2055,7 +2055,7 @@
     "title": "Trespasser's Curse - Disadvantageous Bug",
     "url": "https://forums.mtgo.com/index.php?threads/trespassers-curse-disadvantageous-bug.2422/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/game-broke-after-guide-of-souls-and-ocelot-pride-triggers.2420/": {
     "title": "Game broke after Guide of Souls and Ocelot Pride triggers",
@@ -2079,6 +2079,36 @@
     "title": "Drown in the Loch not working",
     "url": "https://forums.mtgo.com/index.php?threads/drown-in-the-loch-not-working.2424/",
     "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cannot-send-messages-in-chat-or-severe-delays.2442/": {
+    "title": "Cannot send messages in chat, or severe delays",
+    "url": "https://forums.mtgo.com/index.php?threads/cannot-send-messages-in-chat-or-severe-delays.2442/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bello-bard-of-the-brambles-ability-still-works-when-enchanted-by-kenriths-transformation.2432/": {
+    "title": "Bello, Bard of the Brambles ability still works when enchanted by Kenrith's Transformation",
+    "url": "https://forums.mtgo.com/index.php?threads/bello-bard-of-the-brambles-ability-still-works-when-enchanted-by-kenriths-transformation.2432/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/this-account-is-not-authorized-to-trade.2435/": {
+    "title": "\"This account is not authorized to trade.\"",
+    "url": "https://forums.mtgo.com/index.php?threads/this-account-is-not-authorized-to-trade.2435/",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sacred-ground-balancing-act-not-working-properly.2441/": {
+    "title": "Sacred Ground + Balancing Act not working properly",
+    "url": "https://forums.mtgo.com/index.php?threads/sacred-ground-balancing-act-not-working-properly.2441/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dragonhawk-fates-tempest-showcase-wrong-frame.2440/": {
+    "title": "Dragonhawk, Fate's Tempest Showcase wrong frame",
+    "url": "https://forums.mtgo.com/index.php?threads/dragonhawk-fates-tempest-showcase-wrong-frame.2440/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
