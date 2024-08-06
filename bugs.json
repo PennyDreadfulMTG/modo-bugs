@@ -3,7 +3,7 @@
     "card": "Trespasser's Curse",
     "description": "Trespasser's Curse does not cause life loss when a creature enters.",
     "category": "Disadvantageous",
-    "last_updated": "2024-08-05 18:12:42",
+    "last_updated": "2024-08-05 18:12:46",
     "issue_number": 1114,
     "pd_legal": true,
     "bug_blog": false,
@@ -2457,21 +2457,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/957",
     "support_thread": null,
     "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Willow Geist",
-    "description": "Willow Geist's ability triggers for each card removed from your graveyard, instead of triggering once per time cards are removed from your graveyard.",
-    "category": "Advantageous",
-    "last_updated": "2023-11-24 09:55:31",
-    "issue_number": 956,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/956",
-    "support_thread": null,
-    "last_verified": "3.4.123.4152",
     "help_wanted": true
   },
   {
