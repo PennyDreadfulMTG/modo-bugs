@@ -890,7 +890,7 @@
   "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/": {
     "title": "Promise of Loyalty didn't sac creatures",
     "url": "https://forums.mtgo.com/index.php?threads/promise-of-loyalty-didnt-sac-creatures.1696/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/match-loading-problem.1794/": {
@@ -1868,7 +1868,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-report-battle-screech-cant-flash-back.2352/": {
     "title": "Bug report: Battle screech cant flash back",
     "url": "https://forums.mtgo.com/index.php?threads/bug-report-battle-screech-cant-flash-back.2352/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-crashed-when-sauron-was-cast.2320/": {
@@ -2133,6 +2133,18 @@
     "title": "Heartfire hero death triggers not happening when sacrficed to rottenmouth viper",
     "url": "https://forums.mtgo.com/index.php?threads/heartfire-hero-death-triggers-not-happening-when-sacrficed-to-rottenmouth-viper.2434/",
     "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/psychic-frog-passing-priority-w-o-input.2436/": {
+    "title": "Psychic Frog passing priority w/o input",
+    "url": "https://forums.mtgo.com/index.php?threads/psychic-frog-passing-priority-w-o-input.2436/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/autopassing-issue-at-least-thats-what-i-think-it-is.2433/": {
+    "title": "Autopassing issue (At least that's what I think it is)",
+    "url": "https://forums.mtgo.com/index.php?threads/autopassing-issue-at-least-thats-what-i-think-it-is.2433/",
+    "status": "Could Not Reproduce",
     "tracked": false
   }
 }
