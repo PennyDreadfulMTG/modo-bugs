@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
     "title": "I cannot change order of some blockers",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
@@ -1520,7 +1520,7 @@
   "https://forums.mtgo.com/index.php?threads/game-reset-because-of-nothing-and-went-back-to-turn-3-with-weird-timers-and-card-replaced.2289/": {
     "title": "game reset because of nothing and went back to turn 3 with weird timers and card replaced",
     "url": "https://forums.mtgo.com/index.php?threads/game-reset-because-of-nothing-and-went-back-to-turn-3-with-weird-timers-and-card-replaced.2289/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/priority-after-emperor-of-bones-trigger.2286/": {
@@ -2030,7 +2030,7 @@
   "https://forums.mtgo.com/index.php?threads/game-did-not-stop-and-i-lost-my-two-initial-turns.2426/": {
     "title": "Game did not stop and I lost my two initial turns!!!",
     "url": "https://forums.mtgo.com/index.php?threads/game-did-not-stop-and-i-lost-my-two-initial-turns.2426/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/death-kiss-doubles-its-own-power.2425/": {
@@ -2133,6 +2133,36 @@
     "title": "Autopassing issue (At least that's what I think it is)",
     "url": "https://forums.mtgo.com/index.php?threads/autopassing-issue-at-least-thats-what-i-think-it-is.2433/",
     "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/thought-stalker-warlock-etb-the-eternal-wanderer-4-bug.2453/": {
+    "title": "Thought-Stalker Warlock etb/The Eternal Wanderer -4 bug",
+    "url": "https://forums.mtgo.com/index.php?threads/thought-stalker-warlock-etb-the-eternal-wanderer-4-bug.2453/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/trespassers-curse-bug.2450/": {
+    "title": "Trespasser's curse bug",
+    "url": "https://forums.mtgo.com/index.php?threads/trespassers-curse-bug.2450/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/tiebreakers.2447/": {
+    "title": "Tiebreakers",
+    "url": "https://forums.mtgo.com/index.php?threads/tiebreakers.2447/",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/unable-to-pay-for-summoners-pact-upkeep-cost-with-mana-after-nantuko-clone-trigger.2449/": {
+    "title": "Unable to Pay for Summoner's pact upkeep cost with mana after nantuko clone trigger",
+    "url": "https://forums.mtgo.com/index.php?threads/unable-to-pay-for-summoners-pact-upkeep-cost-with-mana-after-nantuko-clone-trigger.2449/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/demigod-of-revenge.2448/": {
+    "title": "Demigod of Revenge",
+    "url": "https://forums.mtgo.com/index.php?threads/demigod-of-revenge.2448/",
+    "status": "Not A Bug",
     "tracked": false
   }
 }
