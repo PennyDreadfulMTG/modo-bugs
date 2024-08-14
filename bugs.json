@@ -2200,21 +2200,6 @@
     "last_verified": "3.4.129.4220"
   },
   {
-    "card": "Adeline, Resplendent Cathar",
-    "description": "When Adeline, Resplendent Cathar's ability creates tokens, those tokens can't enter attacking a planeswalker",
-    "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:18:36",
-    "issue_number": 967,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/967",
-    "support_thread": null,
-    "last_verified": "3.4.125.4181",
-    "help_wanted": true
-  },
-  {
     "card": "Diabolic Servitude",
     "description": "Diabolic Servitude's second ability does not function. (When the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner\u2019s hand.)",
     "category": "Disadvantageous",
