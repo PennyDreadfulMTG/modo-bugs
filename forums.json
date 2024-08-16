@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
     "title": "I cannot change order of some blockers",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
@@ -1808,7 +1808,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-with-collect-evidence.2361/": {
     "title": "Bug with Collect Evidence",
     "url": "https://forums.mtgo.com/index.php?threads/bug-with-collect-evidence.2361/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/yurlok-and-mana-reflection.2358/": {
@@ -2030,7 +2030,7 @@
   "https://forums.mtgo.com/index.php?threads/game-did-not-stop-and-i-lost-my-two-initial-turns.2426/": {
     "title": "Game did not stop and I lost my two initial turns!!!",
     "url": "https://forums.mtgo.com/index.php?threads/game-did-not-stop-and-i-lost-my-two-initial-turns.2426/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/death-kiss-doubles-its-own-power.2425/": {
@@ -2180,6 +2180,18 @@
   "https://forums.mtgo.com/index.php?threads/conspiracy-unraveler-not-working-with-flashback.2459/": {
     "title": "Conspiracy Unraveler not working with flashback",
     "url": "https://forums.mtgo.com/index.php?threads/conspiracy-unraveler-not-working-with-flashback.2459/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cant-see-cards-in-exile-or-cards-shown.2463/": {
+    "title": "Can't see cards in Exile or Cards Shown",
+    "url": "https://forums.mtgo.com/index.php?threads/cant-see-cards-in-exile-or-cards-shown.2463/",
+    "status": "thread_prefix.19",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/clever-conjurer-unable-to-untap-lands.2462/": {
+    "title": "Clever Conjurer unable to untap lands",
+    "url": "https://forums.mtgo.com/index.php?threads/clever-conjurer-unable-to-untap-lands.2462/",
     "status": "Not A Bug",
     "tracked": false
   }
