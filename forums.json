@@ -1166,7 +1166,7 @@
   "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/": {
     "title": "Shifting Grift incorrectly gives swapped creature to owner, not controller",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pucas-mischief-fails-to-see-nonland-permanents-opponent-controls-played-before-mischief-etb.2116/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
     "title": "I cannot change order of some blockers",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
@@ -1520,7 +1520,7 @@
   "https://forums.mtgo.com/index.php?threads/game-reset-because-of-nothing-and-went-back-to-turn-3-with-weird-timers-and-card-replaced.2289/": {
     "title": "game reset because of nothing and went back to turn 3 with weird timers and card replaced",
     "url": "https://forums.mtgo.com/index.php?threads/game-reset-because-of-nothing-and-went-back-to-turn-3-with-weird-timers-and-card-replaced.2289/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/priority-after-emperor-of-bones-trigger.2286/": {
@@ -1724,7 +1724,7 @@
   "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/": {
     "title": "Gilanra, Caller of Wirewood card draw ability does not trigger on X-cost spells over 6 mana cmc",
     "url": "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/daru-spiritualist-triggered-abilities-triggers-twice-of-two-daru-spiritualists-are-under-your-control.2322/": {
@@ -1808,7 +1808,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-with-collect-evidence.2361/": {
     "title": "Bug with Collect Evidence",
     "url": "https://forums.mtgo.com/index.php?threads/bug-with-collect-evidence.2361/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/yurlok-and-mana-reflection.2358/": {
@@ -2186,7 +2186,7 @@
   "https://forums.mtgo.com/index.php?threads/cant-see-cards-in-exile-or-cards-shown.2463/": {
     "title": "Can't see cards in Exile or Cards Shown",
     "url": "https://forums.mtgo.com/index.php?threads/cant-see-cards-in-exile-or-cards-shown.2463/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/clever-conjurer-unable-to-untap-lands.2462/": {
