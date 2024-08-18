@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1166,7 +1166,7 @@
   "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/": {
     "title": "Shifting Grift incorrectly gives swapped creature to owner, not controller",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pucas-mischief-fails-to-see-nonland-permanents-opponent-controls-played-before-mischief-etb.2116/": {
@@ -1808,7 +1808,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-with-collect-evidence.2361/": {
     "title": "Bug with Collect Evidence",
     "url": "https://forums.mtgo.com/index.php?threads/bug-with-collect-evidence.2361/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/yurlok-and-mana-reflection.2358/": {
@@ -1868,7 +1868,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-report-battle-screech-cant-flash-back.2352/": {
     "title": "Bug report: Battle screech cant flash back",
     "url": "https://forums.mtgo.com/index.php?threads/bug-report-battle-screech-cant-flash-back.2352/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-crashed-when-sauron-was-cast.2320/": {
@@ -2186,13 +2186,19 @@
   "https://forums.mtgo.com/index.php?threads/cant-see-cards-in-exile-or-cards-shown.2463/": {
     "title": "Can't see cards in Exile or Cards Shown",
     "url": "https://forums.mtgo.com/index.php?threads/cant-see-cards-in-exile-or-cards-shown.2463/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/clever-conjurer-unable-to-untap-lands.2462/": {
     "title": "Clever Conjurer unable to untap lands",
     "url": "https://forums.mtgo.com/index.php?threads/clever-conjurer-unable-to-untap-lands.2462/",
     "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mana-lost-when-activating-pain-land.2468/": {
+    "title": "Mana Lost When Activating Pain Land",
+    "url": "https://forums.mtgo.com/index.php?threads/mana-lost-when-activating-pain-land.2468/",
+    "status": "In Progress",
     "tracked": false
   }
 }
