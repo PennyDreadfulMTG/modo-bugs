@@ -17,14 +17,14 @@
     "card": "Trespasser's Curse",
     "description": "Trespasser's Curse does not cause life loss when a creature enters.",
     "category": "Disadvantageous",
-    "last_updated": "2024-08-09 18:12:39",
+    "last_updated": "2024-08-19 18:12:42",
     "issue_number": 1114,
     "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1114",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/trespassers-curse-disadvantageous-bug.2422/",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/trespassers-curse-bug-cost-me-the-win.2401/",
     "last_verified": null
   },
   {
