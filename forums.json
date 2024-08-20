@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1166,7 +1166,7 @@
   "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/": {
     "title": "Shifting Grift incorrectly gives swapped creature to owner, not controller",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-grift-incorrectly-gives-swapped-creature-to-owner-not-controller.2115/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pucas-mischief-fails-to-see-nonland-permanents-opponent-controls-played-before-mischief-etb.2116/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
     "title": "I cannot change order of some blockers",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
@@ -1724,7 +1724,7 @@
   "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/": {
     "title": "Gilanra, Caller of Wirewood card draw ability does not trigger on X-cost spells over 6 mana cmc",
     "url": "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/daru-spiritualist-triggered-abilities-triggers-twice-of-two-daru-spiritualists-are-under-your-control.2322/": {
@@ -2186,7 +2186,7 @@
   "https://forums.mtgo.com/index.php?threads/cant-see-cards-in-exile-or-cards-shown.2463/": {
     "title": "Can't see cards in Exile or Cards Shown",
     "url": "https://forums.mtgo.com/index.php?threads/cant-see-cards-in-exile-or-cards-shown.2463/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/clever-conjurer-unable-to-untap-lands.2462/": {
@@ -2204,12 +2204,36 @@
   "https://forums.mtgo.com/index.php?threads/glorybringers-ability-does-not-work.2467/": {
     "title": "Glorybringer's ability does not work",
     "url": "https://forums.mtgo.com/index.php?threads/glorybringers-ability-does-not-work.2467/",
-    "status": "Could Not Reproduce",
+    "status": "Not A Bug",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/need-to-fix-marath.2466/": {
     "title": "Need to fix Marath",
     "url": "https://forums.mtgo.com/index.php?threads/need-to-fix-marath.2466/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/flamewar-living-metal-and-tishanas-tidebinder.2465/": {
+    "title": "Flamewar - Living Metal and Tishana's Tidebinder",
+    "url": "https://forums.mtgo.com/index.php?threads/flamewar-living-metal-and-tishanas-tidebinder.2465/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/war-room.2470/": {
+    "title": "War room",
+    "url": "https://forums.mtgo.com/index.php?threads/war-room.2470/",
+    "status": "thread_prefix.20",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/draft-area-and-play-area-will-not-load.2472/": {
+    "title": "draft area and play area will not load",
+    "url": "https://forums.mtgo.com/index.php?threads/draft-area-and-play-area-will-not-load.2472/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/whim-of-volrath-does-not-change-color-word-only-gives-option-for-land-type.2469/": {
+    "title": "Whim of Volrath does not change color word, only gives option for land type.",
+    "url": "https://forums.mtgo.com/index.php?threads/whim-of-volrath-does-not-change-color-word-only-gives-option-for-land-type.2469/",
     "status": "Backlog",
     "tracked": false
   }
