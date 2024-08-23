@@ -826,20 +826,6 @@
     "help_wanted": true
   },
   {
-    "card": "Tibalt's Trickery",
-    "description": "Tibalt's Trickery allows the person casting a spell using it to cast a spell that was milled and then exiled by an effect like Dryad MIlitant",
-    "category": "Advantageous",
-    "last_updated": "2024-08-09 18:13:32",
-    "issue_number": 1010,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1010",
-    "support_thread": null,
-    "last_verified": null
-  },
-  {
     "card": "Tinder Wall",
     "description": "Tinder Wall allows you to sacrifice it to pay for it's own effect",
     "category": "Advantageous",
@@ -3165,7 +3151,7 @@
     "card": "Pithing Needle",
     "description": "Avatars are incorrectly on the list of cards you can name with cards such as Pithing Needle.",
     "category": "Unclassified",
-    "last_updated": "2024-04-26 20:55:04",
+    "last_updated": "2024-08-23 05:11:24",
     "issue_number": 800,
     "pd_legal": false,
     "bug_blog": false,
@@ -3173,8 +3159,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/800",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Stolen Identity",

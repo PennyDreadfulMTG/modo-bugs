@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -1070,7 +1070,7 @@
   "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/": {
     "title": "Blockers were removed from combat randomly",
     "url": "https://forums.mtgo.com/index.php?threads/blockers-were-removed-from-combat-randomly.2076/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dead-players-control-and-phasing.2080/": {
@@ -1346,7 +1346,7 @@
   "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/": {
     "title": "100 pp lost due to a game bug",
     "url": "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/": {
@@ -1484,7 +1484,7 @@
   "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/": {
     "title": "I cannot change order of some blockers",
     "url": "https://forums.mtgo.com/index.php?threads/i-cannot-change-order-of-some-blockers.2265/",
-    "status": "thread_prefix.19",
+    "status": "No Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/creation-of-avacyn-damages-for-non-creatures.2263/": {
@@ -2222,7 +2222,7 @@
   "https://forums.mtgo.com/index.php?threads/war-room.2470/": {
     "title": "War room",
     "url": "https://forums.mtgo.com/index.php?threads/war-room.2470/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/draft-area-and-play-area-will-not-load.2472/": {
@@ -2252,6 +2252,18 @@
   "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-urza-lord-artifacter.2475/": {
     "title": "Agathas Soul Cauldron + Urza, lord artifacter",
     "url": "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-urza-lord-artifacter.2475/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ulamog-the-defiler-solitude.2481/": {
+    "title": "Ulamog the Defiler + Solitude",
+    "url": "https://forums.mtgo.com/index.php?threads/ulamog-the-defiler-solitude.2481/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/serras-emissary-and-the-card-type-dungeon.2464/": {
+    "title": "serra's emissary and the card type dungeon",
+    "url": "https://forums.mtgo.com/index.php?threads/serras-emissary-and-the-card-type-dungeon.2464/",
     "status": "Confirmed",
     "tracked": false
   }
