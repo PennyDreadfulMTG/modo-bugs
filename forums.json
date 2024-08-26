@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "thread_prefix.20",
+    "status": "Invalid Game ID",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -1346,7 +1346,7 @@
   "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/": {
     "title": "100 pp lost due to a game bug",
     "url": "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/": {
@@ -1724,7 +1724,7 @@
   "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/": {
     "title": "Gilanra, Caller of Wirewood card draw ability does not trigger on X-cost spells over 6 mana cmc",
     "url": "https://forums.mtgo.com/index.php?threads/gilanra-caller-of-wirewood-card-draw-ability-does-not-trigger-on-x-cost-spells-over-6-mana-cmc.2323/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/daru-spiritualist-triggered-abilities-triggers-twice-of-two-daru-spiritualists-are-under-your-control.2322/": {
@@ -2186,7 +2186,7 @@
   "https://forums.mtgo.com/index.php?threads/cant-see-cards-in-exile-or-cards-shown.2463/": {
     "title": "Can't see cards in Exile or Cards Shown",
     "url": "https://forums.mtgo.com/index.php?threads/cant-see-cards-in-exile-or-cards-shown.2463/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/clever-conjurer-unable-to-untap-lands.2462/": {
@@ -2277,6 +2277,24 @@
     "title": "Kozileks's Command Undo action",
     "url": "https://forums.mtgo.com/index.php?threads/kozilekss-command-undo-action.2478/",
     "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/norns-annex-not-allowing-life-payment.2486/": {
+    "title": "Norn's Annex not allowing life payment?",
+    "url": "https://forums.mtgo.com/index.php?threads/norns-annex-not-allowing-life-payment.2486/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kassandra-eagle-bearer-triggers-when-it-shouldnt.2484/": {
+    "title": "Kassandra, Eagle Bearer triggers when it shouldn't",
+    "url": "https://forums.mtgo.com/index.php?threads/kassandra-eagle-bearer-triggers-when-it-shouldnt.2484/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/memory-deluge-legal-in-standard.2480/": {
+    "title": "Memory Deluge legal in standard",
+    "url": "https://forums.mtgo.com/index.php?threads/memory-deluge-legal-in-standard.2480/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
