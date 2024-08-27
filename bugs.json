@@ -1,5 +1,19 @@
 [
   {
+    "card": "Sauron's Ransom",
+    "description": "Sauron's Ranson shows whether face down cards have 'save targets' enabled",
+    "category": "Advantageous",
+    "last_updated": "2024-08-27 18:12:40",
+    "issue_number": 1118,
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1118",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
+    "last_verified": null
+  },
+  {
     "card": "Amulet of Safekeeping",
     "description": "Amulet of Safekeeping does not trigger on the copies of a spell with storm",
     "category": "Disadvantageous",
