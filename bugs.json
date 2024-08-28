@@ -1,19 +1,5 @@
 [
   {
-    "card": "Sauron's Ransom",
-    "description": "Sauron's Ranson shows whether face down cards have 'save targets' enabled",
-    "category": "Advantageous",
-    "last_updated": "2024-08-27 18:12:40",
-    "issue_number": 1118,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1118",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
-    "last_verified": null
-  },
-  {
     "card": "Amulet of Safekeeping",
     "description": "Amulet of Safekeeping does not trigger on the copies of a spell with storm",
     "category": "Disadvantageous",
@@ -141,9 +127,9 @@
   },
   {
     "card": "Sauron's Ransom",
-    "description": "Sauron's Ransom shows whether face down cards are white-bordered",
+    "description": "Sauron's Ransom shows whether face down cards are white-bordered and whether they have \"save-targets\" enabled",
     "category": "Advantageous",
-    "last_updated": "2024-04-26 20:54:45",
+    "last_updated": "2024-08-28 18:12:50",
     "issue_number": 1103,
     "pd_legal": false,
     "bug_blog": false,
@@ -151,8 +137,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1103",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Wheel of Sun and Moon",
@@ -553,21 +538,6 @@
     "last_verified": null
   },
   {
-    "card": "Joraga Treespeaker",
-    "description": "Joraga Treespeaker's Level Up ability isn't stopped by phasing out",
-    "category": "Advantageous",
-    "last_updated": "2023-06-26 13:17:39",
-    "issue_number": 1049,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1049",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
     "card": "Skull Storm",
     "description": "Skull Storm causes the game to restart when it resolves",
     "category": "Game Breaking",
@@ -725,21 +695,6 @@
     "last_verified": null
   },
   {
-    "card": "Etchings of the Chosen",
-    "description": "Etchings of the Chosen (PRM) doesn't display it's set symbol",
-    "category": "Graphical",
-    "last_updated": "2023-06-26 13:17:53",
-    "issue_number": 1028,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1028",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
     "card": "Terrarion",
     "description": "Terrarion can be sacrificed as part of the cost of the spell, but if the spell is undone before casting, terrarion will no longer provide a card when it goes to the graveyard.",
     "category": "Disadvantageous",
@@ -825,36 +780,6 @@
     "last_verified": null
   },
   {
-    "card": "Old-Growth Troll",
-    "description": "Old-Growth Troll aura has Enchant creature in its text",
-    "category": "Graphical",
-    "last_updated": "2023-06-26 13:18:00",
-    "issue_number": 1016,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1016",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Tinder Wall",
-    "description": "Tinder Wall allows you to sacrifice it to pay for it's own effect",
-    "category": "Advantageous",
-    "last_updated": "2023-06-26 13:18:03",
-    "issue_number": 1009,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1009",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
     "card": "Nylea, Keen-Eyed",
     "description": "Nylea, Keen-Eyed mills all non-creatures it reveals and does not put creatures it reveals into your hand",
     "category": "Disadvantageous",
@@ -867,21 +792,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1006",
     "support_thread": null,
     "last_verified": null
-  },
-  {
-    "card": "Vivien's Grizzly",
-    "description": "If you don't put the card into your hand with Vivien's Grizzlies, the card dissapears.",
-    "category": "Disadvantageous",
-    "last_updated": "2023-06-26 13:18:05",
-    "issue_number": 1004,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1004",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
   },
   {
     "card": "Reyhan, Last of the Abzan",
@@ -1125,21 +1035,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/991",
     "support_thread": null,
     "last_verified": null
-  },
-  {
-    "card": "Grist, the Hunger Tide",
-    "description": "Kaheera can be your companion if Grist is in your deck",
-    "category": "Advantageous",
-    "last_updated": "2023-06-26 13:18:19",
-    "issue_number": 990,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/990",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
   },
   {
     "card": "Entrails Feaster",
