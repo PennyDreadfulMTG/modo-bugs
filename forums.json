@@ -866,7 +866,7 @@
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/": {
     "title": "O-Kagachi, Vengeful Kami Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-ability-bug.705/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commandeer-spell-with-no-targets-breaks-the-game.1664/": {
@@ -1346,7 +1346,7 @@
   "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/": {
     "title": "100 pp lost due to a game bug",
     "url": "https://forums.mtgo.com/index.php?threads/100-pp-lost-due-to-a-game-bug.2214/",
-    "status": "No Game ID",
+    "status": "thread_prefix.19",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-restarted-2-times-in-2-matches.2212/": {
@@ -1868,7 +1868,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-report-battle-screech-cant-flash-back.2352/": {
     "title": "Bug report: Battle screech cant flash back",
     "url": "https://forums.mtgo.com/index.php?threads/bug-report-battle-screech-cant-flash-back.2352/",
-    "status": "Invalid Game ID",
+    "status": "thread_prefix.20",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-crashed-when-sauron-was-cast.2320/": {
@@ -2186,7 +2186,7 @@
   "https://forums.mtgo.com/index.php?threads/cant-see-cards-in-exile-or-cards-shown.2463/": {
     "title": "Can't see cards in Exile or Cards Shown",
     "url": "https://forums.mtgo.com/index.php?threads/cant-see-cards-in-exile-or-cards-shown.2463/",
-    "status": "thread_prefix.19",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/clever-conjurer-unable-to-untap-lands.2462/": {
@@ -2294,6 +2294,30 @@
   "https://forums.mtgo.com/index.php?threads/memory-deluge-legal-in-standard.2480/": {
     "title": "Memory Deluge legal in standard",
     "url": "https://forums.mtgo.com/index.php?threads/memory-deluge-legal-in-standard.2480/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/caller-of-the-hunt-bugged.2523/": {
+    "title": "Caller of the Hunt Bugged?",
+    "url": "https://forums.mtgo.com/index.php?threads/caller-of-the-hunt-bugged.2523/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/runestone-caverns-bug-dungeon-of-the-mad-mage.2521/": {
+    "title": "Runestone Caverns Bug (Dungeon of the Mad Mage)",
+    "url": "https://forums.mtgo.com/index.php?threads/runestone-caverns-bug-dungeon-of-the-mad-mage.2521/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/etali-primal-conquerer-only-let-me-cast-one-spell-when-casting-darkstar-augur-with-offspring.2519/": {
+    "title": "Etali Primal Conquerer, only let me cast one spell when casting Darkstar Augur with offspring",
+    "url": "https://forums.mtgo.com/index.php?threads/etali-primal-conquerer-only-let-me-cast-one-spell-when-casting-darkstar-augur-with-offspring.2519/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/no-energy-can-use-aether-hub-create-color.2517/": {
+    "title": "No energy can use aether hub create color",
+    "url": "https://forums.mtgo.com/index.php?threads/no-energy-can-use-aether-hub-create-color.2517/",
     "status": "Confirmed",
     "tracked": false
   }
