@@ -1113,7 +1113,7 @@
     "title": "cEDH unplayable - 60 treasures, 8 min of clock, Sorry, Magic Online has encountered an error...will attempt to replay until last known stable state",
     "url": "https://forums.mtgo.com/index.php?threads/cedh-unplayable-60-treasures-8-min-of-clock-sorry-magic-online-has-encountered-an-error-will-attempt-to-replay-until-last-known-stable-state.2091/",
     "status": "In Progress",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/dauntless-bodyguard-bug-visual.2097/": {
     "title": "Dauntless bodyguard bug (visual)",
