@@ -2235,7 +2235,7 @@
     "title": "Whim of Volrath does not change color word, only gives option for land type.",
     "url": "https://forums.mtgo.com/index.php?threads/whim-of-volrath-does-not-change-color-word-only-gives-option-for-land-type.2469/",
     "status": "Backlog",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/rebound-invert-polarity.2476/": {
     "title": "Rebound + Invert Polarity",
@@ -2301,7 +2301,7 @@
     "title": "Caller of the Hunt Bugged?",
     "url": "https://forums.mtgo.com/index.php?threads/caller-of-the-hunt-bugged.2523/",
     "status": "Backlog",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/runestone-caverns-bug-dungeon-of-the-mad-mage.2521/": {
     "title": "Runestone Caverns Bug (Dungeon of the Mad Mage)",
