@@ -5697,7 +5697,7 @@
     "title": "Charmed Pendant does not provide mana",
     "url": "https://forums.mtgo.com/index.php?threads/charmed-pendant-does-not-provide-mana.2364/",
     "status": "Backlog",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/squandered-resources-city-of-brass-bug.576/": {
     "title": "Squandered Resources City of Brass Bug",
@@ -5763,7 +5763,7 @@
     "title": "Orcish Spy displays the top three cards not in chronological order (might be displaying in alphabetical order)",
     "url": "https://forums.mtgo.com/index.php?threads/orcish-spy-displays-the-top-three-cards-not-in-chronological-order-might-be-displaying-in-alphabetical-order.2174/",
     "status": "Backlog",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/game-log-didnt-show-correctly-the-name-of-the-cards.2172/": {
     "title": "Game Log didn't show correctly the name of the cards",
@@ -5829,7 +5829,7 @@
     "title": "Distant Memories fatally bugged",
     "url": "https://forums.mtgo.com/index.php?threads/distant-memories-fatally-bugged.2020/",
     "status": "Backlog",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/enchantment-alteration-doesnt-work.1711/": {
     "title": "Enchantment Alteration Doesn't Work",
@@ -5937,7 +5937,7 @@
     "title": "As Foretold + Electrodominance Bug",
     "url": "https://forums.mtgo.com/index.php?threads/as-foretold-electrodominance-bug.1981/",
     "status": "Backlog",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/ixidrons-etb-ability-triggered-by-cloak.1980/": {
     "title": "ixidron's EtB ability triggered by cloak",
@@ -6021,7 +6021,7 @@
     "title": "Cairn Wanderer -",
     "url": "https://forums.mtgo.com/index.php?threads/cairn-wanderer.1254/",
     "status": "Backlog",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/obzedat-ghost-council-is-not-returning-from-exile.922/": {
     "title": "Obzedat, Ghost Council is not returning from exile",
@@ -6057,7 +6057,7 @@
     "title": "Pia's Revolution is bugged",
     "url": "https://forums.mtgo.com/index.php?threads/pias-revolution-is-bugged.1552/",
     "status": "Backlog",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/keldon-firebombers.1094/": {
     "title": "Keldon Firebombers",
@@ -6141,7 +6141,7 @@
     "title": "The Great Aurora shuffles tokens into the library and lets players draw those tokens",
     "url": "https://forums.mtgo.com/index.php?threads/the-great-aurora-shuffles-tokens-into-the-library-and-lets-players-draw-those-tokens.1768/",
     "status": "Backlog",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/falkenrath-gorger-doesnt-trigger-madness.1014/": {
     "title": "Falkenrath Gorger doesn't trigger madness",
@@ -6489,7 +6489,7 @@
     "title": "Tomorrow, Azami's Familiar is broken",
     "url": "https://forums.mtgo.com/index.php?threads/tomorrow-azamis-familiar-is-broken.687/",
     "status": "Backlog",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/wastes-basic-lands-visual-bug.689/": {
     "title": "Wastes basic lands visual bug",
@@ -6591,7 +6591,7 @@
     "title": "Mogg Assassin doesn't function properly.",
     "url": "https://forums.mtgo.com/index.php?threads/mogg-assassin-doesnt-function-properly.351/",
     "status": "Backlog",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/shifty-doppelganger-is-bugged.321/": {
     "title": "Shifty Doppelganger is Bugged",
@@ -6801,7 +6801,7 @@
     "title": "Game Crashed with Doppelgang X=25.",
     "url": "https://forums.mtgo.com/index.php?threads/game-crashed-with-doppelgang-x-25.2163/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/unable-to-cast-squee-the-immortal-from-exile.2183/": {
     "title": "Unable to cast Squee, the Immortal from Exile",
@@ -7059,7 +7059,7 @@
     "title": "Reflecting Pool and Tainted Lands",
     "url": "https://forums.mtgo.com/index.php?threads/reflecting-pool-and-tainted-lands.1543/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/teferi-who-slows-the-sunset-bug.397/": {
     "title": "teferi who slows the sunset bug",
