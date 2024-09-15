@@ -1,5 +1,19 @@
 [
   {
+    "card": "Out of Time",
+    "description": "Out of Time interacts incorrectly with characteristic-setting abilities",
+    "category": "Advantageous",
+    "last_updated": "2024-09-15 18:12:11",
+    "issue_number": 1122,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1122",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/out-of-time-interacts-incorrectly-with-characteristic-setting-ability.2527/",
+    "last_verified": null
+  },
+  {
     "card": "Omnath, Locus of All",
     "description": "Omnath, Locus of All adds three colorless mana if a colorless card with the required mana symbols is revealed",
     "category": "Advantageous",
@@ -2596,14 +2610,14 @@
     "card": "Pithing Needle",
     "description": "Avatars are incorrectly on the list of cards you can name with cards such as Pithing Needle.",
     "category": "Unclassified",
-    "last_updated": "2024-09-13 22:53:08",
+    "last_updated": "2024-09-14 19:18:14",
     "issue_number": 800,
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/800",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/pithing-needle-shows-avatar-congress-and-avatar-hijinks-in-list-of-card-names.2526/",
     "last_verified": null
   },
   {
