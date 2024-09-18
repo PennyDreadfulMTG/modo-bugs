@@ -7882,5 +7882,29 @@
     "url": "https://forums.mtgo.com/index.php?threads/teferis-puzzle-box-bug-with-commander-in-hand.1419/",
     "status": "More Info Needed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/unable-to-target-self-with-kozilek%E2%80%99s-command-while-controlling-op%E2%80%99s-turn-with-emrakul.2524/": {
+    "title": "Unable to Target Self with Kozilek\u2019s Command While Controlling OP\u2019s Turn with Emrakul",
+    "url": "https://forums.mtgo.com/index.php?threads/unable-to-target-self-with-kozilek%E2%80%99s-command-while-controlling-op%E2%80%99s-turn-with-emrakul.2524/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/subtlety-broken.2528/": {
+    "title": "Subtlety broken?",
+    "url": "https://forums.mtgo.com/index.php?threads/subtlety-broken.2528/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/paying-for-ripples-of-undeath-while-wheel-of-sun-and-moon-is-enchanting-you-locks-the-game.2529/": {
+    "title": "Paying for Ripples of Undeath while Wheel of Sun and Moon is enchanting you locks the game",
+    "url": "https://forums.mtgo.com/index.php?threads/paying-for-ripples-of-undeath-while-wheel-of-sun-and-moon-is-enchanting-you-locks-the-game.2529/",
+    "status": "Confirmed",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/out-of-time-interacts-incorrectly-with-characteristic-setting-ability.2527/": {
+    "title": "Out of Time interacts incorrectly with characteristic-setting ability",
+    "url": "https://forums.mtgo.com/index.php?threads/out-of-time-interacts-incorrectly-with-characteristic-setting-ability.2527/",
+    "status": "Confirmed",
+    "tracked": true
   }
 }
