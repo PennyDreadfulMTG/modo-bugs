@@ -1,5 +1,19 @@
 [
   {
+    "card": "Illuminator Virtuoso",
+    "description": "Illuminator Virtuoso puts +1+1 counters on the spell targeting it, not itself",
+    "category": "Disadvantageous",
+    "last_updated": "2024-09-21 16:36:30",
+    "issue_number": 1123,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1123",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/illuminator-virtuoso-not-getting-counters.2536/",
+    "last_verified": null
+  },
+  {
     "card": "Out of Time",
     "description": "Out of Time interacts incorrectly with characteristic-setting abilities",
     "category": "Advantageous",
@@ -39,20 +53,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1120",
     "support_thread": "https://forums.mtgo.com/index.php?threads/frodo-determined-hero-will-prevent-all-damage-dealt-to-it-even-when-it-is-not-your-turn.2506/",
-    "last_verified": null
-  },
-  {
-    "card": "Quicken",
-    "description": "Quicken does not allow Sorceries to be suspended at instant speed",
-    "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:51:29",
-    "issue_number": 1119,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1119",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/quicken-does-not-allow-sorceries-to-be-suspended-at-instant-speed.2499/",
     "last_verified": null
   },
   {
