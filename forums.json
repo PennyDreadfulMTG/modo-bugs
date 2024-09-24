@@ -7906,5 +7906,83 @@
     "url": "https://forums.mtgo.com/index.php?threads/out-of-time-interacts-incorrectly-with-characteristic-setting-ability.2527/",
     "status": "Confirmed",
     "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/tasha-the-witch-queen-cant-be-commander.2544/": {
+    "title": "Tasha the witch queen can't be commander",
+    "url": "https://forums.mtgo.com/index.php?threads/tasha-the-witch-queen-cant-be-commander.2544/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mayhem-devil-bug.2543/": {
+    "title": "Mayhem Devil Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/mayhem-devil-bug.2543/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cannot-click-on-companion-zone.2542/": {
+    "title": "Cannot click on companion zone",
+    "url": "https://forums.mtgo.com/index.php?threads/cannot-click-on-companion-zone.2542/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/replay-bugged.2535/": {
+    "title": "Replay bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/replay-bugged.2535/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-my-lands-disapeared.2537/": {
+    "title": "Bug : My lands disapeared",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-my-lands-disapeared.2537/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/if-wheel-of-sun-moon-is-enchanting-both-players-and-cards-enter-both-players-graveyard-at-the-same-time-the-game-crashes.2531/": {
+    "title": "If Wheel of Sun & Moon is enchanting both players and cards enter both players graveyard at the same time, the game crashes",
+    "url": "https://forums.mtgo.com/index.php?threads/if-wheel-of-sun-moon-is-enchanting-both-players-and-cards-enter-both-players-graveyard-at-the-same-time-the-game-crashes.2531/",
+    "status": "Backlog",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/forgers-foundry-and-plot-crash.2546/": {
+    "title": "Forger's foundry and plot crash",
+    "url": "https://forums.mtgo.com/index.php?threads/forgers-foundry-and-plot-crash.2546/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/can-pay-for-sorin-of-house-markov-extort-with-colorless-mana.2540/": {
+    "title": "Can pay for Sorin of House Markov extort with colorless mana",
+    "url": "https://forums.mtgo.com/index.php?threads/can-pay-for-sorin-of-house-markov-extort-with-colorless-mana.2540/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/illuminator-virtuosos-connive-trigger-counter-bug.2534/": {
+    "title": "Illuminator Virtuoso's connive trigger counter bug",
+    "url": "https://forums.mtgo.com/index.php?threads/illuminator-virtuosos-connive-trigger-counter-bug.2534/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/spinning-darkness-not-always-castable-for-its-alternate-cost.2539/": {
+    "title": "Spinning Darkness Not Always Castable for its Alternate Cost",
+    "url": "https://forums.mtgo.com/index.php?threads/spinning-darkness-not-always-castable-for-its-alternate-cost.2539/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/reconfigured-permanents-retain-creature-types.2538/": {
+    "title": "Reconfigured Permanents Retain Creature Types",
+    "url": "https://forums.mtgo.com/index.php?threads/reconfigured-permanents-retain-creature-types.2538/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/hoarders-overflow-does-not-add-counters-after-the-first.2533/": {
+    "title": "Hoarder's overflow does not add counters after the first",
+    "url": "https://forums.mtgo.com/index.php?threads/hoarders-overflow-does-not-add-counters-after-the-first.2533/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/alchemists-gambit-skipped-my-turn-after-a-ton-of-triggers.2532/": {
+    "title": "Alchemist's Gambit skipped my turn after a ton of triggers.",
+    "url": "https://forums.mtgo.com/index.php?threads/alchemists-gambit-skipped-my-turn-after-a-ton-of-triggers.2532/",
+    "status": "thread_prefix.20",
+    "tracked": false
   }
 }
