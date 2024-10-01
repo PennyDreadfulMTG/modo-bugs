@@ -1,6 +1,6 @@
 ---
-title: Magic Online Weekly Announcements,  September 24, 2024
+title: Magic Online Weekly Announcements,  October 1, 2024
 redirect_to:
- - https://www.mtgo.com/news/mtgo-blog-09242024
+ - https://www.mtgo.com/news/mtgo-blog-10012024
 has_build_notes: True
 ---

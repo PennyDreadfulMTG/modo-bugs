@@ -6387,7 +6387,7 @@
     "title": "Asked to name a color when manifesting Utopia Sprawl",
     "url": "https://forums.mtgo.com/index.php?threads/asked-to-name-a-color-when-manifesting-utopia-sprawl.510/",
     "status": "Backlog",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/repel-the-abominable-not-preventing-damage-from-spells.1024/": {
     "title": "Repel the Abominable not preventing damage from spells",
@@ -8007,6 +8007,126 @@
     "title": "MTGO crashes",
     "url": "https://forums.mtgo.com/index.php?threads/mtgo-crashes.2541/",
     "status": "No Game IDs",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/narcomoeba-bug.2558/": {
+    "title": "Narcomoeba Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/narcomoeba-bug.2558/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/hydroblast-bug.2572/": {
+    "title": "Hydroblast Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/hydroblast-bug.2572/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/some-cards-not-available-but-modern-legal.2574/": {
+    "title": "Some cards not available but Modern legal",
+    "url": "https://forums.mtgo.com/index.php?threads/some-cards-not-available-but-modern-legal.2574/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mtgo-crash.2573/": {
+    "title": "MTGO Crash",
+    "url": "https://forums.mtgo.com/index.php?threads/mtgo-crash.2573/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dress-down-harbinger-of-the-seas-bugged-interaction.2571/": {
+    "title": "Dress Down / Harbinger of the Seas --- Bugged Interaction?",
+    "url": "https://forums.mtgo.com/index.php?threads/dress-down-harbinger-of-the-seas-bugged-interaction.2571/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/enigmatic-incarnation-with-fable-of-the-mirror-breaker.2561/": {
+    "title": "Enigmatic Incarnation with Fable of the Mirror-Breaker",
+    "url": "https://forums.mtgo.com/index.php?threads/enigmatic-incarnation-with-fable-of-the-mirror-breaker.2561/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dragons-approach-issue.2557/": {
+    "title": "Dragon's Approach issue.",
+    "url": "https://forums.mtgo.com/index.php?threads/dragons-approach-issue.2557/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/thoughtseize-bug.2565/": {
+    "title": "thoughtseize bug",
+    "url": "https://forums.mtgo.com/index.php?threads/thoughtseize-bug.2565/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/flesh-burrowers-deathtouch-did-not-work.2551/": {
+    "title": "Flesh Burrower's Deathtouch did not work.",
+    "url": "https://forums.mtgo.com/index.php?threads/flesh-burrowers-deathtouch-did-not-work.2551/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/valgavoth-harrower-of-souls-not-triggering-properly.2567/": {
+    "title": "Valgavoth, Harrower of Souls not triggering properly",
+    "url": "https://forums.mtgo.com/index.php?threads/valgavoth-harrower-of-souls-not-triggering-properly.2567/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/demonic-counsel-reveals-card-even-when-having-delirium-and-it-should-not.2568/": {
+    "title": "Demonic Counsel reveals card even when having delirium, and it should not",
+    "url": "https://forums.mtgo.com/index.php?threads/demonic-counsel-reveals-card-even-when-having-delirium-and-it-should-not.2568/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/spinning-darkness-bugged-cant-cast-it-for-free.2566/": {
+    "title": "Spinning Darkness bugged, can't cast it for free",
+    "url": "https://forums.mtgo.com/index.php?threads/spinning-darkness-bugged-cant-cast-it-for-free.2566/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mtgo-com-decklist-pages-room-cards-dont-display-art-or-import-to-the-client-correctly.2570/": {
+    "title": "MTGO.com decklist pages - room cards don't display art or import to the client correctly",
+    "url": "https://forums.mtgo.com/index.php?threads/mtgo-com-decklist-pages-room-cards-dont-display-art-or-import-to-the-client-correctly.2570/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/spinning-darkness-alternative-cost.2564/": {
+    "title": "Spinning Darkness Alternative Cost",
+    "url": "https://forums.mtgo.com/index.php?threads/spinning-darkness-alternative-cost.2564/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/leyline-of-transformation-grist-the-hunger-tide.2563/": {
+    "title": "Leyline of Transformation + Grist, the Hunger Tide",
+    "url": "https://forums.mtgo.com/index.php?threads/leyline-of-transformation-grist-the-hunger-tide.2563/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-mindskinner-bugged-card.2562/": {
+    "title": "The MindSkinner Bugged card",
+    "url": "https://forums.mtgo.com/index.php?threads/the-mindskinner-bugged-card.2562/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ripples-of-undeath-life-payment-not-triggering-font-of-agonies-blood-counters.2559/": {
+    "title": "Ripples of Undeath life payment not triggering Font of Agonies blood counters",
+    "url": "https://forums.mtgo.com/index.php?threads/ripples-of-undeath-life-payment-not-triggering-font-of-agonies-blood-counters.2559/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/unstoppable-slasher-and-come-back-wrong-interaction.2554/": {
+    "title": "Unstoppable Slasher and Come Back Wrong Interaction",
+    "url": "https://forums.mtgo.com/index.php?threads/unstoppable-slasher-and-come-back-wrong-interaction.2554/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/light-paws-emperors-voice.2553/": {
+    "title": "Light-Paws, Emperor's Voice",
+    "url": "https://forums.mtgo.com/index.php?threads/light-paws-emperors-voice.2553/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-mindskinner-preventing-all-damage.2552/": {
+    "title": "The Mindskinner preventing all damage",
+    "url": "https://forums.mtgo.com/index.php?threads/the-mindskinner-preventing-all-damage.2552/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
