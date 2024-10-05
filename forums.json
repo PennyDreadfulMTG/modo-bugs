@@ -914,7 +914,7 @@
   "https://forums.mtgo.com/index.php?threads/rise-of-the-dark-realms-reanimated-a-battle.1859/": {
     "title": "Rise of the Dark Realms reanimated a battle",
     "url": "https://forums.mtgo.com/index.php?threads/rise-of-the-dark-realms-reanimated-a-battle.1859/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/case-of-the-pilfered-case-solved-condition-always-on.1863/": {
@@ -956,7 +956,7 @@
   "https://forums.mtgo.com/index.php?threads/thada-adel-showed-the-hand-of-another-player.1211/": {
     "title": "Thada Adel showed the hand of another player.",
     "url": "https://forums.mtgo.com/index.php?threads/thada-adel-showed-the-hand-of-another-player.1211/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/game-not-passing-priority-back-to-active-player-with-not-of-this-world.2030/": {
@@ -1142,7 +1142,7 @@
   "https://forums.mtgo.com/index.php?threads/vraska-the-silencer-doesnt-show-which-death-triggers-are-linked-to-what-creatures.2108/": {
     "title": "Vraska, the silencer doesn't show which death triggers are linked to what creatures",
     "url": "https://forums.mtgo.com/index.php?threads/vraska-the-silencer-doesnt-show-which-death-triggers-are-linked-to-what-creatures.2108/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/bargain-does-not-display-correctly.2109/": {
@@ -1208,7 +1208,7 @@
   "https://forums.mtgo.com/index.php?threads/calamity-galloping-inferno-making-token-copies-of-dead-creatures.2133/": {
     "title": "Calamity, Galloping Inferno making token copies of dead creatures",
     "url": "https://forums.mtgo.com/index.php?threads/calamity-galloping-inferno-making-token-copies-of-dead-creatures.2133/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/primal-empathy-appears-to-always-draw-an-extra-card.2130/": {
@@ -1292,7 +1292,7 @@
   "https://forums.mtgo.com/index.php?threads/visual-bug-with-old-frame-black-lotus.2207/": {
     "title": "Visual Bug with Old Frame Black Lotus",
     "url": "https://forums.mtgo.com/index.php?threads/visual-bug-with-old-frame-black-lotus.2207/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dragon-breath-fangs-scales-etc-doesnt-work-as-intended-with-oath-of-druids.2194/": {
@@ -1412,13 +1412,13 @@
   "https://forums.mtgo.com/index.php?threads/planar-genesis-shows-opponent-what-card-i-took.2243/": {
     "title": "Planar Genesis Shows Opponent what card I took",
     "url": "https://forums.mtgo.com/index.php?threads/planar-genesis-shows-opponent-what-card-i-took.2243/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/mh3-pyretic-rebirth-not-counting-mana-value-correctly.2242/": {
     "title": "MH3 - Pyretic Rebirth not counting mana value correctly",
     "url": "https://forums.mtgo.com/index.php?threads/mh3-pyretic-rebirth-not-counting-mana-value-correctly.2242/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/crashing-in-game-unexpected-error.2238/": {
@@ -1502,7 +1502,7 @@
   "https://forums.mtgo.com/index.php?threads/mh3-flip-walker-indicator-is-on-the-wrong-side.2261/": {
     "title": "MH3 flip walker indicator is on the wrong side",
     "url": "https://forums.mtgo.com/index.php?threads/mh3-flip-walker-indicator-is-on-the-wrong-side.2261/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/tasha-the-witch-queen-cant-be-your-commander.2260/": {
@@ -1556,7 +1556,7 @@
   "https://forums.mtgo.com/index.php?threads/could-not-assign-lethal-damage-with-trample-deathtouch.2270/": {
     "title": "Could not assign lethal damage with trample/deathtouch",
     "url": "https://forums.mtgo.com/index.php?threads/could-not-assign-lethal-damage-with-trample-deathtouch.2270/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/urza%E2%80%99s-incubator-reduces-the-cost-of-kindred-spells-of-the-chosen-type.2269/": {
@@ -1592,13 +1592,13 @@
   "https://forums.mtgo.com/index.php?threads/opponents-creatures-are-much-more-powerful-than-they-should-be.2283/": {
     "title": "Opponent's creatures are much more powerful than they should be",
     "url": "https://forums.mtgo.com/index.php?threads/opponents-creatures-are-much-more-powerful-than-they-should-be.2283/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/drannithwith-tymna.2259/": {
     "title": "drannithwith tymna",
     "url": "https://forums.mtgo.com/index.php?threads/drannithwith-tymna.2259/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/was-able-to-target-volatile-stormdrake-with-a-triggered-ability.2306/": {
@@ -1628,7 +1628,7 @@
   "https://forums.mtgo.com/index.php?threads/ajani-nacatl-pariah-leyline-of-the-void-flipping.2294/": {
     "title": "Ajani, Nacatl Pariah/Leyline of the Void flipping",
     "url": "https://forums.mtgo.com/index.php?threads/ajani-nacatl-pariah-leyline-of-the-void-flipping.2294/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-would-not-progress-after-a-drop.2291/": {
@@ -1682,7 +1682,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-lydia-frye-surveil-assassins-creed.2335/": {
     "title": "bug lydia frye surveil (assassin's creed)",
     "url": "https://forums.mtgo.com/index.php?threads/bug-lydia-frye-surveil-assassins-creed.2335/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/containment-priest-erroneously-exiles-old-growth-troll.2338/": {
@@ -1754,7 +1754,7 @@
   "https://forums.mtgo.com/index.php?threads/opponent-cast-phlage-off-amped-raptor-with-only-2-energy.2317/": {
     "title": "Opponent cast Phlage off Amped Raptor with only 2 energy",
     "url": "https://forums.mtgo.com/index.php?threads/opponent-cast-phlage-off-amped-raptor-with-only-2-energy.2317/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/commander-stolen-with-volatile-stormdrake-went-to-exile-instead-of-returning-to-owner-when-player-died.2314/": {
@@ -1784,7 +1784,7 @@
   "https://forums.mtgo.com/index.php?threads/ondu-was-not-triggered.2302/": {
     "title": "Ondu was not triggered",
     "url": "https://forums.mtgo.com/index.php?threads/ondu-was-not-triggered.2302/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/carmen-cruel-skymarcher-rhox-faithmender-cleric-class-creates-an-infinite-loop-that-can-only-be-escaped-by-conceding-the-game.2359/": {
@@ -1832,7 +1832,7 @@
   "https://forums.mtgo.com/index.php?threads/phasing-interaction-with-bestowed-creatures-bugged.2348/": {
     "title": "Phasing Interaction with Bestowed Creatures Bugged.",
     "url": "https://forums.mtgo.com/index.php?threads/phasing-interaction-with-bestowed-creatures-bugged.2348/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/all-of-the-lhurgoyfs-with-1-toughness-display-wrong-in-the-deck-editor.2347/": {
@@ -1940,7 +1940,7 @@
   "https://forums.mtgo.com/index.php?threads/the-client-auto-close-the-command-zone-in-1v1-and-solitaire-games.2281/": {
     "title": "The client auto close the command zone in 1v1 and solitaire games",
     "url": "https://forums.mtgo.com/index.php?threads/the-client-auto-close-the-command-zone-in-1v1-and-solitaire-games.2281/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/cannot-cast-chalice-of-the-void-for-3-for-6-mana-with-it-that-heralds-the-end-in-play.2397/": {
@@ -1982,19 +1982,19 @@
   "https://forums.mtgo.com/index.php?threads/trespassers-curse-bug-cost-me-the-win.2401/": {
     "title": "Trespasser's Curse Bug - Cost me the win",
     "url": "https://forums.mtgo.com/index.php?threads/trespassers-curse-bug-cost-me-the-win.2401/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/vohar-vodalian-desecrator-bugged-ability.2405/": {
     "title": "Vohar, Vodalian Desecrator - Bugged ability",
     "url": "https://forums.mtgo.com/index.php?threads/vohar-vodalian-desecrator-bugged-ability.2405/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/trespassers-curse-forbidden-orchard-interaction-bugged.2400/": {
     "title": "trespasser's curse + forbidden orchard interaction bugged",
     "url": "https://forums.mtgo.com/index.php?threads/trespassers-curse-forbidden-orchard-interaction-bugged.2400/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/shifting-woodland-copying-agathas-soul-cauldron-incorrectly-remembers-cards-exiled-on-previous-turns-copying-soul-cauldron.2402/": {
@@ -2018,13 +2018,13 @@
   "https://forums.mtgo.com/index.php?threads/issue-during-between-games-procedure-in-duel-commander-dont-put-your-cards-in-sb-zone.2419/": {
     "title": "Issue during between games procedure in Duel Commander : Don't put your cards in SB zone",
     "url": "https://forums.mtgo.com/index.php?threads/issue-during-between-games-procedure-in-duel-commander-dont-put-your-cards-in-sb-zone.2419/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dryad-arbor-containment-priest-nadu-performing-incorrectly.2404/": {
     "title": "Dryad arbor/Containment Priest/Nadu performing incorrectly",
     "url": "https://forums.mtgo.com/index.php?threads/dryad-arbor-containment-priest-nadu-performing-incorrectly.2404/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-did-not-stop-and-i-lost-my-two-initial-turns.2426/": {
@@ -2042,7 +2042,7 @@
   "https://forums.mtgo.com/index.php?threads/path-of-ancestry-triggering-on-activated-ability-should-only-be-on-creature-cast.2423/": {
     "title": "Path of ancestry triggering on activated ability (should only be on creature cast)",
     "url": "https://forums.mtgo.com/index.php?threads/path-of-ancestry-triggering-on-activated-ability-should-only-be-on-creature-cast.2423/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-broke-after-guide-of-souls-and-ocelot-pride-triggers.2420/": {
@@ -2096,7 +2096,7 @@
   "https://forums.mtgo.com/index.php?threads/dragonhawk-fates-tempest-showcase-wrong-frame.2440/": {
     "title": "Dragonhawk, Fate's Tempest Showcase wrong frame",
     "url": "https://forums.mtgo.com/index.php?threads/dragonhawk-fates-tempest-showcase-wrong-frame.2440/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/gossips-talent-third-level-bugged-and-talents-bugged-in-general.2443/": {
@@ -2114,7 +2114,7 @@
   "https://forums.mtgo.com/index.php?threads/brainstealer-dragon-triggering-on-all-enemy-permanents-in-a-commander-game.2437/": {
     "title": "Brainstealer Dragon triggering on all enemy permanents in a commander game",
     "url": "https://forums.mtgo.com/index.php?threads/brainstealer-dragon-triggering-on-all-enemy-permanents-in-a-commander-game.2437/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/heartfire-hero-death-triggers-not-happening-when-sacrficed-to-rottenmouth-viper.2434/": {
@@ -2144,7 +2144,7 @@
   "https://forums.mtgo.com/index.php?threads/trespassers-curse-bug.2450/": {
     "title": "Trespasser's curse bug",
     "url": "https://forums.mtgo.com/index.php?threads/trespassers-curse-bug.2450/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/tiebreakers.2447/": {
@@ -6692,19 +6692,19 @@
   "https://forums.mtgo.com/index.php?threads/whiskervale-forerunner-ability-did-not-trigger.2427/": {
     "title": "Whiskervale Forerunner ability did not trigger",
     "url": "https://forums.mtgo.com/index.php?threads/whiskervale-forerunner-ability-did-not-trigger.2427/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/valiant-did-not-trigger-on-opponents-turn.2429/": {
     "title": "Valiant did not trigger on opponent's turn",
     "url": "https://forums.mtgo.com/index.php?threads/valiant-did-not-trigger-on-opponents-turn.2429/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/necromantic-selection-does-not-bring-opponents-creatures-under-your-control.2412/": {
     "title": "Necromantic Selection does not bring opponent's creatures under your control",
     "url": "https://forums.mtgo.com/index.php?threads/necromantic-selection-does-not-bring-opponents-creatures-under-your-control.2412/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/archivist-of-gondor-triggers-off-opponents-commander-dealing-damage.2409/": {
@@ -6734,7 +6734,7 @@
   "https://forums.mtgo.com/index.php?threads/mirrage-mirror-and-kindred-discovery.2380/": {
     "title": "Mirrage mirror and kindred discovery",
     "url": "https://forums.mtgo.com/index.php?threads/mirrage-mirror-and-kindred-discovery.2380/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/nadu-not-triggering-when-targeting-dryad-arbor-with-sylvan-safekeeper-sacrificing-the-dryad-arbor.2379/": {
@@ -6764,7 +6764,7 @@
   "https://forums.mtgo.com/index.php?threads/commanders-insignia-bugged-during-commander-gauntlet.2325/": {
     "title": "Commander's insignia bugged during commander gauntlet",
     "url": "https://forums.mtgo.com/index.php?threads/commanders-insignia-bugged-during-commander-gauntlet.2325/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/thraben-charm-not-required-to-choose-flagbearer-as-target-when-its-a-legal-target.2316/": {
@@ -6782,7 +6782,7 @@
   "https://forums.mtgo.com/index.php?threads/animate-summoning-sickness-not-working.2257/": {
     "title": "Animate Summoning Sickness Not Working",
     "url": "https://forums.mtgo.com/index.php?threads/animate-summoning-sickness-not-working.2257/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/unable-to-spectate-multiplayer-games.2220/": {
@@ -6812,7 +6812,7 @@
   "https://forums.mtgo.com/index.php?threads/reanimate-on-clone.2176/": {
     "title": "Reanimate on Clone",
     "url": "https://forums.mtgo.com/index.php?threads/reanimate-on-clone.2176/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/if-thalia-guardian-of-thraben-is-ring-bearer-it-will-negate-dress-down-and-ask-for-1-mana.2173/": {
@@ -6830,7 +6830,7 @@
   "https://forums.mtgo.com/index.php?threads/visual-bug-brazen-borrower-special-guest.2164/": {
     "title": "Visual Bug - Brazen Borrower (Special Guest)",
     "url": "https://forums.mtgo.com/index.php?threads/visual-bug-brazen-borrower-special-guest.2164/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/not-exactly-sure-which-card-was-bugged-probably-talent-of-the-telepath.2123/": {
@@ -6848,7 +6848,7 @@
   "https://forums.mtgo.com/index.php?threads/the-swarmlord-puts-too-many-counters-on.2122/": {
     "title": "the swarmlord puts too many counters on",
     "url": "https://forums.mtgo.com/index.php?threads/the-swarmlord-puts-too-many-counters-on.2122/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/vraska-the-silencer-doesnt-show-which-death-triggers-are-linked-to-which-creatures.2107/": {
@@ -6860,7 +6860,7 @@
   "https://forums.mtgo.com/index.php?threads/jeska-thrice-reborn-comes-in-with-too-many-counters.2094/": {
     "title": "Jeska, Thrice Reborn comes in with too many counters",
     "url": "https://forums.mtgo.com/index.php?threads/jeska-thrice-reborn-comes-in-with-too-many-counters.2094/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/deputy-of-detention-cannot-exile-morphs.2088/": {
@@ -6884,7 +6884,7 @@
   "https://forums.mtgo.com/index.php?threads/gold-token-glitched-requires-tap-to-sacrifice.1937/": {
     "title": "Gold token glitched, requires tap to sacrifice.",
     "url": "https://forums.mtgo.com/index.php?threads/gold-token-glitched-requires-tap-to-sacrifice.1937/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/singe-mind-ogre-not-dealing-damage.2032/": {
@@ -6902,7 +6902,7 @@
   "https://forums.mtgo.com/index.php?threads/commander-games-jeska-thrice-reborn.2024/": {
     "title": "Commander Games - Jeska Thrice Reborn",
     "url": "https://forums.mtgo.com/index.php?threads/commander-games-jeska-thrice-reborn.2024/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/mutate-not-working-right.168/": {
@@ -6914,13 +6914,13 @@
   "https://forums.mtgo.com/index.php?threads/ghalta-olivia-trigger.2010/": {
     "title": "Ghalta + Olivia trigger",
     "url": "https://forums.mtgo.com/index.php?threads/ghalta-olivia-trigger.2010/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/reanimate-on-phyrexian-metamorph-is-bugged.2001/": {
     "title": "Reanimate on Phyrexian Metamorph is bugged",
     "url": "https://forums.mtgo.com/index.php?threads/reanimate-on-phyrexian-metamorph-is-bugged.2001/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/daze-is-bugged-you-have-to-choose-no-for-two-times-to-get-countered.197/": {
@@ -6962,7 +6962,7 @@
   "https://forums.mtgo.com/index.php?threads/olivia-crimson-bride.1901/": {
     "title": "Olivia, Crimson Bride",
     "url": "https://forums.mtgo.com/index.php?threads/olivia-crimson-bride.1901/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/trostani-discordant-is-bugged-just-like-homeward-path-is.1897/": {
@@ -7316,7 +7316,7 @@
   "https://forums.mtgo.com/index.php?threads/olivia-crimson-bride-with-a-legendary-vampire.711/": {
     "title": "Olivia, Crimson Bride with a legendary vampire",
     "url": "https://forums.mtgo.com/index.php?threads/olivia-crimson-bride-with-a-legendary-vampire.711/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/encroaching-mycosynth-incorrectly-affects-sideboard-cards.707/": {
@@ -7358,7 +7358,7 @@
   "https://forums.mtgo.com/index.php?threads/elspeth-conquers-death-3-4-player-games.137/": {
     "title": "Elspeth Conquers Death - 3/4 player games",
     "url": "https://forums.mtgo.com/index.php?threads/elspeth-conquers-death-3-4-player-games.137/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/wildborn-preserver-getting-counters-while-phased-out.675/": {
@@ -8108,13 +8108,13 @@
   "https://forums.mtgo.com/index.php?threads/ripples-of-undeath-life-payment-not-triggering-font-of-agonies-blood-counters.2559/": {
     "title": "Ripples of Undeath life payment not triggering Font of Agonies blood counters",
     "url": "https://forums.mtgo.com/index.php?threads/ripples-of-undeath-life-payment-not-triggering-font-of-agonies-blood-counters.2559/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/unstoppable-slasher-and-come-back-wrong-interaction.2554/": {
     "title": "Unstoppable Slasher and Come Back Wrong Interaction",
     "url": "https://forums.mtgo.com/index.php?threads/unstoppable-slasher-and-come-back-wrong-interaction.2554/",
-    "status": "Confirmed",
+    "status": "Fixed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/light-paws-emperors-voice.2553/": {
@@ -8127,6 +8127,12 @@
     "title": "The Mindskinner preventing all damage",
     "url": "https://forums.mtgo.com/index.php?threads/the-mindskinner-preventing-all-damage.2552/",
     "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/todays-patch-negatively-affects-how-cavern-harpy-works-on-mtgo-please-consider-reverting-change.2530/": {
+    "title": "Today's Patch Negatively Affects How Cavern Harpy Works on MTGO; Please Consider Reverting Change",
+    "url": "https://forums.mtgo.com/index.php?threads/todays-patch-negatively-affects-how-cavern-harpy-works-on-mtgo-please-consider-reverting-change.2530/",
+    "status": "Fixed",
     "tracked": false
   }
 }
