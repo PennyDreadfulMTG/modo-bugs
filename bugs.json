@@ -87,7 +87,7 @@
     "card": "Thada Adel, Acquisitor",
     "description": "Thada Adel, Acquisitor shows opponent's hand as well as library when searching their library",
     "category": "Advantageous",
-    "last_updated": "2024-09-13 22:51:36",
+    "last_updated": "2024-10-05 18:12:17",
     "issue_number": 1109,
     "pd_legal": true,
     "bug_blog": false,
@@ -348,34 +348,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1092",
     "support_thread": "https://forums.mtgo.com/index.php?threads/falkenrath-gorger-doesnt-trigger-madness.1014/#post-2482",
-    "last_verified": null
-  },
-  {
-    "card": "Primal Amulet",
-    "description": "Primal Wellspring doesn't copy spells cast by the third chapter of Founding the Third Path",
-    "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:51:53",
-    "issue_number": 1091,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1091",
-    "support_thread": null,
-    "last_verified": null
-  },
-  {
-    "card": "Founding the Third Path",
-    "description": "Primal Wellspring doesn't copy spells cast by the third chapter of Founding the Third Path",
-    "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:51:53",
-    "issue_number": 1091,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1091",
-    "support_thread": null,
     "last_verified": null
   },
   {
@@ -973,20 +945,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/989",
     "support_thread": "https://forums.mtgo.com/index.php?threads/crovax-the-cursed.592/",
-    "last_verified": null
-  },
-  {
-    "card": "Laelia, the Blade Reforged",
-    "description": "Laelia, the Blade Reforged doesn't trigger on Hideaway",
-    "category": "Disadvantageous",
-    "last_updated": "2024-10-04 18:12:54",
-    "issue_number": 987,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/987",
-    "support_thread": null,
     "last_verified": null
   },
   {
@@ -2714,20 +2672,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/770",
-    "support_thread": null,
-    "last_verified": null
-  },
-  {
-    "card": "Mystic Forge",
-    "description": "Mystic Forge does not allow casting Zoetic Cavern as a Morph creature from the top of your library",
-    "category": "Disadvantageous",
-    "last_updated": "2024-10-04 18:13:16",
-    "issue_number": 768,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/768",
     "support_thread": null,
     "last_verified": null
   },
