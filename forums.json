@@ -8102,7 +8102,7 @@
   "https://forums.mtgo.com/index.php?threads/the-mindskinner-bugged-card.2562/": {
     "title": "The MindSkinner Bugged card",
     "url": "https://forums.mtgo.com/index.php?threads/the-mindskinner-bugged-card.2562/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/ripples-of-undeath-life-payment-not-triggering-font-of-agonies-blood-counters.2559/": {
@@ -8126,13 +8126,73 @@
   "https://forums.mtgo.com/index.php?threads/the-mindskinner-preventing-all-damage.2552/": {
     "title": "The Mindskinner preventing all damage",
     "url": "https://forums.mtgo.com/index.php?threads/the-mindskinner-preventing-all-damage.2552/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/todays-patch-negatively-affects-how-cavern-harpy-works-on-mtgo-please-consider-reverting-change.2530/": {
     "title": "Today's Patch Negatively Affects How Cavern Harpy Works on MTGO; Please Consider Reverting Change",
     "url": "https://forums.mtgo.com/index.php?threads/todays-patch-negatively-affects-how-cavern-harpy-works-on-mtgo-please-consider-reverting-change.2530/",
     "status": "Fixed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/nadiers-nightblade-basking-broodscale-sadistic-glee-is-this-stack-normal.2581/": {
+    "title": "Nadier's Nightblade+Basking Broodscale+Sadistic Glee(is this stack normal?)",
+    "url": "https://forums.mtgo.com/index.php?threads/nadiers-nightblade-basking-broodscale-sadistic-glee-is-this-stack-normal.2581/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/monstrous-emergence-only-targets-own-creature-when-not-revealing-from-hand.2555/": {
+    "title": "Monstrous Emergence only targets own creature when not revealing from hand",
+    "url": "https://forums.mtgo.com/index.php?threads/monstrous-emergence-only-targets-own-creature-when-not-revealing-from-hand.2555/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/touch-of-moonglove-doesnt-trigger-2-life-effect.2584/": {
+    "title": "Touch of Moonglove doesn't trigger 2 life effect",
+    "url": "https://forums.mtgo.com/index.php?threads/touch-of-moonglove-doesnt-trigger-2-life-effect.2584/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/distended-mindbender-lets-you-skip-choosing-cards-even-if-appropriate-cards-are-available.2580/": {
+    "title": "Distended Mindbender lets you skip choosing cards even if appropriate cards are available",
+    "url": "https://forums.mtgo.com/index.php?threads/distended-mindbender-lets-you-skip-choosing-cards-even-if-appropriate-cards-are-available.2580/",
+    "status": "Backlog",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/cardfilter-bug.2592/": {
+    "title": "Cardfilter Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/cardfilter-bug.2592/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/karazikar-the-eye-tyrant-triggering-when-player-attacks-the-controller-and-owner-of-the-card.2590/": {
+    "title": "Karazikar, the Eye Tyrant triggering when player attacks the controller (and owner) of the card",
+    "url": "https://forums.mtgo.com/index.php?threads/karazikar-the-eye-tyrant-triggering-when-player-attacks-the-controller-and-owner-of-the-card.2590/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/valkavoth-harvester-of-souls.2587/": {
+    "title": "valkavoth, harvester of souls",
+    "url": "https://forums.mtgo.com/index.php?threads/valkavoth-harvester-of-souls.2587/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/glimpse-of-tomorrow-doesnt-reveal-nonpermanent-cards.2583/": {
+    "title": "Glimpse of Tomorrow doesn't reveal nonpermanent cards",
+    "url": "https://forums.mtgo.com/index.php?threads/glimpse-of-tomorrow-doesnt-reveal-nonpermanent-cards.2583/",
+    "status": "Confirmed",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/teferi-mage-of-zhalfir-incorrectly-allows-opponents-to-cast-spells-with-omen-machine.2579/": {
+    "title": "Teferi, Mage of Zhalfir incorrectly allows opponents to cast spells with Omen Machine",
+    "url": "https://forums.mtgo.com/index.php?threads/teferi-mage-of-zhalfir-incorrectly-allows-opponents-to-cast-spells-with-omen-machine.2579/",
+    "status": "Confirmed",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/special-mana-paying-for-costs-that-it-shouldnt-be-able-to.2578/": {
+    "title": "Special mana paying for costs that it shouldn't be able to",
+    "url": "https://forums.mtgo.com/index.php?threads/special-mana-paying-for-costs-that-it-shouldnt-be-able-to.2578/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
