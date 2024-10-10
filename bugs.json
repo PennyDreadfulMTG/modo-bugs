@@ -576,7 +576,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1031",
     "support_thread": "https://forums.mtgo.com/index.php?threads/rain-of-gore-hoses-lifelink.1114/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Conundrum Sphinx",
@@ -2335,7 +2336,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/826",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Turn // Burn",
@@ -3134,14 +3136,14 @@
     "card": "Nullstone Gargoyle",
     "description": "Nullstone Gargoyle counters all noncreature spells cast",
     "category": "Advantageous",
-    "last_updated": "2024-10-08 11:20:04",
+    "last_updated": "2024-10-10 18:13:20",
     "issue_number": 615,
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/615",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/nullstone-gargoyle-counters-every-spell.1817/",
     "last_verified": null
   },
   {
@@ -4354,7 +4356,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/137",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Freyalise's Winds",
