@@ -8194,5 +8194,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/special-mana-paying-for-costs-that-it-shouldnt-be-able-to.2578/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-while-resolving-epic-experiment.2593/": {
+    "title": "Bug while resolving \"Epic Experiment\"",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-while-resolving-epic-experiment.2593/",
+    "status": "Could Not Reproduce",
+    "tracked": false
   }
 }
