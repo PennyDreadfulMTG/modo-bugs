@@ -2098,20 +2098,6 @@
     "last_verified": null
   },
   {
-    "card": "Distended Mindbender",
-    "description": "Distended Mindbender lets you skip choosing cards even if appropriate cards are available.",
-    "category": "Advantageous",
-    "last_updated": "2024-10-03 18:13:06",
-    "issue_number": 888,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/888",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/distended-mindbender-lets-you-skip-choosing-cards-even-if-appropriate-cards-are-available.2580/",
-    "last_verified": null
-  },
-  {
     "card": "Infernal Darkness",
     "description": "Infernal Darkness remembers the life loss payment for future mana payments",
     "category": "Disadvantageous",
@@ -2705,20 +2691,6 @@
     "support_thread": null,
     "last_verified": null,
     "help_wanted": true
-  },
-  {
-    "card": "Pia's Revolution",
-    "description": "Pia's Revolution creates an incorrect prompt while also being nonfunctional.",
-    "category": "Disadvantageous",
-    "last_updated": "2024-09-14 05:06:03",
-    "issue_number": 751,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/751",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/pias-revolution-is-bugged.1552/",
-    "last_verified": null
   },
   {
     "card": "Grave Betrayal",
