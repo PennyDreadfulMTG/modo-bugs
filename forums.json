@@ -8476,5 +8476,17 @@
     "url": "https://forums.mtgo.com/index.php?threads/two-factor-authentification.125/",
     "status": "Resolved",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/if-i-cast-one-partner-i-cant-cast-the-other.2614/": {
+    "title": "If I cast one partner, I can't cast the other",
+    "url": "https://forums.mtgo.com/index.php?threads/if-i-cast-one-partner-i-cant-cast-the-other.2614/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/collection-tickets-and-everything-else-missing-from-account-after-fallout-update.2609/": {
+    "title": "Collection, tickets and everything else missing from account after Fallout update.",
+    "url": "https://forums.mtgo.com/index.php?threads/collection-tickets-and-everything-else-missing-from-account-after-fallout-update.2609/",
+    "status": "Resolved",
+    "tracked": false
   }
 }
