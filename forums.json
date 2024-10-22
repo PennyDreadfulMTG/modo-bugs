@@ -8488,5 +8488,137 @@
     "url": "https://forums.mtgo.com/index.php?threads/collection-tickets-and-everything-else-missing-from-account-after-fallout-update.2609/",
     "status": "Resolved",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cant-cast-asmo-from-the-graveyard-with-a-underworld-breach-in-play.2618/": {
+    "title": "Can't cast Asmo from the Graveyard With a underworld breach in play.",
+    "url": "https://forums.mtgo.com/index.php?threads/cant-cast-asmo-from-the-graveyard-with-a-underworld-breach-in-play.2618/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/aura-shards-does-not-work.2620/": {
+    "title": "Aura Shards does not work",
+    "url": "https://forums.mtgo.com/index.php?threads/aura-shards-does-not-work.2620/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/canoptek-tomb-sentinel-bug.2596/": {
+    "title": "Canoptek Tomb Sentinel Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/canoptek-tomb-sentinel-bug.2596/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cannot-combine-eye-of-ugin-and-it-that-heralds-the-end-to-cast-kozileks-command.2588/": {
+    "title": "Cannot combine Eye of Ugin and It that Heralds the End to cast Kozilek's Command",
+    "url": "https://forums.mtgo.com/index.php?threads/cannot-combine-eye-of-ugin-and-it-that-heralds-the-end-to-cast-kozileks-command.2588/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mindslicer-serious-bug.2616/": {
+    "title": "MindSlicer Serious Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/mindslicer-serious-bug.2616/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ephemerate-not-working-in-pauper-on-archaeomancer-properly.2608/": {
+    "title": "Ephemerate not working in pauper on archaeomancer properly",
+    "url": "https://forums.mtgo.com/index.php?threads/ephemerate-not-working-in-pauper-on-archaeomancer-properly.2608/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-freeze-searching-for-dryad-arbor.2601/": {
+    "title": "Game freeze searching for Dryad Arbor",
+    "url": "https://forums.mtgo.com/index.php?threads/game-freeze-searching-for-dryad-arbor.2601/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/villainous-wealth-potential-bug.2577/": {
+    "title": "villainous wealth potential bug",
+    "url": "https://forums.mtgo.com/index.php?threads/villainous-wealth-potential-bug.2577/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bugged-interaction-between-mana-vault-and-the-mindskinner.2594/": {
+    "title": "Bugged interaction between Mana Vault and The Mindskinner",
+    "url": "https://forums.mtgo.com/index.php?threads/bugged-interaction-between-mana-vault-and-the-mindskinner.2594/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/alpha-black-lotus-guru-lands.2598/": {
+    "title": "Alpha Black Lotus + Guru Lands",
+    "url": "https://forums.mtgo.com/index.php?threads/alpha-black-lotus-guru-lands.2598/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/opened-foil-lethal-scheme-in-fallout-booster.2624/": {
+    "title": "opened (foil) Lethal Scheme in Fallout booster",
+    "url": "https://forums.mtgo.com/index.php?threads/opened-foil-lethal-scheme-in-fallout-booster.2624/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/hoarding-broodlord-it-does-not-work-in-all-cases.2623/": {
+    "title": "Hoarding Broodlord, it does not work in all cases",
+    "url": "https://forums.mtgo.com/index.php?threads/hoarding-broodlord-it-does-not-work-in-all-cases.2623/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/meathook-massacre-ii-not-functioning-correctly-when-put-directly-into-play.2615/": {
+    "title": "Meathook Massacre II not functioning correctly when put directly into play",
+    "url": "https://forums.mtgo.com/index.php?threads/meathook-massacre-ii-not-functioning-correctly-when-put-directly-into-play.2615/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-copied-throne-of-the-grim-captain-cannot-craft.2606/": {
+    "title": "The copied \"Throne of the Grim Captain\" cannot Craft.",
+    "url": "https://forums.mtgo.com/index.php?threads/the-copied-throne-of-the-grim-captain-cannot-craft.2606/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/pain-distributor-steals-treasure-from-opponents.2604/": {
+    "title": "pain distributor steals treasure from opponents",
+    "url": "https://forums.mtgo.com/index.php?threads/pain-distributor-steals-treasure-from-opponents.2604/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/unable-to-cast-spells-after-interaction-between-commandeer-and-unearth.2603/": {
+    "title": "Unable to cast spells after interaction between Commandeer and Unearth",
+    "url": "https://forums.mtgo.com/index.php?threads/unable-to-cast-spells-after-interaction-between-commandeer-and-unearth.2603/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ctrl-z-on-vraska-innkeepers-talent-replacement-effects-led-to-being-unable-to-take-any-game-actions.2591/": {
+    "title": "CTRL+Z on Vraska+Innkeepers Talent replacement effects led to being unable to take any game actions.",
+    "url": "https://forums.mtgo.com/index.php?threads/ctrl-z-on-vraska-innkeepers-talent-replacement-effects-led-to-being-unable-to-take-any-game-actions.2591/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/oblivious-bookworm-bug-on-draft-league.2611/": {
+    "title": "Oblivious Bookworm Bug on Draft League",
+    "url": "https://forums.mtgo.com/index.php?threads/oblivious-bookworm-bug-on-draft-league.2611/",
+    "status": "Invalid Game IDs",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-error-when-opponent-plays-static-prison.2599/": {
+    "title": "Game error when opponent plays static prison",
+    "url": "https://forums.mtgo.com/index.php?threads/game-error-when-opponent-plays-static-prison.2599/",
+    "status": "Invalid Game IDs",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-crashes-trying-to-enter-a-4-player-commander-game.2630/": {
+    "title": "game crashes trying to enter a 4 player commander game",
+    "url": "https://forums.mtgo.com/index.php?threads/game-crashes-trying-to-enter-a-4-player-commander-game.2630/",
+    "status": "No Game IDs",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/archivist-of-oghma-gets-two-triggers-from-yasharn.2617/": {
+    "title": "archivist of oghma gets two triggers from yasharn",
+    "url": "https://forums.mtgo.com/index.php?threads/archivist-of-oghma-gets-two-triggers-from-yasharn.2617/",
+    "status": "Invalid Game IDs",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/unbound-loop-detected.2586/": {
+    "title": "unbound loop detected",
+    "url": "https://forums.mtgo.com/index.php?threads/unbound-loop-detected.2586/",
+    "status": "More Info Needed",
+    "tracked": false
   }
 }
