@@ -8620,5 +8620,125 @@
     "url": "https://forums.mtgo.com/index.php?threads/unbound-loop-detected.2586/",
     "status": "More Info Needed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-popular-egostist-ultimely-malfunction.2643/": {
+    "title": "Bug Popular Egostist + Ultimely Malfunction",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-popular-egostist-ultimely-malfunction.2643/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/toby-token-double-block-issue.2622/": {
+    "title": "Toby token double block issue?",
+    "url": "https://forums.mtgo.com/index.php?threads/toby-token-double-block-issue.2622/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/oko-did-not-disable-bello.2621/": {
+    "title": "Oko did not disable Bello",
+    "url": "https://forums.mtgo.com/index.php?threads/oko-did-not-disable-bello.2621/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/trouble-in-pairs.2612/": {
+    "title": "Trouble in Pairs",
+    "url": "https://forums.mtgo.com/index.php?threads/trouble-in-pairs.2612/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/saddle-ability-overflow.2644/": {
+    "title": "Saddle/Ability Overflow",
+    "url": "https://forums.mtgo.com/index.php?threads/saddle-ability-overflow.2644/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-ended-prematurely-in-draw.2631/": {
+    "title": "Game Ended Prematurely in Draw",
+    "url": "https://forums.mtgo.com/index.php?threads/game-ended-prematurely-in-draw.2631/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-crushed.2628/": {
+    "title": "game crushed",
+    "url": "https://forums.mtgo.com/index.php?threads/game-crushed.2628/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/creatures-just-randomly-disappeared.2613/": {
+    "title": "Creatures just randomly disappeared",
+    "url": "https://forums.mtgo.com/index.php?threads/creatures-just-randomly-disappeared.2613/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/red-death-pramikon-crawlspace-bug.2645/": {
+    "title": "Red death/Pramikon/Crawlspace bug",
+    "url": "https://forums.mtgo.com/index.php?threads/red-death-pramikon-crawlspace-bug.2645/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug.2635/": {
+    "title": "bug",
+    "url": "https://forums.mtgo.com/index.php?threads/bug.2635/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/unbound-flourishing-does-not-work-in-all-cases.2647/": {
+    "title": "Unbound Flourishing does not work in all cases",
+    "url": "https://forums.mtgo.com/index.php?threads/unbound-flourishing-does-not-work-in-all-cases.2647/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cruel-ultimatum-does-not-cause-opponent-to-discard.2649/": {
+    "title": "Cruel Ultimatum does not cause opponent to discard",
+    "url": "https://forums.mtgo.com/index.php?threads/cruel-ultimatum-does-not-cause-opponent-to-discard.2649/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/companions-in-99-cause-a-commander-deck-may-have-exactly-one-companion-error.2639/": {
+    "title": "Companions in 99 cause \"A Commander deck may have exactly one companion\" error",
+    "url": "https://forums.mtgo.com/index.php?threads/companions-in-99-cause-a-commander-deck-may-have-exactly-one-companion-error.2639/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gwenna-and-tranquil-frillback.2619/": {
+    "title": "Gwenna and Tranquil Frillback",
+    "url": "https://forums.mtgo.com/index.php?threads/gwenna-and-tranquil-frillback.2619/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/blim-is-not-functioning-as-intended.2638/": {
+    "title": "Blim is not functioning as intended",
+    "url": "https://forums.mtgo.com/index.php?threads/blim-is-not-functioning-as-intended.2638/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/amphin-mutineers-encore-ability-does-not-create-any-tokens.2633/": {
+    "title": "Amphin Mutineer's Encore ability does not create any tokens.",
+    "url": "https://forums.mtgo.com/index.php?threads/amphin-mutineers-encore-ability-does-not-create-any-tokens.2633/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-emrakul-and-deadly-coverup.2595/": {
+    "title": "bug emrakul and deadly coverup",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-emrakul-and-deadly-coverup.2595/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/anger-is-not-currently-giving-haste-to-creatures-when-in-the-graveyard.2653/": {
+    "title": "Anger is not currently giving haste to creatures when in the graveyard",
+    "url": "https://forums.mtgo.com/index.php?threads/anger-is-not-currently-giving-haste-to-creatures-when-in-the-graveyard.2653/",
+    "status": "Invalid Game IDs",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/replay-bug-involving-guide-of-souls.2640/": {
+    "title": "Replay Bug Involving Guide of Souls",
+    "url": "https://forums.mtgo.com/index.php?threads/replay-bug-involving-guide-of-souls.2640/",
+    "status": "No Game IDs",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sideboard-reseating.2585/": {
+    "title": "Sideboard reseating",
+    "url": "https://forums.mtgo.com/index.php?threads/sideboard-reseating.2585/",
+    "status": "More Info Needed",
+    "tracked": false
   }
 }
