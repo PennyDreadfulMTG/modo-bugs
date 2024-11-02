@@ -8740,5 +8740,23 @@
     "url": "https://forums.mtgo.com/index.php?threads/sideboard-reseating.2585/",
     "status": "More Info Needed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-froze-and-when-i-restarted-match-screen-remained-blank.2634/": {
+    "title": "Game froze and when I restarted, match screen remained blank",
+    "url": "https://forums.mtgo.com/index.php?threads/game-froze-and-when-i-restarted-match-screen-remained-blank.2634/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-stuck-at-starting.2636/": {
+    "title": "Game stuck at starting",
+    "url": "https://forums.mtgo.com/index.php?threads/game-stuck-at-starting.2636/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-locked-on-a-loading-screen-preventing-from-starting-a-league-game.2637/": {
+    "title": "Game locked on a loading screen preventing from starting a league game",
+    "url": "https://forums.mtgo.com/index.php?threads/game-locked-on-a-loading-screen-preventing-from-starting-a-league-game.2637/",
+    "status": "Resolved",
+    "tracked": false
   }
 }
