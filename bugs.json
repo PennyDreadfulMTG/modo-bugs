@@ -3,7 +3,7 @@
     "card": "Grave Scrabbler",
     "description": "Grave Scrabbler's ability doesn't trigger when entering after being cast for its madness cost.",
     "category": "Disadvantageous",
-    "last_updated": "2024-11-11 18:12:11",
+    "last_updated": "2024-11-11 18:12:12",
     "issue_number": 1124,
     "pd_legal": true,
     "bug_blog": false,
