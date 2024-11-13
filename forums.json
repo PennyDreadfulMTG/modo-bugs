@@ -8758,5 +8758,77 @@
     "url": "https://forums.mtgo.com/index.php?threads/game-locked-on-a-loading-screen-preventing-from-starting-a-league-game.2637/",
     "status": "Resolved",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/modal-cards-cant-be-cast.2658/": {
+    "title": "Modal Cards Cant Be Cast",
+    "url": "https://forums.mtgo.com/index.php?threads/modal-cards-cant-be-cast.2658/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kozileks-return-did-not-allow-me-to-respond-to-yard-trigger.2657/": {
+    "title": "Kozilek's Return did not allow me to respond to yard trigger",
+    "url": "https://forums.mtgo.com/index.php?threads/kozileks-return-did-not-allow-me-to-respond-to-yard-trigger.2657/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cant-speak-in-chat.2659/": {
+    "title": "Can't speak in chat",
+    "url": "https://forums.mtgo.com/index.php?threads/cant-speak-in-chat.2659/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/step-validation-stucked.2648/": {
+    "title": "Step validation stucked",
+    "url": "https://forums.mtgo.com/index.php?threads/step-validation-stucked.2648/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mtgo-crashes-when-i-go-to-constructed-tab.2669/": {
+    "title": "MTGO Crashes When I Go To Constructed Tab",
+    "url": "https://forums.mtgo.com/index.php?threads/mtgo-crashes-when-i-go-to-constructed-tab.2669/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-crashes-when-i-search-library.2662/": {
+    "title": "game crashes when I search library",
+    "url": "https://forums.mtgo.com/index.php?threads/game-crashes-when-i-search-library.2662/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/fact-or-fiction-with-an-empty-library-put-our-entire-boards-library-side-boards-into-hand.2661/": {
+    "title": "Fact or fiction with an empty library put our entire boards+library+ side boards into hand",
+    "url": "https://forums.mtgo.com/index.php?threads/fact-or-fiction-with-an-empty-library-put-our-entire-boards-library-side-boards-into-hand.2661/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/oskar-rubbish-reclaimer-first-ability-not-working.2666/": {
+    "title": "Oskar, Rubbish Reclaimer first ability not working",
+    "url": "https://forums.mtgo.com/index.php?threads/oskar-rubbish-reclaimer-first-ability-not-working.2666/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cruel-ultimatum-doesnt-force-opponent-to-discard.2664/": {
+    "title": "Cruel Ultimatum doesn't force opponent to discard.",
+    "url": "https://forums.mtgo.com/index.php?threads/cruel-ultimatum-doesnt-force-opponent-to-discard.2664/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/annointed-peacekeeper-reflection-of-kiki-jiki.2660/": {
+    "title": "Annointed Peacekeeper & Reflection of Kiki-Jiki",
+    "url": "https://forums.mtgo.com/index.php?threads/annointed-peacekeeper-reflection-of-kiki-jiki.2660/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/witch-king-of-angmar-makes-you-sac-more-than-1-creature.2654/": {
+    "title": "Witch-king of angmar makes you sac more than 1 creature",
+    "url": "https://forums.mtgo.com/index.php?threads/witch-king-of-angmar-makes-you-sac-more-than-1-creature.2654/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/pass-priority-ok-and-always-yield-to-this-shortcuts-do-not-work.2646/": {
+    "title": "Pass Priority/OK and Always Yield to This shortcuts do not work",
+    "url": "https://forums.mtgo.com/index.php?threads/pass-priority-ok-and-always-yield-to-this-shortcuts-do-not-work.2646/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
