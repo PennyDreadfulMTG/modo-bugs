@@ -8830,5 +8830,35 @@
     "url": "https://forums.mtgo.com/index.php?threads/pass-priority-ok-and-always-yield-to-this-shortcuts-do-not-work.2646/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ui-looks-zoomed-in-at-all-times-even-at-lowest-scale.2681/": {
+    "title": "UI Looks zoomed in at all times, even at lowest scale.",
+    "url": "https://forums.mtgo.com/index.php?threads/ui-looks-zoomed-in-at-all-times-even-at-lowest-scale.2681/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/card-zoom-stuck-on-and-sometimes-black-circles.2679/": {
+    "title": "Card Zoom stuck on and sometimes black circles",
+    "url": "https://forums.mtgo.com/index.php?threads/card-zoom-stuck-on-and-sometimes-black-circles.2679/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/some-cards-not-displaying-properly.2685/": {
+    "title": "some cards not displaying properly",
+    "url": "https://forums.mtgo.com/index.php?threads/some-cards-not-displaying-properly.2685/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cannot-see-cards-in-deck-builder-unless-list-view.2704/": {
+    "title": "Cannot see cards in deck builder unless \"List View\"",
+    "url": "https://forums.mtgo.com/index.php?threads/cannot-see-cards-in-deck-builder-unless-list-view.2704/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/disabling-display-card-preview-window-no-longer-works-not-an-in-match-bug.2677/": {
+    "title": "Disabling \"Display Card Preview Window\" No longer works. (not an in-match bug!)",
+    "url": "https://forums.mtgo.com/index.php?threads/disabling-display-card-preview-window-no-longer-works-not-an-in-match-bug.2677/",
+    "status": "Resolved",
+    "tracked": false
   }
 }
