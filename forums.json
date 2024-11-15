@@ -8860,5 +8860,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/disabling-display-card-preview-window-no-longer-works-not-an-in-match-bug.2677/",
     "status": "Resolved",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/can-you-fix-the-autoshuffler-ffs.2717/": {
+    "title": "Can you fix the autoshuffler FFS?",
+    "url": "https://forums.mtgo.com/index.php?threads/can-you-fix-the-autoshuffler-ffs.2717/",
+    "status": "No Game IDs",
+    "tracked": false
   }
 }

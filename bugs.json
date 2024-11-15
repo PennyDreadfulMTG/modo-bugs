@@ -3,7 +3,7 @@
     "card": "Grave Scrabbler",
     "description": "Grave Scrabbler's ability doesn't trigger when entering after being cast for its madness cost.",
     "category": "Disadvantageous",
-    "last_updated": "2024-11-11 18:12:12",
+    "last_updated": "2024-11-14 18:12:14",
     "issue_number": 1124,
     "pd_legal": true,
     "bug_blog": false,
@@ -2688,7 +2688,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/800",
     "support_thread": "https://forums.mtgo.com/index.php?threads/pithing-needle-shows-avatar-congress-and-avatar-hijinks-in-list-of-card-names.2526/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Stolen Identity",
@@ -3187,7 +3188,7 @@
     "card": "Porphyry Nodes",
     "description": "Porphyry Nodes allows a creature to regenerate if it's tied for the least power.",
     "category": "Disadvantageous",
-    "last_updated": "2024-11-13 18:39:53",
+    "last_updated": "2024-11-14 18:13:16",
     "issue_number": 639,
     "pd_legal": true,
     "bug_blog": false,
