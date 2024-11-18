@@ -111,7 +111,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1117",
     "support_thread": "https://forums.mtgo.com/index.php?threads/paying-for-ripples-of-undeath-while-wheel-of-sun-and-moon-is-enchanting-you-locks-the-game.2529/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Amulet of Safekeeping",

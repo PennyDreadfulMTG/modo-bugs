@@ -2744,7 +2744,7 @@
   "https://forums.mtgo.com/index.php?threads/cant-undo-wall-of-roots-mana-activation.1511/": {
     "title": "Can't undo wall of roots mana activation",
     "url": "https://forums.mtgo.com/index.php?threads/cant-undo-wall-of-roots-mana-activation.1511/",
-    "status": "No Fix Planned",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/kaldheim-duals-do-not-register-as-commons-when-filtering.1509/": {
@@ -3314,7 +3314,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-with-wall-of-roots.52/": {
     "title": "Bug with Wall of Roots!",
     "url": "https://forums.mtgo.com/index.php?threads/bug-with-wall-of-roots.52/",
-    "status": "No Fix Planned",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/cant-see-cards-in-exile-or-cards-shown-2-0.2516/": {
@@ -7502,7 +7502,7 @@
   "https://forums.mtgo.com/index.php?threads/narset-enlightened-master-can-cast-creature-cards-with-their-effect.246/": {
     "title": "Narset, Enlightened Master can cast creature cards with their effect.",
     "url": "https://forums.mtgo.com/index.php?threads/narset-enlightened-master-can-cast-creature-cards-with-their-effect.246/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/agitator-ant-bug.195/": {
@@ -8865,6 +8865,108 @@
     "title": "Can you fix the autoshuffler FFS?",
     "url": "https://forums.mtgo.com/index.php?threads/can-you-fix-the-autoshuffler-ffs.2717/",
     "status": "No Game IDs",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/lithoform-engine-simply-not-functioning-in-freeform-game.2739/": {
+    "title": "Lithoform Engine simply not functioning in Freeform game",
+    "url": "https://forums.mtgo.com/index.php?threads/lithoform-engine-simply-not-functioning-in-freeform-game.2739/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/triggered-abilities-do-not-allow-yes-option.2683/": {
+    "title": "Triggered abilities do not allow yes option",
+    "url": "https://forums.mtgo.com/index.php?threads/triggered-abilities-do-not-allow-yes-option.2683/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-book-of-exalted-deeds-and-blood-moon-spreading-seas.2675/": {
+    "title": "The Book of Exalted Deeds and Blood Moon/Spreading Seas",
+    "url": "https://forums.mtgo.com/index.php?threads/the-book-of-exalted-deeds-and-blood-moon-spreading-seas.2675/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mtgo-crashed-when-i-go-in-collection.2721/": {
+    "title": "MTGO crashed when i go in Collection",
+    "url": "https://forums.mtgo.com/index.php?threads/mtgo-crashed-when-i-go-in-collection.2721/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/howling-golem.2698/": {
+    "title": "howling golem",
+    "url": "https://forums.mtgo.com/index.php?threads/howling-golem.2698/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/show-and-tell-opponent-has-treachery.2673/": {
+    "title": "Show and Tell, Opponent has treachery",
+    "url": "https://forums.mtgo.com/index.php?threads/show-and-tell-opponent-has-treachery.2673/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/elenda-saint-of-dusk-does-not-get-second-buff.2697/": {
+    "title": "Elenda, Saint of Dusk does not get second buff",
+    "url": "https://forums.mtgo.com/index.php?threads/elenda-saint-of-dusk-does-not-get-second-buff.2697/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-crashes-after-starting-up-a-trade.2706/": {
+    "title": "Game Crashes after starting up a trade",
+    "url": "https://forums.mtgo.com/index.php?threads/game-crashes-after-starting-up-a-trade.2706/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/chancellor-of-the-annex.2730/": {
+    "title": "Chancellor of the annex",
+    "url": "https://forums.mtgo.com/index.php?threads/chancellor-of-the-annex.2730/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cannot-activate-ninjutsu-in-block-step.2699/": {
+    "title": "Cannot activate Ninjutsu in Block step",
+    "url": "https://forums.mtgo.com/index.php?threads/cannot-activate-ninjutsu-in-block-step.2699/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/lunar-insight-bug.2713/": {
+    "title": "Lunar Insight BUG",
+    "url": "https://forums.mtgo.com/index.php?threads/lunar-insight-bug.2713/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/pacifism-not-legal-in-standard.2701/": {
+    "title": "Pacifism not legal in standard",
+    "url": "https://forums.mtgo.com/index.php?threads/pacifism-not-legal-in-standard.2701/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/a-bunch-of-cards-legal-in-standard-labeled-as-not-legal.2711/": {
+    "title": "A bunch of cards legal in Standard labeled as \"not legal\"",
+    "url": "https://forums.mtgo.com/index.php?threads/a-bunch-of-cards-legal-in-standard-labeled-as-not-legal.2711/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/grave-scrabblers-ability-doesnt-trigger-when-entering-after-being-cast-for-its-madness-cost.2684/": {
+    "title": "Grave Scrabbler's ability doesn't trigger when entering after being cast for its madness cost.",
+    "url": "https://forums.mtgo.com/index.php?threads/grave-scrabblers-ability-doesnt-trigger-when-entering-after-being-cast-for-its-madness-cost.2684/",
+    "status": "Confirmed",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/error-message-and-forced-client-closure-during-trading.2716/": {
+    "title": "Error Message and Forced Client Closure during Trading",
+    "url": "https://forums.mtgo.com/index.php?threads/error-message-and-forced-client-closure-during-trading.2716/",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/nylea-keen-eyed-ability-not-working.2703/": {
+    "title": "Nylea, Keen-Eyed ability not working",
+    "url": "https://forums.mtgo.com/index.php?threads/nylea-keen-eyed-ability-not-working.2703/",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/visual-tie-breakers-showing-0-0-told-by-customer-service-to-contact-here.2682/": {
+    "title": "Visual: Tie-Breakers showing 0.0% told by customer service to contact here",
+    "url": "https://forums.mtgo.com/index.php?threads/visual-tie-breakers-showing-0-0-told-by-customer-service-to-contact-here.2682/",
+    "status": "More Info Needed",
     "tracked": false
   }
 }
