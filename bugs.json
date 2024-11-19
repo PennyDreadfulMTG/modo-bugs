@@ -67,7 +67,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1122",
     "support_thread": "https://forums.mtgo.com/index.php?threads/out-of-time-interacts-incorrectly-with-characteristic-setting-ability.2527/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Omnath, Locus of All",
