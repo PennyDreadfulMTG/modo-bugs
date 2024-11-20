@@ -260,7 +260,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1102",
     "support_thread": "https://forums.mtgo.com/index.php?threads/if-wheel-of-sun-moon-is-enchanting-both-players-and-cards-enter-both-players-graveyard-at-the-same-time-the-game-crashes.2531/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Lavinia of the Tenth",
@@ -3232,7 +3233,7 @@
     "card": "Porphyry Nodes",
     "description": "Porphyry Nodes allows a creature to regenerate if it's tied for the least power.",
     "category": "Disadvantageous",
-    "last_updated": "2024-11-14 18:13:16",
+    "last_updated": "2024-11-19 18:13:18",
     "issue_number": 639,
     "pd_legal": true,
     "bug_blog": false,
