@@ -8960,13 +8960,19 @@
   "https://forums.mtgo.com/index.php?threads/nylea-keen-eyed-ability-not-working.2703/": {
     "title": "Nylea, Keen-Eyed ability not working",
     "url": "https://forums.mtgo.com/index.php?threads/nylea-keen-eyed-ability-not-working.2703/",
-    "status": "More Info Needed",
+    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/visual-tie-breakers-showing-0-0-told-by-customer-service-to-contact-here.2682/": {
     "title": "Visual: Tie-Breakers showing 0.0% told by customer service to contact here",
     "url": "https://forums.mtgo.com/index.php?threads/visual-tie-breakers-showing-0-0-told-by-customer-service-to-contact-here.2682/",
     "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/it-is-now-impossible-for-me-to-sideboard-as-client-laggy-and-times-out.2700/": {
+    "title": "It is now impossible for me to sideboard as client laggy and times out",
+    "url": "https://forums.mtgo.com/index.php?threads/it-is-now-impossible-for-me-to-sideboard-as-client-laggy-and-times-out.2700/",
+    "status": "Resolved",
     "tracked": false
   }
 }
