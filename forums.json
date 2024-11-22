@@ -8974,5 +8974,131 @@
     "url": "https://forums.mtgo.com/index.php?threads/it-is-now-impossible-for-me-to-sideboard-as-client-laggy-and-times-out.2700/",
     "status": "Resolved",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/of-course-we-have-another-overlooked-issue.2757/": {
+    "title": "Of Course we have another overlooked issue...",
+    "url": "https://forums.mtgo.com/index.php?threads/of-course-we-have-another-overlooked-issue.2757/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/barrowgoyf-doesnt-properly-trigger-when-library-is-less-than-power.2709/": {
+    "title": "Barrowgoyf doesn't properly trigger when library is less than power.",
+    "url": "https://forums.mtgo.com/index.php?threads/barrowgoyf-doesnt-properly-trigger-when-library-is-less-than-power.2709/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/duel-commander-bug.2728/": {
+    "title": "Duel Commander bug",
+    "url": "https://forums.mtgo.com/index.php?threads/duel-commander-bug.2728/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/old-border-cards-still-display-off-center.2720/": {
+    "title": "Old border cards still display off center",
+    "url": "https://forums.mtgo.com/index.php?threads/old-border-cards-still-display-off-center.2720/",
+    "status": "No Fix Planned",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/separation-of-rules-and-flavor-text-introduced-in-dominaria-has-been-retroactively-applied.2719/": {
+    "title": "Separation of rules and flavor text introduced in Dominaria has been retroactively applied",
+    "url": "https://forums.mtgo.com/index.php?threads/separation-of-rules-and-flavor-text-introduced-in-dominaria-has-been-retroactively-applied.2719/",
+    "status": "No Fix Planned",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-game-force-closes-after-i-receive-anything.2756/": {
+    "title": "The game force closes after I receive anything.",
+    "url": "https://forums.mtgo.com/index.php?threads/the-game-force-closes-after-i-receive-anything.2756/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kitchen-imp-madness-doesnt-work.2715/": {
+    "title": "Kitchen Imp Madness Doesn't Work",
+    "url": "https://forums.mtgo.com/index.php?threads/kitchen-imp-madness-doesnt-work.2715/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/well-of-lost-dreams-does-not-work-at-all.2752/": {
+    "title": "Well of lost dreams does not work at all",
+    "url": "https://forums.mtgo.com/index.php?threads/well-of-lost-dreams-does-not-work-at-all.2752/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sideboarding-properly-not-possible.2724/": {
+    "title": "Sideboarding properly not possible",
+    "url": "https://forums.mtgo.com/index.php?threads/sideboarding-properly-not-possible.2724/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/limited-draft-inaccessible.2755/": {
+    "title": "Limited draft inaccessible.",
+    "url": "https://forums.mtgo.com/index.php?threads/limited-draft-inaccessible.2755/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/porphyry-nodes-allows-a-creature-to-regenerate-if-its-tied-for-the-least-power.2702/": {
+    "title": "Porphyry Nodes allows a creature to regenerate if it's tied for the least power",
+    "url": "https://forums.mtgo.com/index.php?threads/porphyry-nodes-allows-a-creature-to-regenerate-if-its-tied-for-the-least-power.2702/",
+    "status": "Backlog",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/undoing-a-chromatic-star-causes-no-draw.2680/": {
+    "title": "Undoing a chromatic star causes no draw",
+    "url": "https://forums.mtgo.com/index.php?threads/undoing-a-chromatic-star-causes-no-draw.2680/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mtgo-card-bug-unbound-flourishing.2674/": {
+    "title": "MTGO card bug Unbound flourishing",
+    "url": "https://forums.mtgo.com/index.php?threads/mtgo-card-bug-unbound-flourishing.2674/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/manifest-dread-grafdiggers-cage.2754/": {
+    "title": "Manifest Dread + Grafdigger's Cage",
+    "url": "https://forums.mtgo.com/index.php?threads/manifest-dread-grafdiggers-cage.2754/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/michiko-konda-truth-seeker-triggers-as-opponents-choice.2751/": {
+    "title": "Michiko konda, truth seeker triggers as opponents choice",
+    "url": "https://forums.mtgo.com/index.php?threads/michiko-konda-truth-seeker-triggers-as-opponents-choice.2751/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/new-fallout-version-of-tarmogoyf-breaks-my-deck.2712/": {
+    "title": "New Fallout version of Tarmogoyf breaks my deck",
+    "url": "https://forums.mtgo.com/index.php?threads/new-fallout-version-of-tarmogoyf-breaks-my-deck.2712/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/plaguecrafter-doesnt-force-discard-if-player-cant-sacrifice.2740/": {
+    "title": "Plaguecrafter doesn't force discard if player can't sacrifice",
+    "url": "https://forums.mtgo.com/index.php?threads/plaguecrafter-doesnt-force-discard-if-player-cant-sacrifice.2740/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/hinterland-sanctifier-not-in-mtgo.2750/": {
+    "title": "Hinterland Sanctifier Not in MTGO?",
+    "url": "https://forums.mtgo.com/index.php?threads/hinterland-sanctifier-not-in-mtgo.2750/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/unspecified-damage-shalai-and-hallar-and-all-will-be-one.2723/": {
+    "title": "Unspecified damage - Shalai and Hallar and  All Will Be One",
+    "url": "https://forums.mtgo.com/index.php?threads/unspecified-damage-shalai-and-hallar-and-all-will-be-one.2723/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/black-overlord-bug.2753/": {
+    "title": "Black overlord bug",
+    "url": "https://forums.mtgo.com/index.php?threads/black-overlord-bug.2753/",
+    "status": "No Game IDs",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/metamorphosis-fanatic-cannot-be-cast-for-its-miracle-cost.2727/": {
+    "title": "Metamorphosis Fanatic Cannot be cast for its miracle cost",
+    "url": "https://forums.mtgo.com/index.php?threads/metamorphosis-fanatic-cannot-be-cast-for-its-miracle-cost.2727/",
+    "status": "Invalid Game IDs",
+    "tracked": false
   }
 }
