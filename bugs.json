@@ -659,7 +659,7 @@
     "card": "Rain of Gore",
     "description": "Rain of Gore is affecting Lifelink.",
     "category": "Advantageous",
-    "last_updated": "2024-08-09 18:13:25",
+    "last_updated": "2024-11-22 18:12:40",
     "issue_number": 1031,
     "pd_legal": true,
     "bug_blog": false,
@@ -667,8 +667,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1031",
     "support_thread": "https://forums.mtgo.com/index.php?threads/rain-of-gore-hoses-lifelink.1114/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Conundrum Sphinx",
@@ -704,7 +703,7 @@
     "card": "Terrarion",
     "description": "Terrarion can be sacrificed as part of the cost of the spell, but if the spell is undone before casting, terrarion will no longer provide a card when it goes to the graveyard.",
     "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:52:14",
+    "last_updated": "2024-11-22 18:12:43",
     "issue_number": 1027,
     "pd_legal": false,
     "bug_blog": false,
@@ -712,8 +711,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1027",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Rigo, Streetwise Mentor",
@@ -988,7 +986,7 @@
     "card": "Warbreak Trumpeter",
     "description": "Warbreak Trumpeter's unmorph ability doesn't create tokens.",
     "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:52:26",
+    "last_updated": "2024-11-22 18:12:52",
     "issue_number": 993,
     "pd_legal": false,
     "bug_blog": false,
@@ -996,14 +994,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/993",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Play with Fire",
     "description": "Cards that have an effect when something is dealt damage by the card do the effect despite damage prevention.",
     "category": "Advantageous",
-    "last_updated": "2023-06-26 13:18:16",
+    "last_updated": "2024-11-22 18:12:53",
     "issue_number": 992,
     "pd_legal": false,
     "bug_blog": false,
@@ -1011,14 +1008,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/992",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Provoke the Trolls",
     "description": "Cards that have an effect when something is dealt damage by the card do the effect despite damage prevention.",
     "category": "Advantageous",
-    "last_updated": "2023-06-26 13:18:16",
+    "last_updated": "2024-11-22 18:12:53",
     "issue_number": 992,
     "pd_legal": true,
     "bug_blog": false,
@@ -1026,8 +1022,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/992",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Entrails Feaster",
@@ -1258,7 +1253,7 @@
     "card": "Soulflayer",
     "description": "Soulflayer doesn't show that it has gained variations of abilities, such as \"Hexproof from Black\".",
     "category": "Graphical",
-    "last_updated": "2024-09-13 22:52:33",
+    "last_updated": "2024-11-22 18:12:58",
     "issue_number": 978,
     "pd_legal": false,
     "bug_blog": false,
@@ -1266,8 +1261,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/978",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Channel",
@@ -3218,7 +3212,7 @@
     "card": "Goblin Electromancer",
     "description": "With two copies of Goblin Electromancer in play, splice costs are incorrectly calculated.",
     "category": "Unclassified",
-    "last_updated": "2024-09-13 22:53:22",
+    "last_updated": "2024-11-22 18:13:17",
     "issue_number": 640,
     "pd_legal": false,
     "bug_blog": false,
@@ -3226,8 +3220,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/640",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Porphyry Nodes",
@@ -3996,7 +3989,7 @@
     "card": "Mindclaw Shaman",
     "description": "You are unable to cast split cards with Mindclaw Shaman's ability.",
     "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:53:46",
+    "last_updated": "2024-11-22 18:13:27",
     "issue_number": 306,
     "pd_legal": false,
     "bug_blog": false,
@@ -4146,7 +4139,7 @@
     "card": "Overwhelming Splendor",
     "description": "Creatures with ascend can still grant the City's Blessing with Overwhelming Splendor on the battlefield.",
     "category": "Disadvantageous",
-    "last_updated": "2024-10-04 18:13:30",
+    "last_updated": "2024-11-22 18:13:28",
     "issue_number": 297,
     "pd_legal": true,
     "bug_blog": false,

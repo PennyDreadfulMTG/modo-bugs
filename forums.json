@@ -9100,5 +9100,11 @@
     "url": "https://forums.mtgo.com/index.php?threads/metamorphosis-fanatic-cannot-be-cast-for-its-miracle-cost.2727/",
     "status": "Invalid Game IDs",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/annihilator-4-not-coming-into-effect-when-attacking-twice-in-a-row.2731/": {
+    "title": "Annihilator 4 not coming into effect when attacking twice in a row",
+    "url": "https://forums.mtgo.com/index.php?threads/annihilator-4-not-coming-into-effect-when-attacking-twice-in-a-row.2731/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
