@@ -8882,7 +8882,7 @@
   "https://forums.mtgo.com/index.php?threads/the-book-of-exalted-deeds-and-blood-moon-spreading-seas.2675/": {
     "title": "The Book of Exalted Deeds and Blood Moon/Spreading Seas",
     "url": "https://forums.mtgo.com/index.php?threads/the-book-of-exalted-deeds-and-blood-moon-spreading-seas.2675/",
-    "status": "Could Not Reproduce",
+    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/mtgo-crashed-when-i-go-in-collection.2721/": {
@@ -9104,6 +9104,114 @@
   "https://forums.mtgo.com/index.php?threads/annihilator-4-not-coming-into-effect-when-attacking-twice-in-a-row.2731/": {
     "title": "Annihilator 4 not coming into effect when attacking twice in a row",
     "url": "https://forums.mtgo.com/index.php?threads/annihilator-4-not-coming-into-effect-when-attacking-twice-in-a-row.2731/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ob-nixilis-unshackled-opposition-agent.2767/": {
+    "title": "Ob Nixilis, Unshackled + Opposition Agent",
+    "url": "https://forums.mtgo.com/index.php?threads/ob-nixilis-unshackled-opposition-agent.2767/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/pippen-guard-of-the-citadel-didnt-trigger-ward.2763/": {
+    "title": "Pippen, Guard of the Citadel - Didn't trigger ward",
+    "url": "https://forums.mtgo.com/index.php?threads/pippen-guard-of-the-citadel-didnt-trigger-ward.2763/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/fiery-annihilation-not-exiling-equipment.2732/": {
+    "title": "Fiery Annihilation not exiling equipment.",
+    "url": "https://forums.mtgo.com/index.php?threads/fiery-annihilation-not-exiling-equipment.2732/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/unable-to-view-or-interact-with-collection.2708/": {
+    "title": "Unable to view or interact with collection",
+    "url": "https://forums.mtgo.com/index.php?threads/unable-to-view-or-interact-with-collection.2708/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-log-arbitrarily-stops-auto-scrolling.2747/": {
+    "title": "Game log arbitrarily stops auto scrolling",
+    "url": "https://forums.mtgo.com/index.php?threads/game-log-arbitrarily-stops-auto-scrolling.2747/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-freezes-cracking-fetchlands.2759/": {
+    "title": "Game freezes cracking fetchlands",
+    "url": "https://forums.mtgo.com/index.php?threads/game-freezes-cracking-fetchlands.2759/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/has-two-bugs-to-report.2760/": {
+    "title": "has two bugs to report",
+    "url": "https://forums.mtgo.com/index.php?threads/has-two-bugs-to-report.2760/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-does-not-work.2746/": {
+    "title": "Game does not work",
+    "url": "https://forums.mtgo.com/index.php?threads/game-does-not-work.2746/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/draft-league-sideboarding-did-not-end-nothing-happened-got-game-loss.2749/": {
+    "title": "(Draft League) - sideboarding did not end - nothing happened - got game loss.",
+    "url": "https://forums.mtgo.com/index.php?threads/draft-league-sideboarding-did-not-end-nothing-happened-got-game-loss.2749/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/when-i-open-the-trade-the-program-closes.2748/": {
+    "title": "When I open the trade, the program closes",
+    "url": "https://forums.mtgo.com/index.php?threads/when-i-open-the-trade-the-program-closes.2748/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sideboard-on-a-hang-lock-state.2738/": {
+    "title": "Sideboard on a hang/lock state",
+    "url": "https://forums.mtgo.com/index.php?threads/sideboard-on-a-hang-lock-state.2738/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cards-not-loading-in-deck-builder-after-drafting.2714/": {
+    "title": "Cards not loading in deck builder after drafting",
+    "url": "https://forums.mtgo.com/index.php?threads/cards-not-loading-in-deck-builder-after-drafting.2714/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/not-allowing-me-to-sideboard-in-5-consecutive-matches.2707/": {
+    "title": "Not allowing me to sideboard in 5 consecutive matches",
+    "url": "https://forums.mtgo.com/index.php?threads/not-allowing-me-to-sideboard-in-5-consecutive-matches.2707/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cant-add-to-blocked-list.2764/": {
+    "title": "Can't add to Blocked List",
+    "url": "https://forums.mtgo.com/index.php?threads/cant-add-to-blocked-list.2764/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/rakdos-lord-of-riot-and-florian-voldaren-scion.2766/": {
+    "title": "Rakdos, Lord of Riot and Florian, Voldaren Scion",
+    "url": "https://forums.mtgo.com/index.php?threads/rakdos-lord-of-riot-and-florian-voldaren-scion.2766/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/vexing-bauble-trigger-does-not-give-priority.2765/": {
+    "title": "Vexing bauble trigger does not give priority",
+    "url": "https://forums.mtgo.com/index.php?threads/vexing-bauble-trigger-does-not-give-priority.2765/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/you-can-no-longer-see-which-commanders-dealt-you-commander-damage-in-commander.2761/": {
+    "title": "You can no longer see which commanders dealt you commander damage in commander",
+    "url": "https://forums.mtgo.com/index.php?threads/you-can-no-longer-see-which-commanders-dealt-you-commander-damage-in-commander.2761/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/eris-cost-reduction-broken.2758/": {
+    "title": "Eris cost reduction broken",
+    "url": "https://forums.mtgo.com/index.php?threads/eris-cost-reduction-broken.2758/",
     "status": "Confirmed",
     "tracked": false
   }
