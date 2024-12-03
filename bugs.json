@@ -1,5 +1,33 @@
 [
   {
+    "card": "Wheel of Sun and Moon",
+    "description": "Wheel of Sun and Moon stops Oni-Cult Anvil from creating tokens when an artifact is sacrificed",
+    "category": "Advantageous",
+    "last_updated": "2024-12-03 18:12:11",
+    "issue_number": 1125,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1125",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/wheel-of-sun-and-moon-stops-oni-cult-anvil-from-creating-tokens-when-an-artifact-is-sacrificed.2786/",
+    "last_verified": null
+  },
+  {
+    "card": "Oni-Cult Anvil",
+    "description": "Wheel of Sun and Moon stops Oni-Cult Anvil from creating tokens when an artifact is sacrificed",
+    "category": "Advantageous",
+    "last_updated": "2024-12-03 18:12:11",
+    "issue_number": 1125,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1125",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/wheel-of-sun-and-moon-stops-oni-cult-anvil-from-creating-tokens-when-an-artifact-is-sacrificed.2786/",
+    "last_verified": null
+  },
+  {
     "card": "Grave Scrabbler",
     "description": "Grave Scrabbler's ability doesn't trigger when entering after being cast for its madness cost.",
     "category": "Disadvantageous",
@@ -2995,7 +3023,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/696",
     "support_thread": "https://forums.mtgo.com/index.php?threads/teferi-mage-of-zhalfir-incorrectly-allows-opponents-to-cast-spells-with-omen-machine.2579/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Omen Machine",
@@ -3009,7 +3038,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/696",
     "support_thread": "https://forums.mtgo.com/index.php?threads/teferi-mage-of-zhalfir-incorrectly-allows-opponents-to-cast-spells-with-omen-machine.2579/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Amoeboid Changeling",

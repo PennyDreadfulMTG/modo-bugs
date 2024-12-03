@@ -9214,5 +9214,65 @@
     "url": "https://forums.mtgo.com/index.php?threads/eris-cost-reduction-broken.2758/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/crashing-when-submitting-trade.2773/": {
+    "title": "Crashing when submitting trade",
+    "url": "https://forums.mtgo.com/index.php?threads/crashing-when-submitting-trade.2773/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/client-crashes-when-opening-collection.2785/": {
+    "title": "Client Crashes when Opening Collection",
+    "url": "https://forums.mtgo.com/index.php?threads/client-crashes-when-opening-collection.2785/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/wheel-of-sun-and-moon-stops-oni-cult-anvil-from-creating-tokens-when-an-artifact-is-sacrificed.2786/": {
+    "title": "Wheel of Sun and Moon stops Oni-Cult Anvil from creating tokens when an artifact is sacrificed",
+    "url": "https://forums.mtgo.com/index.php?threads/wheel-of-sun-and-moon-stops-oni-cult-anvil-from-creating-tokens-when-an-artifact-is-sacrificed.2786/",
+    "status": "Confirmed",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/dress-down-archon-of-emeria.2778/": {
+    "title": "Dress Down/Archon of Emeria",
+    "url": "https://forums.mtgo.com/index.php?threads/dress-down-archon-of-emeria.2778/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-id-273503669-liliana-waker-of-the-dead-1-ability-not-working.2774/": {
+    "title": "Game ID-273503669-Liliana, Waker of the Dead +1 ability not working",
+    "url": "https://forums.mtgo.com/index.php?threads/game-id-273503669-liliana-waker-of-the-dead-1-ability-not-working.2774/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/token-permanents-made-by-narset-enlightened-exile-show-improper-ownership.2771/": {
+    "title": "Token permanents made by Narset, Enlightened Exile show improper ownership",
+    "url": "https://forums.mtgo.com/index.php?threads/token-permanents-made-by-narset-enlightened-exile-show-improper-ownership.2771/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/fear-of-missing-out-doesnt-trigger-its-delirium-ability-when-you-exert-a-creature.2770/": {
+    "title": "Fear of Missing Out doesn't trigger it's Delirium ability when you exert a creature",
+    "url": "https://forums.mtgo.com/index.php?threads/fear-of-missing-out-doesnt-trigger-its-delirium-ability-when-you-exert-a-creature.2770/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kunoros-hound-of-athreoss-static-ability-is-incorrectly-applied-when-it-enters-alongside-other-creatures.2768/": {
+    "title": "Kunoros, Hound of Athreos's static ability is incorrectly applied when it enters alongside other creatures",
+    "url": "https://forums.mtgo.com/index.php?threads/kunoros-hound-of-athreoss-static-ability-is-incorrectly-applied-when-it-enters-alongside-other-creatures.2768/",
+    "status": "Confirmed",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/a-number-of-old-cards-dont-have-their-security-stamp-anymore.2718/": {
+    "title": "A number of old cards don't have their security stamp anymore.",
+    "url": "https://forums.mtgo.com/index.php?threads/a-number-of-old-cards-dont-have-their-security-stamp-anymore.2718/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cannot-join-or-host-create-a-commander-game.2705/": {
+    "title": "Cannot join/or host (create) a Commander Game",
+    "url": "https://forums.mtgo.com/index.php?threads/cannot-join-or-host-create-a-commander-game.2705/",
+    "status": "More Info Needed",
+    "tracked": false
   }
 }
