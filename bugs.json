@@ -3,7 +3,7 @@
     "card": "Wheel of Sun and Moon",
     "description": "Wheel of Sun and Moon stops Oni-Cult Anvil from creating tokens when an artifact is sacrificed",
     "category": "Advantageous",
-    "last_updated": "2024-12-03 18:12:11",
+    "last_updated": "2024-12-03 18:12:16",
     "issue_number": 1125,
     "pd_legal": true,
     "bug_blog": false,
@@ -17,7 +17,7 @@
     "card": "Oni-Cult Anvil",
     "description": "Wheel of Sun and Moon stops Oni-Cult Anvil from creating tokens when an artifact is sacrificed",
     "category": "Advantageous",
-    "last_updated": "2024-12-03 18:12:11",
+    "last_updated": "2024-12-03 18:12:16",
     "issue_number": 1125,
     "pd_legal": true,
     "bug_blog": false,
@@ -229,7 +229,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1105",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Sakashima the Impostor",
@@ -979,7 +980,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/996",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Liege of the Hollows",
@@ -1008,7 +1010,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/994",
     "support_thread": "https://forums.mtgo.com/index.php?threads/glimpse-of-tomorrow-doesnt-reveal-nonpermanent-cards.2583/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Warbreak Trumpeter",
@@ -1318,7 +1321,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/975",
     "support_thread": "https://forums.mtgo.com/index.php?threads/illusionary-mask-doesn%C2%B4t-work.1540/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Patchwork Crawler",
@@ -2367,7 +2371,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/863",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Damping Engine",
@@ -2396,7 +2401,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/856",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Pattern Matcher",
@@ -3471,7 +3477,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/568",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Evershrike",
@@ -4358,7 +4365,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/251",
     "support_thread": "https://forums.mtgo.com/index.php?threads/orcish-spy-displays-the-top-three-cards-not-in-chronological-order-might-be-displaying-in-alphabetical-order.2174/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Compulsive Research",

@@ -9274,5 +9274,23 @@
     "url": "https://forums.mtgo.com/index.php?threads/cannot-join-or-host-create-a-commander-game.2705/",
     "status": "More Info Needed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/what-in-the-h-is-going-on.2789/": {
+    "title": "What in the h is going on ???",
+    "url": "https://forums.mtgo.com/index.php?threads/what-in-the-h-is-going-on.2789/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/match-wont-load.2787/": {
+    "title": "Match Won't Load",
+    "url": "https://forums.mtgo.com/index.php?threads/match-wont-load.2787/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/draft-did-not-start-entry-not-returned.2788/": {
+    "title": "Draft did not start.  Entry not returned.",
+    "url": "https://forums.mtgo.com/index.php?threads/draft-did-not-start-entry-not-returned.2788/",
+    "status": "Resolved",
+    "tracked": false
   }
 }
