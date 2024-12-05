@@ -9292,5 +9292,23 @@
     "url": "https://forums.mtgo.com/index.php?threads/draft-did-not-start-entry-not-returned.2788/",
     "status": "Resolved",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/torbin-is-posting-that-issues-have-been-resolved-without-doing-anything.2791/": {
+    "title": "TORBIN is posting that issues have been resolved without doing anything",
+    "url": "https://forums.mtgo.com/index.php?threads/torbin-is-posting-that-issues-have-been-resolved-without-doing-anything.2791/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/unable-to-add-leonin-vanguard-in-my-standard-deck.2735/": {
+    "title": "Unable to add Leonin Vanguard in my standard deck",
+    "url": "https://forums.mtgo.com/index.php?threads/unable-to-add-leonin-vanguard-in-my-standard-deck.2735/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/legality-bugs-about-fdn-cards-for-example-opt.2733/": {
+    "title": "Legality bugs about FDN cards, for example \"opt\".",
+    "url": "https://forums.mtgo.com/index.php?threads/legality-bugs-about-fdn-cards-for-example-opt.2733/",
+    "status": "Resolved",
+    "tracked": false
   }
 }
