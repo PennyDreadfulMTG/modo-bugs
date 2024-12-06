@@ -9310,5 +9310,41 @@
     "url": "https://forums.mtgo.com/index.php?threads/legality-bugs-about-fdn-cards-for-example-opt.2733/",
     "status": "Resolved",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/new-enchantment-frame-has-been-retroactively-applied.2671/": {
+    "title": "New enchantment frame has been retroactively applied",
+    "url": "https://forums.mtgo.com/index.php?threads/new-enchantment-frame-has-been-retroactively-applied.2671/",
+    "status": "As Designed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/shallow-grave-and-corpse-dance-cannot-be-cast-on-opponents-end-step.2781/": {
+    "title": "Shallow Grave and Corpse Dance cannot be cast on opponent's end step",
+    "url": "https://forums.mtgo.com/index.php?threads/shallow-grave-and-corpse-dance-cannot-be-cast-on-opponents-end-step.2781/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-cards-with-one-more-more-choices.2793/": {
+    "title": "Bug cards with one more more choices",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-cards-with-one-more-more-choices.2793/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/pyroblast-target-force-of-will-borderless.2775/": {
+    "title": "Pyroblast target Force of Will Borderless",
+    "url": "https://forums.mtgo.com/index.php?threads/pyroblast-target-force-of-will-borderless.2775/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-freezing-while-in-fullscreen-or-playing-on-monitor-1400p.2672/": {
+    "title": "Game freezing while in fullscreen or playing on monitor @1400p",
+    "url": "https://forums.mtgo.com/index.php?threads/game-freezing-while-in-fullscreen-or-playing-on-monitor-1400p.2672/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/march-of-otherworldly-light-can-exile-anything-when-cast-for-free-with-amped-raptor.2794/": {
+    "title": "March of Otherworldly Light can exile anything when cast for free with Amped Raptor",
+    "url": "https://forums.mtgo.com/index.php?threads/march-of-otherworldly-light-can-exile-anything-when-cast-for-free-with-amped-raptor.2794/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
