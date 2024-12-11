@@ -3359,7 +3359,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/615",
     "support_thread": "https://forums.mtgo.com/index.php?threads/nullstone-gargoyle-counters-every-spell.1817/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Containment Priest",
