@@ -1178,7 +1178,7 @@
   "https://forums.mtgo.com/index.php?threads/failed-to-trigger-the-crime-mechanic-targeting-my-opponent-with-other-cards-from-old-editions.2127/": {
     "title": "Failed to trigger the ''Crime'' mechanic, targeting my opponent with other cards, from old editions.",
     "url": "https://forums.mtgo.com/index.php?threads/failed-to-trigger-the-crime-mechanic-targeting-my-opponent-with-other-cards-from-old-editions.2127/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/bug-with-mystical-tether-and-return-the-favor-i-checked-with-multiple-judges-this-should-work-as-i-wanted-it-to.2129/": {
@@ -5702,19 +5702,19 @@
   "https://forums.mtgo.com/index.php?threads/squandered-resources-city-of-brass-bug.576/": {
     "title": "Squandered Resources City of Brass Bug",
     "url": "https://forums.mtgo.com/index.php?threads/squandered-resources-city-of-brass-bug.576/",
-    "status": "Backlog",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/scythe-of-the-wretched-and-unscythe-killer-of-kings-trigger-on-every-death.50/": {
     "title": "Scythe of the Wretched and Unscythe, Killer of Kings trigger on every death",
     "url": "https://forums.mtgo.com/index.php?threads/scythe-of-the-wretched-and-unscythe-killer-of-kings-trigger-on-every-death.50/",
-    "status": "Backlog",
+    "status": "Confirmed",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/words-of-wisdom-makes-the-game-crash.1339/": {
     "title": "Words of Wisdom makes the game crash",
     "url": "https://forums.mtgo.com/index.php?threads/words-of-wisdom-makes-the-game-crash.1339/",
-    "status": "Backlog",
+    "status": "Confirmed",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/tymna-the-weaver-and-dying-opponents.934/": {
@@ -6026,7 +6026,7 @@
   "https://forums.mtgo.com/index.php?threads/obzedat-ghost-council-is-not-returning-from-exile.922/": {
     "title": "Obzedat, Ghost Council is not returning from exile",
     "url": "https://forums.mtgo.com/index.php?threads/obzedat-ghost-council-is-not-returning-from-exile.922/",
-    "status": "Backlog",
+    "status": "Confirmed",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/bug-emrakul-the-promised-end-does-not-grant-more-extra-turns-if-cast-multiple-times-on-the-same-turn.1906/": {
@@ -6722,7 +6722,7 @@
   "https://forums.mtgo.com/index.php?threads/ob-nixilis-casualty-bug-ob-nixilis-esikas-chariot-bug.855/": {
     "title": "Ob Nixilis Casualty Bug + Ob Nixilis & Esika's Chariot Bug",
     "url": "https://forums.mtgo.com/index.php?threads/ob-nixilis-casualty-bug-ob-nixilis-esikas-chariot-bug.855/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/mana-leak-effects-wont-take-no-for-an-answer.2381/": {
@@ -6770,7 +6770,7 @@
   "https://forums.mtgo.com/index.php?threads/thraben-charm-not-required-to-choose-flagbearer-as-target-when-its-a-legal-target.2316/": {
     "title": "Thraben Charm not required to choose Flagbearer as target when it's a legal target",
     "url": "https://forums.mtgo.com/index.php?threads/thraben-charm-not-required-to-choose-flagbearer-as-target-when-its-a-legal-target.2316/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/amalia-loop-combo-never-ends.2008/": {
@@ -6974,7 +6974,7 @@
   "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bugged-in-at-least-two-ways.330/": {
     "title": "Volrath's Shapeshifter bugged in at least two ways",
     "url": "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bugged-in-at-least-two-ways.330/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/not-dead-after-all-and-fable-of-the-mirror-breaker.1757/": {
@@ -6992,7 +6992,7 @@
   "https://forums.mtgo.com/index.php?threads/confounding-conundrum-w-field-of-ruin-effects.379/": {
     "title": "Confounding Conundrum w/ Field of Ruin Effects",
     "url": "https://forums.mtgo.com/index.php?threads/confounding-conundrum-w-field-of-ruin-effects.379/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/see-double-didnt-copy-creature-spell.1766/": {
@@ -7964,7 +7964,7 @@
   "https://forums.mtgo.com/index.php?threads/spinning-darkness-not-always-castable-for-its-alternate-cost.2539/": {
     "title": "Spinning Darkness Not Always Castable for its Alternate Cost",
     "url": "https://forums.mtgo.com/index.php?threads/spinning-darkness-not-always-castable-for-its-alternate-cost.2539/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/reconfigured-permanents-retain-creature-types.2538/": {
@@ -8924,13 +8924,13 @@
   "https://forums.mtgo.com/index.php?threads/cannot-activate-ninjutsu-in-block-step.2699/": {
     "title": "Cannot activate Ninjutsu in Block step",
     "url": "https://forums.mtgo.com/index.php?threads/cannot-activate-ninjutsu-in-block-step.2699/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/lunar-insight-bug.2713/": {
     "title": "Lunar Insight BUG",
     "url": "https://forums.mtgo.com/index.php?threads/lunar-insight-bug.2713/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/pacifism-not-legal-in-standard.2701/": {
@@ -8942,7 +8942,7 @@
   "https://forums.mtgo.com/index.php?threads/a-bunch-of-cards-legal-in-standard-labeled-as-not-legal.2711/": {
     "title": "A bunch of cards legal in Standard labeled as \"not legal\"",
     "url": "https://forums.mtgo.com/index.php?threads/a-bunch-of-cards-legal-in-standard-labeled-as-not-legal.2711/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/grave-scrabblers-ability-doesnt-trigger-when-entering-after-being-cast-for-its-madness-cost.2684/": {
@@ -9266,7 +9266,7 @@
   "https://forums.mtgo.com/index.php?threads/a-number-of-old-cards-dont-have-their-security-stamp-anymore.2718/": {
     "title": "A number of old cards don't have their security stamp anymore.",
     "url": "https://forums.mtgo.com/index.php?threads/a-number-of-old-cards-dont-have-their-security-stamp-anymore.2718/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/cannot-join-or-host-create-a-commander-game.2705/": {
