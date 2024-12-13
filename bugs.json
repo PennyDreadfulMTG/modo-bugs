@@ -598,7 +598,7 @@
     "card": "Words of Worship",
     "description": "Words of Worship causes the game to restart when you activate it for the draw for turn",
     "category": "Game Breaking",
-    "last_updated": "2024-09-13 22:52:04",
+    "last_updated": "2024-12-12 18:12:43",
     "issue_number": 1046,
     "pd_legal": true,
     "bug_blog": false,
@@ -606,8 +606,7 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1046",
     "support_thread": "https://forums.mtgo.com/index.php?threads/words-of-wisdom-makes-the-game-crash.1339/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Selvala, Explorer Returned",
@@ -2513,7 +2512,7 @@
     "card": "Volrath's Shapeshifter",
     "description": "Volrath's Shapeshifter does not function as intended.",
     "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:53:03",
+    "last_updated": "2024-12-12 18:13:17",
     "issue_number": 836,
     "pd_legal": true,
     "bug_blog": false,
@@ -2521,8 +2520,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/836",
     "support_thread": "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bugged-in-at-least-two-ways.330/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Multani's Presence",
@@ -4749,7 +4747,7 @@
     "card": "Unscythe, Killer of Kings",
     "description": "Unscythe, Killer of Kings and Scythe of the Wretched trigger when unequipped, bringing any dead creatures back",
     "category": "Advantageous",
-    "last_updated": "2024-09-13 22:54:02",
+    "last_updated": "2024-12-12 18:13:43",
     "issue_number": 62,
     "pd_legal": true,
     "bug_blog": false,
@@ -4757,14 +4755,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/62",
     "support_thread": "https://forums.mtgo.com/index.php?threads/scythe-of-the-wretched-and-unscythe-killer-of-kings-trigger-on-every-death.50/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Scythe of the Wretched",
     "description": "Unscythe, Killer of Kings and Scythe of the Wretched trigger when unequipped, bringing any dead creatures back",
     "category": "Advantageous",
-    "last_updated": "2024-09-13 22:54:02",
+    "last_updated": "2024-12-12 18:13:43",
     "issue_number": 62,
     "pd_legal": true,
     "bug_blog": false,
@@ -4772,8 +4769,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/62",
     "support_thread": "https://forums.mtgo.com/index.php?threads/scythe-of-the-wretched-and-unscythe-killer-of-kings-trigger-on-every-death.50/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Island Sanctuary",
