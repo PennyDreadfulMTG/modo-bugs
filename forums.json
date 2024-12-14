@@ -9340,5 +9340,125 @@
     "url": "https://forums.mtgo.com/index.php?threads/march-of-otherworldly-light-can-exile-anything-when-cast-for-free-with-amped-raptor.2794/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/angels-grace-vs-tendrils-of-agony-lose-game.2815/": {
+    "title": "Angel's Grace vs Tendrils of Agony = Lose game",
+    "url": "https://forums.mtgo.com/index.php?threads/angels-grace-vs-tendrils-of-agony-lose-game.2815/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/palantir-of-orthanc-scry-ability-doesnt-trigger-when-opponent-has-protection-hexproof.2799/": {
+    "title": "Palantir of Orthanc Scry Ability Doesn't Trigger when Opponent has Protection/Hexproof",
+    "url": "https://forums.mtgo.com/index.php?threads/palantir-of-orthanc-scry-ability-doesnt-trigger-when-opponent-has-protection-hexproof.2799/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/issues-with-patron-of-the-nezumi.2803/": {
+    "title": "Issues with Patron of the Nezumi",
+    "url": "https://forums.mtgo.com/index.php?threads/issues-with-patron-of-the-nezumi.2803/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/samwise-unable-to-return-cards-sacrificed-to-valgavoth-ward-trigger.2804/": {
+    "title": "Samwise unable to return cards sacrificed to Valgavoth ward trigger",
+    "url": "https://forums.mtgo.com/index.php?threads/samwise-unable-to-return-cards-sacrificed-to-valgavoth-ward-trigger.2804/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/crash-when-opening-trade-binder-90-of-the-time.2811/": {
+    "title": "Crash when opening trade binder 90% of the time",
+    "url": "https://forums.mtgo.com/index.php?threads/crash-when-opening-trade-binder-90-of-the-time.2811/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/incorrect-card-counts-during-sideboarding.2678/": {
+    "title": "Incorrect card counts during sideboarding",
+    "url": "https://forums.mtgo.com/index.php?threads/incorrect-card-counts-during-sideboarding.2678/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/attempted-to-block-a-player-and-was-ejected-from-a-league.2816/": {
+    "title": "Attempted to Block a Player and was Ejected from a League",
+    "url": "https://forums.mtgo.com/index.php?threads/attempted-to-block-a-player-and-was-ejected-from-a-league.2816/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/scythe-of-the-wretched.2817/": {
+    "title": "Scythe of the Wretched",
+    "url": "https://forums.mtgo.com/index.php?threads/scythe-of-the-wretched.2817/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/grave-scrabbler.2809/": {
+    "title": "Grave Scrabbler",
+    "url": "https://forums.mtgo.com/index.php?threads/grave-scrabbler.2809/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/robber-of-the-rich-vs-once-upon-a-time.2802/": {
+    "title": "Robber of the Rich vs Once Upon a Time",
+    "url": "https://forums.mtgo.com/index.php?threads/robber-of-the-rich-vs-once-upon-a-time.2802/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/equinox.2329/": {
+    "title": "Equinox",
+    "url": "https://forums.mtgo.com/index.php?threads/equinox.2329/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/you-meet-in-a-tavern-puts-all-cards-into-your-hand.2814/": {
+    "title": "\"You meet in a tavern\" puts all cards into your hand",
+    "url": "https://forums.mtgo.com/index.php?threads/you-meet-in-a-tavern-puts-all-cards-into-your-hand.2814/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/lead-the-stampede-bugged-after-dec-11-downtime.2813/": {
+    "title": "Lead the Stampede bugged after Dec 11 Downtime",
+    "url": "https://forums.mtgo.com/index.php?threads/lead-the-stampede-bugged-after-dec-11-downtime.2813/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/glarb-calamitys-augur-cannot-cast-x-spells-from-top-of-library.2808/": {
+    "title": "glarb, calamity's augur cannot cast X spells from top of library",
+    "url": "https://forums.mtgo.com/index.php?threads/glarb-calamitys-augur-cannot-cast-x-spells-from-top-of-library.2808/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dusk-mangler-entering-does-not-cause-opponents-to-discards.2806/": {
+    "title": "Dusk Mangler entering does not cause opponents to discards",
+    "url": "https://forums.mtgo.com/index.php?threads/dusk-mangler-entering-does-not-cause-opponents-to-discards.2806/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/amped-raptor-put-into-play-via-aether-vial-causes-amped-raptor-trigger-to-resolve-as-if-cast-from-hand.2797/": {
+    "title": "Amped Raptor put into play via Aether Vial causes Amped Raptor trigger to resolve as if cast from hand.",
+    "url": "https://forums.mtgo.com/index.php?threads/amped-raptor-put-into-play-via-aether-vial-causes-amped-raptor-trigger-to-resolve-as-if-cast-from-hand.2797/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ctrl-z-during-lim-duls-vault.2805/": {
+    "title": "Ctrl-Z during Lim-Dul's Vault",
+    "url": "https://forums.mtgo.com/index.php?threads/ctrl-z-during-lim-duls-vault.2805/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/curie-and-phasing-out.2801/": {
+    "title": "Curie and Phasing Out",
+    "url": "https://forums.mtgo.com/index.php?threads/curie-and-phasing-out.2801/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kharn-the-betrayer-blocking-bug-in-edh.2798/": {
+    "title": "Kharn the betrayer blocking bug in EDH",
+    "url": "https://forums.mtgo.com/index.php?threads/kharn-the-betrayer-blocking-bug-in-edh.2798/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cards-being-drawn-face-down.2807/": {
+    "title": "Cards being drawn face down",
+    "url": "https://forums.mtgo.com/index.php?threads/cards-being-drawn-face-down.2807/",
+    "status": "Invalid Game IDs",
+    "tracked": false
   }
 }
