@@ -9458,7 +9458,13 @@
   "https://forums.mtgo.com/index.php?threads/cards-being-drawn-face-down.2807/": {
     "title": "Cards being drawn face down",
     "url": "https://forums.mtgo.com/index.php?threads/cards-being-drawn-face-down.2807/",
-    "status": "Invalid Game IDs",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/myth-realized-and-humility.2820/": {
+    "title": "Myth Realized and Humility",
+    "url": "https://forums.mtgo.com/index.php?threads/myth-realized-and-humility.2820/",
+    "status": "Not A Bug",
     "tracked": false
   }
 }

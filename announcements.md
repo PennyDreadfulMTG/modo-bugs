@@ -1,6 +1,6 @@
 ---
-title: Magic Online Weekly Announcements, December 10, 2024
+title: Magic Online Weekly Announcements, December 17, 2024
 redirect_to:
- - https://www.mtgo.com/news/mtgo-blog-121024
-has_build_notes: True
+ - https://www.mtgo.com/news/mtgo-blog-121724
+has_build_notes: False
 ---
