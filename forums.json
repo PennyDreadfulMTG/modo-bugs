@@ -7263,7 +7263,7 @@
     "title": "Nylea, Keen Eyed Ability Bug",
     "url": "https://forums.mtgo.com/index.php?threads/nylea-keen-eyed-ability-bug.339/",
     "status": "Confirmed",
-    "tracked": true
+    "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/polukranos-reborn-frame.887/": {
     "title": "Polukranos Reborn Frame",

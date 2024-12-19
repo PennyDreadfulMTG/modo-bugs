@@ -819,21 +819,6 @@
     "help_wanted": true
   },
   {
-    "card": "Nylea, Keen-Eyed",
-    "description": "Nylea, Keen-Eyed mills all non-creatures it reveals and does not put creatures it reveals into your hand",
-    "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:52:18",
-    "issue_number": 1006,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1006",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/nylea-keen-eyed-ability-bug.339/",
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
     "card": "Reyhan, Last of the Abzan",
     "description": "When Reyhan dies, it puts zero +1/+1 counters on target creature",
     "category": "Disadvantageous",
@@ -2580,7 +2565,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/813",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "The Mirari Conjecture",
