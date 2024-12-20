@@ -9466,5 +9466,77 @@
     "url": "https://forums.mtgo.com/index.php?threads/myth-realized-and-humility.2820/",
     "status": "Backlog",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/humility-and-hallowed-haunting.2824/": {
+    "title": "Humility and Hallowed Haunting",
+    "url": "https://forums.mtgo.com/index.php?threads/humility-and-hallowed-haunting.2824/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/creature-mutated-onto-went-to-the-graveyard-with-a-void-counter-while-dauthi-voidwalker-was-in-play.2819/": {
+    "title": "Creature mutated onto went to the graveyard with a void counter while Dauthi Voidwalker was in play",
+    "url": "https://forums.mtgo.com/index.php?threads/creature-mutated-onto-went-to-the-graveyard-with-a-void-counter-while-dauthi-voidwalker-was-in-play.2819/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mtgo-not-responding-and-costing-me-a-game-i-shouldve-won.2836/": {
+    "title": "MTGO not responding and costing me a game i should've won",
+    "url": "https://forums.mtgo.com/index.php?threads/mtgo-not-responding-and-costing-me-a-game-i-shouldve-won.2836/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mtgo-client-crashed-again.2823/": {
+    "title": "MTGO Client crashed again",
+    "url": "https://forums.mtgo.com/index.php?threads/mtgo-client-crashed-again.2823/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/grave-scrabbler-played-with-its-madness-cost-does-not-seem-to-trigger-its-recursion.2825/": {
+    "title": "Grave Scrabbler played with its madness cost does not seem to trigger its recursion",
+    "url": "https://forums.mtgo.com/index.php?threads/grave-scrabbler-played-with-its-madness-cost-does-not-seem-to-trigger-its-recursion.2825/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/synthetic-destiny.2827/": {
+    "title": "Synthetic Destiny",
+    "url": "https://forums.mtgo.com/index.php?threads/synthetic-destiny.2827/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/triggered-abilities-tracking-incorrectly-copying-silent-hallcreeper.2835/": {
+    "title": "Triggered Abilities Tracking Incorrectly (Copying Silent Hallcreeper)",
+    "url": "https://forums.mtgo.com/index.php?threads/triggered-abilities-tracking-incorrectly-copying-silent-hallcreeper.2835/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gitaxian-probe-reveals-the-targeted-players-hand-to-everyone-in-multiplayer-in-the-game-log.2834/": {
+    "title": "Gitaxian Probe reveals the targeted players hand to everyone in multiplayer in the game log",
+    "url": "https://forums.mtgo.com/index.php?threads/gitaxian-probe-reveals-the-targeted-players-hand-to-everyone-in-multiplayer-in-the-game-log.2834/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/avacyns-judgement-improper-madness-damage-distribution.2832/": {
+    "title": "Avacyn's Judgement Improper 'Madness Damage' Distribution",
+    "url": "https://forums.mtgo.com/index.php?threads/avacyns-judgement-improper-madness-damage-distribution.2832/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/forging-the-anchor-only-let-me-pick-one-card.2831/": {
+    "title": "Forging the Anchor only let me pick one card",
+    "url": "https://forums.mtgo.com/index.php?threads/forging-the-anchor-only-let-me-pick-one-card.2831/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/leyline-of-transformation-on-elf-makes-the-game-lag-really-badly.2830/": {
+    "title": "Leyline of Transformation on elf makes the game lag really badly",
+    "url": "https://forums.mtgo.com/index.php?threads/leyline-of-transformation-on-elf-makes-the-game-lag-really-badly.2830/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mechanized-production.2829/": {
+    "title": "mechanized production.",
+    "url": "https://forums.mtgo.com/index.php?threads/mechanized-production.2829/",
+    "status": "No Game IDs",
+    "tracked": false
   }
 }
