@@ -1,5 +1,19 @@
 [
   {
+    "card": "Card Name",
+    "description": "Restless spire emerge bug",
+    "category": "Disadvantageous",
+    "last_updated": "2024-12-21 18:12:11",
+    "issue_number": 1126,
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1126",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
+    "last_verified": null
+  },
+  {
     "card": "Wheel of Sun and Moon",
     "description": "Wheel of Sun and Moon stops Oni-Cult Anvil from creating tokens when an artifact is sacrificed",
     "category": "Advantageous",
