@@ -9389,12 +9389,6 @@
     "status": "Backlog",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/grave-scrabbler.2809/": {
-    "title": "Grave Scrabbler",
-    "url": "https://forums.mtgo.com/index.php?threads/grave-scrabbler.2809/",
-    "status": "Backlog",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/robber-of-the-rich-vs-once-upon-a-time.2802/": {
     "title": "Robber of the Rich vs Once Upon a Time",
     "url": "https://forums.mtgo.com/index.php?threads/robber-of-the-rich-vs-once-upon-a-time.2802/",
@@ -9489,12 +9483,6 @@
     "title": "MTGO Client crashed again",
     "url": "https://forums.mtgo.com/index.php?threads/mtgo-client-crashed-again.2823/",
     "status": "Could Not Reproduce",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/grave-scrabbler-played-with-its-madness-cost-does-not-seem-to-trigger-its-recursion.2825/": {
-    "title": "Grave Scrabbler played with its madness cost does not seem to trigger its recursion",
-    "url": "https://forums.mtgo.com/index.php?threads/grave-scrabbler-played-with-its-madness-cost-does-not-seem-to-trigger-its-recursion.2825/",
-    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/synthetic-destiny.2827/": {

@@ -1,5 +1,33 @@
 [
   {
+    "card": "Agitator Ant",
+    "description": "Agitator Ant only lets one opponent put counters on their creature",
+    "category": "Disadvantageous",
+    "last_updated": "2024-12-23 18:12:14",
+    "issue_number": 1128,
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1128",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
+    "last_verified": null
+  },
+  {
+    "card": "The Mindskinner",
+    "description": "Mindskinner causes opponent's damage to also be dealt as mill in multiplayer",
+    "category": "Advantageous",
+    "last_updated": "2024-12-23 18:12:17",
+    "issue_number": 1127,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1127",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
+    "last_verified": null
+  },
+  {
     "card": "Our Market Research Shows That Players Like Really Long Card Names So We Made this Card to Have the Absolute Longest Card Name Ever Elemental",
     "description": "Restless spire emerge bug",
     "category": "Disadvantageous",
