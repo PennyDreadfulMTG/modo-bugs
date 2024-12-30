@@ -4341,16 +4341,15 @@
     "card": "Compulsive Research",
     "description": "Dredging rather than drawing can let you avoid discarding in a specific case",
     "category": "Advantageous",
-    "last_updated": "2024-09-13 22:53:53",
+    "last_updated": "2024-12-30 18:13:36",
     "issue_number": 249,
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/249",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "support_thread": "https://forums.mtgo.com/index.php?threads/dredging-rather-than-drawing-can-let-you-avoid-discarding.2870/",
+    "last_verified": null
   },
   {
     "card": "Volcano Hellion",
