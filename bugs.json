@@ -1,5 +1,19 @@
 [
   {
+    "card": "Sanctum Prelate",
+    "description": "Sanctum Prelate does not prevent casting X spells that have \"with mana value X\" wording",
+    "category": "Disadvantageous",
+    "last_updated": "2025-01-01 18:12:07",
+    "issue_number": 1129,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1129",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/sanctum-prelate-does-not-prevent-casting-x-spells-that-have-with-mana-value-x-wording.2876/",
+    "last_verified": null
+  },
+  {
     "card": "Agitator Ant",
     "description": "Agitator Ant only lets one opponent put counters on their creature",
     "category": "Disadvantageous",
