@@ -9532,5 +9532,35 @@
     "url": "https://forums.mtgo.com/index.php?threads/world-breakers-ability.2858/",
     "status": "Not A Bug",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/you-meet-in-a-tavern-not-legal-in-pauper.2875/": {
+    "title": "[[You Meet In a Tavern]] Not legal in pauper",
+    "url": "https://forums.mtgo.com/index.php?threads/you-meet-in-a-tavern-not-legal-in-pauper.2875/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/deck-not-editable-or-visible-after-vintage-cube-draft.2845/": {
+    "title": "Deck not editable (or visible) after Vintage Cube Draft",
+    "url": "https://forums.mtgo.com/index.php?threads/deck-not-editable-or-visible-after-vintage-cube-draft.2845/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/territory-forge-bug.2853/": {
+    "title": "Territory Forge bug",
+    "url": "https://forums.mtgo.com/index.php?threads/territory-forge-bug.2853/",
+    "status": "No Game IDs",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/duress-bugged-with-sink-into-stupor.2860/": {
+    "title": "Duress bugged with Sink into Stupor",
+    "url": "https://forums.mtgo.com/index.php?threads/duress-bugged-with-sink-into-stupor.2860/",
+    "status": "No Game IDs",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ashen-ghoul.2852/": {
+    "title": "Ashen Ghoul",
+    "url": "https://forums.mtgo.com/index.php?threads/ashen-ghoul.2852/",
+    "status": "No Game IDs",
+    "tracked": false
   }
 }

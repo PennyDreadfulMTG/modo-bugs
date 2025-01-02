@@ -3,7 +3,7 @@
     "card": "Sanctum Prelate",
     "description": "Sanctum Prelate does not prevent casting X spells that have \"with mana value X\" wording",
     "category": "Disadvantageous",
-    "last_updated": "2025-01-01 18:12:07",
+    "last_updated": "2025-01-01 18:12:08",
     "issue_number": 1129,
     "pd_legal": true,
     "bug_blog": false,
