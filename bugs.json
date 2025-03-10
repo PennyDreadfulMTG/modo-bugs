@@ -1,17 +1,60 @@
 [
   {
+    "card": "Spellbook Vendor",
+    "description": "Spellbook Vendor causes the game to restart when you create a second role token.",
+    "category": "Game Breaking",
+    "last_updated": "2025-03-10 23:03:21",
+    "issue_number": 1132,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1132",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/spellbook-vendor-creating-multiple-role-tokens-causes-game-to-restart.3078/",
+    "last_verified": null
+  },
+  {
+    "card": "Startled Awake",
+    "description": "Startled Awake",
+    "category": "Disadvantageous",
+    "last_updated": "2025-03-10 23:03:29",
+    "issue_number": 1131,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1131",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
+    "last_verified": null
+  },
+  {
+    "card": "Our Market Research Shows That Players Like Really Long Card Names So We Made this Card to Have the Absolute Longest Card Name Ever Elemental",
+    "description": "future sight border cards crash the game",
+    "category": "Game Breaking",
+    "last_updated": "2025-01-21 20:42:04",
+    "issue_number": 1130,
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": true,
+    "bannable": true,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1130",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
+    "last_verified": null
+  },
+  {
     "card": "Sanctum Prelate",
     "description": "Sanctum Prelate does not prevent casting X spells that have \"with mana value X\" wording",
     "category": "Disadvantageous",
     "last_updated": "2025-01-01 18:12:08",
     "issue_number": 1129,
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1129",
     "support_thread": "https://forums.mtgo.com/index.php?threads/sanctum-prelate-does-not-prevent-casting-x-spells-that-have-with-mana-value-x-wording.2876/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Agitator Ant",
@@ -25,7 +68,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1128",
     "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "The Mindskinner",
@@ -39,7 +83,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1127",
     "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Our Market Research Shows That Players Like Really Long Card Names So We Made this Card to Have the Absolute Longest Card Name Ever Elemental",
@@ -53,7 +98,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1126",
     "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Wheel of Sun and Moon",
@@ -67,7 +113,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1125",
     "support_thread": "https://forums.mtgo.com/index.php?threads/wheel-of-sun-and-moon-stops-oni-cult-anvil-from-creating-tokens-when-an-artifact-is-sacrificed.2786/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Oni-Cult Anvil",
@@ -75,13 +122,14 @@
     "category": "Advantageous",
     "last_updated": "2024-12-03 18:12:16",
     "issue_number": 1125,
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1125",
     "support_thread": "https://forums.mtgo.com/index.php?threads/wheel-of-sun-and-moon-stops-oni-cult-anvil-from-creating-tokens-when-an-artifact-is-sacrificed.2786/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Grave Scrabbler",
@@ -95,7 +143,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1124",
     "support_thread": "https://forums.mtgo.com/index.php?threads/grave-scrabblers-ability-doesnt-trigger-when-entering-after-being-cast-for-its-madness-cost.2684/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Welcome to the Fold",
@@ -109,7 +158,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1124",
     "support_thread": "https://forums.mtgo.com/index.php?threads/grave-scrabblers-ability-doesnt-trigger-when-entering-after-being-cast-for-its-madness-cost.2684/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Avacyn's Judgment",
@@ -123,7 +173,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1124",
     "support_thread": "https://forums.mtgo.com/index.php?threads/grave-scrabblers-ability-doesnt-trigger-when-entering-after-being-cast-for-its-madness-cost.2684/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "From Under the Floorboards",
@@ -137,7 +188,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1124",
     "support_thread": "https://forums.mtgo.com/index.php?threads/grave-scrabblers-ability-doesnt-trigger-when-entering-after-being-cast-for-its-madness-cost.2684/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Out of Time",
@@ -310,7 +362,7 @@
     "category": "Avoidable Game Breaking",
     "last_updated": "2024-09-13 22:51:41",
     "issue_number": 1104,
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -386,7 +438,7 @@
     "category": "Advantageous",
     "last_updated": "2024-09-13 22:51:47",
     "issue_number": 1095,
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -431,7 +483,7 @@
     "category": "Advantageous",
     "last_updated": "2024-09-13 22:51:47",
     "issue_number": 1095,
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -497,21 +549,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1094",
     "support_thread": "https://forums.mtgo.com/index.php?threads/disrupting-shoal-counters-spells-of-any-mana-value-when-cast-from-as-foretold.1677/",
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Falkenrath Gorger",
-    "description": "Falkenrath Gorger doesn't trigger madness",
-    "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:51:51",
-    "issue_number": 1092,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1092",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/falkenrath-gorger-doesnt-trigger-madness.1014/#post-2482",
     "last_verified": null,
     "help_wanted": true
   },
@@ -663,7 +700,8 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1046",
     "support_thread": "https://forums.mtgo.com/index.php?threads/words-of-wisdom-makes-the-game-crash.1339/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Selvala, Explorer Returned",
@@ -752,7 +790,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1031",
     "support_thread": "https://forums.mtgo.com/index.php?threads/rain-of-gore-hoses-lifelink.1114/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Conundrum Sphinx",
@@ -796,7 +835,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1027",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Rigo, Streetwise Mentor",
@@ -850,7 +890,7 @@
     "category": "Disadvantageous",
     "last_updated": "2024-09-13 22:52:16",
     "issue_number": 1017,
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -1015,7 +1055,7 @@
     "category": "Disadvantageous",
     "last_updated": "2024-10-04 18:12:46",
     "issue_number": 996,
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -1066,7 +1106,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/993",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Play with Fire",
@@ -1080,7 +1121,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/992",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Provoke the Trolls",
@@ -1088,13 +1130,14 @@
     "category": "Advantageous",
     "last_updated": "2024-11-22 18:12:53",
     "issue_number": 992,
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/992",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Entrails Feaster",
@@ -1207,7 +1250,7 @@
     "category": "Advantageous",
     "last_updated": "2024-09-13 22:52:30",
     "issue_number": 980,
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -1327,13 +1370,14 @@
     "category": "Graphical",
     "last_updated": "2024-11-22 18:12:58",
     "issue_number": 978,
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/978",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Channel",
@@ -1356,7 +1400,7 @@
     "category": "Disadvantageous",
     "last_updated": "2024-10-04 18:12:57",
     "issue_number": 975,
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -1401,7 +1445,7 @@
     "category": "Advantageous",
     "last_updated": "2023-06-26 13:18:32",
     "issue_number": 972,
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -1881,7 +1925,7 @@
     "category": "Disadvantageous",
     "last_updated": "2024-09-13 22:52:52",
     "issue_number": 919,
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -1911,7 +1955,7 @@
     "category": "Disadvantageous",
     "last_updated": "2024-09-13 22:52:52",
     "issue_number": 919,
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -1941,7 +1985,7 @@
     "category": "Disadvantageous",
     "last_updated": "2024-09-13 22:52:52",
     "issue_number": 919,
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -2061,7 +2105,7 @@
     "category": "Disadvantageous",
     "last_updated": "2024-09-13 22:52:52",
     "issue_number": 919,
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -2322,7 +2366,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/890",
     "support_thread": "https://forums.mtgo.com/index.php?threads/kunoros-hound-of-athreoss-static-ability-is-incorrectly-applied-when-it-enters-alongside-other-creatures.2768/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Retribution of the Ancients",
@@ -2406,7 +2451,7 @@
     "category": "Advantageous",
     "last_updated": "2024-10-04 18:13:08",
     "issue_number": 863,
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -2466,7 +2511,7 @@
     "category": "Disadvantageous",
     "last_updated": "2024-02-16 07:54:58",
     "issue_number": 851,
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -2554,7 +2599,7 @@
     "card": "Volrath's Shapeshifter",
     "description": "Volrath's Shapeshifter does not function as intended.",
     "category": "Disadvantageous",
-    "last_updated": "2024-12-12 18:13:17",
+    "last_updated": "2025-03-05 19:11:43",
     "issue_number": 836,
     "pd_legal": true,
     "bug_blog": false,
@@ -2690,7 +2735,7 @@
     "category": "Advantageous",
     "last_updated": "2024-09-13 22:53:07",
     "issue_number": 805,
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -2780,7 +2825,7 @@
     "category": "Advantageous",
     "last_updated": "2024-09-13 22:53:07",
     "issue_number": 805,
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -2915,7 +2960,7 @@
     "category": "Advantageous",
     "last_updated": "2024-09-13 22:53:11",
     "issue_number": 770,
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -3110,7 +3155,7 @@
     "category": "Advantageous",
     "last_updated": "2024-09-13 22:53:17",
     "issue_number": 689,
-    "pd_legal": true,
+    "pd_legal": false,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
@@ -3291,13 +3336,14 @@
     "category": "Unclassified",
     "last_updated": "2024-11-22 18:13:17",
     "issue_number": 640,
-    "pd_legal": false,
+    "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/640",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Porphyry Nodes",
@@ -3311,7 +3357,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/639",
     "support_thread": "https://forums.mtgo.com/index.php?threads/porphyry-nodes-allows-a-creature-to-regenerate-if-its-tied-for-the-least-power.2702/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Crackling Drake",
@@ -3385,21 +3432,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/618",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Nullstone Gargoyle",
-    "description": "Nullstone Gargoyle counters all noncreature spells cast",
-    "category": "Advantageous",
-    "last_updated": "2024-10-11 09:45:42",
-    "issue_number": 615,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/615",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/nullstone-gargoyle-counters-every-spell.1817/",
     "last_verified": null,
     "help_wanted": true
   },
@@ -3846,7 +3878,7 @@
     "card": "Fork in the Road",
     "description": "Spells like Cultivate fail to display the destination zones of the chosen lands in the game log.",
     "category": "Graphical",
-    "last_updated": "2024-09-13 22:53:39",
+    "last_updated": "2025-01-23 07:15:00",
     "issue_number": 401,
     "pd_legal": true,
     "bug_blog": false,
@@ -3854,14 +3886,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Cultivate",
     "description": "Spells like Cultivate fail to display the destination zones of the chosen lands in the game log.",
     "category": "Graphical",
-    "last_updated": "2024-09-13 22:53:39",
+    "last_updated": "2025-01-23 07:15:00",
     "issue_number": 401,
     "pd_legal": true,
     "bug_blog": false,
@@ -3869,44 +3900,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Kodama's Reach",
     "description": "Spells like Cultivate fail to display the destination zones of the chosen lands in the game log.",
     "category": "Graphical",
-    "last_updated": "2024-09-13 22:53:39",
-    "issue_number": 401,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Peregrination",
-    "description": "Spells like Cultivate fail to display the destination zones of the chosen lands in the game log.",
-    "category": "Graphical",
-    "last_updated": "2024-09-13 22:53:39",
-    "issue_number": 401,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Realms Uncharted",
-    "description": "Spells like Cultivate fail to display the destination zones of the chosen lands in the game log.",
-    "category": "Graphical",
-    "last_updated": "2024-09-13 22:53:39",
+    "last_updated": "2025-01-23 07:15:00",
     "issue_number": 401,
     "pd_legal": true,
     "bug_blog": false,
@@ -3914,8 +3914,35 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
+  },
+  {
+    "card": "Peregrination",
+    "description": "Spells like Cultivate fail to display the destination zones of the chosen lands in the game log.",
+    "category": "Graphical",
+    "last_updated": "2025-01-23 07:15:00",
+    "issue_number": 401,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
+    "last_verified": null
+  },
+  {
+    "card": "Realms Uncharted",
+    "description": "Spells like Cultivate fail to display the destination zones of the chosen lands in the game log.",
+    "category": "Graphical",
+    "last_updated": "2025-01-23 07:15:00",
+    "issue_number": 401,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
+    "last_verified": null
   },
   {
     "card": "Nahiri's Wrath",
@@ -4161,14 +4188,14 @@
     "card": "Overwhelming Splendor",
     "description": "Creatures with ascend can still grant the City's Blessing with Overwhelming Splendor on the battlefield.",
     "category": "Disadvantageous",
-    "last_updated": "2024-11-22 18:13:28",
+    "last_updated": "2025-01-20 16:34:11",
     "issue_number": 297,
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/297",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/creatures-with-ascend-still-grant-the-citys-blessing-when-controller-is-enchanted-with-overwhelming-splendor.2925/",
     "last_verified": null
   },
   {
@@ -4363,7 +4390,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/249",
     "support_thread": "https://forums.mtgo.com/index.php?threads/dredging-rather-than-drawing-can-let-you-avoid-discarding.2870/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Volcano Hellion",
@@ -4724,34 +4752,6 @@
     "support_thread": null,
     "last_verified": null,
     "help_wanted": true
-  },
-  {
-    "card": "Unscythe, Killer of Kings",
-    "description": "Unscythe, Killer of Kings and Scythe of the Wretched trigger when unequipped, bringing any dead creatures back",
-    "category": "Advantageous",
-    "last_updated": "2024-12-12 18:13:43",
-    "issue_number": 62,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/62",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/scythe-of-the-wretched-and-unscythe-killer-of-kings-trigger-on-every-death.50/",
-    "last_verified": null
-  },
-  {
-    "card": "Scythe of the Wretched",
-    "description": "Unscythe, Killer of Kings and Scythe of the Wretched trigger when unequipped, bringing any dead creatures back",
-    "category": "Advantageous",
-    "last_updated": "2024-12-12 18:13:43",
-    "issue_number": 62,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/62",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/scythe-of-the-wretched-and-unscythe-killer-of-kings-trigger-on-every-death.50/",
-    "last_verified": null
   },
   {
     "card": "Island Sanctuary",
