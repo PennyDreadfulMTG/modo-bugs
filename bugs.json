@@ -3,7 +3,7 @@
     "card": "Spellbook Vendor",
     "description": "Spellbook Vendor causes the game to restart when you create a second role token.",
     "category": "Game Breaking",
-    "last_updated": "2025-03-10 23:03:21",
+    "last_updated": "2025-03-10 23:03:28",
     "issue_number": 1132,
     "pd_legal": true,
     "bug_blog": false,
@@ -17,7 +17,7 @@
     "card": "Startled Awake",
     "description": "Startled Awake",
     "category": "Disadvantageous",
-    "last_updated": "2025-03-10 23:03:29",
+    "last_updated": "2025-03-10 23:03:30",
     "issue_number": 1131,
     "pd_legal": true,
     "bug_blog": false,
@@ -45,7 +45,7 @@
     "card": "Sanctum Prelate",
     "description": "Sanctum Prelate does not prevent casting X spells that have \"with mana value X\" wording",
     "category": "Disadvantageous",
-    "last_updated": "2025-01-01 18:12:08",
+    "last_updated": "2025-03-10 23:03:39",
     "issue_number": 1129,
     "pd_legal": false,
     "bug_blog": false,
@@ -53,8 +53,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1129",
     "support_thread": "https://forums.mtgo.com/index.php?threads/sanctum-prelate-does-not-prevent-casting-x-spells-that-have-with-mana-value-x-wording.2876/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Agitator Ant",
@@ -538,25 +537,10 @@
     "help_wanted": true
   },
   {
-    "card": "As Foretold",
-    "description": "Disrupting Shoal counters spells of any mana value when cast from As Foretold",
-    "category": "Advantageous",
-    "last_updated": "2024-09-13 22:51:49",
-    "issue_number": 1094,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1094",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/disrupting-shoal-counters-spells-of-any-mana-value-when-cast-from-as-foretold.1677/",
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
     "card": "Florian, Voldaren Scion",
     "description": "Agonizing Remorse + Florian, Voldaren Scion puts the opponent's hand on the bottom of their library if the opponent is dealt no damage on that turn",
     "category": "Advantageous",
-    "last_updated": "2024-09-13 22:51:53",
+    "last_updated": "2025-03-10 23:04:14",
     "issue_number": 1071,
     "pd_legal": true,
     "bug_blog": false,
@@ -564,8 +548,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1071",
     "support_thread": "https://forums.mtgo.com/index.php?threads/florian-voldaren-scion-agonizing-remorse-shuffles-each-opponents-revealed-card-into-their-library.673/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Inquisition of Kozilek",
@@ -670,21 +653,6 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1048",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Consuming Tide",
-    "description": "Consuming tide returns the chosen permanents, not all others.",
-    "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:52:02",
-    "issue_number": 1047,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1047",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/consuming-tide-is-not-working-as-it-should.99/",
     "last_verified": null,
     "help_wanted": true
   },
@@ -1053,7 +1021,7 @@
     "card": "Kamahl's Summons",
     "description": "Kamahl's Summons doesn't allow you to reselect a card to reveal if you deselect it",
     "category": "Disadvantageous",
-    "last_updated": "2024-10-04 18:12:46",
+    "last_updated": "2025-03-10 23:04:32",
     "issue_number": 996,
     "pd_legal": false,
     "bug_blog": false,
@@ -1061,8 +1029,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/996",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Liege of the Hollows",
@@ -1113,7 +1080,7 @@
     "card": "Play with Fire",
     "description": "Cards that have an effect when something is dealt damage by the card do the effect despite damage prevention.",
     "category": "Advantageous",
-    "last_updated": "2024-11-22 18:12:53",
+    "last_updated": "2025-03-10 23:04:37",
     "issue_number": 992,
     "pd_legal": false,
     "bug_blog": false,
@@ -1121,14 +1088,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/992",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Provoke the Trolls",
     "description": "Cards that have an effect when something is dealt damage by the card do the effect despite damage prevention.",
     "category": "Advantageous",
-    "last_updated": "2024-11-22 18:12:53",
+    "last_updated": "2025-03-10 23:04:37",
     "issue_number": 992,
     "pd_legal": false,
     "bug_blog": false,
@@ -1136,8 +1102,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/992",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Entrails Feaster",
@@ -1368,7 +1333,7 @@
     "card": "Soulflayer",
     "description": "Soulflayer doesn't show that it has gained variations of abilities, such as \"Hexproof from Black\".",
     "category": "Graphical",
-    "last_updated": "2024-11-22 18:12:58",
+    "last_updated": "2025-03-10 23:04:43",
     "issue_number": 978,
     "pd_legal": true,
     "bug_blog": false,
@@ -1376,8 +1341,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/978",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Channel",
@@ -1398,7 +1362,7 @@
     "card": "Illusionary Mask",
     "description": "Illusionary Mask doesn't function.",
     "category": "Disadvantageous",
-    "last_updated": "2024-10-04 18:12:57",
+    "last_updated": "2025-03-10 23:04:44",
     "issue_number": 975,
     "pd_legal": true,
     "bug_blog": false,
@@ -1406,8 +1370,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/975",
     "support_thread": "https://forums.mtgo.com/index.php?threads/illusionary-mask-doesn%C2%B4t-work.1540/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Patchwork Crawler",
@@ -1443,7 +1406,7 @@
     "card": "Forbidden Ritual",
     "description": "Forbidden RItual only allows you to do the first option: if you choose not to do the first effect, you do the effect you chose, and then have to choose again",
     "category": "Advantageous",
-    "last_updated": "2023-06-26 13:18:32",
+    "last_updated": "2025-03-10 23:04:47",
     "issue_number": 972,
     "pd_legal": true,
     "bug_blog": false,
@@ -1451,8 +1414,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/972",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Mindblaze",
@@ -1481,21 +1443,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/969",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Diabolic Servitude",
-    "description": "Diabolic Servitude's second ability does not function. (When the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner\u2019s hand.)",
-    "category": "Disadvantageous",
-    "last_updated": "2023-07-02 08:55:05",
-    "issue_number": 964,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/964",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/diabolic-servitude.136/",
     "last_verified": null,
     "help_wanted": true
   },
@@ -2449,7 +2396,7 @@
     "card": "Zhur-Taa Druid",
     "description": "Zhur-Taa Druid does not deal damage when tapped for its ability",
     "category": "Advantageous",
-    "last_updated": "2024-10-04 18:13:08",
+    "last_updated": "2025-03-10 23:05:00",
     "issue_number": 863,
     "pd_legal": true,
     "bug_blog": false,
@@ -2457,8 +2404,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/863",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Damping Engine",
@@ -2509,7 +2455,7 @@
     "card": "Phyrexian Portal",
     "description": "Phyrexian Portal's prompt message is ambiguous whether it's the pile to be exiled or to be searched for, and the rest of the searched pile is put on the bottom instead of being shuffled back in",
     "category": "Disadvantageous",
-    "last_updated": "2024-02-16 07:54:58",
+    "last_updated": "2025-03-10 23:05:01",
     "issue_number": 851,
     "pd_legal": true,
     "bug_blog": false,
@@ -2517,8 +2463,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/851",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Szadek, Lord of Secrets",
@@ -2835,21 +2780,6 @@
     "help_wanted": true
   },
   {
-    "card": "Pithing Needle",
-    "description": "Avatars are incorrectly on the list of cards you can name with cards such as Pithing Needle.",
-    "category": "Unclassified",
-    "last_updated": "2024-09-15 18:13:08",
-    "issue_number": 800,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/800",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/pithing-needle-shows-avatar-congress-and-avatar-hijinks-in-list-of-card-names.2526/",
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
     "card": "Stolen Identity",
     "description": "When a player casts a spell with cipher such as Stolen Identity, the caster incorrect gains priority before it finishes resolving.",
     "category": "Unclassified",
@@ -2958,7 +2888,7 @@
     "card": "Enduring Renewal",
     "description": "Enduring Renewal prevents losing to decking",
     "category": "Advantageous",
-    "last_updated": "2024-09-13 22:53:11",
+    "last_updated": "2025-03-10 23:05:11",
     "issue_number": 770,
     "pd_legal": false,
     "bug_blog": false,
@@ -2966,8 +2896,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/770",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Bloodlord of Vaasgoth",
@@ -3334,7 +3263,7 @@
     "card": "Goblin Electromancer",
     "description": "With two copies of Goblin Electromancer in play, splice costs are incorrectly calculated.",
     "category": "Unclassified",
-    "last_updated": "2024-11-22 18:13:17",
+    "last_updated": "2025-03-10 23:05:16",
     "issue_number": 640,
     "pd_legal": true,
     "bug_blog": false,
@@ -3342,8 +3271,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/640",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Porphyry Nodes",
@@ -3785,21 +3713,6 @@
     "help_wanted": true
   },
   {
-    "card": "Cut // Ribbons",
-    "description": "Split cards such as Cut // Ribbons are reported as 3 cards in the chat log.",
-    "category": "Graphical",
-    "last_updated": "2024-09-13 22:53:37",
-    "issue_number": 444,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/444",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
     "card": "Heir of Falkenrath",
     "description": "If Heir to Falkenrath, Ecstatic Awakener, or Wolfbitten Captive activate their ability, then transform and transform back to the front side in some way, their ability can be activated again in the same turn.",
     "category": "Advantageous",
@@ -4188,7 +4101,7 @@
     "card": "Overwhelming Splendor",
     "description": "Creatures with ascend can still grant the City's Blessing with Overwhelming Splendor on the battlefield.",
     "category": "Disadvantageous",
-    "last_updated": "2025-01-20 16:34:11",
+    "last_updated": "2025-03-10 23:05:31",
     "issue_number": 297,
     "pd_legal": true,
     "bug_blog": false,
@@ -4375,21 +4288,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/251",
     "support_thread": "https://forums.mtgo.com/index.php?threads/orcish-spy-displays-the-top-three-cards-not-in-chronological-order-might-be-displaying-in-alphabetical-order.2174/",
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Compulsive Research",
-    "description": "Dredging rather than drawing can let you avoid discarding in a specific case",
-    "category": "Advantageous",
-    "last_updated": "2024-12-30 18:13:37",
-    "issue_number": 249,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/249",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/dredging-rather-than-drawing-can-let-you-avoid-discarding.2870/",
     "last_verified": null,
     "help_wanted": true
   },
