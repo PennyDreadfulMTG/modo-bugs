@@ -1,16 +1,44 @@
 [
   {
-    "card": "Spellbook Vendor",
-    "description": "Spellbook Vendor causes the game to restart when you create a second role token.",
-    "category": "Game Breaking",
-    "last_updated": "2025-03-10 23:03:28",
-    "issue_number": 1132,
+    "card": "Gyruda, Doom of Depths",
+    "description": "Gyruda, Doom of Depths causes the game to lock when you are enchanted with Wheel of Sun and Moon.",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2025-05-03 20:38:16",
+    "issue_number": 1135,
     "pd_legal": true,
     "bug_blog": false,
-    "breaking": true,
-    "bannable": true,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1132",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/spellbook-vendor-creating-multiple-role-tokens-causes-game-to-restart.3078/",
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1135",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
+    "last_verified": null
+  },
+  {
+    "card": "Wheel of Sun and Moon",
+    "description": "Gyruda, Doom of Depths causes the game to lock when you are enchanted with Wheel of Sun and Moon.",
+    "category": "Avoidable Game Breaking",
+    "last_updated": "2025-05-03 20:38:16",
+    "issue_number": 1135,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1135",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
+    "last_verified": null
+  },
+  {
+    "card": "Bronzehide Lion",
+    "description": "Bronzehide Lion returns to the battlefield even if there is no target",
+    "category": "Advantageous",
+    "last_updated": "2025-05-03 20:38:23",
+    "issue_number": 1134,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1134",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
     "last_verified": null
   },
   {
@@ -39,7 +67,8 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1130",
     "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Sanctum Prelate",
@@ -237,9 +266,9 @@
   },
   {
     "card": "Ripples of Undeath",
-    "description": "Paying for ripples of undeath while wheel of sun and moon is in play locks the game.",
+    "description": "Paying for Ripples of Undeath while Wheel of Sun and Moon is in play locks the game.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2024-09-17 18:12:19",
+    "last_updated": "2025-05-02 04:13:35",
     "issue_number": 1117,
     "pd_legal": true,
     "bug_blog": false,
@@ -247,8 +276,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1117",
     "support_thread": "https://forums.mtgo.com/index.php?threads/paying-for-ripples-of-undeath-while-wheel-of-sun-and-moon-is-enchanting-you-locks-the-game.2529/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Amulet of Safekeeping",
@@ -372,9 +400,9 @@
   },
   {
     "card": "Sauron's Ransom",
-    "description": "Sauron's Ransom shows whether face down cards are white-bordered and whether they have \"save-targets\" enabled",
+    "description": "Sauron's Ransom shows whether face down cards are white-bordered",
     "category": "Advantageous",
-    "last_updated": "2024-09-13 22:51:42",
+    "last_updated": "2025-04-06 21:02:49",
     "issue_number": 1103,
     "pd_legal": true,
     "bug_blog": false,
@@ -382,8 +410,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1103",
     "support_thread": "https://forums.mtgo.com/index.php?threads/bug-involving-saurons-ranson-and-cards-with-the-ability-to-%E2%80%9Csave-target%E2%80%9D.2490/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Wheel of Sun and Moon",
@@ -3799,7 +3826,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Cultivate",
@@ -3813,7 +3841,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Kodama's Reach",
@@ -3827,7 +3856,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Peregrination",
@@ -3841,7 +3871,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Realms Uncharted",
@@ -3855,7 +3886,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/401",
     "support_thread": "https://forums.mtgo.com/index.php?threads/cards-that-search-for-multiple-lands-and-put-them-into-different-zones-dont-show-destinations-in-the-game-log.358/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Nahiri's Wrath",
@@ -4220,7 +4252,7 @@
     "card": "Sages of the Anima",
     "description": "Sages of the Anima puts the non-creature cards on top of the library instead of the bottom.",
     "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:53:52",
+    "last_updated": "2025-04-19 20:34:54",
     "issue_number": 288,
     "pd_legal": true,
     "bug_blog": false,
@@ -4228,8 +4260,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/288",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Entreat the Angels",
@@ -4640,16 +4671,15 @@
     "card": "Gideon's Intervention",
     "description": "Casting a second copy of Gideon's Intervention causes the first to allow the named card to deal damage.",
     "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:54:01",
+    "last_updated": "2025-04-08 15:01:59",
     "issue_number": 72,
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/72",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "support_thread": "https://forums.mtgo.com/index.php?threads/if-you-cast-a-second-gideons-intervention-the-first-will-no-longer-prevent-damage.3168/",
+    "last_verified": null
   },
   {
     "card": "Island Sanctuary",

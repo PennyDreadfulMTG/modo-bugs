@@ -1250,7 +1250,7 @@
   "https://forums.mtgo.com/index.php?threads/return-the-favor-cast-on-blue-suns-twilight.2141/": {
     "title": "Return the favor cast on Blue Sun's Twilight",
     "url": "https://forums.mtgo.com/index.php?threads/return-the-favor-cast-on-blue-suns-twilight.2141/",
-    "status": "In Progress",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/bring-to-light-not-resolving-correctly.2143/": {
@@ -1994,7 +1994,7 @@
   "https://forums.mtgo.com/index.php?threads/shifting-woodland-copying-agathas-soul-cauldron-incorrectly-remembers-cards-exiled-on-previous-turns-copying-soul-cauldron.2402/": {
     "title": "Shifting Woodland copying Agatha's Soul Cauldron incorrectly \"remembers\" cards exiled on previous turns copying Soul Cauldron",
     "url": "https://forums.mtgo.com/index.php?threads/shifting-woodland-copying-agathas-soul-cauldron-incorrectly-remembers-cards-exiled-on-previous-turns-copying-soul-cauldron.2402/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/arena-of-glory-giving-colorless-mana-with-exert-ability.2415/": {
@@ -10623,7 +10623,7 @@
     "title": "Spellbook Vendor - creating multiple role tokens causes game to restart",
     "url": "https://forums.mtgo.com/index.php?threads/spellbook-vendor-creating-multiple-role-tokens-causes-game-to-restart.3078/",
     "status": "Confirmed",
-    "tracked": true
+    "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/ephara-didnt-draw-when-rune-tail-flipped.3077/": {
     "title": "Ephara didn't draw when Rune-Tail flipped",
@@ -10641,6 +10641,600 @@
     "title": "Bend or Break doesn't let you choose opponent who makes decision",
     "url": "https://forums.mtgo.com/index.php?threads/bend-or-break-doesnt-let-you-choose-opponent-who-makes-decision.3070/",
     "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/stalwart-successor-does-not-trigger-correctly-with-sage-of-the-fang.3213/": {
+    "title": "Stalwart Successor does not trigger correctly with Sage of the Fang",
+    "url": "https://forums.mtgo.com/index.php?threads/stalwart-successor-does-not-trigger-correctly-with-sage-of-the-fang.3213/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sin-prodder-issue.3195/": {
+    "title": "Sin Prodder issue",
+    "url": "https://forums.mtgo.com/index.php?threads/sin-prodder-issue.3195/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/devotion-on-gods-difficult-to-read-on-special-versions-and-tooltips.3185/": {
+    "title": "Devotion on gods difficult to read on special versions and tooltips",
+    "url": "https://forums.mtgo.com/index.php?threads/devotion-on-gods-difficult-to-read-on-special-versions-and-tooltips.3185/",
+    "status": "No Fix Planned",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/multiple-copies-of-stalwart-successor.3183/": {
+    "title": "Multiple Copies of Stalwart Successor",
+    "url": "https://forums.mtgo.com/index.php?threads/multiple-copies-of-stalwart-successor.3183/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cards-showing-in-collection-filter-even-though-i-dont-own-any-and-quantity-set-to-1.3182/": {
+    "title": "Cards showing in collection filter even though I don't own any and quantity set to 1.",
+    "url": "https://forums.mtgo.com/index.php?threads/cards-showing-in-collection-filter-even-though-i-dont-own-any-and-quantity-set-to-1.3182/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/buggy-zoom-behavior-in-collection.3165/": {
+    "title": "Buggy zoom behavior in collection",
+    "url": "https://forums.mtgo.com/index.php?threads/buggy-zoom-behavior-in-collection.3165/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/securitron-squadron-high-squad-count-causes-draw.3140/": {
+    "title": "Securitron Squadron High Squad Count Causes Draw",
+    "url": "https://forums.mtgo.com/index.php?threads/securitron-squadron-high-squad-count-causes-draw.3140/",
+    "status": "No Fix Planned",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kardur-doomscourge-flips-player-names-when-choosing-attackers.3138/": {
+    "title": "Kardur, Doomscourge flips player names when choosing attackers",
+    "url": "https://forums.mtgo.com/index.php?threads/kardur-doomscourge-flips-player-names-when-choosing-attackers.3138/",
+    "status": "No Fix Planned",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/biovisionary-bugged-based-on-previous-olivia-legendary-vampire-thread.3134/": {
+    "title": "Biovisionary bugged based on previous Olivia Legendary Vampire Thread",
+    "url": "https://forums.mtgo.com/index.php?threads/biovisionary-bugged-based-on-previous-olivia-legendary-vampire-thread.3134/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/olivia-crimson-bride-does-not-work-on-itself-a-legendary-vampire.3127/": {
+    "title": "Olivia, Crimson Bride does not work on itself, a Legendary Vampire",
+    "url": "https://forums.mtgo.com/index.php?threads/olivia-crimson-bride-does-not-work-on-itself-a-legendary-vampire.3127/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mtgo-always-requires-restart-after-computer-was-in-standby-mode.3116/": {
+    "title": "MTGO always requires restart after computer was in standby mode",
+    "url": "https://forums.mtgo.com/index.php?threads/mtgo-always-requires-restart-after-computer-was-in-standby-mode.3116/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/natural-order-drawn-and-greyed-out.3111/": {
+    "title": "Natural Order Drawn and Greyed Out",
+    "url": "https://forums.mtgo.com/index.php?threads/natural-order-drawn-and-greyed-out.3111/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/duel-commander-update-to-version-in-collection.3101/": {
+    "title": "Duel Commander update to version in collection",
+    "url": "https://forums.mtgo.com/index.php?threads/duel-commander-update-to-version-in-collection.3101/",
+    "status": "As Designed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/thraben-charm-cant-be-cast.3222/": {
+    "title": "Thraben Charm can't be cast",
+    "url": "https://forums.mtgo.com/index.php?threads/thraben-charm-cant-be-cast.3222/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/fatal-push-with-flickerwisp.3156/": {
+    "title": "Fatal Push with Flickerwisp",
+    "url": "https://forums.mtgo.com/index.php?threads/fatal-push-with-flickerwisp.3156/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/archaeomancer-triggered-ability-app-crashed.3214/": {
+    "title": "Archaeomancer triggered ability,app crashed",
+    "url": "https://forums.mtgo.com/index.php?threads/archaeomancer-triggered-ability-app-crashed.3214/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/scry-trigger-from-poised-practitioner-is-not-working.3212/": {
+    "title": "Scry trigger from Poised Practitioner is not working",
+    "url": "https://forums.mtgo.com/index.php?threads/scry-trigger-from-poised-practitioner-is-not-working.3212/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/trophy-number-not-increasing-correctly.3180/": {
+    "title": "Trophy number not increasing correctly",
+    "url": "https://forums.mtgo.com/index.php?threads/trophy-number-not-increasing-correctly.3180/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/trade-window-wont-open.3173/": {
+    "title": "Trade Window Won't Open",
+    "url": "https://forums.mtgo.com/index.php?threads/trade-window-wont-open.3173/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/roll-dice-bug.3162/": {
+    "title": "Roll dice bug",
+    "url": "https://forums.mtgo.com/index.php?threads/roll-dice-bug.3162/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/25-cards-sb.3159/": {
+    "title": "25 Cards SB",
+    "url": "https://forums.mtgo.com/index.php?threads/25-cards-sb.3159/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/farewell-would-not-allow-me-to-cast.3157/": {
+    "title": "Farewell would not allow me to cast",
+    "url": "https://forums.mtgo.com/index.php?threads/farewell-would-not-allow-me-to-cast.3157/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/opponent-able-to-grab-cards-from-sideboard-using-karn-while-controlling-with-emrakul.3122/": {
+    "title": "Opponent able to grab cards from sideboard using Karn while controlling with Emrakul",
+    "url": "https://forums.mtgo.com/index.php?threads/opponent-able-to-grab-cards-from-sideboard-using-karn-while-controlling-with-emrakul.3122/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/archdruids-charm-does-not-work.3110/": {
+    "title": "archdruid's charm does not work",
+    "url": "https://forums.mtgo.com/index.php?threads/archdruids-charm-does-not-work.3110/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/recurring-nightmare-and-chthonian-nightmare-crashing-mtgo-after-activating.3108/": {
+    "title": "Recurring Nightmare and Chthonian Nightmare crashing MTGO after activating",
+    "url": "https://forums.mtgo.com/index.php?threads/recurring-nightmare-and-chthonian-nightmare-crashing-mtgo-after-activating.3108/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/match-pending.3106/": {
+    "title": "Match Pending",
+    "url": "https://forums.mtgo.com/index.php?threads/match-pending.3106/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ketramose-able-to-block-with-less-than-7-cards-in-exile.3097/": {
+    "title": "Ketramose able to block with less than 7 cards in exile",
+    "url": "https://forums.mtgo.com/index.php?threads/ketramose-able-to-block-with-less-than-7-cards-in-exile.3097/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cant-see-tiebreakers-in-challenges.3065/": {
+    "title": "Can't see tiebreakers in challenges",
+    "url": "https://forums.mtgo.com/index.php?threads/cant-see-tiebreakers-in-challenges.3065/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/serious-bug-infinite-mulligans-with-serum-powder.3215/": {
+    "title": "Serious BUG!!! Infinite Mulligans with Serum Powder!",
+    "url": "https://forums.mtgo.com/index.php?threads/serious-bug-infinite-mulligans-with-serum-powder.3215/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-tokens-put-out-by-mardu-siegebreaker-were-not-sacrificed-in-the-end-phase.3202/": {
+    "title": "The tokens put out by Mardu Siegebreaker were not sacrificed in the end phase.",
+    "url": "https://forums.mtgo.com/index.php?threads/the-tokens-put-out-by-mardu-siegebreaker-were-not-sacrificed-in-the-end-phase.3202/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/terrible-lag.3197/": {
+    "title": "Terrible lag",
+    "url": "https://forums.mtgo.com/index.php?threads/terrible-lag.3197/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/try-to-join-legaue-but-error-occour-cant-join.3190/": {
+    "title": "try to join legaue,but error occour cant join",
+    "url": "https://forums.mtgo.com/index.php?threads/try-to-join-legaue-but-error-occour-cant-join.3190/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/not-being-allowed-to-enter-into-leagues.3191/": {
+    "title": "Not being allowed to enter into leagues",
+    "url": "https://forums.mtgo.com/index.php?threads/not-being-allowed-to-enter-into-leagues.3191/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/stuck-on-game-board-not-going-to-sideboard-but-game-is-tied-1-1.3189/": {
+    "title": "Stuck on game board, not going to sideboard but game is tied 1-1",
+    "url": "https://forums.mtgo.com/index.php?threads/stuck-on-game-board-not-going-to-sideboard-but-game-is-tied-1-1.3189/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/march-of-the-wretched-sorrow-bug.3142/": {
+    "title": "March of the Wretched Sorrow Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/march-of-the-wretched-sorrow-bug.3142/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sword-of-the-meek-not-working-properly-after-downtime.3146/": {
+    "title": "Sword of the meek not working properly after downtime",
+    "url": "https://forums.mtgo.com/index.php?threads/sword-of-the-meek-not-working-properly-after-downtime.3146/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/eye-of-ugin-not-reducing-kozileks-command.3148/": {
+    "title": "Eye of ugin not reducing kozileks command",
+    "url": "https://forums.mtgo.com/index.php?threads/eye-of-ugin-not-reducing-kozileks-command.3148/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/umori-x-spell-bug.3147/": {
+    "title": "Umori X spell bug",
+    "url": "https://forums.mtgo.com/index.php?threads/umori-x-spell-bug.3147/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mtgo-installation-issue.3055/": {
+    "title": "MTGO installation issue",
+    "url": "https://forums.mtgo.com/index.php?threads/mtgo-installation-issue.3055/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gisela-blade-of-goldnight-not-preventing-damage-correctly.3223/": {
+    "title": "Gisela, Blade of Goldnight Not Preventing Damage Correctly",
+    "url": "https://forums.mtgo.com/index.php?threads/gisela-blade-of-goldnight-not-preventing-damage-correctly.3223/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sages-of-the-anima-the-cards-are-not-going-to-the-bottom-of-the-library.3211/": {
+    "title": "Sages of the Anima - The cards are not going to the bottom of the library",
+    "url": "https://forums.mtgo.com/index.php?threads/sages-of-the-anima-the-cards-are-not-going-to-the-bottom-of-the-library.3211/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/surveil-stops-triggering.3203/": {
+    "title": "Surveil stops triggering",
+    "url": "https://forums.mtgo.com/index.php?threads/surveil-stops-triggering.3203/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/importing-split-cards-from-clipboard.3176/": {
+    "title": "Importing split cards from clipboard",
+    "url": "https://forums.mtgo.com/index.php?threads/importing-split-cards-from-clipboard.3176/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/if-you-cast-a-second-gideons-intervention-the-first-will-no-longer-prevent-damage.3168/": {
+    "title": "If you cast a second Gideon's Intervention the first will no longer prevent damage",
+    "url": "https://forums.mtgo.com/index.php?threads/if-you-cast-a-second-gideons-intervention-the-first-will-no-longer-prevent-damage.3168/",
+    "status": "Backlog",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/opposition-agent-bug-transformed-into-elk.3164/": {
+    "title": "Opposition Agent bug transformed into elk",
+    "url": "https://forums.mtgo.com/index.php?threads/opposition-agent-bug-transformed-into-elk.3164/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/rohirrim-chargers-rules-text-is-formatted-as-flavor-text.3158/": {
+    "title": "Rohirrim Chargers rules text is formatted as flavor text.",
+    "url": "https://forums.mtgo.com/index.php?threads/rohirrim-chargers-rules-text-is-formatted-as-flavor-text.3158/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/rain-of-gore-causes-life-loss-with-lifelink.3133/": {
+    "title": "Rain of Gore causes life loss with lifelink",
+    "url": "https://forums.mtgo.com/index.php?threads/rain-of-gore-causes-life-loss-with-lifelink.3133/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/structural-collapse-failure.3137/": {
+    "title": "Structural Collapse failure",
+    "url": "https://forums.mtgo.com/index.php?threads/structural-collapse-failure.3137/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/tainted-pact-is-not-working-properly.3129/": {
+    "title": "tainted pact is not working properly",
+    "url": "https://forums.mtgo.com/index.php?threads/tainted-pact-is-not-working-properly.3129/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/what-did-you-do-to-the-client.2955/": {
+    "title": "what did you do to the client..",
+    "url": "https://forums.mtgo.com/index.php?threads/what-did-you-do-to-the-client.2955/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/replay-system.1019/": {
+    "title": "Replay system",
+    "url": "https://forums.mtgo.com/index.php?threads/replay-system.1019/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/seize-the-day-and-similarly-worded-cards-should-not-provide-extra-combat-steps-when-cast-outside-a-main-phase.1945/": {
+    "title": "Seize the Day (and similarly worded cards) should not provide extra combat steps when cast outside a main phase",
+    "url": "https://forums.mtgo.com/index.php?threads/seize-the-day-and-similarly-worded-cards-should-not-provide-extra-combat-steps-when-cast-outside-a-main-phase.1945/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/where-is-hakbal.1700/": {
+    "title": "Where is hakbal??",
+    "url": "https://forums.mtgo.com/index.php?threads/where-is-hakbal.1700/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/missing-items-in-collection-after-update.1621/": {
+    "title": "Missing items in collection after update",
+    "url": "https://forums.mtgo.com/index.php?threads/missing-items-in-collection-after-update.1621/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/draft-cant-drag-reserved-card.1575/": {
+    "title": "Draft: Can't Drag Reserved Card",
+    "url": "https://forums.mtgo.com/index.php?threads/draft-cant-drag-reserved-card.1575/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/pass-until-you-can-respond-monarch-end-step-priority-bug.1568/": {
+    "title": "\"Pass Until You Can Respond\" + Monarch End Step Priority Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/pass-until-you-can-respond-monarch-end-step-priority-bug.1568/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/forced-to-pay-a-random-cost-and-could-not-cancel.1366/": {
+    "title": "Forced to pay a random cost and could not cancel",
+    "url": "https://forums.mtgo.com/index.php?threads/forced-to-pay-a-random-cost-and-could-not-cancel.1366/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cacophany-scamp-trigger-fails-sometimes.1355/": {
+    "title": "Cacophany Scamp trigger fails (sometimes)",
+    "url": "https://forums.mtgo.com/index.php?threads/cacophany-scamp-trigger-fails-sometimes.1355/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/any-chance-for-jumpstart-2022-to-be-added.1286/": {
+    "title": "Any chance for Jumpstart 2022 to be added?",
+    "url": "https://forums.mtgo.com/index.php?threads/any-chance-for-jumpstart-2022-to-be-added.1286/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/request-locking-cards-in-collection.1007/": {
+    "title": "Request - Locking cards in collection",
+    "url": "https://forums.mtgo.com/index.php?threads/request-locking-cards-in-collection.1007/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/custom-tournament-organizer-tools.316/": {
+    "title": "Custom Tournament Organizer tools",
+    "url": "https://forums.mtgo.com/index.php?threads/custom-tournament-organizer-tools.316/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/saving-deck-layouts-in-the-deck-editor.933/": {
+    "title": "Saving deck layouts in the deck editor.",
+    "url": "https://forums.mtgo.com/index.php?threads/saving-deck-layouts-in-the-deck-editor.933/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/can-you-change-the-interface-of-how-deliver-unto-evil-works-in-multiplayer.844/": {
+    "title": "Can you change the interface of how Deliver Unto Evil works in multiplayer?",
+    "url": "https://forums.mtgo.com/index.php?threads/can-you-change-the-interface-of-how-deliver-unto-evil-works-in-multiplayer.844/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/i-dont-think-that-replays-are-working-today.3093/": {
+    "title": "I Don't Think That Replays are Working Today",
+    "url": "https://forums.mtgo.com/index.php?threads/i-dont-think-that-replays-are-working-today.3093/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/panoptic-mirror-making-me-have-to-create-at-least-1-mana.3224/": {
+    "title": "Panoptic Mirror making me have to create at least 1 mana",
+    "url": "https://forums.mtgo.com/index.php?threads/panoptic-mirror-making-me-have-to-create-at-least-1-mana.3224/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mindleech-mass-ability-bug.3226/": {
+    "title": "Mindleech Mass ability bug?",
+    "url": "https://forums.mtgo.com/index.php?threads/mindleech-mass-ability-bug.3226/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/necromantic-selection-doesnt-turn-the-reanimated-creature-into-a-zombie.3220/": {
+    "title": "Necromantic Selection doesn't turn the reanimated creature into a zombie",
+    "url": "https://forums.mtgo.com/index.php?threads/necromantic-selection-doesnt-turn-the-reanimated-creature-into-a-zombie.3220/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/satoru-not-triggered-from-birthing-ritual-enter.3143/": {
+    "title": "Satoru not triggered from Birthing Ritual enter",
+    "url": "https://forums.mtgo.com/index.php?threads/satoru-not-triggered-from-birthing-ritual-enter.3143/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/with-spell-cost-reduction-6-colorless-mana-hybrid-spells-still-prompt-for-cost.3218/": {
+    "title": "With spell cost reduction 6+ colorless mana, hybrid spells still prompt for cost",
+    "url": "https://forums.mtgo.com/index.php?threads/with-spell-cost-reduction-6-colorless-mana-hybrid-spells-still-prompt-for-cost.3218/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/possibility-storm-does-not-put-the-exiled-cards-back-into-your-library.3216/": {
+    "title": "Possibility Storm does not put the exiled cards back into your library.",
+    "url": "https://forums.mtgo.com/index.php?threads/possibility-storm-does-not-put-the-exiled-cards-back-into-your-library.3216/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/songcrafter-mage-can-cast-molten-exhale-at-instant-speed-without-beholding-a-dragon.3210/": {
+    "title": "Songcrafter Mage can cast Molten Exhale at instant speed without beholding a dragon",
+    "url": "https://forums.mtgo.com/index.php?threads/songcrafter-mage-can-cast-molten-exhale-at-instant-speed-without-beholding-a-dragon.3210/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bloodchief-ascension-didnt-get-a-counter-during-end-step.3207/": {
+    "title": "Bloodchief Ascension didn't get a counter during end step",
+    "url": "https://forums.mtgo.com/index.php?threads/bloodchief-ascension-didnt-get-a-counter-during-end-step.3207/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/beacon-of-immortality-bugged-with-any-effect-that-doubles-life-gain.3193/": {
+    "title": "Beacon of Immortality Bugged with any effect that doubles life gain",
+    "url": "https://forums.mtgo.com/index.php?threads/beacon-of-immortality-bugged-with-any-effect-that-doubles-life-gain.3193/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sword-of-the-meek-was-not-equipped.3174/": {
+    "title": "Sword of the Meek was not equipped",
+    "url": "https://forums.mtgo.com/index.php?threads/sword-of-the-meek-was-not-equipped.3174/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dog-umbra-is-bugged.3166/": {
+    "title": "Dog Umbra is bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/dog-umbra-is-bugged.3166/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-report-siphon-insight-banned-in-vintage.3181/": {
+    "title": "Bug Report - Siphon Insight \"Banned\" in Vintage",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-report-siphon-insight-banned-in-vintage.3181/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/skyfisher-spider-not-exiling-itself-with-its-ability.3178/": {
+    "title": "Skyfisher Spider not exiling itself with its ability",
+    "url": "https://forums.mtgo.com/index.php?threads/skyfisher-spider-not-exiling-itself-with-its-ability.3178/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/divine-visitation-tokens-generated-attacking-deal-no-combat-damage.3170/": {
+    "title": "Divine Visitation - tokens generated attacking deal no combat damage",
+    "url": "https://forums.mtgo.com/index.php?threads/divine-visitation-tokens-generated-attacking-deal-no-combat-damage.3170/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/break-the-ice-damping-sphere-vs-bounce-lands-bugged.3167/": {
+    "title": "Break the Ice + Damping Sphere vs Bounce Lands bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/break-the-ice-damping-sphere-vs-bounce-lands-bugged.3167/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gearshift-aces-triggered-ability-doesnt-work.3155/": {
+    "title": "Gearshift Ace's triggered ability doesn't work",
+    "url": "https://forums.mtgo.com/index.php?threads/gearshift-aces-triggered-ability-doesnt-work.3155/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/scroll-rack-bug.3151/": {
+    "title": "Scroll Rack - Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/scroll-rack-bug.3151/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/copying-spells-cast-with-impending-should-result-in-a-creature.3131/": {
+    "title": "Copying spells cast with impending should result in a creature.",
+    "url": "https://forums.mtgo.com/index.php?threads/copying-spells-cast-with-impending-should-result-in-a-creature.3131/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/exquisite-archangel-may-not-replace-the-defeat.3128/": {
+    "title": "\"Exquisite Archangel\" may not replace the defeat.",
+    "url": "https://forums.mtgo.com/index.php?threads/exquisite-archangel-may-not-replace-the-defeat.3128/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/trying-to-see-a-replay-of-a-game-got-message-unable-to-start-replay-on-all-games-that-match.3124/": {
+    "title": "Trying to see a replay of a game, got message \"Unable to start replay\" on all games that match.",
+    "url": "https://forums.mtgo.com/index.php?threads/trying-to-see-a-replay-of-a-game-got-message-unable-to-start-replay-on-all-games-that-match.3124/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/exiled-token-huatli-returned-to-battlefield.3123/": {
+    "title": "Exiled Token Huatli Returned to Battlefield",
+    "url": "https://forums.mtgo.com/index.php?threads/exiled-token-huatli-returned-to-battlefield.3123/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mimeoplasm-the-revered-one-exhaust-and-possession-engine.3118/": {
+    "title": "Mimeoplasm the Revered One, Exhaust and Possession Engine",
+    "url": "https://forums.mtgo.com/index.php?threads/mimeoplasm-the-revered-one-exhaust-and-possession-engine.3118/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/not-all-cards-with-e-show-up-when-searched-for.3120/": {
+    "title": "Not all cards with {E} show up when searched for",
+    "url": "https://forums.mtgo.com/index.php?threads/not-all-cards-with-e-show-up-when-searched-for.3120/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-restart-bug.3119/": {
+    "title": "Game Restart BUG",
+    "url": "https://forums.mtgo.com/index.php?threads/game-restart-bug.3119/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/containment-priest-enduring-curiosity.3115/": {
+    "title": "Containment Priest & Enduring Curiosity",
+    "url": "https://forums.mtgo.com/index.php?threads/containment-priest-enduring-curiosity.3115/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/borrowed-cards-becomes-stucked-after-completion-tournament-in-my-collection.3112/": {
+    "title": "Borrowed cards becomes stucked after completion tournament in my collection",
+    "url": "https://forums.mtgo.com/index.php?threads/borrowed-cards-becomes-stucked-after-completion-tournament-in-my-collection.3112/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/hoarders-overflow-doesnt-get-a-counter-when-you-expend.3113/": {
+    "title": "Hoarder's Overflow doesn't get a counter when you expend",
+    "url": "https://forums.mtgo.com/index.php?threads/hoarders-overflow-doesnt-get-a-counter-when-you-expend.3113/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/stuck-in-blank-draft-queue.3102/": {
+    "title": "Stuck in Blank Draft Queue",
+    "url": "https://forums.mtgo.com/index.php?threads/stuck-in-blank-draft-queue.3102/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/brisela-helm-of-the-host-bruna-copies.3107/": {
+    "title": "Brisela + Helm of the Host = Bruna copies",
+    "url": "https://forums.mtgo.com/index.php?threads/brisela-helm-of-the-host-bruna-copies.3107/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bottom-of-the-max-speed-indicator-is-darkened-out-mk2.3098/": {
+    "title": "Bottom of the Max Speed indicator is darkened out mk2",
+    "url": "https://forums.mtgo.com/index.php?threads/bottom-of-the-max-speed-indicator-is-darkened-out-mk2.3098/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/white-bordered-mb2-cards-have-partial-black-borders.3094/": {
+    "title": "White bordered MB2 cards have partial black borders",
+    "url": "https://forums.mtgo.com/index.php?threads/white-bordered-mb2-cards-have-partial-black-borders.3094/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/brimaz-king-of-oreskos-broken-blocking.3204/": {
+    "title": "Brimaz, King of Oreskos broken blocking",
+    "url": "https://forums.mtgo.com/index.php?threads/brimaz-king-of-oreskos-broken-blocking.3204/",
+    "status": "Invalid Game IDs",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/illusionists-gambit-not-triggering-second-combat.3172/": {
+    "title": "Illusionist's Gambit not triggering second combat",
+    "url": "https://forums.mtgo.com/index.php?threads/illusionists-gambit-not-triggering-second-combat.3172/",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/improvised-7.3141/": {
+    "title": "Improvised 7",
+    "url": "https://forums.mtgo.com/index.php?threads/improvised-7.3141/",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/reflector-mage-not-working-properly.3096/": {
+    "title": "Reflector Mage not working properly?",
+    "url": "https://forums.mtgo.com/index.php?threads/reflector-mage-not-working-properly.3096/",
+    "status": "More Info Needed",
     "tracked": false
   }
 }
