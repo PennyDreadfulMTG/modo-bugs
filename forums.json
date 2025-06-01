@@ -11236,5 +11236,305 @@
     "url": "https://forums.mtgo.com/index.php?threads/reflector-mage-not-working-properly.3096/",
     "status": "More Info Needed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/league-bug.3282/": {
+    "title": "League Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/league-bug.3282/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/possible-client-connection-issue-%E2%80%93-disconnections-and-unexpected-patch-during-events.3285/": {
+    "title": "Possible Client/Connection Issue \u2013 Disconnections and Unexpected Patch During Events",
+    "url": "https://forums.mtgo.com/index.php?threads/possible-client-connection-issue-%E2%80%93-disconnections-and-unexpected-patch-during-events.3285/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cant-pay-the-2-mana-for-leonin-arbiter.3268/": {
+    "title": "Can't pay the 2 mana for Leonin Arbiter",
+    "url": "https://forums.mtgo.com/index.php?threads/cant-pay-the-2-mana-for-leonin-arbiter.3268/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/deck-building-area-occasionally-darkens-out-locking-it-from-use.3186/": {
+    "title": "Deck building area occasionally darkens out locking it from use",
+    "url": "https://forums.mtgo.com/index.php?threads/deck-building-area-occasionally-darkens-out-locking-it-from-use.3186/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cori-steel-cutter-illness-in-the-ranks-interaction.3265/": {
+    "title": "Cori Steel-cutter/illness in the ranks interaction",
+    "url": "https://forums.mtgo.com/index.php?threads/cori-steel-cutter-illness-in-the-ranks-interaction.3265/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/thoughtseize-bug.3267/": {
+    "title": "Thoughtseize Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/thoughtseize-bug.3267/",
+    "status": "No Fix Planned",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/trazyn-the-infinite-bug.3251/": {
+    "title": "Trazyn the Infinite bug",
+    "url": "https://forums.mtgo.com/index.php?threads/trazyn-the-infinite-bug.3251/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/some-cards-not-searchable-in-collection.3240/": {
+    "title": "Some Cards not Searchable in Collection",
+    "url": "https://forums.mtgo.com/index.php?threads/some-cards-not-searchable-in-collection.3240/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/draw-replacement-effects-hullbreacher-working-through-draw-prevention-effects-leovold-narset.3234/": {
+    "title": "Draw replacement effects (Hullbreacher) working through draw prevention effects (Leovold/Narset)",
+    "url": "https://forums.mtgo.com/index.php?threads/draw-replacement-effects-hullbreacher-working-through-draw-prevention-effects-leovold-narset.3234/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/knockout-blow.3208/": {
+    "title": "Knockout Blow??",
+    "url": "https://forums.mtgo.com/index.php?threads/knockout-blow.3208/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/clan-disappeared.3305/": {
+    "title": "Clan Disappeared",
+    "url": "https://forums.mtgo.com/index.php?threads/clan-disappeared.3305/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/saurons-ransom-white-border-daze.3253/": {
+    "title": "Sauron's ransom + White border Daze",
+    "url": "https://forums.mtgo.com/index.php?threads/saurons-ransom-white-border-daze.3253/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/brotherhoods-end-not-letting-itself-be-cast-after-choosing-the-option.3209/": {
+    "title": "Brotherhood's end not letting itself be cast after choosing the option",
+    "url": "https://forums.mtgo.com/index.php?threads/brotherhoods-end-not-letting-itself-be-cast-after-choosing-the-option.3209/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/drown-in-the-loch-not-working-well.3250/": {
+    "title": "Drown in the loch not working well",
+    "url": "https://forums.mtgo.com/index.php?threads/drown-in-the-loch-not-working-well.3250/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kicked-from-sideboarding-before-time-expired-or-had-submitted.3241/": {
+    "title": "Kicked from Sideboarding before time expired or had submitted",
+    "url": "https://forums.mtgo.com/index.php?threads/kicked-from-sideboarding-before-time-expired-or-had-submitted.3241/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/emrakul-tpe-and-karn-tgc-lets-opponent-see-and-get-a-card-from-my-sideboard.3237/": {
+    "title": "Emrakul TPE and Karn, TGC let's opponent see and get a card from my sideboard",
+    "url": "https://forums.mtgo.com/index.php?threads/emrakul-tpe-and-karn-tgc-lets-opponent-see-and-get-a-card-from-my-sideboard.3237/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/devourer-of-destiny-reveal-effect-bugged.3231/": {
+    "title": "Devourer of Destiny reveal effect bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/devourer-of-destiny-reveal-effect-bugged.3231/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/wernog-riders-chaplain-bug-not-loosing-1-life.3205/": {
+    "title": "Wernog, Rider's Chaplain bug not loosing 1 life",
+    "url": "https://forums.mtgo.com/index.php?threads/wernog-riders-chaplain-bug-not-loosing-1-life.3205/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/will-of-the-abzan.3177/": {
+    "title": "Will of the Abzan",
+    "url": "https://forums.mtgo.com/index.php?threads/will-of-the-abzan.3177/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/targeting-things-in-graveyard-occasionally-causes-a-crash.3175/": {
+    "title": "Targeting things in graveyard occasionally causes a crash",
+    "url": "https://forums.mtgo.com/index.php?threads/targeting-things-in-graveyard-occasionally-causes-a-crash.3175/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kolodin-triumph-caster-and-guardian-sunmare.3161/": {
+    "title": "Kolodin, Triumph Caster and Guardian Sunmare",
+    "url": "https://forums.mtgo.com/index.php?threads/kolodin-triumph-caster-and-guardian-sunmare.3161/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/saviors-of-kamigawa-flip-cards-that-arent-creatures-when-flipped-dont-move-into-the-noncreature-area-of-play.3160/": {
+    "title": "Saviors of Kamigawa flip cards that aren't creatures when flipped don't move into the noncreature area of play",
+    "url": "https://forums.mtgo.com/index.php?threads/saviors-of-kamigawa-flip-cards-that-arent-creatures-when-flipped-dont-move-into-the-noncreature-area-of-play.3160/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/vernal-bloom-and-finale-of-revelation-doesnt-work-together.3280/": {
+    "title": "Vernal Bloom and Finale of Revelation doesnt work together",
+    "url": "https://forums.mtgo.com/index.php?threads/vernal-bloom-and-finale-of-revelation-doesnt-work-together.3280/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/agitator-ant-declared-as-not-implemented-in-magic-online-for-deck-building.3272/": {
+    "title": "Agitator Ant declared as not implemented in magic online for deck building",
+    "url": "https://forums.mtgo.com/index.php?threads/agitator-ant-declared-as-not-implemented-in-magic-online-for-deck-building.3272/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/stuck-in-game-has-ended-with-opponent.3238/": {
+    "title": "Stuck in Game has Ended with opponent",
+    "url": "https://forums.mtgo.com/index.php?threads/stuck-in-game-has-ended-with-opponent.3238/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sefris-of-the-hidden-ways-second-ability-does-not-trigger.3227/": {
+    "title": "Sefris of the Hidden Ways - Second ability does not trigger",
+    "url": "https://forums.mtgo.com/index.php?threads/sefris-of-the-hidden-ways-second-ability-does-not-trigger.3227/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sacred-ground-doesnt-work-against-annihilator.3266/": {
+    "title": "Sacred Ground doesn't work against annihilator",
+    "url": "https://forums.mtgo.com/index.php?threads/sacred-ground-doesnt-work-against-annihilator.3266/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dredgers-insight-doesnt-trigger-with-torpor-orb-in-play.3261/": {
+    "title": "Dredger's Insight doesn't trigger with Torpor Orb in play",
+    "url": "https://forums.mtgo.com/index.php?threads/dredgers-insight-doesnt-trigger-with-torpor-orb-in-play.3261/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/you-win-the-game-ability-of-ramses-assassin-lord-isnt-triggering.3255/": {
+    "title": "\"You win the game\" ability of Ramses, Assassin Lord isn't triggering",
+    "url": "https://forums.mtgo.com/index.php?threads/you-win-the-game-ability-of-ramses-assassin-lord-isnt-triggering.3255/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/magda-brazen-outlaw-doesnt-trigger-when-tapping-creatures-to-heirloom-epic.3206/": {
+    "title": "Magda, Brazen Outlaw doesn't trigger when tapping creatures to Heirloom Epic",
+    "url": "https://forums.mtgo.com/index.php?threads/magda-brazen-outlaw-doesnt-trigger-when-tapping-creatures-to-heirloom-epic.3206/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/loading-limited-deck-results-in-duplicated-cards.3244/": {
+    "title": "Loading limited deck results in duplicated cards",
+    "url": "https://forums.mtgo.com/index.php?threads/loading-limited-deck-results-in-duplicated-cards.3244/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-wise-mothman-triggering-multiple-times-on-1-instance-of-mill.3256/": {
+    "title": "The Wise Mothman triggering multiple times on 1 instance of mill",
+    "url": "https://forums.mtgo.com/index.php?threads/the-wise-mothman-triggering-multiple-times-on-1-instance-of-mill.3256/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-in-glimpse-for-tomorrow.3276/": {
+    "title": "Bug in Glimpse for Tomorrow",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-in-glimpse-for-tomorrow.3276/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/venerated-rotpriest-ground-rift-bug-ive-got-it-for-sure-now.3270/": {
+    "title": "Venerated Rotpriest + Ground Rift Bug : I've got it for sure now",
+    "url": "https://forums.mtgo.com/index.php?threads/venerated-rotpriest-ground-rift-bug-ive-got-it-for-sure-now.3270/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gluntch-the-bestower-breaks-the-game-when-theres-only-two-players-left.3264/": {
+    "title": "Gluntch, The Bestower breaks the game when there's only two players left",
+    "url": "https://forums.mtgo.com/index.php?threads/gluntch-the-bestower-breaks-the-game-when-theres-only-two-players-left.3264/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/inevitable-betrayal-does-not-cause-a-riot-with-rhythm-of-the-wild.3258/": {
+    "title": "Inevitable Betrayal does not cause a Riot with Rhythm of the Wild.",
+    "url": "https://forums.mtgo.com/index.php?threads/inevitable-betrayal-does-not-cause-a-riot-with-rhythm-of-the-wild.3258/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/timetwister-did-not-shuffle-when-its-other-effects-were-null.3257/": {
+    "title": "Timetwister did not shuffle when its other effects were null.",
+    "url": "https://forums.mtgo.com/index.php?threads/timetwister-did-not-shuffle-when-its-other-effects-were-null.3257/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/verge-and-reflecting-pool.3248/": {
+    "title": "Verge and Reflecting Pool",
+    "url": "https://forums.mtgo.com/index.php?threads/verge-and-reflecting-pool.3248/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ral-monsoon-mage-doesnt-transform-if-the-spell-creating-his-trigger-is-countered-by-force-of-negation.3249/": {
+    "title": "Ral, Monsoon Mage doesn't transform if the spell creating his trigger is countered by Force of Negation.",
+    "url": "https://forums.mtgo.com/index.php?threads/ral-monsoon-mage-doesnt-transform-if-the-spell-creating-his-trigger-is-countered-by-force-of-negation.3249/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/pulsemage-advocate-is-bugged.3245/": {
+    "title": "Pulsemage Advocate is bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/pulsemage-advocate-is-bugged.3245/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gluntch-the-bestower-bug.3243/": {
+    "title": "Gluntch the Bestower Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/gluntch-the-bestower-bug.3243/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/flickerwisp-mdfc-revolt.3242/": {
+    "title": "Flickerwisp MDFC & Revolt",
+    "url": "https://forums.mtgo.com/index.php?threads/flickerwisp-mdfc-revolt.3242/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/multiple-of-the-same-card-in-a-single-hand-reveal.3233/": {
+    "title": "Multiple of the same card in a single hand Reveal",
+    "url": "https://forums.mtgo.com/index.php?threads/multiple-of-the-same-card-in-a-single-hand-reveal.3233/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-zoom-function-in-the-collection-tab-is-disabled-by-cards-with-tooltips.3184/": {
+    "title": "The zoom function in the collection tab is disabled by cards with tooltips",
+    "url": "https://forums.mtgo.com/index.php?threads/the-zoom-function-in-the-collection-tab-is-disabled-by-cards-with-tooltips.3184/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/tom-bombadil-no-work.3263/": {
+    "title": "Tom Bombadil no work",
+    "url": "https://forums.mtgo.com/index.php?threads/tom-bombadil-no-work.3263/",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/replicate-of-consign-of-memory-doesnt-work.3260/": {
+    "title": "Replicate of consign of Memory doesn't work",
+    "url": "https://forums.mtgo.com/index.php?threads/replicate-of-consign-of-memory-doesnt-work.3260/",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/several-buggy-cards.3247/": {
+    "title": "Several buggy cards",
+    "url": "https://forums.mtgo.com/index.php?threads/several-buggy-cards.3247/",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-made-my-game-crash-so-i-lost-game-1.3246/": {
+    "title": "Bug made my game crash so i lost game 1",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-made-my-game-crash-so-i-lost-game-1.3246/",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/client-crashing-on-narcomoeba-trigger.3236/": {
+    "title": "Client Crashing on Narcomoeba Trigger",
+    "url": "https://forums.mtgo.com/index.php?threads/client-crashing-on-narcomoeba-trigger.3236/",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/elder-gargaroth-not-triggering-when-blocking.3228/": {
+    "title": "Elder Gargaroth not triggering when blocking",
+    "url": "https://forums.mtgo.com/index.php?threads/elder-gargaroth-not-triggering-when-blocking.3228/",
+    "status": "More Info Needed",
+    "tracked": false
   }
 }

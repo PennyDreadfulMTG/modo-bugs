@@ -1,9 +1,23 @@
 [
   {
+    "card": "Senu, Keen-Eyed Protector",
+    "description": "Senu, Keen-Eyed Protector is put onto the battlefield from exile even while face-down",
+    "category": "Advantageous",
+    "last_updated": "2025-05-27 04:06:58",
+    "issue_number": 1136,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1136",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/senu-keen-eyed-protector-is-put-onto-the-battlefield-from-exile-even-while-it-is-face-down.3301/",
+    "last_verified": null
+  },
+  {
     "card": "Gyruda, Doom of Depths",
     "description": "Gyruda, Doom of Depths causes the game to lock when you are enchanted with Wheel of Sun and Moon.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2025-05-03 20:38:16",
+    "last_updated": "2025-05-03 20:38:19",
     "issue_number": 1135,
     "pd_legal": true,
     "bug_blog": false,
@@ -17,7 +31,7 @@
     "card": "Wheel of Sun and Moon",
     "description": "Gyruda, Doom of Depths causes the game to lock when you are enchanted with Wheel of Sun and Moon.",
     "category": "Avoidable Game Breaking",
-    "last_updated": "2025-05-03 20:38:16",
+    "last_updated": "2025-05-03 20:38:19",
     "issue_number": 1135,
     "pd_legal": true,
     "bug_blog": false,
@@ -31,7 +45,7 @@
     "card": "Bronzehide Lion",
     "description": "Bronzehide Lion returns to the battlefield even if there is no target",
     "category": "Advantageous",
-    "last_updated": "2025-05-03 20:38:23",
+    "last_updated": "2025-05-03 20:38:24",
     "issue_number": 1134,
     "pd_legal": true,
     "bug_blog": false,
@@ -53,7 +67,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1131",
     "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Our Market Research Shows That Players Like Really Long Card Names So We Made this Card to Have the Absolute Longest Card Name Ever Elemental",
@@ -82,20 +97,6 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1129",
     "support_thread": "https://forums.mtgo.com/index.php?threads/sanctum-prelate-does-not-prevent-casting-x-spells-that-have-with-mana-value-x-wording.2876/",
-    "last_verified": null
-  },
-  {
-    "card": "Agitator Ant",
-    "description": "Agitator Ant only lets one opponent put counters on their creature",
-    "category": "Disadvantageous",
-    "last_updated": "2024-12-23 18:12:14",
-    "issue_number": 1128,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1128",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
     "last_verified": null,
     "help_wanted": true
   },
@@ -575,7 +576,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1071",
     "support_thread": "https://forums.mtgo.com/index.php?threads/florian-voldaren-scion-agonizing-remorse-shuffles-each-opponents-revealed-card-into-their-library.673/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Inquisition of Kozilek",
@@ -1056,7 +1058,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/996",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Liege of the Hollows",
@@ -1115,7 +1118,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/992",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Provoke the Trolls",
@@ -1129,7 +1133,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/992",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Entrails Feaster",
@@ -1368,7 +1373,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/978",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Channel",
@@ -1397,7 +1403,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/975",
     "support_thread": "https://forums.mtgo.com/index.php?threads/illusionary-mask-doesn%C2%B4t-work.1540/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Patchwork Crawler",
@@ -1441,7 +1448,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/972",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Mindblaze",
@@ -2431,7 +2439,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/863",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Damping Engine",
@@ -2490,7 +2499,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/851",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Szadek, Lord of Secrets",
@@ -2579,7 +2589,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/836",
     "support_thread": "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bugged-in-at-least-two-ways.330/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Multani's Presence",
@@ -2923,7 +2934,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/770",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Bloodlord of Vaasgoth",
@@ -3298,7 +3310,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/640",
     "support_thread": null,
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Porphyry Nodes",
@@ -3446,21 +3459,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/594",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Metallic Mimic",
-    "description": "If Metallic Mimic and a creature of the chosen type enter the battlefield at the same time, the system will incorrectly give that creature a +1/+1 counter",
-    "category": "Advantageous",
-    "last_updated": "2024-09-13 22:53:28",
-    "issue_number": 583,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/583",
     "support_thread": null,
     "last_verified": null,
     "help_wanted": true
@@ -4141,7 +4139,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/297",
     "support_thread": "https://forums.mtgo.com/index.php?threads/creatures-with-ascend-still-grant-the-citys-blessing-when-controller-is-enchanted-with-overwhelming-splendor.2925/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Mind Bend",
@@ -4398,66 +4397,6 @@
     "help_wanted": true
   },
   {
-    "card": "Ever After",
-    "description": "There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.",
-    "category": "Unclassified",
-    "last_updated": "2024-09-13 22:53:56",
-    "issue_number": 196,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Sanguine Sacrament",
-    "description": "There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.",
-    "category": "Unclassified",
-    "last_updated": "2024-09-13 22:53:56",
-    "issue_number": 196,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Seasons Past",
-    "description": "There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.",
-    "category": "Unclassified",
-    "last_updated": "2024-09-13 22:53:56",
-    "issue_number": 196,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Spell Crumple",
-    "description": "There are known issues with giving flashback to a spell that is put on the bottom of a library as it resolves.",
-    "category": "Unclassified",
-    "last_updated": "2024-09-13 22:53:56",
-    "issue_number": 196,
-    "pd_legal": false,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/196",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
     "card": "Collected Company",
     "description": "Collected Company does not allow you to put fewer than the maximum number of creatures onto the battlefield.",
     "category": "Disadvantageous",
@@ -4671,7 +4610,7 @@
     "card": "Gideon's Intervention",
     "description": "Casting a second copy of Gideon's Intervention causes the first to allow the named card to deal damage.",
     "category": "Disadvantageous",
-    "last_updated": "2025-04-08 15:01:59",
+    "last_updated": "2025-05-03 20:39:49",
     "issue_number": 72,
     "pd_legal": true,
     "bug_blog": false,
