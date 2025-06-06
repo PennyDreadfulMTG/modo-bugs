@@ -1,19 +1,5 @@
 [
   {
-    "card": "Senu, Keen-Eyed Protector",
-    "description": "Senu, Keen-Eyed Protector is put onto the battlefield from exile even while face-down",
-    "category": "Advantageous",
-    "last_updated": "2025-05-27 04:06:58",
-    "issue_number": 1136,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1136",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/senu-keen-eyed-protector-is-put-onto-the-battlefield-from-exile-even-while-it-is-face-down.3301/",
-    "last_verified": null
-  },
-  {
     "card": "Gyruda, Doom of Depths",
     "description": "Gyruda, Doom of Depths causes the game to lock when you are enchanted with Wheel of Sun and Moon.",
     "category": "Avoidable Game Breaking",
@@ -254,7 +240,7 @@
     "card": "Frodo, Determined Hero",
     "description": "Frodo, Determined Hero also prevents damage on your opponent's turn",
     "category": "Advantageous",
-    "last_updated": "2024-09-13 22:51:27",
+    "last_updated": "2025-06-05 22:29:15",
     "issue_number": 1120,
     "pd_legal": true,
     "bug_blog": false,
@@ -262,8 +248,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1120",
     "support_thread": "https://forums.mtgo.com/index.php?threads/frodo-determined-hero-will-prevent-all-damage-dealt-to-it-even-when-it-is-not-your-turn.2506/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Ripples of Undeath",
@@ -3294,21 +3279,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/648",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Goblin Electromancer",
-    "description": "With two copies of Goblin Electromancer in play, splice costs are incorrectly calculated.",
-    "category": "Unclassified",
-    "last_updated": "2025-03-10 23:05:16",
-    "issue_number": 640,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/640",
     "support_thread": null,
     "last_verified": null,
     "help_wanted": true

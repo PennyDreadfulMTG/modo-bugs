@@ -1,6 +1,6 @@
 ---
-title: Magic Online Weekly Announcements, May 27, 2025
+title: Magic Online Weekly Announcements, June 3, 2025
 redirect_to:
- - https://www.mtgo.com/news/mtgo05272025
-has_build_notes: False
+ - https://www.mtgo.com/news/mtgo06032025
+has_build_notes: True
 ---
