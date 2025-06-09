@@ -396,7 +396,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1103",
     "support_thread": "https://forums.mtgo.com/index.php?threads/bug-involving-saurons-ranson-and-cards-with-the-ability-to-%E2%80%9Csave-target%E2%80%9D.2490/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Wheel of Sun and Moon",
