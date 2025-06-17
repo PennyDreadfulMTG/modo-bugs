@@ -11536,5 +11536,209 @@
     "url": "https://forums.mtgo.com/index.php?threads/elder-gargaroth-not-triggering-when-blocking.3228/",
     "status": "More Info Needed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/final-fantasy-limited-preliminaries-payouts-not-updated.3340/": {
+    "title": "Final Fantasy Limited Preliminaries payouts not updated",
+    "url": "https://forums.mtgo.com/index.php?threads/final-fantasy-limited-preliminaries-payouts-not-updated.3340/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/prevented-from-casting-an-instant-for-no-reason.3318/": {
+    "title": "Prevented from casting an Instant for no reason.",
+    "url": "https://forums.mtgo.com/index.php?threads/prevented-from-casting-an-instant-for-no-reason.3318/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/saving-grasp-wont-target-creatures-you-own-but-dont-control.3303/": {
+    "title": "Saving Grasp Won't Target Creatures You Own but Don't Control",
+    "url": "https://forums.mtgo.com/index.php?threads/saving-grasp-wont-target-creatures-you-own-but-dont-control.3303/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/beseech-the-mirror-cant-cast-exiled-card.3288/": {
+    "title": "Beseech the Mirror can't cast exiled card",
+    "url": "https://forums.mtgo.com/index.php?threads/beseech-the-mirror-cant-cast-exiled-card.3288/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/lag.3269/": {
+    "title": "lag",
+    "url": "https://forums.mtgo.com/index.php?threads/lag.3269/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/beza-bug.3320/": {
+    "title": "Beza Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/beza-bug.3320/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/smallpox-fizzles-wtf.3315/": {
+    "title": "Smallpox fizzles, WTF?",
+    "url": "https://forums.mtgo.com/index.php?threads/smallpox-fizzles-wtf.3315/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-restarted-when-player-timed-out-with-abilities-on-the-stack.3307/": {
+    "title": "Game restarted when player timed out with abilities on the stack",
+    "url": "https://forums.mtgo.com/index.php?threads/game-restarted-when-player-timed-out-with-abilities-on-the-stack.3307/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/commander-cube-can-partner-three-color-commander-with-two-on-color-partners-allowing-for-three-commanders.3306/": {
+    "title": "Commander Cube: Can partner three color commander with two on color partners, allowing for three commanders.",
+    "url": "https://forums.mtgo.com/index.php?threads/commander-cube-can-partner-three-color-commander-with-two-on-color-partners-allowing-for-three-commanders.3306/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/time-out-despite-clock-not-ticking-down.3298/": {
+    "title": "Time out despite clock not ticking down",
+    "url": "https://forums.mtgo.com/index.php?threads/time-out-despite-clock-not-ticking-down.3298/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/voting-card-caused-game-restart-in-commander-cube.3291/": {
+    "title": "Voting Card caused Game Restart in Commander Cube",
+    "url": "https://forums.mtgo.com/index.php?threads/voting-card-caused-game-restart-in-commander-cube.3291/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/players-losing-the-game-multiple-times-in-edh.3277/": {
+    "title": "Players \"losing the game\" multiple times in EDH",
+    "url": "https://forums.mtgo.com/index.php?threads/players-losing-the-game-multiple-times-in-edh.3277/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kappa-canoneer-choosing-bug.3271/": {
+    "title": "Kappa Canoneer Choosing Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/kappa-canoneer-choosing-bug.3271/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sefris-of-the-hidden-ways-second-ability-does-not-trigger.3322/": {
+    "title": "Sefris, of the Hidden ways second ability does not trigger",
+    "url": "https://forums.mtgo.com/index.php?threads/sefris-of-the-hidden-ways-second-ability-does-not-trigger.3322/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/harmonic-prodigy-causes-creatures-that-are-both-shamans-and-wizards-to-trigger-three-times.3325/": {
+    "title": "Harmonic Prodigy causes creatures that are both shamans and wizards to trigger three times",
+    "url": "https://forums.mtgo.com/index.php?threads/harmonic-prodigy-causes-creatures-that-are-both-shamans-and-wizards-to-trigger-three-times.3325/",
+    "status": "Backlog",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/watchful-radstack-incorrectly-crashing-due-to-loop-detected.3289/": {
+    "title": "Watchful Radstack incorrectly crashing due to loop detected",
+    "url": "https://forums.mtgo.com/index.php?threads/watchful-radstack-incorrectly-crashing-due-to-loop-detected.3289/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gisela-blade-of-goldnight-didnt-prevent-damage-to-itself.3302/": {
+    "title": "Gisela, Blade of Goldnight didn't prevent damage to itself",
+    "url": "https://forums.mtgo.com/index.php?threads/gisela-blade-of-goldnight-didnt-prevent-damage-to-itself.3302/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/commander-cube-queueing-is-broken.3299/": {
+    "title": "Commander Cube queueing is broken.",
+    "url": "https://forums.mtgo.com/index.php?threads/commander-cube-queueing-is-broken.3299/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/illusionists-gambit-doesnt-untap-attacking-creatures.3283/": {
+    "title": "Illusionist's Gambit doesn't untap attacking creatures",
+    "url": "https://forums.mtgo.com/index.php?threads/illusionists-gambit-doesnt-untap-attacking-creatures.3283/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-that-automaticaly-restart-game.3316/": {
+    "title": "Bug that automaticaly restart game",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-that-automaticaly-restart-game.3316/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gameplay-affected-by-flickerwisp-revolt-bug.3314/": {
+    "title": "Gameplay affected by flickerwisp revolt bug",
+    "url": "https://forums.mtgo.com/index.php?threads/gameplay-affected-by-flickerwisp-revolt-bug.3314/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/stromscale-scion-and-hallowed-moonlight.3313/": {
+    "title": "stromscale scion and hallowed moonlight",
+    "url": "https://forums.mtgo.com/index.php?threads/stromscale-scion-and-hallowed-moonlight.3313/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/parapet-thrasher-only-triggers-once-even-if-multiple-opponents-are-dealt-combat-damage.3309/": {
+    "title": "Parapet Thrasher only triggers once even if multiple opponents are dealt combat damage",
+    "url": "https://forums.mtgo.com/index.php?threads/parapet-thrasher-only-triggers-once-even-if-multiple-opponents-are-dealt-combat-damage.3309/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/suspend-copying-haste.3308/": {
+    "title": "Suspend copying haste",
+    "url": "https://forums.mtgo.com/index.php?threads/suspend-copying-haste.3308/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/flickerwisp-and-mdfc-not-triggering-revolt.3304/": {
+    "title": "Flickerwisp and MDFC not triggering revolt",
+    "url": "https://forums.mtgo.com/index.php?threads/flickerwisp-and-mdfc-not-triggering-revolt.3304/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/senu-keen-eyed-protector-is-put-onto-the-battlefield-from-exile-even-while-it-is-face-down.3301/": {
+    "title": "Senu, Keen-Eyed Protector is put onto the battlefield from exile even while it is face-down.",
+    "url": "https://forums.mtgo.com/index.php?threads/senu-keen-eyed-protector-is-put-onto-the-battlefield-from-exile-even-while-it-is-face-down.3301/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ral-monsoon-mage.3300/": {
+    "title": "Ral, Monsoon Mage",
+    "url": "https://forums.mtgo.com/index.php?threads/ral-monsoon-mage.3300/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-restart-led-to-game-has-not-been-completed-within-allowed-time-limits-and-random-player-winning.3293/": {
+    "title": "Game Restart Led to Game Has Not Been Completed Within Allowed Time Limits and Random Player Winning",
+    "url": "https://forums.mtgo.com/index.php?threads/game-restart-led-to-game-has-not-been-completed-within-allowed-time-limits-and-random-player-winning.3293/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/flickerwisp-and-revolt.3294/": {
+    "title": "Flickerwisp and Revolt",
+    "url": "https://forums.mtgo.com/index.php?threads/flickerwisp-and-revolt.3294/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/commander-cube-league-bug.3297/": {
+    "title": "Commander Cube League Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/commander-cube-league-bug.3297/",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/all-out-assault-doesn%E2%80%99t-trigger-another-combat.3290/": {
+    "title": "All-Out Assault doesn\u2019t trigger another combat",
+    "url": "https://forums.mtgo.com/index.php?threads/all-out-assault-doesn%E2%80%99t-trigger-another-combat.3290/",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/voting-problem.3287/": {
+    "title": "Voting problem?",
+    "url": "https://forums.mtgo.com/index.php?threads/voting-problem.3287/",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dalkovan-encampment-not-working.3278/": {
+    "title": "dalkovan encampment not working",
+    "url": "https://forums.mtgo.com/index.php?threads/dalkovan-encampment-not-working.3278/",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/certain-death-triggers-not-working.3279/": {
+    "title": "Certain Death Triggers not working.",
+    "url": "https://forums.mtgo.com/index.php?threads/certain-death-triggers-not-working.3279/",
+    "status": "More Info Needed",
+    "tracked": false
   }
 }

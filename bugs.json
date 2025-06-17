@@ -1,5 +1,19 @@
 [
   {
+    "card": "Living Death",
+    "description": "Living Death ignores certan replacement effects when bringing creatures in play",
+    "category": "Advantageous",
+    "last_updated": "2025-06-17 15:46:02",
+    "issue_number": 1138,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1138",
+    "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
+    "last_verified": null
+  },
+  {
     "card": "Gyruda, Doom of Depths",
     "description": "Gyruda, Doom of Depths causes the game to lock when you are enchanted with Wheel of Sun and Moon.",
     "category": "Avoidable Game Breaking",
@@ -853,21 +867,6 @@
     "help_wanted": true
   },
   {
-    "card": "The First Eruption",
-    "description": "The First Eruption Chapter III is Treated as a \"may\" ability but it is mandatory",
-    "category": "Advantageous",
-    "last_updated": "2024-09-13 22:52:16",
-    "issue_number": 1018,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1018",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
     "card": "Hateful Eidolon",
     "description": "Bestowed creatures dont trigger Hateful Eidolon",
     "category": "Disadvantageous",
@@ -1633,36 +1632,6 @@
     "help_wanted": true
   },
   {
-    "card": "Shaman of the Great Hunt",
-    "description": "Shaman of the Great Hunt only puts one counter on creatures with Harmonic Prodigy in play",
-    "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:52:44",
-    "issue_number": 946,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/946",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Harmonic Prodigy",
-    "description": "Shaman of the Great Hunt only puts one counter on creatures with Harmonic Prodigy in play",
-    "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:52:44",
-    "issue_number": 946,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/946",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
     "card": "Siphon Insight",
     "description": "Siphon Insight makes the targeted player skip their next draw step (avoidable)",
     "category": "Advantageous",
@@ -1801,16 +1770,15 @@
     "card": "Harmonic Prodigy",
     "description": "Harmonic Prodigy causes creatures that are both shamans and wizards to trigger three times",
     "category": "Advantageous",
-    "last_updated": "2024-09-13 22:52:49",
+    "last_updated": "2025-06-10 17:55:14",
     "issue_number": 930,
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/930",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "support_thread": "https://forums.mtgo.com/index.php?threads/harmonic-prodigy-causes-creatures-that-are-both-shamans-and-wizards-to-trigger-three-times.3325/",
+    "last_verified": null
   },
   {
     "card": "Realmwalker",
