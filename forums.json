@@ -11740,5 +11740,209 @@
     "url": "https://forums.mtgo.com/index.php?threads/certain-death-triggers-not-working.3279/",
     "status": "More Info Needed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/quina-is-copying-counters-on-the-frog-it-makes.3329/": {
+    "title": "Quina is copying counters on the frog it makes",
+    "url": "https://forums.mtgo.com/index.php?threads/quina-is-copying-counters-on-the-frog-it-makes.3329/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/seize-the-spotlight-caused-the-game-to-crash.3364/": {
+    "title": "Seize the Spotlight caused the game to crash",
+    "url": "https://forums.mtgo.com/index.php?threads/seize-the-spotlight-caused-the-game-to-crash.3364/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/0-1-black-wizard-creature-tokens-do-not-stack.3352/": {
+    "title": "0/1 black Wizard creature tokens do not stack",
+    "url": "https://forums.mtgo.com/index.php?threads/0-1-black-wizard-creature-tokens-do-not-stack.3352/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/absolute-resolute-from-final-fantasy.3358/": {
+    "title": "Absolute Resolute from Final Fantasy",
+    "url": "https://forums.mtgo.com/index.php?threads/absolute-resolute-from-final-fantasy.3358/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/entomb-wont-allow-selection-of-anything-in-deck.3357/": {
+    "title": "Entomb won't allow selection of anything in deck",
+    "url": "https://forums.mtgo.com/index.php?threads/entomb-wont-allow-selection-of-anything-in-deck.3357/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/jodah-the-unifier-in-new-art-style-in-ff-doesnt-display-trigger-window.3337/": {
+    "title": "Jodah, the unifier in new art style in ff doesn't display trigger window",
+    "url": "https://forums.mtgo.com/index.php?threads/jodah-the-unifier-in-new-art-style-in-ff-doesnt-display-trigger-window.3337/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bugs-disconnects-while-interacting-with-graveyard.3332/": {
+    "title": "Bugs/disconnects while interacting with graveyard",
+    "url": "https://forums.mtgo.com/index.php?threads/bugs-disconnects-while-interacting-with-graveyard.3332/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-frodo-determined-hero.3368/": {
+    "title": "Bug Frodo, Determined Hero",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-frodo-determined-hero.3368/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/word-of-command-does-nothing.3363/": {
+    "title": "Word of Command does nothing",
+    "url": "https://forums.mtgo.com/index.php?threads/word-of-command-does-nothing.3363/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/creatures-with-variable-power-and-toughness-such-as-crackling-drake-are-not-correctly-updated-in-the-reveal-zone.3361/": {
+    "title": "Creatures with variable power and toughness such as Crackling Drake are not correctly updated in the reveal zone",
+    "url": "https://forums.mtgo.com/index.php?threads/creatures-with-variable-power-and-toughness-such-as-crackling-drake-are-not-correctly-updated-in-the-reveal-zone.3361/",
+    "status": "Backlog",
+    "tracked": true
+  },
+  "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-psychic-frog.3369/": {
+    "title": "Agatha's Soul Cauldron + Psychic Frog",
+    "url": "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-psychic-frog.3369/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/reins-of-the-vinesteed-doesnt-let-me-take-any-action-and-remains-on-the-stack.3367/": {
+    "title": "Reins of the Vinesteed doesn't let me take any action and remains on the stack",
+    "url": "https://forums.mtgo.com/index.php?threads/reins-of-the-vinesteed-doesnt-let-me-take-any-action-and-remains-on-the-stack.3367/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/tidus-yunas-guardian-once-per-turn-trigger-can-resolves-more-than-once.3365/": {
+    "title": "Tidus, Yuna's Guardian once per turn trigger can resolves more than once",
+    "url": "https://forums.mtgo.com/index.php?threads/tidus-yunas-guardian-once-per-turn-trigger-can-resolves-more-than-once.3365/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/small-forest-bear-bug.3359/": {
+    "title": "Small Forest Bear Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/small-forest-bear-bug.3359/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/containment-priest-randomly-exiles-other-creatures-blinked-by-yorion-sky-nomad.3356/": {
+    "title": "Containment Priest randomly exiles other creatures blinked by Yorion, Sky Nomad",
+    "url": "https://forums.mtgo.com/index.php?threads/containment-priest-randomly-exiles-other-creatures-blinked-by-yorion-sky-nomad.3356/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/intuition-just-doesnt-work.3328/": {
+    "title": "Intuition Just Doesn't Work!",
+    "url": "https://forums.mtgo.com/index.php?threads/intuition-just-doesnt-work.3328/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/card-zoom-gets-stuck.3351/": {
+    "title": "Card zoom gets stuck",
+    "url": "https://forums.mtgo.com/index.php?threads/card-zoom-gets-stuck.3351/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/two-factor-authentication-not-sending-the-email.3349/": {
+    "title": "Two factor authentication not sending the email",
+    "url": "https://forums.mtgo.com/index.php?threads/two-factor-authentication-not-sending-the-email.3349/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cauldron-bug-activated-abilities-of-the-exiled-creatures-cant-be-activated.3339/": {
+    "title": "Cauldron Bug - activated abilities of the exiled creatures cant be activated",
+    "url": "https://forums.mtgo.com/index.php?threads/cauldron-bug-activated-abilities-of-the-exiled-creatures-cant-be-activated.3339/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/firion-wild-rose-warrior.3331/": {
+    "title": "Firion, Wild Rose Warrior",
+    "url": "https://forums.mtgo.com/index.php?threads/firion-wild-rose-warrior.3331/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/winds-of-abandon-does-not-trigger-land-search.3347/": {
+    "title": "Winds of Abandon does not trigger land search",
+    "url": "https://forums.mtgo.com/index.php?threads/winds-of-abandon-does-not-trigger-land-search.3347/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/felwar-stone-not-producing-rainbow-mana-with-an-exotic-orchard-on-board.3342/": {
+    "title": "Felwar Stone not producing rainbow mana with an Exotic Orchard on board",
+    "url": "https://forums.mtgo.com/index.php?threads/felwar-stone-not-producing-rainbow-mana-with-an-exotic-orchard-on-board.3342/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/2fa-remember-this-device-not-working.3346/": {
+    "title": "2FA \"Remember this device\" not working",
+    "url": "https://forums.mtgo.com/index.php?threads/2fa-remember-this-device-not-working.3346/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mutate-resets-the-game.3345/": {
+    "title": "Mutate resets the game",
+    "url": "https://forums.mtgo.com/index.php?threads/mutate-resets-the-game.3345/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/elena-turk-recruit-lets-you-bounce-artifacts-in-play.3344/": {
+    "title": "Elena, Turk Recruit let's you bounce artifacts in play",
+    "url": "https://forums.mtgo.com/index.php?threads/elena-turk-recruit-lets-you-bounce-artifacts-in-play.3344/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-dryad-arbor.3341/": {
+    "title": "Agatha's Soul Cauldron Dryad Arbor",
+    "url": "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-dryad-arbor.3341/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/elena-turk-recruits-trigger-cannot-select-non-legendary-artifacts.3334/": {
+    "title": "Elena, Turk Recruit's trigger cannot select non-legendary artifacts",
+    "url": "https://forums.mtgo.com/index.php?threads/elena-turk-recruits-trigger-cannot-select-non-legendary-artifacts.3334/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/firion-wild-rose-warrior-has-a-glitched-triggered-ability.3330/": {
+    "title": "Firion, Wild Rose Warrior has a glitched triggered ability",
+    "url": "https://forums.mtgo.com/index.php?threads/firion-wild-rose-warrior-has-a-glitched-triggered-ability.3330/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/firion-wild-rose-warrior-equipment-tokens-with-job-select-dont-buff-the-hero-tokens-stats.3327/": {
+    "title": "Firion, Wild Rose Warrior equipment tokens with Job Select don't buff the hero token's stats",
+    "url": "https://forums.mtgo.com/index.php?threads/firion-wild-rose-warrior-equipment-tokens-with-job-select-dont-buff-the-hero-tokens-stats.3327/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cards-can-be-cast-for-freerunning-and-prowl-cost-if-the-creature-deals-combat-damage-not-combat-damage-to-a-player.3326/": {
+    "title": "Cards can be cast for Freerunning and Prowl cost if the creature deals combat damage, not combat damage to a player.",
+    "url": "https://forums.mtgo.com/index.php?threads/cards-can-be-cast-for-freerunning-and-prowl-cost-if-the-creature-deals-combat-damage-not-combat-damage-to-a-player.3326/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/spellweaver-helix-fails-to-trigger-while-casting-one-of-the-imprinted-spells.3324/": {
+    "title": "Spellweaver Helix fails to trigger while casting one of the imprinted spells",
+    "url": "https://forums.mtgo.com/index.php?threads/spellweaver-helix-fails-to-trigger-while-casting-one-of-the-imprinted-spells.3324/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/white-orchid-phantom-not-triggering-revolt.3323/": {
+    "title": "White orchid phantom, not triggering revolt",
+    "url": "https://forums.mtgo.com/index.php?threads/white-orchid-phantom-not-triggering-revolt.3323/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mutate-bug-gemrazer-on-wight-of-the-reliquary.3317/": {
+    "title": "Mutate Bug - Gemrazer on Wight of the Reliquary",
+    "url": "https://forums.mtgo.com/index.php?threads/mutate-bug-gemrazer-on-wight-of-the-reliquary.3317/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/graceful-takedown-only-works-sometimes.3319/": {
+    "title": "Graceful Takedown only works sometimes",
+    "url": "https://forums.mtgo.com/index.php?threads/graceful-takedown-only-works-sometimes.3319/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }

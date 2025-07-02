@@ -276,7 +276,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1117",
     "support_thread": "https://forums.mtgo.com/index.php?threads/paying-for-ripples-of-undeath-while-wheel-of-sun-and-moon-is-enchanting-you-locks-the-game.2529/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Amulet of Safekeeping",
@@ -3258,14 +3259,14 @@
     "card": "Crackling Drake",
     "description": "Creatures with variable power and toughness such as Crackling Drake are not correctly updated in the reveal zone.",
     "category": "Graphical",
-    "last_updated": "2025-06-24 21:27:20",
+    "last_updated": "2025-07-02 17:46:10",
     "issue_number": 635,
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/635",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/creatures-with-variable-power-and-toughness-such-as-crackling-drake-are-not-correctly-updated-in-the-reveal-zone.3361/",
     "last_verified": null
   },
   {
