@@ -3258,7 +3258,7 @@
     "card": "Crackling Drake",
     "description": "Creatures with variable power and toughness such as Crackling Drake are not correctly updated in the reveal zone.",
     "category": "Graphical",
-    "last_updated": "2025-06-24 16:26:34",
+    "last_updated": "2025-06-24 21:27:20",
     "issue_number": 635,
     "pd_legal": true,
     "bug_blog": false,
