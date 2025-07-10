@@ -8948,7 +8948,7 @@
   "https://forums.mtgo.com/index.php?threads/visual-tie-breakers-showing-0-0-told-by-customer-service-to-contact-here.2682/": {
     "title": "Visual: Tie-Breakers showing 0.0% told by customer service to contact here",
     "url": "https://forums.mtgo.com/index.php?threads/visual-tie-breakers-showing-0-0-told-by-customer-service-to-contact-here.2682/",
-    "status": "More Info Needed",
+    "status": "No Fix Planned",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/it-is-now-impossible-for-me-to-sideboard-as-client-laggy-and-times-out.2700/": {
@@ -11943,6 +11943,18 @@
     "title": "Graceful Takedown only works sometimes",
     "url": "https://forums.mtgo.com/index.php?threads/graceful-takedown-only-works-sometimes.3319/",
     "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/final-fantasy-snuff-out-cant-be-added-to-decks-via-update-with-cards-in-collection.3338/": {
+    "title": "final fantasy snuff out can't be added to decks via update with cards in collection",
+    "url": "https://forums.mtgo.com/index.php?threads/final-fantasy-snuff-out-cant-be-added-to-decks-via-update-with-cards-in-collection.3338/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/fatal-error-game-crash-client-closing.3370/": {
+    "title": "Fatal Error, Game Crash, client closing.",
+    "url": "https://forums.mtgo.com/index.php?threads/fatal-error-game-crash-client-closing.3370/",
+    "status": "Resolved",
     "tracked": false
   }
 }

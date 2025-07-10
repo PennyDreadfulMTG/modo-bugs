@@ -1,5 +1,19 @@
 [
   {
+    "card": "Phyrexian Metamorph",
+    "description": "Phyrexian Metamorph copying Creature Sagas has its art shifted",
+    "category": "Graphical",
+    "last_updated": "2025-07-10 04:57:40",
+    "issue_number": 1140,
+    "pd_legal": false,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1140",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Living Death",
     "description": "Living Death ignores certan replacement effects when bringing creatures in play",
     "category": "Advantageous",
@@ -25,7 +39,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1135",
     "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Wheel of Sun and Moon",
@@ -39,7 +54,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1135",
     "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Bronzehide Lion",
@@ -53,7 +69,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1134",
     "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Startled Awake",
@@ -3226,21 +3243,6 @@
     "help_wanted": true
   },
   {
-    "card": "Careful Consideration",
-    "description": "Copy spells that care about being cast during a main phase such as Careful Consideration sometimes do not confer the main phase bonus.",
-    "category": "Unclassified",
-    "last_updated": "2024-09-13 22:53:21",
-    "issue_number": 648,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/648",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
     "card": "Porphyry Nodes",
     "description": "Porphyry Nodes allows a creature to regenerate if it's tied for the least power.",
     "category": "Disadvantageous",
@@ -3259,7 +3261,7 @@
     "card": "Crackling Drake",
     "description": "Creatures with variable power and toughness such as Crackling Drake are not correctly updated in the reveal zone.",
     "category": "Graphical",
-    "last_updated": "2025-07-02 17:46:10",
+    "last_updated": "2025-07-02 17:46:15",
     "issue_number": 635,
     "pd_legal": true,
     "bug_blog": false,
@@ -4545,7 +4547,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/72",
     "support_thread": "https://forums.mtgo.com/index.php?threads/if-you-cast-a-second-gideons-intervention-the-first-will-no-longer-prevent-damage.3168/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Island Sanctuary",
