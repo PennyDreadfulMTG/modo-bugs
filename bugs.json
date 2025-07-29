@@ -1,5 +1,19 @@
 [
   {
+    "card": "Smuggler's Surprise",
+    "description": "Smuggler's Surprise should not be able to pick Blightsteel Colossus with its first mode",
+    "category": "Advantageous",
+    "last_updated": "2025-07-22 15:39:20",
+    "issue_number": 1142,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1142",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Phyrexian Metamorph",
     "description": "Phyrexian Metamorph copying Creature Sagas has its art shifted",
     "category": "Graphical",
@@ -53,21 +67,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1135",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Bronzehide Lion",
-    "description": "Bronzehide Lion returns to the battlefield even if there is no target",
-    "category": "Advantageous",
-    "last_updated": "2025-05-03 20:38:24",
-    "issue_number": 1134,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1134",
     "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
     "last_verified": null,
     "help_wanted": true
@@ -280,21 +279,6 @@
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1120",
     "support_thread": "https://forums.mtgo.com/index.php?threads/frodo-determined-hero-will-prevent-all-damage-dealt-to-it-even-when-it-is-not-your-turn.2506/",
     "last_verified": null
-  },
-  {
-    "card": "Ripples of Undeath",
-    "description": "Paying for Ripples of Undeath while Wheel of Sun and Moon is in play locks the game.",
-    "category": "Avoidable Game Breaking",
-    "last_updated": "2025-05-02 04:13:35",
-    "issue_number": 1117,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1117",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/paying-for-ripples-of-undeath-while-wheel-of-sun-and-moon-is-enchanting-you-locks-the-game.2529/",
-    "last_verified": null,
-    "help_wanted": true
   },
   {
     "card": "Amulet of Safekeeping",
@@ -1460,21 +1444,6 @@
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/971",
-    "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
-    "card": "Nether Traitor",
-    "description": "Nether Traitor triggers when it goes to the graveyard alongside other creatures.",
-    "category": "Advantageous",
-    "last_updated": "2024-09-13 22:52:37",
-    "issue_number": 969,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/969",
     "support_thread": null,
     "last_verified": null,
     "help_wanted": true

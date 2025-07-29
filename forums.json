@@ -7881,7 +7881,7 @@
     "title": "Paying for Ripples of Undeath while Wheel of Sun and Moon is enchanting you locks the game",
     "url": "https://forums.mtgo.com/index.php?threads/paying-for-ripples-of-undeath-while-wheel-of-sun-and-moon-is-enchanting-you-locks-the-game.2529/",
     "status": "Confirmed",
-    "tracked": true
+    "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/out-of-time-interacts-incorrectly-with-characteristic-setting-ability.2527/": {
     "title": "Out of Time interacts incorrectly with characteristic-setting ability",
@@ -11955,6 +11955,264 @@
     "title": "Fatal Error, Game Crash, client closing.",
     "url": "https://forums.mtgo.com/index.php?threads/fatal-error-game-crash-client-closing.3370/",
     "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/saga-creature-keywords-added-to-top.3425/": {
+    "title": "Saga creature keywords added to top",
+    "url": "https://forums.mtgo.com/index.php?threads/saga-creature-keywords-added-to-top.3425/",
+    "status": "As Designed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/i-dont-understand-this-situation.3421/": {
+    "title": "I don't understand this situation",
+    "url": "https://forums.mtgo.com/index.php?threads/i-dont-understand-this-situation.3421/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/confusion-in-the-rank-bug.3406/": {
+    "title": "Confusion in the rank bug",
+    "url": "https://forums.mtgo.com/index.php?threads/confusion-in-the-rank-bug.3406/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/stubborn-denial-bug.3415/": {
+    "title": "stubborn denial bug",
+    "url": "https://forums.mtgo.com/index.php?threads/stubborn-denial-bug.3415/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/leonin-arbiter.3401/": {
+    "title": "Leonin Arbiter",
+    "url": "https://forums.mtgo.com/index.php?threads/leonin-arbiter.3401/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/duelist-of-the-mind-and-mulligans.3398/": {
+    "title": "duelist of the mind and mulligans",
+    "url": "https://forums.mtgo.com/index.php?threads/duelist-of-the-mind-and-mulligans.3398/",
+    "status": "No Fix Planned",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/assimilation-aegis.3395/": {
+    "title": "Assimilation Aegis",
+    "url": "https://forums.mtgo.com/index.php?threads/assimilation-aegis.3395/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-one-ring-draws-after-it-has-been-bounced.3393/": {
+    "title": "The one ring draws after it has been bounced",
+    "url": "https://forums.mtgo.com/index.php?threads/the-one-ring-draws-after-it-has-been-bounced.3393/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/skyclave-appatition-delney-streetwise-lookout-combo-bug.3378/": {
+    "title": "Skyclave Appatition + Delney, Streetwise Lookout combo bug",
+    "url": "https://forums.mtgo.com/index.php?threads/skyclave-appatition-delney-streetwise-lookout-combo-bug.3378/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/narcomoeba-bug.3441/": {
+    "title": "Narcomoeba bug",
+    "url": "https://forums.mtgo.com/index.php?threads/narcomoeba-bug.3441/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/delver-declining-reveal-resets-the-game-from-the-beginning.3437/": {
+    "title": "Delver Declining reveal resets the game from the beginning.",
+    "url": "https://forums.mtgo.com/index.php?threads/delver-declining-reveal-resets-the-game-from-the-beginning.3437/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/narcomoeba-put-into-graveyard-via-undercity-informer-milling-whole-deck-not-entering-battlefield.3436/": {
+    "title": "Narcomoeba put into graveyard via undercity informer milling whole deck not entering battlefield",
+    "url": "https://forums.mtgo.com/index.php?threads/narcomoeba-put-into-graveyard-via-undercity-informer-milling-whole-deck-not-entering-battlefield.3436/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/experiment-one-not-regenerating.3385/": {
+    "title": "Experiment One not Regenerating",
+    "url": "https://forums.mtgo.com/index.php?threads/experiment-one-not-regenerating.3385/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gifts-ungiven-appearing-as-banned-in-commander.3435/": {
+    "title": "Gifts Ungiven appearing as banned in Commander",
+    "url": "https://forums.mtgo.com/index.php?threads/gifts-ungiven-appearing-as-banned-in-commander.3435/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mind-extraction-isnt-properly-working.3386/": {
+    "title": "Mind Extraction Isn't Properly Working",
+    "url": "https://forums.mtgo.com/index.php?threads/mind-extraction-isnt-properly-working.3386/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dress-down-overlord-impending.3353/": {
+    "title": "Dress Down/Overlord Impending",
+    "url": "https://forums.mtgo.com/index.php?threads/dress-down-overlord-impending.3353/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-token-made-by-graha-tia-scion-reborn-is-generated-as-a-basic-land.3382/": {
+    "title": "The token made by G'raha Tia, Scion Reborn is generated as a basic land",
+    "url": "https://forums.mtgo.com/index.php?threads/the-token-made-by-graha-tia-scion-reborn-is-generated-as-a-basic-land.3382/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/rescue-from-the-underworld-restarts-game.3373/": {
+    "title": "Rescue from the Underworld restarts game",
+    "url": "https://forums.mtgo.com/index.php?threads/rescue-from-the-underworld-restarts-game.3373/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sephiroth-fabled-soldier-emblem-groups-with-creatures-instead-of-noncreatures.3348/": {
+    "title": "Sephiroth, Fabled SOLDIER emblem groups with creatures instead of noncreatures",
+    "url": "https://forums.mtgo.com/index.php?threads/sephiroth-fabled-soldier-emblem-groups-with-creatures-instead-of-noncreatures.3348/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/frodo-determined-hero-also-prevent-damage-during-opponent-turn.3430/": {
+    "title": "Frodo, Determined Hero also prevent damage during opponent turn",
+    "url": "https://forums.mtgo.com/index.php?threads/frodo-determined-hero-also-prevent-damage-during-opponent-turn.3430/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/myriad-landscape-does-not-allow-you-to-choose-a-single-wastes-card.3419/": {
+    "title": "Myriad Landscape does not allow you to choose a single Wastes card",
+    "url": "https://forums.mtgo.com/index.php?threads/myriad-landscape-does-not-allow-you-to-choose-a-single-wastes-card.3419/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/gisela-blade-of-goldnight-did-not-halve-damage.3420/": {
+    "title": "Gisela, Blade of Goldnight did not halve damage",
+    "url": "https://forums.mtgo.com/index.php?threads/gisela-blade-of-goldnight-did-not-halve-damage.3420/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/paying-harmonize-cost-bug.3410/": {
+    "title": "Paying harmonize cost bug",
+    "url": "https://forums.mtgo.com/index.php?threads/paying-harmonize-cost-bug.3410/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bludgeon-brawl.3408/": {
+    "title": "Bludgeon Brawl",
+    "url": "https://forums.mtgo.com/index.php?threads/bludgeon-brawl.3408/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kediss-emberclaw-familiar-replicates-combat-damage-to-the-attacked-opponent-as-well.3402/": {
+    "title": "Kediss, Emberclaw Familiar replicates combat damage to the attacked opponent as well",
+    "url": "https://forums.mtgo.com/index.php?threads/kediss-emberclaw-familiar-replicates-combat-damage-to-the-attacked-opponent-as-well.3402/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/errant-street-artist-ivy-gleeful-spellthief.3392/": {
+    "title": "Errant, Street Artist + Ivy, Gleeful Spellthief",
+    "url": "https://forums.mtgo.com/index.php?threads/errant-street-artist-ivy-gleeful-spellthief.3392/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/verdant-haven-on-an-opponents-land.3391/": {
+    "title": "Verdant Haven on an opponent's land",
+    "url": "https://forums.mtgo.com/index.php?threads/verdant-haven-on-an-opponents-land.3391/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bug.3380/": {
+    "title": "Volrath's Shapeshifter bug",
+    "url": "https://forums.mtgo.com/index.php?threads/volraths-shapeshifter-bug.3380/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/hardened-scales-and-resourceful-defense-bug.3381/": {
+    "title": "Hardened scales and Resourceful defense bug",
+    "url": "https://forums.mtgo.com/index.php?threads/hardened-scales-and-resourceful-defense-bug.3381/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/indestructible-vs-lethal-dmg-vs-trample.3366/": {
+    "title": "indestructible vs lethal dmg vs trample",
+    "url": "https://forums.mtgo.com/index.php?threads/indestructible-vs-lethal-dmg-vs-trample.3366/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/doom-foretold-restarts-the-game-when-the-opponents-tries-to-sacrifice.3440/": {
+    "title": "Doom Foretold restarts the game when the opponents tries to sacrifice.",
+    "url": "https://forums.mtgo.com/index.php?threads/doom-foretold-restarts-the-game-when-the-opponents-tries-to-sacrifice.3440/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/game-lock.3439/": {
+    "title": "Game lock",
+    "url": "https://forums.mtgo.com/index.php?threads/game-lock.3439/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/trample-creature-attacking-a-planeswalker-that-dies-during-first-strike-damage-causes-the-game-to-bug-out-and-restart.3433/": {
+    "title": "Trample creature attacking a planeswalker that dies during first strike damage causes the game to bug out and restart",
+    "url": "https://forums.mtgo.com/index.php?threads/trample-creature-attacking-a-planeswalker-that-dies-during-first-strike-damage-causes-the-game-to-bug-out-and-restart.3433/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/glimpse-of-tomorrow-not-working-properly.3416/": {
+    "title": "Glimpse of Tomorrow not working properly",
+    "url": "https://forums.mtgo.com/index.php?threads/glimpse-of-tomorrow-not-working-properly.3416/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/incorrect-kaito-bane-of-nightmares-and-containment-priest-interaction.3388/": {
+    "title": "Incorrect Kaito, Bane of Nightmares and containment priest interaction",
+    "url": "https://forums.mtgo.com/index.php?threads/incorrect-kaito-bane-of-nightmares-and-containment-priest-interaction.3388/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/containment-priest-exile-other-creature-that-enter-the-battlefield-at-the-same-time.3407/": {
+    "title": "Containment Priest exile other creature that enter the battlefield at the same time",
+    "url": "https://forums.mtgo.com/index.php?threads/containment-priest-exile-other-creature-that-enter-the-battlefield-at-the-same-time.3407/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/lonis-cryptozoologist-repeatable-game-reset.3405/": {
+    "title": "Lonis, Cryptozoologist repeatable game reset",
+    "url": "https://forums.mtgo.com/index.php?threads/lonis-cryptozoologist-repeatable-game-reset.3405/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/krrik-son-of-yawgmoth-will-pass-priority-if-you-have-selected-no-possible-play-yield-even-if-you-have-cards-you-could-cast.3403/": {
+    "title": "K'rrik, Son of Yawgmoth will pass priority if you have selected \"no possible play\" yield even if you have cards you could cast.",
+    "url": "https://forums.mtgo.com/index.php?threads/krrik-son-of-yawgmoth-will-pass-priority-if-you-have-selected-no-possible-play-yield-even-if-you-have-cards-you-could-cast.3403/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/cant-properly-view-graveyard-exile-zones-%E2%80%93-major-visibility-bug.3400/": {
+    "title": "Can't Properly View Graveyard/Exile Zones \u2013 Major Visibility Bug",
+    "url": "https://forums.mtgo.com/index.php?threads/cant-properly-view-graveyard-exile-zones-%E2%80%93-major-visibility-bug.3400/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-walking-ballista.3390/": {
+    "title": "Agatha's Soul Cauldron + Walking Ballista",
+    "url": "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-walking-ballista.3390/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/zenos-yae-galvus-and-fire-crystal-gave-unexpected-etb-trigger-outcome.3394/": {
+    "title": "Zenos yae Galvus and Fire Crystal gave unexpected ETB trigger outcome",
+    "url": "https://forums.mtgo.com/index.php?threads/zenos-yae-galvus-and-fire-crystal-gave-unexpected-etb-trigger-outcome.3394/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/interaction-issue-between-shining-shoal-galvanic-discharge-and-invasion-of-gobakhan.3389/": {
+    "title": "Interaction issue between Shining Shoal, Galvanic Discharge and Invasion of Gobakhan",
+    "url": "https://forums.mtgo.com/index.php?threads/interaction-issue-between-shining-shoal-galvanic-discharge-and-invasion-of-gobakhan.3389/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/pyre-of-heroes-now-broken.3374/": {
+    "title": "Pyre of Heroes now broken",
+    "url": "https://forums.mtgo.com/index.php?threads/pyre-of-heroes-now-broken.3374/",
+    "status": "Confirmed",
     "tracked": false
   }
 }
