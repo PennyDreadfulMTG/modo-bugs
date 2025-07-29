@@ -3,14 +3,14 @@
     "card": "Smuggler's Surprise",
     "description": "Smuggler's Surprise should not be able to pick Blightsteel Colossus with its first mode",
     "category": "Advantageous",
-    "last_updated": "2025-07-22 15:39:20",
+    "last_updated": "2025-07-29 13:52:24",
     "issue_number": 1142,
     "pd_legal": true,
     "bug_blog": false,
     "breaking": false,
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1142",
-    "support_thread": null,
+    "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
     "last_verified": null
   },
   {
