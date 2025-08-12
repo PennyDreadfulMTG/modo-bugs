@@ -3,7 +3,7 @@
     "card": "Smuggler's Surprise",
     "description": "Smuggler's Surprise should not be able to pick Blightsteel Colossus with its first mode",
     "category": "Advantageous",
-    "last_updated": "2025-07-29 13:52:24",
+    "last_updated": "2025-07-29 15:48:24",
     "issue_number": 1142,
     "pd_legal": true,
     "bug_blog": false,
@@ -278,7 +278,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1120",
     "support_thread": "https://forums.mtgo.com/index.php?threads/frodo-determined-hero-will-prevent-all-damage-dealt-to-it-even-when-it-is-not-your-turn.2506/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Amulet of Safekeeping",

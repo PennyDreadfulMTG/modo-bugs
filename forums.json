@@ -12214,5 +12214,119 @@
     "url": "https://forums.mtgo.com/index.php?threads/pyre-of-heroes-now-broken.3374/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/maybe-not-a-bug-but-a-suggestion-command-bridge.3469/": {
+    "title": "Maybe not a bug, but a suggestion: Command Bridge",
+    "url": "https://forums.mtgo.com/index.php?threads/maybe-not-a-bug-but-a-suggestion-command-bridge.3469/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ephemerate-second-rebound-solitaire.3449/": {
+    "title": "Ephemerate second Rebound (Solitaire)",
+    "url": "https://forums.mtgo.com/index.php?threads/ephemerate-second-rebound-solitaire.3449/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/vonas-hunger-bugged.3477/": {
+    "title": "Vona's Hunger Bugged",
+    "url": "https://forums.mtgo.com/index.php?threads/vonas-hunger-bugged.3477/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/hearthborn-battler-361-frame.3473/": {
+    "title": "Hearthborn Battler #361 frame",
+    "url": "https://forums.mtgo.com/index.php?threads/hearthborn-battler-361-frame.3473/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sothera-the-supervoid-headliner-visual-error.3472/": {
+    "title": "Sothera, the Supervoid headliner visual error",
+    "url": "https://forums.mtgo.com/index.php?threads/sothera-the-supervoid-headliner-visual-error.3472/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/mtgo-crashes-and-unable-to-relaunch-while-game-in-progress.3468/": {
+    "title": "MTGO crashes and unable to relaunch while game in progress",
+    "url": "https://forums.mtgo.com/index.php?threads/mtgo-crashes-and-unable-to-relaunch-while-game-in-progress.3468/",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/xu-ifit-osteoharmonist-memorial-team-leader.3467/": {
+    "title": "Xu-Ifit, Osteoharmonist + Memorial Team Leader",
+    "url": "https://forums.mtgo.com/index.php?threads/xu-ifit-osteoharmonist-memorial-team-leader.3467/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/graha-tia-scion-reborn-and-profane-tutor.3464/": {
+    "title": "G'raha Tia Scion Reborn and Profane tutor",
+    "url": "https://forums.mtgo.com/index.php?threads/graha-tia-scion-reborn-and-profane-tutor.3464/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/deckbuilding-bugs.3466/": {
+    "title": "Deckbuilding bugs",
+    "url": "https://forums.mtgo.com/index.php?threads/deckbuilding-bugs.3466/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/wrenn-and-six-emblem-blocked-by-six-the-creature-and-vice-versa.3463/": {
+    "title": "Wrenn and Six Emblem blocked by Six (the creature) and vice versa",
+    "url": "https://forums.mtgo.com/index.php?threads/wrenn-and-six-emblem-blocked-by-six-the-creature-and-vice-versa.3463/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/button-for-undefeated-decklists-points-to-wrong-url.3462/": {
+    "title": "Button for \"undefeated decklists\" points to wrong URL",
+    "url": "https://forums.mtgo.com/index.php?threads/button-for-undefeated-decklists-points-to-wrong-url.3462/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/marath-will-of-the-wild-needs-to-be-fixed.3460/": {
+    "title": "Marath, Will of the Wild needs to be fixed",
+    "url": "https://forums.mtgo.com/index.php?threads/marath-will-of-the-wild-needs-to-be-fixed.3460/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/rampant-rejuvenator-toxic-deluge.3459/": {
+    "title": "Rampant Rejuvenator +Toxic Deluge",
+    "url": "https://forums.mtgo.com/index.php?threads/rampant-rejuvenator-toxic-deluge.3459/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-arcbound-ravager.3458/": {
+    "title": "Agatha's Soul Cauldron + Arcbound Ravager",
+    "url": "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-arcbound-ravager.3458/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/threshold-busted-after-last-update.3456/": {
+    "title": "Threshold busted after last update",
+    "url": "https://forums.mtgo.com/index.php?threads/threshold-busted-after-last-update.3456/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/foundry-helix-does-not-gain-life-when-you-sacrifice-an-artifact.3452/": {
+    "title": "Foundry Helix does not gain life when you sacrifice an artifact",
+    "url": "https://forums.mtgo.com/index.php?threads/foundry-helix-does-not-gain-life-when-you-sacrifice-an-artifact.3452/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/skipped-my-turn.3448/": {
+    "title": "Skipped my turn",
+    "url": "https://forums.mtgo.com/index.php?threads/skipped-my-turn.3448/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/new-way-forward-causes-restart.3446/": {
+    "title": "New Way Forward Causes Restart",
+    "url": "https://forums.mtgo.com/index.php?threads/new-way-forward-causes-restart.3446/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/wall-of-shards-causing-crash.3444/": {
+    "title": "Wall of Shards Causing Crash",
+    "url": "https://forums.mtgo.com/index.php?threads/wall-of-shards-causing-crash.3444/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
