@@ -12328,5 +12328,251 @@
     "url": "https://forums.mtgo.com/index.php?threads/wall-of-shards-causing-crash.3444/",
     "status": "Confirmed",
     "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/blade-of-the-bloodchief-triggering-with-an-exile-effect-in-place.3485/": {
+    "title": "blade of the bloodchief triggering with an exile effect in place",
+    "url": "https://forums.mtgo.com/index.php?threads/blade-of-the-bloodchief-triggering-with-an-exile-effect-in-place.3485/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/esper-sentinel-card-draw-bug.3484/": {
+    "title": "Esper Sentinel - card draw bug",
+    "url": "https://forums.mtgo.com/index.php?threads/esper-sentinel-card-draw-bug.3484/",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/k-command-lets-things-resolve-when-cast-in-response.3501/": {
+    "title": "K Command lets things resolve when cast in response",
+    "url": "https://forums.mtgo.com/index.php?threads/k-command-lets-things-resolve-when-cast-in-response.3501/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/possible-elusive-otter-adventure-mode-x-0-bug.3498/": {
+    "title": "Possible elusive otter adventure mode x=0 bug",
+    "url": "https://forums.mtgo.com/index.php?threads/possible-elusive-otter-adventure-mode-x-0-bug.3498/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/target-card-in-graveyard-causes-crash.3422/": {
+    "title": "target card in graveyard causes crash",
+    "url": "https://forums.mtgo.com/index.php?threads/target-card-in-graveyard-causes-crash.3422/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/channel-adds-generic-mana-instead-of-colorless.3495/": {
+    "title": "Channel adds generic mana instead of colorless",
+    "url": "https://forums.mtgo.com/index.php?threads/channel-adds-generic-mana-instead-of-colorless.3495/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/aquamorph-entity-lets-my-opponent-make-the-choice-instead-of-me.3492/": {
+    "title": "Aquamorph Entity lets my opponent make the choice instead of me.",
+    "url": "https://forums.mtgo.com/index.php?threads/aquamorph-entity-lets-my-opponent-make-the-choice-instead-of-me.3492/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kozileks-command-lets-things-resolve-gives-up-prio.3488/": {
+    "title": "Kozileks Command lets things resolve / gives up prio",
+    "url": "https://forums.mtgo.com/index.php?threads/kozileks-command-lets-things-resolve-gives-up-prio.3488/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/pyroblast-can-not-target-brazen-borrower.3409/": {
+    "title": "pyroblast can not target Brazen Borrower",
+    "url": "https://forums.mtgo.com/index.php?threads/pyroblast-can-not-target-brazen-borrower.3409/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/chord-of-calling-bug.3475/": {
+    "title": "Chord of Calling bug",
+    "url": "https://forums.mtgo.com/index.php?threads/chord-of-calling-bug.3475/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dredge.3474/": {
+    "title": "dredge",
+    "url": "https://forums.mtgo.com/index.php?threads/dredge.3474/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sideboarding-not-working.3457/": {
+    "title": "Sideboarding not working",
+    "url": "https://forums.mtgo.com/index.php?threads/sideboarding-not-working.3457/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/sacrifice-creature-causes-game-to-restart.3451/": {
+    "title": "Sacrifice creature causes game to restart",
+    "url": "https://forums.mtgo.com/index.php?threads/sacrifice-creature-causes-game-to-restart.3451/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/kozileks-command-not-giving-scries-or-spawns-but-instead-just-gives-me-2-colorless-mana.3454/": {
+    "title": "Kozilek's Command not giving scries or Spawns, but instead just gives me 2 colorless mana",
+    "url": "https://forums.mtgo.com/index.php?threads/kozileks-command-not-giving-scries-or-spawns-but-instead-just-gives-me-2-colorless-mana.3454/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/got-disconnected.3453/": {
+    "title": "Got disconnected",
+    "url": "https://forums.mtgo.com/index.php?threads/got-disconnected.3453/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/bug-worldspine-worm-doesnt-shuffle-into-library.3438/": {
+    "title": "Bug: worldspine worm doesn't shuffle into library",
+    "url": "https://forums.mtgo.com/index.php?threads/bug-worldspine-worm-doesnt-shuffle-into-library.3438/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/disciple-of-caelus-nin.3427/": {
+    "title": "Disciple of Caelus Nin",
+    "url": "https://forums.mtgo.com/index.php?threads/disciple-of-caelus-nin.3427/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/karmic-justice.3423/": {
+    "title": "Karmic Justice",
+    "url": "https://forums.mtgo.com/index.php?threads/karmic-justice.3423/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/summon-esper-valigarmanda-exiles-opponents-lands-when-it-enters-battlefield.3417/": {
+    "title": "Summon: Esper Valigarmanda exiles opponents lands when it enters battlefield",
+    "url": "https://forums.mtgo.com/index.php?threads/summon-esper-valigarmanda-exiles-opponents-lands-when-it-enters-battlefield.3417/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/vivi-cant-pay-for-phantom-interference-during-resolution.3413/": {
+    "title": "Vivi can't pay for Phantom Interference during resolution",
+    "url": "https://forums.mtgo.com/index.php?threads/vivi-cant-pay-for-phantom-interference-during-resolution.3413/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/darkness-crystal-graha-tia-bug.3411/": {
+    "title": "Darkness Crystal + G'raha Tia bug",
+    "url": "https://forums.mtgo.com/index.php?threads/darkness-crystal-graha-tia-bug.3411/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/case-of-the-uneaten-feast-dont-solve-properly.3397/": {
+    "title": "Case of the uneaten feast dont solve properly",
+    "url": "https://forums.mtgo.com/index.php?threads/case-of-the-uneaten-feast-dont-solve-properly.3397/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/vincent-valentine-toxic-deluge.3383/": {
+    "title": "Vincent Valentine + Toxic Deluge",
+    "url": "https://forums.mtgo.com/index.php?threads/vincent-valentine-toxic-deluge.3383/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/permanents-arent-showing-ward-when-granted-the-ability.3377/": {
+    "title": "Permanents aren't showing ward when granted the ability",
+    "url": "https://forums.mtgo.com/index.php?threads/permanents-arent-showing-ward-when-granted-the-ability.3377/",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/get-stuck-finding-league-opponent.3505/": {
+    "title": "Get stuck \"Finding league opponent\"",
+    "url": "https://forums.mtgo.com/index.php?threads/get-stuck-finding-league-opponent.3505/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/pauper-showcase-qualifier-entry.3491/": {
+    "title": "Pauper showcase qualifier entry",
+    "url": "https://forums.mtgo.com/index.php?threads/pauper-showcase-qualifier-entry.3491/",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dress-down-vs-painters-servant.3490/": {
+    "title": "Dress Down vs. Painter's Servant",
+    "url": "https://forums.mtgo.com/index.php?threads/dress-down-vs-painters-servant.3490/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/deck-editor-filters-out-search-results-it-shouldnt.3508/": {
+    "title": "Deck editor filters out search results it shouldn't",
+    "url": "https://forums.mtgo.com/index.php?threads/deck-editor-filters-out-search-results-it-shouldnt.3508/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/ulamog-the-ceaseless-hunger-pyxis-of-pandemonium.3504/": {
+    "title": "Ulamog the Ceaseless Hunger + Pyxis of Pandemonium",
+    "url": "https://forums.mtgo.com/index.php?threads/ulamog-the-ceaseless-hunger-pyxis-of-pandemonium.3504/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/memory-corridor-foils-display-the-card-without-the-character-with-foil-animation-off.3502/": {
+    "title": "Memory Corridor foils display the card without the character with foil animation off",
+    "url": "https://forums.mtgo.com/index.php?threads/memory-corridor-foils-display-the-card-without-the-character-with-foil-animation-off.3502/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/strom-trigger-undo.3500/": {
+    "title": "Strom Trigger + Undo",
+    "url": "https://forums.mtgo.com/index.php?threads/strom-trigger-undo.3500/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-walking-ballista.3496/": {
+    "title": "Agatha's Soul Cauldron + Walking Ballista",
+    "url": "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-walking-ballista.3496/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/famished-worldsire-instantly-dies-if-cheated-into-play.3499/": {
+    "title": "Famished Worldsire instantly dies if cheated into play",
+    "url": "https://forums.mtgo.com/index.php?threads/famished-worldsire-instantly-dies-if-cheated-into-play.3499/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/winternight-stories-ate-all-my-mana.3494/": {
+    "title": "Winternight stories ate all my mana",
+    "url": "https://forums.mtgo.com/index.php?threads/winternight-stories-ate-all-my-mana.3494/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/weatherseed-totems-triggered-ability-doesnt-work.3493/": {
+    "title": "Weatherseed Totem's triggered ability doesn't work",
+    "url": "https://forums.mtgo.com/index.php?threads/weatherseed-totems-triggered-ability-doesnt-work.3493/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/new-pixel-scaling-in-multiplayer-mk2.3486/": {
+    "title": "New pixel scaling in multiplayer mk2",
+    "url": "https://forums.mtgo.com/index.php?threads/new-pixel-scaling-in-multiplayer-mk2.3486/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/harmonize-uses-all-mana-in-pool-and-taps-the-creature.3489/": {
+    "title": "Harmonize uses all mana in pool and taps the creature.",
+    "url": "https://forums.mtgo.com/index.php?threads/harmonize-uses-all-mana-in-pool-and-taps-the-creature.3489/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/rowen-trigger-shows-up-as-basic-swamp.3487/": {
+    "title": "Rowen trigger shows up as basic Swamp",
+    "url": "https://forums.mtgo.com/index.php?threads/rowen-trigger-shows-up-as-basic-swamp.3487/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/big-zoom-and-battles.3482/": {
+    "title": "Big Zoom and Battles",
+    "url": "https://forums.mtgo.com/index.php?threads/big-zoom-and-battles.3482/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/dress-down-murktide-regent.3483/": {
+    "title": "Dress Down/Murktide Regent",
+    "url": "https://forums.mtgo.com/index.php?threads/dress-down-murktide-regent.3483/",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?threads/the-dominion-bracelet-with-very-high-power.3480/": {
+    "title": "The Dominion Bracelet with very high power.",
+    "url": "https://forums.mtgo.com/index.php?threads/the-dominion-bracelet-with-very-high-power.3480/",
+    "status": "Confirmed",
+    "tracked": false
   }
 }
