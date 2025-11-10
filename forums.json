@@ -1688,7 +1688,7 @@
   "https://forums.mtgo.com/index.php?threads/containment-priest-erroneously-exiles-old-growth-troll.2338/": {
     "title": "Containment Priest erroneously exiles Old-Growth Troll",
     "url": "https://forums.mtgo.com/index.php?threads/containment-priest-erroneously-exiles-old-growth-troll.2338/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/treacherous-greed-its-alternative-cost-does-not-work-correctly.2337/": {
@@ -6050,7 +6050,7 @@
   "https://forums.mtgo.com/index.php?threads/visions-of-dominance-applied-its-flashback-cost-reduction-to-the-regular-cost.1842/": {
     "title": "Visions of Dominance applied it's flashback cost reduction to the regular cost.",
     "url": "https://forums.mtgo.com/index.php?threads/visions-of-dominance-applied-its-flashback-cost-reduction-to-the-regular-cost.1842/",
-    "status": "Backlog",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/modo-handles-players-leaving-dying-incorrectly.1834/": {
@@ -6152,7 +6152,7 @@
   "https://forums.mtgo.com/index.php?threads/cryptic-spires.1686/": {
     "title": "Cryptic Spires",
     "url": "https://forums.mtgo.com/index.php?threads/cryptic-spires.1686/",
-    "status": "Backlog",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/ixalans-binding-does-not-work.1702/": {
@@ -6296,7 +6296,7 @@
   "https://forums.mtgo.com/index.php?threads/jasmine-boreal-of-the-seven-and-morphs.1264/": {
     "title": "Jasmine Boreal of the Seven and Morphs",
     "url": "https://forums.mtgo.com/index.php?threads/jasmine-boreal-of-the-seven-and-morphs.1264/",
-    "status": "Backlog",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/release-the-gremlins-doesnt-need-targets.1262/": {
@@ -6314,7 +6314,7 @@
   "https://forums.mtgo.com/index.php?threads/esper-sentinel-triggered-an-extra-time-on-the-same-opponent.1227/": {
     "title": "Esper Sentinel triggered an extra time on the same opponent.",
     "url": "https://forums.mtgo.com/index.php?threads/esper-sentinel-triggered-an-extra-time-on-the-same-opponent.1227/",
-    "status": "Backlog",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/petalmane-baku-when-activated-stops-the-game-and-starts-a-gamereplay-for-both-players.317/": {
@@ -6806,7 +6806,7 @@
   "https://forums.mtgo.com/index.php?threads/akiri-drew-me-a-card-when-attacking-with-a-creature-that-had-its-equipment-destroyed-before-declare-attackers-step.1804/": {
     "title": "akiri drew me a card when attacking with a creature that had its equipment destroyed before declare attackers step",
     "url": "https://forums.mtgo.com/index.php?threads/akiri-drew-me-a-card-when-attacking-with-a-creature-that-had-its-equipment-destroyed-before-declare-attackers-step.1804/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/visual-bug-brazen-borrower-special-guest.2164/": {
@@ -6908,7 +6908,7 @@
   "https://forums.mtgo.com/index.php?threads/daze-is-bugged-you-have-to-choose-no-for-two-times-to-get-countered.197/": {
     "title": "Daze is bugged: You have to choose \"no\" for two times to get countered",
     "url": "https://forums.mtgo.com/index.php?threads/daze-is-bugged-you-have-to-choose-no-for-two-times-to-get-countered.197/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/card-not-working-properly-conjurers-ban.1533/": {
@@ -7121,12 +7121,6 @@
     "status": "Confirmed",
     "tracked": true
   },
-  "https://forums.mtgo.com/index.php?threads/foray-of-orcs-bugged.1240/": {
-    "title": "Foray of Orcs Bugged",
-    "url": "https://forums.mtgo.com/index.php?threads/foray-of-orcs-bugged.1240/",
-    "status": "",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/homeward-path-bugged.975/": {
     "title": "Homeward Path bugged",
     "url": "https://forums.mtgo.com/index.php?threads/homeward-path-bugged.975/",
@@ -7142,7 +7136,7 @@
   "https://forums.mtgo.com/index.php?threads/dreadhorde-invasion-does-not-apply-lifelink-to-zombie-orc-army.1163/": {
     "title": "Dreadhorde invasion does not apply lifelink to zombie orc army",
     "url": "https://forums.mtgo.com/index.php?threads/dreadhorde-invasion-does-not-apply-lifelink-to-zombie-orc-army.1163/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/talent-of-the-telepath-unable-to-cast-instant-sorcery.445/": {
@@ -9086,7 +9080,7 @@
   "https://forums.mtgo.com/index.php?threads/annihilator-4-not-coming-into-effect-when-attacking-twice-in-a-row.2731/": {
     "title": "Annihilator 4 not coming into effect when attacking twice in a row",
     "url": "https://forums.mtgo.com/index.php?threads/annihilator-4-not-coming-into-effect-when-attacking-twice-in-a-row.2731/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/ob-nixilis-unshackled-opposition-agent.2767/": {
@@ -10892,7 +10886,7 @@
   "https://forums.mtgo.com/index.php?threads/surveil-stops-triggering.3203/": {
     "title": "Surveil stops triggering",
     "url": "https://forums.mtgo.com/index.php?threads/surveil-stops-triggering.3203/",
-    "status": "Backlog",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/importing-split-cards-from-clipboard.3176/": {
@@ -12074,7 +12068,7 @@
   "https://forums.mtgo.com/index.php?threads/frodo-determined-hero-also-prevent-damage-during-opponent-turn.3430/": {
     "title": "Frodo, Determined Hero also prevent damage during opponent turn",
     "url": "https://forums.mtgo.com/index.php?threads/frodo-determined-hero-also-prevent-damage-during-opponent-turn.3430/",
-    "status": "Backlog",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/myriad-landscape-does-not-allow-you-to-choose-a-single-wastes-card.3419/": {
@@ -12140,19 +12134,19 @@
   "https://forums.mtgo.com/index.php?threads/doom-foretold-restarts-the-game-when-the-opponents-tries-to-sacrifice.3440/": {
     "title": "Doom Foretold restarts the game when the opponents tries to sacrifice.",
     "url": "https://forums.mtgo.com/index.php?threads/doom-foretold-restarts-the-game-when-the-opponents-tries-to-sacrifice.3440/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-lock.3439/": {
     "title": "Game lock",
     "url": "https://forums.mtgo.com/index.php?threads/game-lock.3439/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/trample-creature-attacking-a-planeswalker-that-dies-during-first-strike-damage-causes-the-game-to-bug-out-and-restart.3433/": {
     "title": "Trample creature attacking a planeswalker that dies during first strike damage causes the game to bug out and restart",
     "url": "https://forums.mtgo.com/index.php?threads/trample-creature-attacking-a-planeswalker-that-dies-during-first-strike-damage-causes-the-game-to-bug-out-and-restart.3433/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/glimpse-of-tomorrow-not-working-properly.3416/": {
@@ -12164,13 +12158,13 @@
   "https://forums.mtgo.com/index.php?threads/incorrect-kaito-bane-of-nightmares-and-containment-priest-interaction.3388/": {
     "title": "Incorrect Kaito, Bane of Nightmares and containment priest interaction",
     "url": "https://forums.mtgo.com/index.php?threads/incorrect-kaito-bane-of-nightmares-and-containment-priest-interaction.3388/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/containment-priest-exile-other-creature-that-enter-the-battlefield-at-the-same-time.3407/": {
     "title": "Containment Priest exile other creature that enter the battlefield at the same time",
     "url": "https://forums.mtgo.com/index.php?threads/containment-priest-exile-other-creature-that-enter-the-battlefield-at-the-same-time.3407/",
-    "status": "In Progress",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/lonis-cryptozoologist-repeatable-game-reset.3405/": {
@@ -12230,19 +12224,19 @@
   "https://forums.mtgo.com/index.php?threads/vonas-hunger-bugged.3477/": {
     "title": "Vona's Hunger Bugged",
     "url": "https://forums.mtgo.com/index.php?threads/vonas-hunger-bugged.3477/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/hearthborn-battler-361-frame.3473/": {
     "title": "Hearthborn Battler #361 frame",
     "url": "https://forums.mtgo.com/index.php?threads/hearthborn-battler-361-frame.3473/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/sothera-the-supervoid-headliner-visual-error.3472/": {
     "title": "Sothera, the Supervoid headliner visual error",
     "url": "https://forums.mtgo.com/index.php?threads/sothera-the-supervoid-headliner-visual-error.3472/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/mtgo-crashes-and-unable-to-relaunch-while-game-in-progress.3468/": {
@@ -12254,13 +12248,13 @@
   "https://forums.mtgo.com/index.php?threads/xu-ifit-osteoharmonist-memorial-team-leader.3467/": {
     "title": "Xu-Ifit, Osteoharmonist + Memorial Team Leader",
     "url": "https://forums.mtgo.com/index.php?threads/xu-ifit-osteoharmonist-memorial-team-leader.3467/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/graha-tia-scion-reborn-and-profane-tutor.3464/": {
     "title": "G'raha Tia Scion Reborn and Profane tutor",
     "url": "https://forums.mtgo.com/index.php?threads/graha-tia-scion-reborn-and-profane-tutor.3464/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/deckbuilding-bugs.3466/": {
@@ -12272,13 +12266,13 @@
   "https://forums.mtgo.com/index.php?threads/wrenn-and-six-emblem-blocked-by-six-the-creature-and-vice-versa.3463/": {
     "title": "Wrenn and Six Emblem blocked by Six (the creature) and vice versa",
     "url": "https://forums.mtgo.com/index.php?threads/wrenn-and-six-emblem-blocked-by-six-the-creature-and-vice-versa.3463/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/button-for-undefeated-decklists-points-to-wrong-url.3462/": {
     "title": "Button for \"undefeated decklists\" points to wrong URL",
     "url": "https://forums.mtgo.com/index.php?threads/button-for-undefeated-decklists-points-to-wrong-url.3462/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/marath-will-of-the-wild-needs-to-be-fixed.3460/": {
@@ -12290,7 +12284,7 @@
   "https://forums.mtgo.com/index.php?threads/rampant-rejuvenator-toxic-deluge.3459/": {
     "title": "Rampant Rejuvenator +Toxic Deluge",
     "url": "https://forums.mtgo.com/index.php?threads/rampant-rejuvenator-toxic-deluge.3459/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-arcbound-ravager.3458/": {
@@ -12302,31 +12296,31 @@
   "https://forums.mtgo.com/index.php?threads/threshold-busted-after-last-update.3456/": {
     "title": "Threshold busted after last update",
     "url": "https://forums.mtgo.com/index.php?threads/threshold-busted-after-last-update.3456/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/foundry-helix-does-not-gain-life-when-you-sacrifice-an-artifact.3452/": {
     "title": "Foundry Helix does not gain life when you sacrifice an artifact",
     "url": "https://forums.mtgo.com/index.php?threads/foundry-helix-does-not-gain-life-when-you-sacrifice-an-artifact.3452/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/skipped-my-turn.3448/": {
     "title": "Skipped my turn",
     "url": "https://forums.mtgo.com/index.php?threads/skipped-my-turn.3448/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/new-way-forward-causes-restart.3446/": {
     "title": "New Way Forward Causes Restart",
     "url": "https://forums.mtgo.com/index.php?threads/new-way-forward-causes-restart.3446/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/wall-of-shards-causing-crash.3444/": {
     "title": "Wall of Shards Causing Crash",
     "url": "https://forums.mtgo.com/index.php?threads/wall-of-shards-causing-crash.3444/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/blade-of-the-bloodchief-triggering-with-an-exile-effect-in-place.3485/": {
@@ -12362,7 +12356,7 @@
   "https://forums.mtgo.com/index.php?threads/channel-adds-generic-mana-instead-of-colorless.3495/": {
     "title": "Channel adds generic mana instead of colorless",
     "url": "https://forums.mtgo.com/index.php?threads/channel-adds-generic-mana-instead-of-colorless.3495/",
-    "status": "Could Not Reproduce",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/aquamorph-entity-lets-my-opponent-make-the-choice-instead-of-me.3492/": {
@@ -12500,19 +12494,19 @@
   "https://forums.mtgo.com/index.php?threads/ulamog-the-ceaseless-hunger-pyxis-of-pandemonium.3504/": {
     "title": "Ulamog the Ceaseless Hunger + Pyxis of Pandemonium",
     "url": "https://forums.mtgo.com/index.php?threads/ulamog-the-ceaseless-hunger-pyxis-of-pandemonium.3504/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/memory-corridor-foils-display-the-card-without-the-character-with-foil-animation-off.3502/": {
     "title": "Memory Corridor foils display the card without the character with foil animation off",
     "url": "https://forums.mtgo.com/index.php?threads/memory-corridor-foils-display-the-card-without-the-character-with-foil-animation-off.3502/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/strom-trigger-undo.3500/": {
     "title": "Strom Trigger + Undo",
     "url": "https://forums.mtgo.com/index.php?threads/strom-trigger-undo.3500/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-walking-ballista.3496/": {
@@ -12524,19 +12518,13 @@
   "https://forums.mtgo.com/index.php?threads/famished-worldsire-instantly-dies-if-cheated-into-play.3499/": {
     "title": "Famished Worldsire instantly dies if cheated into play",
     "url": "https://forums.mtgo.com/index.php?threads/famished-worldsire-instantly-dies-if-cheated-into-play.3499/",
-    "status": "Confirmed",
-    "tracked": false
-  },
-  "https://forums.mtgo.com/index.php?threads/winternight-stories-ate-all-my-mana.3494/": {
-    "title": "Winternight stories ate all my mana",
-    "url": "https://forums.mtgo.com/index.php?threads/winternight-stories-ate-all-my-mana.3494/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/weatherseed-totems-triggered-ability-doesnt-work.3493/": {
     "title": "Weatherseed Totem's triggered ability doesn't work",
     "url": "https://forums.mtgo.com/index.php?threads/weatherseed-totems-triggered-ability-doesnt-work.3493/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/new-pixel-scaling-in-multiplayer-mk2.3486/": {
@@ -12554,13 +12542,13 @@
   "https://forums.mtgo.com/index.php?threads/rowen-trigger-shows-up-as-basic-swamp.3487/": {
     "title": "Rowen trigger shows up as basic Swamp",
     "url": "https://forums.mtgo.com/index.php?threads/rowen-trigger-shows-up-as-basic-swamp.3487/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/big-zoom-and-battles.3482/": {
     "title": "Big Zoom and Battles",
     "url": "https://forums.mtgo.com/index.php?threads/big-zoom-and-battles.3482/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/dress-down-murktide-regent.3483/": {
@@ -12572,7 +12560,97 @@
   "https://forums.mtgo.com/index.php?threads/the-dominion-bracelet-with-very-high-power.3480/": {
     "title": "The Dominion Bracelet with very high power.",
     "url": "https://forums.mtgo.com/index.php?threads/the-dominion-bracelet-with-very-high-power.3480/",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/not-a-bug-as-designed-no-fix-planned.58/&prefix_id=5": {
+    "title": "Collection Wildsong Howler/Ghastly Mimickry bug",
+    "url": "https://forums.mtgo.com/index.php?forums/not-a-bug-as-designed-no-fix-planned.58/&prefix_id=5",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/not-a-bug-as-designed-no-fix-planned.58/&prefix_id=7": {
+    "title": "bug / error on Redeeming secret lair code",
+    "url": "https://forums.mtgo.com/index.php?forums/not-a-bug-as-designed-no-fix-planned.58/&prefix_id=7",
+    "status": "As Designed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/not-a-bug-as-designed-no-fix-planned.58/&prefix_id=4": {
+    "title": "Opposition Agent can't cast Panglacial Wurm",
+    "url": "https://forums.mtgo.com/index.php?forums/not-a-bug-as-designed-no-fix-planned.58/&prefix_id=4",
+    "status": "No Fix Planned",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/could-not-reproduce.59/&prefix_id=8": {
+    "title": "Enlist does not work with haste creatures",
+    "url": "https://forums.mtgo.com/index.php?forums/could-not-reproduce.59/&prefix_id=8",
+    "status": "Could Not Reproduce",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/resolved-bugs.26/&prefix_id=3": {
+    "title": "Error installing new MTGO: URLDownloadToCacheFile failed with HRESULT '-2146697208'",
+    "url": "https://forums.mtgo.com/index.php?forums/resolved-bugs.26/&prefix_id=3",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/resolved-bugs.26/&prefix_id=1": {
+    "title": "Containment Priest & Enduring Curiosity",
+    "url": "https://forums.mtgo.com/index.php?forums/resolved-bugs.26/&prefix_id=1",
     "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/resolved-bugs.26/&prefix_id=4": {
+    "title": "Cosmic Intervention and Leyline of the void",
+    "url": "https://forums.mtgo.com/index.php?forums/resolved-bugs.26/&prefix_id=4",
+    "status": "No Fix Planned",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/backlog.49/&prefix_id=6": {
+    "title": "Quicksilver Fountain",
+    "url": "https://forums.mtgo.com/index.php?forums/backlog.49/&prefix_id=6",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=1": {
+    "title": "Psychogenic Probe and Psychic Surgery bug",
+    "url": "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=1",
+    "status": "Confirmed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=18": {
+    "title": "Multiple damage replacement effects not giving choice.",
+    "url": "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=18",
+    "status": "In Progress",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=5": {
+    "title": "Manifest Dread + Grafdigger's Cage",
+    "url": "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=5",
+    "status": "Not A Bug",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=2": {
+    "title": "Foray of Orcs Bugged",
+    "url": "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=2",
+    "status": "",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/no-game-id-more-info-requested.56/&prefix_id=16": {
+    "title": "Teferi's Puzzle Box bug with Commander in Hand",
+    "url": "https://forums.mtgo.com/index.php?forums/no-game-id-more-info-requested.56/&prefix_id=16",
+    "status": "More Info Needed",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/no-game-id-more-info-requested.56/&prefix_id=20": {
+    "title": "Promise of Loyalty didn't sac creatures",
+    "url": "https://forums.mtgo.com/index.php?forums/no-game-id-more-info-requested.56/&prefix_id=20",
+    "status": "Invalid Game IDs",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/no-game-id-more-info-requested.56/&prefix_id=19": {
+    "title": "Young wolf not coming back",
+    "url": "https://forums.mtgo.com/index.php?forums/no-game-id-more-info-requested.56/&prefix_id=19",
+    "status": "No Game IDs",
     "tracked": false
   }
 }
