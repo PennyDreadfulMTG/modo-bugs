@@ -3,7 +3,7 @@
     "card": "Smuggler's Surprise",
     "description": "Smuggler's Surprise should not be able to pick Blightsteel Colossus with its first mode",
     "category": "Advantageous",
-    "last_updated": "2025-07-29 15:48:24",
+    "last_updated": "2025-11-10 13:03:04",
     "issue_number": 1142,
     "pd_legal": false,
     "bug_blog": false,
@@ -11,8 +11,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1142",
     "support_thread": "https://forums.mtgo.com/index.php?threads/how-to-report-and-upvote-bugs-and-exploits.1739/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Phyrexian Metamorph",
@@ -281,7 +280,8 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1120",
     "support_thread": "https://forums.mtgo.com/index.php?threads/frodo-determined-hero-will-prevent-all-damage-dealt-to-it-even-when-it-is-not-your-turn.2506/",
-    "last_verified": null
+    "last_verified": null,
+    "help_wanted": true
   },
   {
     "card": "Amulet of Safekeeping",
@@ -694,7 +694,7 @@
     "card": "Words of Worship",
     "description": "Words of Worship causes the game to restart when you activate it for the draw for turn",
     "category": "Game Breaking",
-    "last_updated": "2024-12-12 18:12:43",
+    "last_updated": "2025-11-10 13:05:28",
     "issue_number": 1046,
     "pd_legal": false,
     "bug_blog": false,
@@ -702,14 +702,13 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1046",
     "support_thread": "https://forums.mtgo.com/index.php?threads/words-of-wisdom-makes-the-game-crash.1339/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Selvala, Explorer Returned",
     "description": "Selvala, Explorer Returned's ability can only be activated at instant speed",
     "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:52:06",
+    "last_updated": "2025-11-10 13:05:36",
     "issue_number": 1045,
     "pd_legal": false,
     "bug_blog": false,
@@ -717,8 +716,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1045",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Linessa, Zephyr Mage",
@@ -784,7 +782,7 @@
     "card": "Rain of Gore",
     "description": "Rain of Gore is affecting Lifelink.",
     "category": "Advantageous",
-    "last_updated": "2025-06-24 16:25:42",
+    "last_updated": "2025-11-10 13:05:43",
     "issue_number": 1031,
     "pd_legal": true,
     "bug_blog": false,
@@ -792,8 +790,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1031",
     "support_thread": "https://forums.mtgo.com/index.php?threads/rain-of-gore-hoses-lifelink.1114/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Conundrum Sphinx",
@@ -829,7 +826,7 @@
     "card": "Terrarion",
     "description": "Terrarion can be sacrificed as part of the cost of the spell, but if the spell is undone before casting, terrarion will no longer provide a card when it goes to the graveyard.",
     "category": "Disadvantageous",
-    "last_updated": "2024-11-22 18:12:43",
+    "last_updated": "2025-11-10 13:05:57",
     "issue_number": 1027,
     "pd_legal": true,
     "bug_blog": false,
@@ -837,8 +834,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1027",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Rigo, Streetwise Mentor",
@@ -1355,7 +1351,7 @@
     "card": "Soulflayer",
     "description": "Soulflayer doesn't show that it has gained variations of abilities, such as \"Hexproof from Black\".",
     "category": "Graphical",
-    "last_updated": "2025-06-24 16:26:08",
+    "last_updated": "2025-11-10 13:06:42",
     "issue_number": 978,
     "pd_legal": true,
     "bug_blog": false,
@@ -1363,8 +1359,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/978",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Channel",
@@ -1505,7 +1500,7 @@
     "card": "Dire-Strain Rampage",
     "description": "Targeting an indestructible land with Dire-Strain Rampage allows the controller of the land to search for two lands.",
     "category": "Advantageous",
-    "last_updated": "2025-06-24 16:26:11",
+    "last_updated": "2025-11-10 13:06:48",
     "issue_number": 958,
     "pd_legal": true,
     "bug_blog": false,
@@ -1513,8 +1508,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/958",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Myriad Construct",
@@ -2421,7 +2415,7 @@
     "card": "Pattern Matcher",
     "description": "Pattern Matcher Fails to find valid matches ",
     "category": "Disadvantageous",
-    "last_updated": "2024-09-13 22:53:00",
+    "last_updated": "2025-11-10 13:07:20",
     "issue_number": 852,
     "pd_legal": false,
     "bug_blog": false,
@@ -2429,8 +2423,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/852",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Phyrexian Portal",
@@ -2796,7 +2789,7 @@
     "card": "Grafdigger's Cage",
     "description": "With Grafdigger's Cage on the battlefield, the trigger of Matter Reshaper does not put the card into your hand.",
     "category": "Unclassified",
-    "last_updated": "2025-06-24 16:26:27",
+    "last_updated": "2025-11-10 13:07:40",
     "issue_number": 795,
     "pd_legal": false,
     "bug_blog": false,
@@ -2804,14 +2797,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/795",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Matter Reshaper",
     "description": "With Grafdigger's Cage on the battlefield, the trigger of Matter Reshaper does not put the card into your hand.",
     "category": "Unclassified",
-    "last_updated": "2025-06-24 16:26:27",
+    "last_updated": "2025-11-10 13:07:40",
     "issue_number": 795,
     "pd_legal": true,
     "bug_blog": false,
@@ -2819,8 +2811,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/795",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Mist of Stagnation",
@@ -2871,7 +2862,7 @@
     "card": "Enduring Renewal",
     "description": "Enduring Renewal prevents losing to decking",
     "category": "Advantageous",
-    "last_updated": "2025-03-10 23:05:11",
+    "last_updated": "2025-11-10 13:07:41",
     "issue_number": 770,
     "pd_legal": true,
     "bug_blog": false,
@@ -2879,8 +2870,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/770",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Bloodlord of Vaasgoth",
@@ -3051,7 +3041,7 @@
     "card": "Amoeboid Changeling",
     "description": "Removing all creature types from a creature is displayed as if only the two leftmost creature types were removed",
     "category": "Graphical",
-    "last_updated": "2025-06-24 16:26:31",
+    "last_updated": "2025-11-10 13:07:49",
     "issue_number": 691,
     "pd_legal": false,
     "bug_blog": false,
@@ -3059,8 +3049,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/691",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Umbilicus",
@@ -3352,7 +3341,7 @@
     "card": "Release the Ants",
     "description": "If a player has no cards left in their library, both players will lose a clash from cards such as Release the Ants.",
     "category": "Unclassified",
-    "last_updated": "2024-09-13 22:53:27",
+    "last_updated": "2025-11-10 13:08:09",
     "issue_number": 597,
     "pd_legal": false,
     "bug_blog": false,
@@ -3360,8 +3349,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/597",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Umbral Mantle",
@@ -3457,7 +3445,7 @@
     "card": "Platinum Emperion",
     "description": "If you control Platinum Emperion you cannot even pay 0 life for costs.",
     "category": "Disadvantageous",
-    "last_updated": "2024-04-26 20:55:08",
+    "last_updated": "2025-11-10 13:08:10",
     "issue_number": 539,
     "pd_legal": true,
     "bug_blog": false,
@@ -3465,8 +3453,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/539",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Battlefield Thaumaturge",
@@ -4226,7 +4213,7 @@
     "card": "Orcish Spy",
     "description": "Orcish Spy and cards with similar abilities show the cards in alphabetical order, not the actual order",
     "category": "Disadvantageous",
-    "last_updated": "2024-10-04 18:13:33",
+    "last_updated": "2025-11-10 13:08:48",
     "issue_number": 251,
     "pd_legal": true,
     "bug_blog": false,
@@ -4234,8 +4221,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/251",
     "support_thread": "https://forums.mtgo.com/index.php?threads/orcish-spy-displays-the-top-three-cards-not-in-chronological-order-might-be-displaying-in-alphabetical-order.2174/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Volcano Hellion",

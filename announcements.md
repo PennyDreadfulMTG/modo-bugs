@@ -1,6 +1,6 @@
 ---
-title: Magic Online Weekly Announcements, November 4, 2025
+title: Magic Online Weekly Announcements, November 11, 2025
 redirect_to:
- - https://www.mtgo.com/news/mtgo110425
-has_build_notes: False
+ - https://www.mtgo.com/news/mtgo111125
+has_build_notes: True
 ---
