@@ -1183,6 +1183,20 @@
     "help_wanted": true
   },
   {
+    "card": "Consuming Tide",
+    "description": "Consuming Tide counts tokens that were bounced as in your hand for purposes of card draw.",
+    "category": "Advantageous",
+    "last_updated": "2025-11-23 19:58:21",
+    "issue_number": 982,
+    "pd_legal": true,
+    "bug_blog": false,
+    "breaking": false,
+    "bannable": false,
+    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/982",
+    "support_thread": null,
+    "last_verified": null
+  },
+  {
     "card": "Abundant Maw",
     "description": "Undoing the sacrifice cost of an emerge ability behaves incorrectly",
     "category": "Advantageous",
