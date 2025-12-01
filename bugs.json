@@ -269,21 +269,6 @@
     "help_wanted": true
   },
   {
-    "card": "Frodo, Determined Hero",
-    "description": "Frodo, Determined Hero also prevents damage on your opponent's turn",
-    "category": "Advantageous",
-    "last_updated": "2025-09-16 15:20:00",
-    "issue_number": 1120,
-    "pd_legal": true,
-    "bug_blog": false,
-    "breaking": false,
-    "bannable": false,
-    "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/1120",
-    "support_thread": "https://forums.mtgo.com/index.php?threads/frodo-determined-hero-will-prevent-all-damage-dealt-to-it-even-when-it-is-not-your-turn.2506/",
-    "last_verified": null,
-    "help_wanted": true
-  },
-  {
     "card": "Amulet of Safekeeping",
     "description": "Amulet of Safekeeping does not trigger on the copies of a spell with storm",
     "category": "Disadvantageous",
@@ -1186,7 +1171,7 @@
     "card": "Consuming Tide",
     "description": "Consuming Tide counts tokens that were bounced as in your hand for purposes of card draw.",
     "category": "Advantageous",
-    "last_updated": "2025-11-23 19:58:21",
+    "last_updated": "2025-11-24 13:04:25",
     "issue_number": 982,
     "pd_legal": true,
     "bug_blog": false,
