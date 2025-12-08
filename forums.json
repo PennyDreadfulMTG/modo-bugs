@@ -11795,12 +11795,6 @@
     "status": "Backlog",
     "tracked": true
   },
-  "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-psychic-frog.3369/": {
-    "title": "Agatha's Soul Cauldron + Psychic Frog",
-    "url": "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-psychic-frog.3369/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/reins-of-the-vinesteed-doesnt-let-me-take-any-action-and-remains-on-the-stack.3367/": {
     "title": "Reins of the Vinesteed doesn't let me take any action and remains on the stack",
     "url": "https://forums.mtgo.com/index.php?threads/reins-of-the-vinesteed-doesnt-let-me-take-any-action-and-remains-on-the-stack.3367/",
@@ -12287,12 +12281,6 @@
     "status": "Resolved",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-arcbound-ravager.3458/": {
-    "title": "Agatha's Soul Cauldron + Arcbound Ravager",
-    "url": "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-arcbound-ravager.3458/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/threshold-busted-after-last-update.3456/": {
     "title": "Threshold busted after last update",
     "url": "https://forums.mtgo.com/index.php?threads/threshold-busted-after-last-update.3456/",
@@ -12509,12 +12497,6 @@
     "status": "Backlog",
     "tracked": false
   },
-  "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-walking-ballista.3496/": {
-    "title": "Agatha's Soul Cauldron + Walking Ballista",
-    "url": "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-walking-ballista.3496/",
-    "status": "Confirmed",
-    "tracked": false
-  },
   "https://forums.mtgo.com/index.php?threads/famished-worldsire-instantly-dies-if-cheated-into-play.3499/": {
     "title": "Famished Worldsire instantly dies if cheated into play",
     "url": "https://forums.mtgo.com/index.php?threads/famished-worldsire-instantly-dies-if-cheated-into-play.3499/",
@@ -12651,6 +12633,12 @@
     "title": "Young wolf not coming back",
     "url": "https://forums.mtgo.com/index.php?forums/no-game-id-more-info-requested.56/&prefix_id=19",
     "status": "No Game IDs",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=3": {
+    "title": "Extus, oriq overlord//Awaken the blood avatar in the command zone",
+    "url": "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=3",
+    "status": "Resolved",
     "tracked": false
   }
 }
