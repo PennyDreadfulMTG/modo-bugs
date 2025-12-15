@@ -1,6 +1,6 @@
 ---
-title: Magic Online Weekly Announcements, December 2, 2025
+title: Magic Online Weekly Announcements, December 9, 2025
 redirect_to:
- - https://www.mtgo.com/news/mtgo120225
+ - https://www.mtgo.com/news/mtgo120925
 has_build_notes: True
 ---

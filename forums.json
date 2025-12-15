@@ -3590,7 +3590,7 @@
   "https://forums.mtgo.com/index.php?threads/freeform-commander-companions-broken.1816/": {
     "title": "Freeform Commander: Companions Broken",
     "url": "https://forums.mtgo.com/index.php?threads/freeform-commander-companions-broken.1816/",
-    "status": "Could Not Reproduce",
+    "status": "No Fix Planned",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/collection-display-bug-again.1831/": {
@@ -9164,7 +9164,7 @@
   "https://forums.mtgo.com/index.php?threads/cant-add-to-blocked-list.2764/": {
     "title": "Can't add to Blocked List",
     "url": "https://forums.mtgo.com/index.php?threads/cant-add-to-blocked-list.2764/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/rakdos-lord-of-riot-and-florian-voldaren-scion.2766/": {
@@ -9212,7 +9212,7 @@
   "https://forums.mtgo.com/index.php?threads/dress-down-archon-of-emeria.2778/": {
     "title": "Dress Down/Archon of Emeria",
     "url": "https://forums.mtgo.com/index.php?threads/dress-down-archon-of-emeria.2778/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-id-273503669-liliana-waker-of-the-dead-1-ability-not-working.2774/": {
@@ -9470,7 +9470,7 @@
   "https://forums.mtgo.com/index.php?threads/gitaxian-probe-reveals-the-targeted-players-hand-to-everyone-in-multiplayer-in-the-game-log.2834/": {
     "title": "Gitaxian Probe reveals the targeted players hand to everyone in multiplayer in the game log",
     "url": "https://forums.mtgo.com/index.php?threads/gitaxian-probe-reveals-the-targeted-players-hand-to-everyone-in-multiplayer-in-the-game-log.2834/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/avacyns-judgement-improper-madness-damage-distribution.2832/": {
@@ -10208,13 +10208,13 @@
   "https://forums.mtgo.com/index.php?threads/ulamog-entered-the-battlefield-with-no-counter.3067/": {
     "title": "Ulamog entered the battlefield with no counter",
     "url": "https://forums.mtgo.com/index.php?threads/ulamog-entered-the-battlefield-with-no-counter.3067/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/thousand-year-storm-crash-the-game.3057/": {
     "title": "Thousand-Year Storm crash the game",
     "url": "https://forums.mtgo.com/index.php?threads/thousand-year-storm-crash-the-game.3057/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/lifecraft-engine-second-and-third-abilities-seem-to-be-combined-under-one-effect.3042/": {
@@ -10226,7 +10226,7 @@
   "https://forums.mtgo.com/index.php?threads/commander-sideboard-slider-goes-to-max-every-restart.3026/": {
     "title": "Commander/sideboard slider goes to max every restart",
     "url": "https://forums.mtgo.com/index.php?threads/commander-sideboard-slider-goes-to-max-every-restart.3026/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/mockingbird-cant-copy-creatures-when-cast-using-will-scion-of-peace-cost-reduction.3006/": {
@@ -10238,7 +10238,7 @@
   "https://forums.mtgo.com/index.php?threads/write-into-being-doesnt-allow-you-to-put-on-top-or-bottom.3025/": {
     "title": "Write into being doesn't allow you to put on top or bottom.",
     "url": "https://forums.mtgo.com/index.php?threads/write-into-being-doesnt-allow-you-to-put-on-top-or-bottom.3025/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/lavabrink-floodgates-is-bugged.2888/": {
@@ -10262,7 +10262,7 @@
   "https://forums.mtgo.com/index.php?threads/always-say-yes-and-always-say-no-will-again-appear-as-yield-options-for-triggers-with-%E2%80%9Cmay%E2%80%9D-abilities.3007/": {
     "title": "\"Always Say Yes and Always Say No will again appear as yield options for triggers with \u201cmay\u201d abilities.\"",
     "url": "https://forums.mtgo.com/index.php?threads/always-say-yes-and-always-say-no-will-again-appear-as-yield-options-for-triggers-with-%E2%80%9Cmay%E2%80%9D-abilities.3007/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/newly-controlled-marker-going-away-when-granted-haste.2999/": {
@@ -10298,7 +10298,7 @@
   "https://forums.mtgo.com/index.php?threads/not-highlighting-cards.2982/": {
     "title": "not highlighting cards",
     "url": "https://forums.mtgo.com/index.php?threads/not-highlighting-cards.2982/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/delney-streetwise-lookout-doesnt-double-echo-trigger.2984/": {
@@ -10328,13 +10328,13 @@
   "https://forums.mtgo.com/index.php?threads/collection-not-displaying-item-counts.2971/": {
     "title": "Collection Not displaying Item Counts",
     "url": "https://forums.mtgo.com/index.php?threads/collection-not-displaying-item-counts.2971/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/collection-tab-sporadically-not-displaying-copies-owned-indicator.2948/": {
     "title": "Collection tab sporadically not displaying copies owned indicator",
     "url": "https://forums.mtgo.com/index.php?threads/collection-tab-sporadically-not-displaying-copies-owned-indicator.2948/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/illustrious-wanderglyph-causing-decks-to-fail-to-play.2953/": {
@@ -10412,7 +10412,7 @@
   "https://forums.mtgo.com/index.php?threads/snow-auras-in-the-m15-card-frame-display-incorrectly.2927/": {
     "title": "Snow auras in the M15 card frame display incorrectly",
     "url": "https://forums.mtgo.com/index.php?threads/snow-auras-in-the-m15-card-frame-display-incorrectly.2927/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/opponents-game-2-did-not-start.2922/": {
@@ -10442,19 +10442,19 @@
   "https://forums.mtgo.com/index.php?threads/goaded-creature-forcing-player-into-infinite-loop.2902/": {
     "title": "Goaded Creature Forcing player into Infinite loop",
     "url": "https://forums.mtgo.com/index.php?threads/goaded-creature-forcing-player-into-infinite-loop.2902/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/ground-rift-not-triggering-verdant-rotpriest.2906/": {
     "title": "Ground Rift not triggering verdant Rotpriest",
     "url": "https://forums.mtgo.com/index.php?threads/ground-rift-not-triggering-verdant-rotpriest.2906/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-seems-to-be-bugged-again.2887/": {
     "title": "O-Kagachi, Vengeful Kami seems to be bugged... again",
     "url": "https://forums.mtgo.com/index.php?threads/o-kagachi-vengeful-kami-seems-to-be-bugged-again.2887/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/animate-dead-bug.2883/": {
@@ -10478,7 +10478,7 @@
   "https://forums.mtgo.com/index.php?threads/tamiyo-inquisitive-student-flip-bug.2866/": {
     "title": "Tamiyo Inquisitive Student Flip Bug",
     "url": "https://forums.mtgo.com/index.php?threads/tamiyo-inquisitive-student-flip-bug.2866/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/orvar-copies-itself-if-targeted.2839/": {
@@ -10628,7 +10628,7 @@
   "https://forums.mtgo.com/index.php?threads/ketramose-surgical-extraction-triggers-too-many-times.3071/": {
     "title": "Ketramose + Surgical Extraction triggers too many times",
     "url": "https://forums.mtgo.com/index.php?threads/ketramose-surgical-extraction-triggers-too-many-times.3071/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/bend-or-break-doesnt-let-you-choose-opponent-who-makes-decision.3070/": {
@@ -11156,19 +11156,19 @@
   "https://forums.mtgo.com/index.php?threads/not-all-cards-with-e-show-up-when-searched-for.3120/": {
     "title": "Not all cards with {E} show up when searched for",
     "url": "https://forums.mtgo.com/index.php?threads/not-all-cards-with-e-show-up-when-searched-for.3120/",
-    "status": "Confirmed",
+    "status": "No Fix Planned",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/game-restart-bug.3119/": {
     "title": "Game Restart BUG",
     "url": "https://forums.mtgo.com/index.php?threads/game-restart-bug.3119/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/containment-priest-enduring-curiosity.3115/": {
     "title": "Containment Priest & Enduring Curiosity",
     "url": "https://forums.mtgo.com/index.php?threads/containment-priest-enduring-curiosity.3115/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/borrowed-cards-becomes-stucked-after-completion-tournament-in-my-collection.3112/": {
@@ -11192,19 +11192,19 @@
   "https://forums.mtgo.com/index.php?threads/brisela-helm-of-the-host-bruna-copies.3107/": {
     "title": "Brisela + Helm of the Host = Bruna copies",
     "url": "https://forums.mtgo.com/index.php?threads/brisela-helm-of-the-host-bruna-copies.3107/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/bottom-of-the-max-speed-indicator-is-darkened-out-mk2.3098/": {
     "title": "Bottom of the Max Speed indicator is darkened out mk2",
     "url": "https://forums.mtgo.com/index.php?threads/bottom-of-the-max-speed-indicator-is-darkened-out-mk2.3098/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/white-bordered-mb2-cards-have-partial-black-borders.3094/": {
     "title": "White bordered MB2 cards have partial black borders",
     "url": "https://forums.mtgo.com/index.php?threads/white-bordered-mb2-cards-have-partial-black-borders.3094/",
-    "status": "Confirmed",
+    "status": "Backlog",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/brimaz-king-of-oreskos-broken-blocking.3204/": {
@@ -11216,7 +11216,7 @@
   "https://forums.mtgo.com/index.php?threads/illusionists-gambit-not-triggering-second-combat.3172/": {
     "title": "Illusionist's Gambit not triggering second combat",
     "url": "https://forums.mtgo.com/index.php?threads/illusionists-gambit-not-triggering-second-combat.3172/",
-    "status": "More Info Needed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/improvised-7.3141/": {
@@ -11840,7 +11840,7 @@
   "https://forums.mtgo.com/index.php?threads/cauldron-bug-activated-abilities-of-the-exiled-creatures-cant-be-activated.3339/": {
     "title": "Cauldron Bug - activated abilities of the exiled creatures cant be activated",
     "url": "https://forums.mtgo.com/index.php?threads/cauldron-bug-activated-abilities-of-the-exiled-creatures-cant-be-activated.3339/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/firion-wild-rose-warrior.3331/": {
@@ -12182,7 +12182,7 @@
   "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-walking-ballista.3390/": {
     "title": "Agatha's Soul Cauldron + Walking Ballista",
     "url": "https://forums.mtgo.com/index.php?threads/agathas-soul-cauldron-walking-ballista.3390/",
-    "status": "In Progress",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/zenos-yae-galvus-and-fire-crystal-gave-unexpected-etb-trigger-outcome.3394/": {
@@ -12272,7 +12272,7 @@
   "https://forums.mtgo.com/index.php?threads/marath-will-of-the-wild-needs-to-be-fixed.3460/": {
     "title": "Marath, Will of the Wild needs to be fixed",
     "url": "https://forums.mtgo.com/index.php?threads/marath-will-of-the-wild-needs-to-be-fixed.3460/",
-    "status": "Confirmed",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/rampant-rejuvenator-toxic-deluge.3459/": {
@@ -12578,7 +12578,7 @@
   "https://forums.mtgo.com/index.php?forums/resolved-bugs.26/&prefix_id=1": {
     "title": "Containment Priest & Enduring Curiosity",
     "url": "https://forums.mtgo.com/index.php?forums/resolved-bugs.26/&prefix_id=1",
-    "status": "Confirmed",
+    "status": "No Fix Planned",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?forums/resolved-bugs.26/&prefix_id=4": {
@@ -12636,8 +12636,32 @@
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=3": {
-    "title": "Extus, oriq overlord//Awaken the blood avatar in the command zone",
+    "title": "Dress Down/Archon of Emeria",
     "url": "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=3",
+    "status": "Resolved",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/could-not-reproduce.59/&prefix_id=4": {
+    "title": "Freeform Commander: Companions Broken",
+    "url": "https://forums.mtgo.com/index.php?forums/could-not-reproduce.59/&prefix_id=4",
+    "status": "No Fix Planned",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=4": {
+    "title": "Not all cards with {E} show up when searched for",
+    "url": "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=4",
+    "status": "No Fix Planned",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=6": {
+    "title": "Snow auras in the M15 card frame display incorrectly",
+    "url": "https://forums.mtgo.com/index.php?forums/confirmed-bugs-in-progress.52/&prefix_id=6",
+    "status": "Backlog",
+    "tracked": false
+  },
+  "https://forums.mtgo.com/index.php?forums/no-game-id-more-info-requested.56/&prefix_id=3": {
+    "title": "Illusionist's Gambit not triggering second combat",
+    "url": "https://forums.mtgo.com/index.php?forums/no-game-id-more-info-requested.56/&prefix_id=3",
     "status": "Resolved",
     "tracked": false
   }
