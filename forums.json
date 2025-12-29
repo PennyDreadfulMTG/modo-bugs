@@ -9020,7 +9020,7 @@
   "https://forums.mtgo.com/index.php?threads/undoing-a-chromatic-star-causes-no-draw.2680/": {
     "title": "Undoing a chromatic star causes no draw",
     "url": "https://forums.mtgo.com/index.php?threads/undoing-a-chromatic-star-causes-no-draw.2680/",
-    "status": "Backlog",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/mtgo-card-bug-unbound-flourishing.2674/": {
@@ -10088,7 +10088,7 @@
   "https://forums.mtgo.com/index.php?threads/manamorphose-resolution-accepts-bad-inputs-leading-to-wrong-mana.3019/": {
     "title": "Manamorphose resolution accepts bad inputs leading to wrong mana",
     "url": "https://forums.mtgo.com/index.php?threads/manamorphose-resolution-accepts-bad-inputs-leading-to-wrong-mana.3019/",
-    "status": "Backlog",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/mercadian-atlas-doesnt-trigger.3015/": {
@@ -10142,7 +10142,7 @@
   "https://forums.mtgo.com/index.php?threads/frodo-determined-hero.2926/": {
     "title": "Frodo, Determined Hero",
     "url": "https://forums.mtgo.com/index.php?threads/frodo-determined-hero.2926/",
-    "status": "Backlog",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/league-match-just-concedes-randomly.2921/": {
@@ -10160,7 +10160,7 @@
   "https://forums.mtgo.com/index.php?threads/blim-comedic-genius-ability-is-bugged.2911/": {
     "title": "Blim Comedic Genius' ability is bugged",
     "url": "https://forums.mtgo.com/index.php?threads/blim-comedic-genius-ability-is-bugged.2911/",
-    "status": "Backlog",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/unbound-flourishing-termagaunt-swarm.2910/": {
@@ -11642,7 +11642,7 @@
   "https://forums.mtgo.com/index.php?threads/illusionists-gambit-doesnt-untap-attacking-creatures.3283/": {
     "title": "Illusionist's Gambit doesn't untap attacking creatures",
     "url": "https://forums.mtgo.com/index.php?threads/illusionists-gambit-doesnt-untap-attacking-creatures.3283/",
-    "status": "Backlog",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/bug-that-automaticaly-restart-game.3316/": {
@@ -11780,7 +11780,7 @@
   "https://forums.mtgo.com/index.php?threads/bug-frodo-determined-hero.3368/": {
     "title": "Bug Frodo, Determined Hero",
     "url": "https://forums.mtgo.com/index.php?threads/bug-frodo-determined-hero.3368/",
-    "status": "Backlog",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/word-of-command-does-nothing.3363/": {
@@ -12171,7 +12171,7 @@
     "title": "K'rrik, Son of Yawgmoth will pass priority if you have selected \"no possible play\" yield even if you have cards you could cast.",
     "url": "https://forums.mtgo.com/index.php?threads/krrik-son-of-yawgmoth-will-pass-priority-if-you-have-selected-no-possible-play-yield-even-if-you-have-cards-you-could-cast.3403/",
     "status": "Confirmed",
-    "tracked": false
+    "tracked": true
   },
   "https://forums.mtgo.com/index.php?threads/cant-properly-view-graveyard-exile-zones-%E2%80%93-major-visibility-bug.3400/": {
     "title": "Can't Properly View Graveyard/Exile Zones \u2013 Major Visibility Bug",
@@ -12500,7 +12500,7 @@
   "https://forums.mtgo.com/index.php?threads/famished-worldsire-instantly-dies-if-cheated-into-play.3499/": {
     "title": "Famished Worldsire instantly dies if cheated into play",
     "url": "https://forums.mtgo.com/index.php?threads/famished-worldsire-instantly-dies-if-cheated-into-play.3499/",
-    "status": "Backlog",
+    "status": "Resolved",
     "tracked": false
   },
   "https://forums.mtgo.com/index.php?threads/weatherseed-totems-triggered-ability-doesnt-work.3493/": {
