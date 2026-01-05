@@ -3,7 +3,7 @@
     "card": "Venerated Rotpriest",
     "description": "Targeting Venerated Rotpriest with a storm spell when it's the only legal target in play will not cause it to trigger off storm copies",
     "category": "Disadvantageous",
-    "last_updated": "2025-12-22 13:00:42",
+    "last_updated": "2025-12-29 13:00:31",
     "issue_number": 1148,
     "pd_legal": true,
     "bug_blog": false,
@@ -593,7 +593,7 @@
     "card": "Selvala, Explorer Returned",
     "description": "Selvala, Explorer Returned's ability can only be activated at instant speed",
     "category": "Disadvantageous",
-    "last_updated": "2025-11-10 13:05:36",
+    "last_updated": "2025-12-29 13:02:23",
     "issue_number": 1045,
     "pd_legal": true,
     "bug_blog": false,
@@ -2269,7 +2269,7 @@
     "card": "Zhur-Taa Druid",
     "description": "Zhur-Taa Druid does not deal damage when tapped for its ability",
     "category": "Advantageous",
-    "last_updated": "2025-06-24 16:26:21",
+    "last_updated": "2025-12-29 13:04:04",
     "issue_number": 863,
     "pd_legal": true,
     "bug_blog": false,
@@ -2277,14 +2277,13 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/863",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Damping Engine",
     "description": "Damping Engine activated ability is broken. Sacrificing a permanent pops up another trigger to sac another permanent.",
     "category": "Advantageous",
-    "last_updated": "2024-09-13 22:52:59",
+    "last_updated": "2025-12-29 13:04:04",
     "issue_number": 862,
     "pd_legal": false,
     "bug_blog": false,
@@ -2292,8 +2291,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/862",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Omen Machine",
@@ -2701,7 +2699,7 @@
     "card": "Mist of Stagnation",
     "description": "Mist of Stagnation doesn't allow players to choose untapped permanents, will soft-lock the game if there are not enough tapped permanents in the field to fulfil the requirements, and in random cases requires less number of tapped permanents than what should normally be required",
     "category": "Game Breaking",
-    "last_updated": "2024-09-13 22:53:10",
+    "last_updated": "2025-12-29 13:04:18",
     "issue_number": 790,
     "pd_legal": false,
     "bug_blog": false,
@@ -2709,8 +2707,7 @@
     "bannable": true,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/790",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Repudiate // Replicate",
@@ -2746,7 +2743,7 @@
     "card": "Enduring Renewal",
     "description": "Enduring Renewal prevents losing to decking",
     "category": "Advantageous",
-    "last_updated": "2025-11-10 13:07:41",
+    "last_updated": "2025-12-29 13:04:19",
     "issue_number": 770,
     "pd_legal": false,
     "bug_blog": false,
@@ -3090,7 +3087,7 @@
     "card": "Pollen Lullaby",
     "description": "Pollen Lullaby does not display the rules text stating that the creature doesn't untap.",
     "category": "Graphical",
-    "last_updated": "2024-09-13 22:53:21",
+    "last_updated": "2025-12-29 13:04:32",
     "issue_number": 654,
     "pd_legal": false,
     "bug_blog": false,
@@ -3098,8 +3095,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/654",
     "support_thread": null,
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Porphyry Nodes",
@@ -3225,7 +3221,7 @@
     "card": "Release the Ants",
     "description": "If a player has no cards left in their library, both players will lose a clash from cards such as Release the Ants.",
     "category": "Unclassified",
-    "last_updated": "2025-11-10 13:08:09",
+    "last_updated": "2025-12-29 13:04:45",
     "issue_number": 597,
     "pd_legal": true,
     "bug_blog": false,
@@ -3239,7 +3235,7 @@
     "card": "Umbral Mantle",
     "description": "When you untap a mana-producing creature as part of cost to activate an ability, MTGO wrongly allows you to tap that creature for mana in the middle of paying the cost",
     "category": "Advantageous",
-    "last_updated": "2025-12-01 21:40:51",
+    "last_updated": "2025-12-29 13:04:46",
     "issue_number": 594,
     "pd_legal": true,
     "bug_blog": false,
@@ -3328,7 +3324,7 @@
     "card": "Platinum Emperion",
     "description": "If you control Platinum Emperion you cannot even pay 0 life for costs.",
     "category": "Disadvantageous",
-    "last_updated": "2025-11-10 13:08:10",
+    "last_updated": "2025-12-29 13:04:47",
     "issue_number": 539,
     "pd_legal": false,
     "bug_blog": false,
@@ -4455,7 +4451,7 @@
     "card": "Reflecting Pool",
     "description": "Reflecting Pool does not get the ability to add any color of mana to your mana pool from Crumbling Vestige or Tainted Lands.",
     "category": "Disadvantageous",
-    "last_updated": "2024-09-14 05:06:30",
+    "last_updated": "2025-12-29 13:05:50",
     "issue_number": 44,
     "pd_legal": true,
     "bug_blog": false,
@@ -4463,8 +4459,7 @@
     "bannable": false,
     "url": "https://github.com/PennyDreadfulMTG/modo-bugs/issues/44",
     "support_thread": "https://forums.mtgo.com/index.php?threads/reflecting-pool-and-tainted-lands.1543/",
-    "last_verified": null,
-    "help_wanted": true
+    "last_verified": null
   },
   {
     "card": "Whims of the Fates",
